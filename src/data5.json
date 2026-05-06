@@ -462,6 +462,20 @@
     "cover":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_Bild_146-1985-074-27%2C_Hilfskreuzer_Kormoran.jpg"
   },
   {
+    "id": "cl-konigsberg",
+    "name": "柯尼斯堡号轻巡洋舰 (Königsberg)",
+    "faction": "Germany",
+    "type": "轻巡洋舰",
+    "coordinates": [60.399, 5.317],
+    "sinkingDate": "1940-04-10",
+    "cause": "在入侵挪威时停泊于卑尔根港，遭到英国皇家海军航空兵 16 架‘贼鸥’(Skua) 式俯冲轰炸机的突袭。身中三枚炸弹并近失数枚，引发大火和进水，随后在港口内倾覆沉没",
+    "depth": "浅水坐沉 (1942年被打捞作为防空浮台，战后拆解)",
+    "historyNotes": "历史地位极其特殊：它是人类战争史上第一艘在实战中被俯冲轰炸机直接击沉的主力军舰。这次攻击证明了航空兵对水面舰艇的致命威胁，拉开了二战‘海空战’的序幕。",
+    "battle": "挪威战役 (威悉演习行动)",
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/40/K%C3%B6nigsberg_3.jpg"
+  },
+  {
     "id": "info-atlantic-graveyard",
     "name": "大西洋海战：未被标记的钢铁墓地 (The Unmapped Graveyard)",
     "faction": "All",

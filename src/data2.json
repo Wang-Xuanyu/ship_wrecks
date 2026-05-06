@@ -880,5 +880,61 @@
     "battle": "吕宋岛战役 (拦截战)",
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
     "cover":null
+  },
+  {
+    "id": "dd-416-walke",
+    "name": "沃尔克号驱逐舰 (USS Walke DD-416)",
+    "faction": "US",
+    "type": "驱逐舰",
+    "coordinates": [-9.200, 159.866],
+    "sinkingDate": "1942-11-15",
+    "cause": "在瓜岛夜战中，遭到日军长矛鱼雷命中右舷，同时被日舰密集的交叉火力打成重伤。舰艏被炸断后迅速沉没，沉没时舰上的深水炸弹发生了惨烈的连环殉爆",
+    "depth": "约 900 米",
+    "historyNotes": "西姆斯级驱逐舰。在掩护华盛顿号和南达科他号战列舰时首当其冲。包括舰长在内的 82 名官兵阵亡，许多落水水兵被自己战舰未解保险的深水炸弹炸死。",
+    "battle": "瓜达尔卡纳尔海战",
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/26/USSWalkeDD416_h97912.jpg"
+  },
+  {
+    "id": "dd-379-preston",
+    "name": "普雷斯顿号驱逐舰 (USS Preston DD-379)",
+    "faction": "US",
+    "type": "驱逐舰",
+    "coordinates": [-9.183, 159.850],
+    "sinkingDate": "1942-11-15",
+    "cause": "遭到日本轻巡洋舰长良号和多艘驱逐舰的集火射击，两座锅炉舱被直接命中，全舰失去动力并燃起大火，被下令弃舰后翻覆沉没",
+    "depth": "约 600 米",
+    "historyNotes": "马汉级驱逐舰。它与沃尔克号一起，在开战初期的混乱中吸引了日军绝大部分的火力，但也为后方的美军战列舰争取了极其宝贵的雷达锁定时间。",
+    "battle": "瓜达尔卡纳尔海战",
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Uss_Preston_DD-379.jpg"
+  },
+  {
+    "id": "dd-397-benham",
+    "name": "本汉姆号驱逐舰 (USS Benham DD-397)",
+    "faction": "US",
+    "type": "驱逐舰",
+    "coordinates": [-9.250, 159.816],
+    "sinkingDate": "1942-11-15",
+    "cause": "在夜战中被一枚日军鱼雷命中舰艏（很可能来自绫波号），虽然坚持到了天亮并试图向南撤退，但在下午因船体结构彻底撕裂，被友军格温号（USS Gwin）驱逐舰发射火炮击沉处理",
+    "depth": "未知 (铁底湾边缘水域)",
+    "historyNotes": "本汉姆级驱逐舰首舰。尽管受损极其严重，但它的船员表现出了惊人的损管能力，不仅在夜战中幸存，全舰船员也基本都在弃舰时被安全转移。",
+    "battle": "瓜达尔卡纳尔海战",
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/USS_Benham_%28DD-397%29_anchored_off_New_York_City_%28USA%29%2C_in_1939_%28NH_81173%29.jpg/3840px-USS_Benham_%28DD-397%29_anchored_off_New_York_City_%28USA%29%2C_in_1939_%28NH_81173%29.jpg"
+  },
+  {
+    "id": "dd-ayanami",
+    "name": "绫波号驱逐舰 (IJN Ayanami)",
+    "faction": "Japan",
+    "type": "特型驱逐舰 (吹雪型)",
+    "coordinates": [-9.166, 159.866],
+    "sinkingDate": "1942-11-15",
+    "cause": "利用夜色单舰突入美军舰队，在重创美军驱逐舰后，暴露了自身位置。遭到美军‘华盛顿号’战列舰雷达火控下的 16 英寸主炮和 5 英寸副炮的毁灭性打击，起火失去动力后自沉",
+    "depth": "约 900 米",
+    "historyNotes": "被称为‘黑豹’的传奇战舰。当晚它独自从萨沃岛另一侧包抄，如同刺客般对美军驱逐舰编队造成了灾难性的打击。它的残骸在 1992 年被罗伯特·巴拉德发现，船体已经被战列舰的重炮轰得支离破碎。",
+    "battle": "瓜达尔卡纳尔海战",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ayanami_II.jpg"
   }
 ]
