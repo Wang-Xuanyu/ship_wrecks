@@ -924,6 +924,20 @@
     "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/USS_Benham_%28DD-397%29_anchored_off_New_York_City_%28USA%29%2C_in_1939_%28NH_81173%29.jpg/3840px-USS_Benham_%28DD-397%29_anchored_off_New_York_City_%28USA%29%2C_in_1939_%28NH_81173%29.jpg"
   },
   {
+    "id": "ca-kinugasa",
+    "name": "衣笠号重巡洋舰 (Kinugasa)",
+    "faction": "Japan",
+    "type": "重巡洋舰",
+    "coordinates": [-8.750, 157.000],
+    "sinkingDate": "1942-11-14",
+    "cause": "在瓜达尔卡纳尔海战中，遭到来自美军企业号航母 (USS Enterprise) 及瓜岛亨德森机场的 TBF 复仇者式鱼雷机与 SBD 无畏式俯冲轰炸机的连续空袭。舰桥被一枚 500 磅炸弹直接命中，导致舰长及多名高级军官阵亡，随后因多次近失弹导致船体破裂、严重进水而倾覆",
+    "depth": "未知 (新乔治亚湾深海)",
+    "historyNotes": "青叶级重巡洋舰。它曾在早期的萨沃岛夜战中大放异彩，重创过多艘盟军巡洋舰。但在瓜岛海战的白昼，失去空中掩护的它成为了美军舰载机的活靶子。它的沉没证明了在二战太平洋战场上，没有制空权的水面舰艇是何等脆弱。",
+    "battle": "瓜达尔卡纳尔海战",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Japanese_cruiser_Kinugasa.jpg/960px-Japanese_cruiser_Kinugasa.jpg"
+  },
+  {
     "id": "dd-ayanami",
     "name": "绫波号驱逐舰 (IJN Ayanami)",
     "faction": "Japan",
@@ -936,5 +950,47 @@
     "battle": "瓜达尔卡纳尔海战",
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ayanami_II.jpg"
+  },
+  {
+    "id": "dd-fubuki",
+    "name": "吹雪号驱逐舰 (IJN Fubuki)",
+    "faction": "Japan",
+    "type": "特型驱逐舰 (吹雪型首舰)",
+    "coordinates": [-9.100, 159.633],
+    "sinkingDate": "1942-10-11",
+    "cause": "在埃斯佩兰斯角夜战中，作为日军编队的先导舰，率先被美军巡洋舰的雷达锁定。遭到美军旧金山号、博伊西号等舰艇的集火射击，由于距离极近且火力密集，迅速被打成碎片并爆炸沉没",
+    "depth": "未知 (萨沃岛西北深海)",
+    "historyNotes": "具有划时代意义的‘特型驱逐舰’首舰。它的沉没标志着日军引以为傲的夜战优势在美军雷达技术面前开始动摇。当晚它几乎是单舰冲进了美军的‘T’字头阵位，结局极其惨烈。",
+    "battle": "埃斯佩兰斯海角海战",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fubuki.jpg/1920px-Fubuki.jpg"
+  },
+  {
+    "id": "dd-natsugumo",
+    "name": "夏云号驱逐舰 (IJN Natsugumo)",
+    "faction": "Japan",
+    "type": "驱逐舰 (朝潮型)",
+    "coordinates": [-8.667, 159.150],
+    "sinkingDate": "1942-10-12",
+    "cause": "海战次日，在护送受创的古鹰号和丛云号撤退时，遭到来自瓜岛亨德森机场的 SBD 无畏式俯冲轰炸机的轮番空袭。舰尾被近失弹重创导致锅炉舱进水，随后迅速倾覆沉没",
+    "depth": "未知",
+    "historyNotes": "朝潮型驱逐舰的一员。它并非沉于夜间炮战，而是死于白昼的航空追击。它的沉没反映了当时所罗门海域‘白昼属于美军航空兵，夜晚属于日军驱逐舰’的残酷现实。",
+    "battle": "埃斯佩兰斯海角海战",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Natsugumo.jpg"
+  },
+  {
+    "id": "dd-murakumo",
+    "name": "丛云号驱逐舰 (IJN Murakumo)",
+    "faction": "Japan",
+    "type": "特型驱逐舰 (吹雪型)",
+    "coordinates": [-8.667, 159.333],
+    "sinkingDate": "1942-10-12",
+    "cause": "海战当晚即被重创，次日撤退途中再次遭到美军航空兵连续空袭，彻底失去动力并燃起大火。由于无法拖带，由日军驱逐舰‘白雪号’发射鱼雷处分自沉",
+    "depth": "未知",
+    "historyNotes": "吹雪型驱逐舰的 5 号舰。在整场埃斯佩兰斯角海战中，它经历了从夜战炮火到白昼空袭的完整洗礼，最终因伤势过重被友军放弃。它的沉没点与夏云号非常接近。",
+    "battle": "埃斯佩兰斯海角海战",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Murakumo.jpg"
   }
 ]
