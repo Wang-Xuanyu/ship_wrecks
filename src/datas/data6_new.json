@@ -1,0 +1,772 @@
+[
+  {
+    "id": "bb-marat",
+    "name": {
+      "zh": "马拉号战列舰",
+      "en": "Soviet Battleship Marat"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [59.983, 29.766],
+    "sinkingDate": "1941-09-23",
+    "cause": {
+      "zh": "在喀琅施塔得港内遭到德国空军 Ju-87 斯图卡俯冲轰炸机（由著名飞行员汉斯-乌尔里希·鲁德尔驾驶）投下的 1000 公斤穿甲炸弹直接命中前弹药库，发生剧烈殉爆并首部沉没。",
+      "en": "While in the port of Kronstadt, she took a direct hit to her forward magazine from a 1,000 kg armor-piercing bomb dropped by a Luftwaffe Ju-87 Stuka (piloted by the famous Hans-Ulrich Rudel). She suffered a catastrophic magazine explosion and sank by the bow."
+    },
+    "depth": {
+      "zh": "港口浅水坐沉",
+      "en": "Settled in shallow port waters"
+    },
+    "historyNotes": {
+      "zh": "甘古特级战列舰。虽然舰艏和前主炮塔被炸飞并坐沉在浅水中，但苏联水兵没有放弃它。其剩余的后部主炮在整个列宁格勒保卫战期间，持续作为固定炮台为苏军提供火力支援。",
+      "en": "A Gangut-class battleship. Although her bow and forward turret were blown off and she settled in the shallow water, Soviet sailors did not abandon her. Her remaining aft turrets continued to provide fire support as a stationary battery throughout the Siege of Leningrad."
+    },
+    "battle": {
+      "zh": "列宁格勒保卫战",
+      "en": "Siege of Leningrad"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Marat1934Gdynia.jpg/1920px-Marat1934Gdynia.jpg"
+  },
+  {
+    "id": "transport-armenia",
+    "name": {
+      "zh": "亚美尼亚号医疗/运输船",
+      "en": "Soviet Hospital/Transport Ship Armenia"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "医疗船/运输船",
+      "en": "Hospital Ship / Transport"
+    },
+    "coordinates": [44.250, 34.280],
+    "sinkingDate": "1941-11-07",
+    "cause": {
+      "zh": "在撤离克里米亚半岛的伤员和难民时，在雅尔塔外海遭到德国空军 He 111 轰炸机的鱼雷攻击，在短短 4 分钟内迅速沉没。",
+      "en": "While evacuating wounded soldiers and refugees from the Crimean Peninsula, she was attacked by torpedoes from Luftwaffe He 111 bombers off the coast of Yalta, sinking rapidly in just 4 minutes."
+    },
+    "depth": {
+      "zh": "约 1500 米",
+      "en": "Approx. 1500 meters"
+    },
+    "historyNotes": {
+      "zh": "这是二战乃至人类航海史上最惨烈的海难之一。船上搭载了 5000 到 7000 名伤员、医护人员和难民，最终仅有极少数人获救。其残骸直到 2020 年才在克里米亚半岛海岸外被深海探险队发现。",
+      "en": "This is one of the most tragic maritime disasters in WWII and human maritime history. Carrying between 5,000 to 7,000 wounded, medical personnel, and refugees, only a tiny fraction survived. Her wreck was not discovered by deep-sea expeditions off the Crimean coast until 2020."
+    },
+    "battle": {
+      "zh": "克里米亚战役 (黑海撤退)",
+      "en": "Crimean Campaign (Black Sea Evacuation)"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": null
+  },
+  {
+    "id": "cl-chervona-ukraina",
+    "name": {
+      "zh": "红色乌克兰号轻巡洋舰",
+      "en": "Soviet Cruiser Chervona Ukraina"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [44.616, 33.533],
+    "sinkingDate": "1941-11-12",
+    "cause": {
+      "zh": "在塞瓦斯托波尔港内为陆军提供火力支援时，遭到德国空军俯冲轰炸机群的连续轰炸，身中数枚炸弹后沉没。",
+      "en": "While providing fire support for the army within the port of Sevastopol, she was continuously bombed by a group of Luftwaffe dive bombers, sinking after sustaining several bomb hits."
+    },
+    "depth": {
+      "zh": "浅水坐沉 (战后打捞拆解)",
+      "en": "Settled in shallow water (Refloated and scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "斯维特兰娜级轻巡洋舰，它是苏联在二战中损失的唯一一艘巡洋舰级别的军舰。即使在军舰沉没后，苏军也将其舰上的火炮拆卸下来搬到岸上，继续参与塞瓦斯托波尔要塞的血腥防守。",
+      "en": "A Svetlana-class light cruiser, she was the only cruiser-class warship lost by the Soviet Union during WWII. Even after the ship sank, Soviet forces removed her guns and mounted them ashore to continue participating in the bloody defense of the Sevastopol fortress."
+    },
+    "battle": {
+      "zh": "塞瓦斯托波尔围城战",
+      "en": "Siege of Sevastopol"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/aa/Krasnaya_Ukraina.jpg"
+  },
+  {
+    "id": "dd-tashkent",
+    "name": {
+      "zh": "塔什干号驱逐领舰",
+      "en": "Soviet Destroyer Leader Tashkent"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "驱逐领舰",
+      "en": "Destroyer Leader"
+    },
+    "coordinates": [44.716, 37.783],
+    "sinkingDate": "1942-07-02",
+    "cause": {
+      "zh": "在完成最后一次极其艰难的撤退任务，满载伤员突围到达新罗西斯克港后，遭到德国空军的密集轰炸而沉没。",
+      "en": "After completing a final, extremely arduous evacuation mission and breaking through to the port of Novorossiysk fully loaded with wounded, she was subjected to intense bombing by the Luftwaffe and sank."
+    },
+    "depth": {
+      "zh": "港口浅水 (战后打捞拆解)",
+      "en": "Shallow port waters (Refloated and scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "由于在意大利建造时涂装了特殊的蓝色防锈漆，被苏军士兵亲切地称为“蓝色巡洋舰”。它在极其危险的黑海航线上多次突破德军封锁，向被围困的塞瓦斯托波尔运送补给并撤出数千名伤员，是黑海舰队最具传奇色彩的英雄舰艇。",
+      "en": "Affectionately called 'The Blue Cruiser' by Soviet soldiers due to the special blue anti-rust paint applied when she was built in Italy. She repeatedly broke through German blockades on the perilous Black Sea routes, delivering supplies to besieged Sevastopol and evacuating thousands of wounded, making her the most legendary hero ship of the Black Sea Fleet."
+    },
+    "battle": {
+      "zh": "黑海护航与撤退",
+      "en": "Black Sea Convoys and Evacuations"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tashkent1937.jpg/960px-Tashkent1937.jpg"
+  },
+  {
+    "id": "dd-yakov-sverdlov",
+    "name": {
+      "zh": "雅科夫·斯维尔德洛夫号驱逐舰",
+      "en": "Soviet Destroyer Yakov Sverdlov"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [59.766, 25.716],
+    "sinkingDate": "1941-08-28",
+    "cause": {
+      "zh": "在塔林大撤退期间，为舰队主力开辟航道时不幸触发水雷，舰体断成两截后迅速沉没。",
+      "en": "During the Soviet evacuation of Tallinn, she unfortunately struck a mine while clearing a channel for the main fleet. Her hull broke in two and she sank rapidly."
+    },
+    "depth": {
+      "zh": "约 80 米",
+      "en": "Approx. 80 meters"
+    },
+    "historyNotes": {
+      "zh": "著名的诺维克级驱逐舰老兵。在极其混乱的雷区中，它承担了最危险的扫雷和护航任务。舰上 114 名官兵阵亡。残骸于 2018 年在芬兰湾被俄罗斯探险队发现。",
+      "en": "A famous veteran of the Novik-class destroyers. In an extremely chaotic minefield, she took on the most dangerous minesweeping and escort duties. 114 officers and men perished. Her wreck was discovered by a Russian expedition in the Gulf of Finland in 2018."
+    },
+    "battle": {
+      "zh": "塔林大撤退",
+      "en": "Evacuation of Tallinn"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": null
+  },
+  {
+    "id": "transport-iosif-stalin",
+    "name": {
+      "zh": "约瑟夫·斯大林号客/运输船",
+      "en": "Soviet Transport Iosif Stalin (VT-501)"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport Ship"
+    },
+    "coordinates": [59.950, 25.150],
+    "sinkingDate": "1941-12-03",
+    "cause": {
+      "zh": "在执行汉科半岛（Hanko）撤退任务时，连续触发三枚至四枚水雷失去动力，随后遭到芬兰海岸炮轰击，最终漂流搁浅并被俘获，战后被拆解。",
+      "en": "While executing the evacuation of the Hanko Peninsula, she hit three to four mines consecutively and lost power. She was subsequently shelled by Finnish coastal artillery, eventually drifting aground and being captured. Scrapped post-war."
+    },
+    "depth": {
+      "zh": "浅水搁浅",
+      "en": "Drifted aground in shallow water"
+    },
+    "historyNotes": {
+      "zh": "当时苏联最豪华的客轮之一。船上挤满了超过 5000 名撤退的苏军官兵。触雷导致了极其惨重的伤亡（约 4000 人丧生），被芬兰军队俘获的幸存者大部分在战俘营中死去。这是波罗的海最悲惨的海难之一。",
+      "en": "One of the most luxurious Soviet passenger liners of the time. The ship was packed with over 5,000 retreating Soviet troops. Striking the mines caused catastrophic casualties (around 4,000 deaths), and most of the survivors captured by Finnish forces died in POW camps. This remains one of the most tragic maritime disasters in the Baltic Sea."
+    },
+    "battle": {
+      "zh": "汉科半岛撤退",
+      "en": "Evacuation of Hanko"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bundesarchiv_Bild_101II-MN-2787-30%2C_Baltikum%2C_gesunkenes_russisches_Schiff.jpg"
+  },
+  {
+    "id": "sub-shch-305",
+    "name": {
+      "zh": "ShCh-305 号潜艇",
+      "en": "Soviet Submarine ShCh-305 (Shchuka-305)"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "X型潜艇 (狗鱼级)",
+      "en": "Type X Submarine (Shchuka-class/Pike-class)"
+    },
+    "coordinates": [59.883, 19.150],
+    "sinkingDate": "1942-11-05",
+    "cause": {
+      "zh": "在奥兰海（Åland Sea）夜间水面航行充电时，被芬兰海军的‘水妖号’（Vetehinen）潜艇发现。芬兰潜艇在发射鱼雷未果后，直接全速撞击了它的舰体，导致其迅速沉没。",
+      "en": "Discovered by the Finnish submarine Vetehinen while surfaced at night to recharge batteries in the Åland Sea. After a failed torpedo attack, the Finnish submarine rammed her hull at full speed, causing her to sink rapidly."
+    },
+    "depth": {
+      "zh": "约 136 米",
+      "en": "Approx. 136 meters"
+    },
+    "historyNotes": {
+      "zh": "这是海战史上非常罕见的‘潜艇撞击潜艇’并导致一方沉没的战例。全舰 38 名官兵阵亡。残骸于 2006 年被瑞典和芬兰的联合探险队发现，舰体上的巨大撞击裂口依然清晰可见。",
+      "en": "This is a very rare case in naval history of 'submarine ramming submarine' resulting in the sinking of one party. All 38 crew members perished. Her wreck was discovered in 2006 by a joint Swedish-Finnish expedition, with the massive ramming gash still clearly visible on her hull."
+    },
+    "battle": {
+      "zh": "波罗的海潜艇战",
+      "en": "Baltic Sea Submarine Warfare"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": null
+  },
+  {
+    "id": "cl-komintern",
+    "name": {
+      "zh": "共产国际号轻巡洋舰",
+      "en": "Soviet Cruiser Komintern"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [42.155, 41.650],
+    "sinkingDate": "1942-10-10",
+    "cause": {
+      "zh": "在黑海多次遭到德国空军轰炸重创，失去维修价值后，被拖至格鲁吉亚的波季港（Poti）河口凿沉，作为防波堤使用。",
+      "en": "Severely damaged by repeated Luftwaffe bombings in the Black Sea. After losing repair value, she was towed to the mouth of the river at Poti, Georgia, and scuttled to serve as a breakwater."
+    },
+    "depth": {
+      "zh": "极浅 (作为防波堤)",
+      "en": "Extremely shallow (serving as a breakwater)"
+    },
+    "historyNotes": {
+      "zh": "这是一艘早在沙俄时期（1905年）就下水的老舰（原名‘卡古尔号’）。虽然它没有在炮火交加中沉入深海，但它作为防波堤的结局，完美缩影了苏联黑海舰队在丧失制空权后，利用一切资源死守最后港口的悲壮历史。",
+      "en": "An elderly vessel launched back in the Tsarist era (1905, originally named Kagul). Though she did not sink into the deep sea under fire, her fate as a breakwater perfectly epitomizes the tragic history of the Soviet Black Sea Fleet utilizing every available resource to defend their last remaining ports after losing air superiority."
+    },
+    "battle": {
+      "zh": "黑海防御战",
+      "en": "Defense of the Black Sea"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/da/Komintern1941.jpg"
+  },
+  {
+    "id": "av-akitsushima",
+    "name": {
+      "zh": "秋津洲号水上飞机母舰",
+      "en": "IJN Akitsushima"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "水上飞机母舰",
+      "en": "Seaplane Tender"
+    },
+    "coordinates": [11.975, 119.965],
+    "sinkingDate": "1944-09-24",
+    "cause": {
+      "zh": "在科隆湾躲避美军空袭时，遭到美国第 38 特遣舰队舰载机轰炸，直接命中后部并引爆航空燃油，随后向左舷倾覆沉没。",
+      "en": "While evading U.S. air strikes in Coron Bay, she was bombed by carrier aircraft from Task Force 38. A direct hit to her aft section ignited aviation fuel, causing her to capsize to port and sink."
+    },
+    "depth": {
+      "zh": "约 35 米",
+      "en": "Approx. 35 meters"
+    },
+    "historyNotes": {
+      "zh": "科隆湾最著名的沉船之一。舰体上极其庞大的水上飞机起重吊车至今仍完好地横躺在海底泥床上。",
+      "en": "One of the most famous wrecks in Coron Bay. Her massive seaplane crane remains remarkably intact, lying horizontally on the silty seabed."
+    },
+    "battle": {
+      "zh": "科隆湾空袭",
+      "en": "Coron Bay Air Raid"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Japanese_seaplane_carrier_Akitsushima.jpg/960px-Japanese_seaplane_carrier_Akitsushima.jpg"
+  },
+  {
+    "id": "ak-irako",
+    "name": {
+      "zh": "伊良湖号给粮舰",
+      "en": "IJN Irako"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "冷藏补给舰",
+      "en": "Provision Ship / Supply Ship"
+    },
+    "coordinates": [11.981, 119.983],
+    "sinkingDate": "1944-09-24",
+    "cause": {
+      "zh": "在科隆湾被美军舰载机炸弹击中舰桥和船舯部，受重创后下沉。",
+      "en": "Struck by bombs on her bridge and amidships by U.S. carrier aircraft in Coron Bay, sinking after sustaining heavy damage."
+    },
+    "depth": {
+      "zh": "约 43 米",
+      "en": "Approx. 43 meters"
+    },
+    "historyNotes": {
+      "zh": "当时日本海军极其罕见且先进的专用冷藏运粮船，负责为联合舰队提供新鲜肉类和蔬菜。现在是科隆湾水下能见度最好、结构最完整的沉船之一。",
+      "en": "A rare and advanced refrigerated supply vessel for the Imperial Japanese Navy at the time, responsible for providing fresh meat and vegetables to the Combined Fleet. It is now one of the most intact wrecks with the best visibility in Coron Bay."
+    },
+    "battle": {
+      "zh": "科隆湾空袭",
+      "en": "Coron Bay Air Raid"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Japanese_supply_ship_Irako_1944.jpg/1920px-Japanese_supply_ship_Irako_1944.jpg"
+  },
+  {
+    "id": "ao-okikawa-maru",
+    "name": {
+      "zh": "兴川丸",
+      "en": "Okikawa Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "舰队油船",
+      "en": "Fleet Oiler"
+    },
+    "coordinates": [12.016, 119.982],
+    "sinkingDate": "1944-09-24",
+    "cause": {
+      "zh": "遭到美军 70 多架次飞机的轮番扫射和轰炸，船艏被炸断后燃烧沉没。",
+      "en": "Subjected to waves of strafing and bombing from over 70 U.S. aircraft; her bow was severed, and she sank while engulfed in flames."
+    },
+    "depth": {
+      "zh": "约 26 米",
+      "en": "Approx. 26 meters"
+    },
+    "historyNotes": {
+      "zh": "科隆湾体积最大的沉船（长达 168 米）。由于深度较浅，其宽阔的甲板现在被极其茂密的珊瑚覆盖，成为了海洋生物的天堂。",
+      "en": "The largest wreck in Coron Bay by volume (168 meters long). Due to its shallow depth, the vast decks are now covered in dense coral growth, making it a haven for marine life."
+    },
+    "battle": {
+      "zh": "科隆湾空袭",
+      "en": "Coron Bay Air Raid"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "ak-fujikawa-maru",
+    "name": {
+      "zh": "富士川丸",
+      "en": "Fujikawa Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "特设航空机搬运舰",
+      "en": "Aircraft Transport (Converted)"
+    },
+    "coordinates": [7.352, 151.890],
+    "sinkingDate": "1944-02-18",
+    "cause": {
+      "zh": "在特鲁克潟湖内被美军鱼雷机击中舰良部后沉没。",
+      "en": "Sunk in Truk Lagoon after being struck amidships by a torpedo from a U.S. torpedo bomber."
+    },
+    "depth": {
+      "zh": "约 34 米",
+      "en": "Approx. 34 meters"
+    },
+    "historyNotes": {
+      "zh": "特鲁克潟湖最具代表性的沉船。它的前部 2 号货舱里至今还整齐地码放着大量未拆箱的零式战斗机机身、机翼和航空机枪残骸。",
+      "en": "The most iconic wreck in Truk Lagoon. Her forward No. 2 cargo hold still contains rows of unassembled Zero fighter fuselages, wings, and aircraft machine gun remains."
+    },
+    "battle": {
+      "zh": "冰雹行动 (特鲁克空袭)",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fujikawa_maru.jpg/1920px-Fujikawa_maru.jpg"
+  },
+  {
+    "id": "ak-san-francisco-maru",
+    "name": {
+      "zh": "旧金山丸",
+      "en": "San Francisco Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport Ship"
+    },
+    "coordinates": [7.362, 151.895],
+    "sinkingDate": "1944-02-18",
+    "cause": {
+      "zh": "被美军俯冲轰炸机投下的 500 磅炸弹击中引爆，燃起大火后沉没。",
+      "en": "Struck by 500-pound bombs dropped by U.S. dive bombers. The explosions ignited massive fires, causing her to sink."
+    },
+    "depth": {
+      "zh": "约 63 米",
+      "en": "Approx. 63 meters"
+    },
+    "historyNotes": {
+      "zh": "在潜水界被称为‘百万美元沉船’。由于深度较大，未受台风破坏。它的主甲板上至今停放着三辆极其罕见的日本 95 式轻型坦克，货舱里装满了卡车、航空炸弹和水雷。",
+      "en": "Known in the diving community as 'The Million Dollar Wreck'. Due to her depth, she remains undamaged by typhoons. Three extremely rare Japanese Type 95 Ha-Go light tanks still rest on her main deck today, while her cargo holds are packed with trucks, aerial bombs, and mines."
+    },
+    "battle": {
+      "zh": "冰雹行动 (特鲁克空袭)",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "as-heian-maru",
+    "name": {
+      "zh": "平安丸",
+      "en": "Heian Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "潜艇母舰",
+      "en": "Submarine Tender"
+    },
+    "coordinates": [7.383, 151.825],
+    "sinkingDate": "1944-02-18",
+    "cause": {
+      "zh": "连续遭到美军轰炸机和鱼雷机打击，燃起大火后向左倾覆沉没。",
+      "en": "Repeatedly hit by U.S. bombers and torpedo planes. She caught massive fires and capsized to port before sinking."
+    },
+    "depth": {
+      "zh": "约 34 米",
+      "en": "Approx. 34 meters"
+    },
+    "historyNotes": {
+      "zh": "特鲁克潟湖内吨位最大的沉船（近 12000 吨）。原为日本邮船株式会社的豪华客轮。船首巨大的‘平安丸’三个汉字至今在水下清晰可见，其货舱内散落着大量 93 式长矛鱼雷和潜艇潜望镜。",
+      "en": "The largest wreck by tonnage in Truk Lagoon (nearly 12,000 tons). Originally a luxury passenger liner of the NYK Line. The massive kanji characters for 'Heian Maru' on her bow remain clearly visible underwater, and her cargo holds are scattered with Type 93 Long Lance torpedoes and submarine periscopes."
+    },
+    "battle": {
+      "zh": "冰雹行动 (特鲁克空袭)",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "ak-nippo-maru",
+    "name": {
+      "zh": "日丰丸",
+      "en": "Nippo Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "给水/运输船",
+      "en": "Water/Transport Ship"
+    },
+    "coordinates": [7.375, 151.848],
+    "sinkingDate": "1944-02-18",
+    "cause": {
+      "zh": "遭到美军 TBF 复仇者鱼雷机轰炸，舰尾受损进水沉没。",
+      "en": "Bombed by U.S. TBF Avenger torpedo planes. She sustained damage to her stern, took on water, and sank."
+    },
+    "depth": {
+      "zh": "约 46 米",
+      "en": "Approx. 46 meters"
+    },
+    "historyNotes": {
+      "zh": "船上满载了水、反坦克炮以及防毒面具。最引人注目的是其左舷甲板上完好地固定着一辆日本九五式小型乘用车（类似吉普车）。",
+      "en": "The ship was fully loaded with water, anti-tank guns, and gas masks. The most striking feature is a perfectly secured Japanese Type 95 small passenger car (similar to a Jeep) resting intact on her port deck."
+    },
+    "battle": {
+      "zh": "冰雹行动 (特鲁克空袭)",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "av-3-langley",
+    "name": {
+      "zh": "兰利号水上飞机母舰",
+      "en": "USS Langley (CV-1 / AV-3)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "水上飞机母舰 (原航空母舰)",
+      "en": "Seaplane Tender (ex-Aircraft Carrier)"
+    },
+    "coordinates": [-8.850, 109.033],
+    "sinkingDate": "1942-02-27",
+    "cause": {
+      "zh": "在向爪哇岛芝拉扎港（Cilacap）运送 32 架 P-40 战斗机途中，遭到日军 G4M“一式陆攻”和 G3M“九六式陆攻”轰炸机的轮番空袭。身中五枚炸弹失去动力，在严重左倾且无法扑灭大火的情况下，由护航的美国驱逐舰惠普尔号（USS Whipple）发射鱼雷和火炮击沉处理。",
+      "en": "While transporting 32 P-40 fighters to Cilacap, Java, she was repeatedly attacked by Japanese G4M 'Betty' and G3M 'Nell' bombers. After taking five bomb hits and losing power, suffering a severe list to port, and being unable to extinguish the fires, she was scuttled by torpedoes and gunfire from her escort, the destroyer USS Whipple."
+    },
+    "depth": {
+      "zh": "约 4000 米 (残骸尚未被精准定位)",
+      "en": "Approx. 4000 meters (Wreck not yet precisely located)"
+    },
+    "historyNotes": {
+      "zh": "具有极其特殊的历史地位：美国海军历史上的第一艘航空母舰。它不仅是美国航母战术的摇篮，它的沉没也标志着盟军在二战初期防御荷属东印度群岛（ABDA舰队）时绝望的挣扎。沉没时，甲板上极其宝贵的数十架 P-40 战斗机也随之沉入海底。",
+      "en": "Holds a highly unique historical status: she was the first aircraft carrier in U.S. Navy history. Not only was she the cradle of American carrier tactics, but her sinking also marked the desperate struggles of the Allies defending the Dutch East Indies (ABDA fleet) early in WWII. When she sank, the dozens of invaluable P-40 fighters on her deck went down with her."
+    },
+    "battle": {
+      "zh": "爪哇海战役 (荷属东印度群岛防御战)",
+      "en": "Java Sea Campaign (Defense of the Dutch East Indies)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6f/USS_Langley_%28CV-1%29_and_USS_Somers_%28DD-301%29_underway_off_San_Diego%2C_in_1928_%28NH_81279%29.jpg"
+  },
+  {
+    "id": "mv-wilhelm-gustloff",
+    "name": {
+      "zh": "威廉·古斯特洛夫号",
+      "en": "MV Wilhelm Gustloff"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "武装客轮 / 难民运输船",
+      "en": "Armed Passenger Liner / Refugee Transport"
+    },
+    "coordinates": [55.072, 17.421],
+    "sinkingDate": "1945-01-30",
+    "cause": {
+      "zh": "在执行‘汉尼拔行动’（撤离东普鲁士难民和军人）时，在波罗的海遭到苏联潜艇 S-13 发射的三枚鱼雷命中，在冰冷的海水中仅 40 分钟便沉没。",
+      "en": "While executing Operation Hannibal (the evacuation of East Prussian refugees and military personnel), she was hit by three torpedoes fired by the Soviet submarine S-13 in the Baltic Sea, sinking in the freezing water in just 40 minutes."
+    },
+    "depth": {
+      "zh": "约 44 米",
+      "en": "Approx. 44 meters"
+    },
+    "historyNotes": {
+      "zh": "人类航海史上最惨烈的单船海难。船上挤满了逃避苏联红军的德国平民、伤兵和潜艇训练兵。据估计，超过 9000 人在极寒的冰水和混乱中丧生。其残骸现被波兰政府指定为战争公墓，严禁潜水。",
+      "en": "The deadliest single-ship maritime disaster in human history. The ship was heavily overcrowded with German civilians, wounded soldiers, and submarine trainees fleeing the advancing Soviet Red Army. It is estimated that over 9,000 people perished in the freezing waters and chaos. Her wreck is now designated as a war grave by the Polish government, and diving is strictly prohibited."
+    },
+    "battle": {
+      "zh": "汉尼拔行动 (波罗的海撤退)",
+      "en": "Operation Hannibal (Baltic Evacuation)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bundesarchiv_Bild_183-H27992%2C_Lazarettschiff_%22Wilhelm_Gustloff%22_in_Danzig.jpg"
+  },
+  {
+    "id": "hs-centaur",
+    "name": {
+      "zh": "半人马座号医疗船",
+      "en": "AHS Centaur"
+    },
+    "faction": {
+      "zh": "澳大利亚",
+      "en": "Australia"
+    },
+    "type": {
+      "zh": "医疗船",
+      "en": "Hospital Ship"
+    },
+    "coordinates": [-27.283, 153.966],
+    "sinkingDate": "1943-05-14",
+    "cause": {
+      "zh": "在完全亮起红十字医疗标志并在夜间开启照明的情况下，于澳大利亚昆士兰州外海遭到日本潜艇 I-177 的鱼雷偷袭，在不到 3 分钟内迅速沉没。",
+      "en": "Despite being fully marked with Red Cross symbols and brilliantly illuminated at night, she was sneak-attacked by a torpedo from the Japanese submarine I-177 off the coast of Queensland, Australia, sinking rapidly in less than 3 minutes."
+    },
+    "depth": {
+      "zh": "约 2059 米",
+      "en": "Approx. 2059 meters"
+    },
+    "historyNotes": {
+      "zh": "二战中最臭名昭著的战争罪行之一。船上 332 名医护人员和船员中仅有 64 人幸存。这件事在澳大利亚引发了极大的震动和愤怒。其残骸在 2009 年才被大卫·梅恩斯带领的深海探险队发现。",
+      "en": "One of the most infamous war crimes of WWII. Of the 332 medical personnel and crew aboard, only 64 survived. The incident caused massive shock and outrage in Australia. Her wreck was finally discovered in 2009 by a deep-sea expedition led by David Mearns."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (澳大利亚东海岸)",
+      "en": "Pacific Submarine Warfare (Australian East Coast)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/au.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AHS_Centaur_1944.jpg/1920px-AHS_Centaur_1944.jpg"
+  },
+  {
+    "id": "ss-thistlegorm",
+    "name": {
+      "zh": "西斯特格姆号",
+      "en": "SS Thistlegorm"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装商船 (军用物资运输)",
+      "en": "Armed Merchantman (Military Cargo)"
+    },
+    "coordinates": [27.814, 33.920],
+    "sinkingDate": "1941-10-06",
+    "cause": {
+      "zh": "在红海锚泊等待通过苏伊士运河时，遭到从克里特岛起飞的德国空军 He 111 轰炸机投下两枚炸弹命中弹药舱，引发极其剧烈的爆炸后断成两截沉没。",
+      "en": "While anchored in the Red Sea waiting to transit the Suez Canal, she was hit by two bombs in her ammunition hold from a Luftwaffe He 111 bomber launched from Crete. The resulting violent explosion broke the ship in two and she sank rapidly."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "全球最著名的沉船潜水胜地之一。它的货舱简直是一个被时间冻结的二战博物馆，至今里面还整齐地装满了诺顿摩托车、贝德福德卡车、布伦轻型装甲车、飞机机翼甚至两台蒸汽机车头。",
+      "en": "One of the most famous shipwreck diving sites in the world. Her cargo holds are essentially a WWII museum frozen in time, still packed with Norton motorcycles, Bedford trucks, Bren Gun Carriers, aircraft wings, and even two steam locomotives."
+    },
+    "battle": {
+      "zh": "北非战役 (红海补给线)",
+      "en": "North African Campaign (Red Sea Supply Line)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aft_view_Thistlegorm.jpg/1920px-Aft_view_Thistlegorm.jpg"
+  },
+  {
+    "id": "ss-richard-montgomery",
+    "name": {
+      "zh": "理查德·蒙哥马利号",
+      "en": "SS Richard Montgomery"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "自由轮 (弹药运输船)",
+      "en": "Liberty Ship (Ammunition Transport)"
+    },
+    "coordinates": [51.466, 0.783],
+    "sinkingDate": "1944-08-20",
+    "cause": {
+      "zh": "在前往法国瑟堡运送弹药的途中，于英国泰晤士河口（Thames Estuary）的沙洲搁浅。随着退潮，不堪重负的船体从中间断裂并沉没。",
+      "en": "While carrying munitions to Cherbourg, France, she ran aground on a sandbank in the Thames Estuary. As the tide went out, the overloaded hull buckled, broke in half, and sank."
+    },
+    "depth": {
+      "zh": "约 15 米 (退潮时桅杆露出水面)",
+      "en": "Approx. 15 meters (masts visible above water at low tide)"
+    },
+    "historyNotes": {
+      "zh": "这可以说是当今世界上最危险的沉船。它依然携带着约 1400 吨的高爆炸药。如果发生爆炸，将产生巨大的海啸冲击伦敦。该遗址受到雷达的严密监控并被严格封锁。",
+      "en": "Arguably the most dangerous shipwreck in the world today. It still holds approximately 1,400 tons of high explosives. If detonated, it would create a massive tsunami hitting London. The site is heavily monitored by radar and strictly cordoned off."
+    },
+    "battle": {
+      "zh": "诺曼底战役后勤线",
+      "en": "Normandy Campaign Logistics"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Wreck_of_the_SS_Richard_Montgomery%2C_off_Sheerness_-_geograph.org.uk_-_4195096.jpg"
+  },
+  {
+    "id": "ss-u-864",
+    "name": {
+      "zh": "U-864 号潜艇",
+      "en": "German Submarine U-864"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "IXD2型 U型潜艇",
+      "en": "Type IXD2 U-boat"
+    },
+    "coordinates": [60.766, 4.616],
+    "sinkingDate": "1945-02-09",
+    "cause": {
+      "zh": "在前往日本运送喷气式飞机图纸和液态水银的途中，被埋伏的英国潜艇冒险者号 (HMS Venturer) 发现。英军潜艇在双方均处于潜航状态时，通过声呐盲射四枚鱼雷将其击沉。",
+      "en": "While en route to Japan with jet aircraft blueprints and liquid mercury, she was intercepted by the British submarine HMS Venturer. In the first and only time in history, one fully submerged submarine intentionally tracked and sank another fully submerged submarine using sonar-directed torpedoes."
+    },
+    "depth": {
+      "zh": "约 150 米",
+      "en": "Approx. 150 meters"
+    },
+    "historyNotes": {
+      "zh": "海军史上的传奇里程碑：这是历史上第一次也是唯一一次全潜航状态的潜艇通过声呐追踪并击沉另一艘全潜航潜艇。其携带的有毒水银货物至今仍是挪威海岸外的环境隐患。",
+      "en": "A legendary milestone in naval warfare: this is the first and only time in history that a fully submerged submarine intentionally tracked and sank another fully submerged submarine. The toxic mercury cargo remains an environmental hazard off the coast of Norway."
+    },
+    "battle": {
+      "zh": "北海潜艇战 (特种运输)",
+      "en": "North Sea Submarine Warfare (Special Transport)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null
+  },
+  {
+    "id": "ss-i-52",
+    "name": {
+      "zh": "伊-52 号潜艇",
+      "en": "Japanese Submarine I-52"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "丙型潜水舰 (特混运输)",
+      "en": "Type C3 Submarine (Yanagi Mission)"
+    },
+    "coordinates": [15.266, -39.916],
+    "sinkingDate": "1944-06-24",
+    "cause": {
+      "zh": "在执行‘遣德潜艇’任务时，于大西洋中部与德国潜艇会合后，遭到美国护航航母博格号 (USS Bogue) 上的复仇者式鱼雷机投下的新型‘菲多’ (Fido) 声导鱼雷击沉。",
+      "en": "During a 'Yanagi' mission, after rendezvous with a German U-boat in the mid-Atlantic, she was sunk by a 'Fido' acoustic homing torpedo dropped by an Avenger bomber from the escort carrier USS Bogue."
+    },
+    "depth": {
+      "zh": "约 5140 米",
+      "en": "Approx. 5140 meters"
+    },
+    "historyNotes": {
+      "zh": "被称为‘黄金潜艇’。它载有超过 2 吨金条准备前往德国，以换取先进的雷达和光学技术。1995 年在大西洋中部的极深处被发现，黄金至今仍长眠在黑暗的深渊中。",
+      "en": "Known as the 'Golden Submarine'. It was carrying over 2 tons of gold bars to Germany to pay for advanced radar and optical technology. Discovered in 1995 at an extreme depth in the mid-Atlantic, the gold still rests in the dark abyss."
+    },
+    "battle": {
+      "zh": "大西洋反潜战 (遣德航线)",
+      "en": "Battle of the Atlantic (Yanagi Mission)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4d/I-52-submarine.jpg"
+  }
+]

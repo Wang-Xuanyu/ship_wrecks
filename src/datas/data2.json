@@ -992,5 +992,61 @@
     "battle": "埃斯佩兰斯海角海战",
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Murakumo.jpg"
+  },
+  {
+    "id": "dd-yudachi",
+    "name": "夕立号驱逐舰 (IJN Yudachi)",
+    "faction": "Japan",
+    "type": "驱逐舰 (白露型)",
+    "coordinates": [-9.233, 159.866],
+    "sinkingDate": "1942-11-13",
+    "cause": "在夜战中疯狂穿插进美军编队中心，造成了极大的混乱。后被美军巡洋舰火炮击中失去动力。次日清晨，被美军重巡洋舰波特兰号（USS Portland）发现，波特兰号在受创状态下开火将其击沉",
+    "depth": "未知",
+    "historyNotes": "因其当晚肆无忌惮的疯狂穿插，被后世军迷戏称为‘所罗门疯狗’。它甚至升起了白帆充当临时风帆试图移动。次日波特兰号舰长下令开火时喊出的‘击沉那艘狗娘养的（Sink the S.O.B.）’成为了海军名言。",
+    "battle": "瓜达尔卡纳尔海战",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Yudachi_II.jpg"
+  },
+  {
+    "id": "dd-376-cushing",
+    "name": "库欣号驱逐舰 (USS Cushing DD-376)",
+    "faction": "US",
+    "type": "驱逐舰",
+    "coordinates": [-9.183, 159.816],
+    "sinkingDate": "1942-11-13",
+    "cause": "作为美军前卫编队的先导舰，率先与日军驱逐舰发生交火。在混战中被日方多艘舰艇集火，彻底失去动力并起火。次日因火势无法控制，由船员弃舰后爆炸沉没",
+    "depth": "约 1000 米",
+    "historyNotes": "马汉级驱逐舰。它在发现日军舰队时因规避动作导致整个美军阵型大乱，但也首当其冲承受了日军最猛烈的第一波炮火。其残骸在 1992 年被巴拉德的团队在铁底湾寻获。",
+    "battle": "瓜达尔卡纳尔海战",
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/02/Uss_Cushing_DD-376.jpg"
+  },
+  {
+    "id": "dd-599-barton",
+    "name": "巴顿号驱逐舰 (USS Barton DD-599)",
+    "faction": "US",
+    "type": "驱逐舰",
+    "coordinates": [-9.200, 159.866],
+    "sinkingDate": "1942-11-13",
+    "cause": "在极其混乱的夜战中，为了躲避前方的友舰突然急停。在静止状态下，被日军驱逐舰‘天津风号’发射的两枚 93 式长矛鱼雷直接命中弹药库和锅炉舱，舰体瞬间断成两截，在极短时间内沉没",
+    "depth": "约 1000 米",
+    "historyNotes": "本森级驱逐舰。它是当晚美军死伤最惨重的驱逐舰之一，全舰包括舰长在内的 164 人阵亡，仅有 42 人幸存。残骸的两个部分在海底相距很远。",
+    "battle": "瓜达尔卡纳尔海战",
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/67/USS_Barton_%28DD-599%29.jpg"
+  },
+  {
+    "id": "dd-436-monssen",
+    "name": "蒙森号驱逐舰 (USS Monssen DD-436)",
+    "faction": "US",
+    "type": "驱逐舰",
+    "coordinates": [-9.183, 159.900],
+    "sinkingDate": "1942-11-13",
+    "cause": "在混战中误将日军探照灯当成友军信号，不仅没有开火反而打开了自己的识别灯。瞬间招致日军战列舰和驱逐舰的猛烈集火，身中至少 37 发大口径炮弹，被打成燃烧的废铁后于次日沉没",
+    "depth": "未知 (铁底湾内部)",
+    "historyNotes": "格里维斯级驱逐舰。它的遭遇完美体现了这场夜间混战中敌我识别的极度混乱。尽管遭受了毁灭性的打击，幸存的船员仍展现了极强的损管毅力，直到次日才最终弃舰。",
+    "battle": "瓜达尔卡纳尔海战",
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/24/Uss_Monssen_0543602.jpg"
   }
 ]

@@ -1,0 +1,527 @@
+[
+  {
+    "id": "bb-conte-di-cavour",
+    "name": {
+      "zh": "加富尔伯爵号战列舰",
+      "en": "Italian Battleship Conte di Cavour"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [40.473, 17.225],
+    "sinkingDate": "1940-11-12",
+    "cause": {
+      "zh": "在塔兰托港内遭到英国皇家海军“光辉号”航母起飞的剑鱼式鱼雷机空袭，被一条鱼雷击中舰舯部后坐沉。",
+      "en": "Attacked in the port of Taranto by Fairey Swordfish torpedo bombers launched from the Royal Navy carrier HMS Illustrious. She was struck amidships by a torpedo and settled to the bottom."
+    },
+    "depth": {
+      "zh": "约 12 米 (港口浅水)",
+      "en": "Approx. 12 meters (Shallow port waters)"
+    },
+    "historyNotes": {
+      "zh": "虽然日后被打捞，但直到意大利投降都未能完成修复。塔兰托空袭向全世界（尤其是日本海军）展示了航母舰载机对港内战列舰的毁灭性打击能力。",
+      "en": "Although salvaged later, she was never fully repaired before the Italian armistice. The Battle of Taranto demonstrated to the world (especially the Japanese Navy) the devastating strike capability of carrier-based aircraft against battleships in port."
+    },
+    "battle": {
+      "zh": "塔兰托空袭 (判断行动)",
+      "en": "Battle of Taranto (Operation Judgement)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/bc/RNConte_di_Cavour-Original.jpg"
+  },
+  {
+    "id": "ca-pola",
+    "name": {
+      "zh": "波拉号重巡洋舰",
+      "en": "Italian Cruiser Pola"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [35.300, 20.950],
+    "sinkingDate": "1941-03-29",
+    "cause": {
+      "zh": "在马塔潘角海战中，先被英国可畏号航母的鱼雷机击中失去动力。随后在夜间被赶来的英国驱逐舰俘获，在撤走船员后被鱼雷击沉。",
+      "en": "During the Battle of Cape Matapan, she first lost power after being hit by a torpedo bomber from the British carrier HMS Formidable. Later that night, she was captured by arriving British destroyers. After the crew was evacuated, she was sunk by torpedoes."
+    },
+    "depth": {
+      "zh": "未知 (爱奥尼亚海深水区)",
+      "en": "Unknown (Deep waters of the Ionian Sea)"
+    },
+    "historyNotes": {
+      "zh": "扎拉级重巡洋舰。波拉号的瘫痪是整个马塔潘角灾难的导火索，正是为了掩护和拖拽它，另外两艘姐妹舰才在夜间羊入虎口。",
+      "en": "A Zara-class heavy cruiser. Pola's paralysis was the catalyst for the entire disaster at Cape Matapan; it was specifically to cover and tow her that her two sister ships sailed into the lion's den at night."
+    },
+    "battle": {
+      "zh": "马塔潘角海战",
+      "en": "Battle of Cape Matapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Italian_cruiser_Pola_NH_111442.jpg/3840px-Italian_cruiser_Pola_NH_111442.jpg"
+  },
+  {
+    "id": "ca-zara",
+    "name": {
+      "zh": "扎拉号重巡洋舰",
+      "en": "Italian Cruiser Zara"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [35.333, 20.950],
+    "sinkingDate": "1941-03-29",
+    "cause": {
+      "zh": "在夜间毫无防备的情况下，近距离（约 3000 米）驶入英国三艘战列舰（厌战、英勇、巴勒姆）的雷达火控网。被 15 英寸主炮齐射毁灭，后由英国驱逐舰雷击处分。",
+      "en": "Sailed completely unawares into the radar-directed fire control net of three British battleships (Valiant, Warspite, Barham) at point-blank range (approx. 3000 meters) at night. Annihilated by a 15-inch broadside and later scuttled by a British destroyer's torpedoes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "扎拉级首舰。这场单方面的屠杀证明了雷达在夜战中的决定性作用，意大利舰队在被击中前甚至不知道英国战列舰就在身旁。",
+      "en": "The lead ship of the Zara-class. This one-sided slaughter proved the decisive role of radar in night combat. The Italian fleet didn't even know the British battleships were nearby until they were hit."
+    },
+    "battle": {
+      "zh": "马塔潘角海战",
+      "en": "Battle of Cape Matapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Italian_cruiser_Zara_NH_111457.jpg/1920px-Italian_cruiser_Zara_NH_111457.jpg"
+  },
+  {
+    "id": "ca-fiume",
+    "name": {
+      "zh": "阜姆号重巡洋舰",
+      "en": "Italian Cruiser Fiume"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [35.350, 20.900],
+    "sinkingDate": "1941-03-29",
+    "cause": {
+      "zh": "与扎拉号一同落入英国战列舰的陷阱，被厌战号和英勇号的主炮在极近距离轰穿，主炮塔被炸飞，短短 45 分钟后即倾覆沉没。",
+      "en": "Fell into the British battleship trap alongside Zara. Penetrated at point-blank range by the main guns of Warspite and Valiant, her main turrets were blown off, and she capsized and sank in just 45 minutes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "当时舰上的探照灯甚至还没来得及开启，战斗就结束了。阜姆号的沉没异常迅速，导致大量船员阵亡。",
+      "en": "The battle was over before her searchlights could even be turned on. Fiume's sinking was exceptionally rapid, resulting in a massive loss of life among her crew."
+    },
+    "battle": {
+      "zh": "马塔潘角海战",
+      "en": "Battle of Cape Matapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/58/Regia_Nave_Fiume1.JPG"
+  },
+  {
+    "id": "dd-vittorio-alfieri",
+    "name": {
+      "zh": "维托里奥·阿尔菲耶里号驱逐舰",
+      "en": "Italian Destroyer Vittorio Alfieri"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [35.330, 20.960],
+    "sinkingDate": "1941-03-29",
+    "cause": {
+      "zh": "作为护航驱逐舰，在遭遇英国战列舰洗地时，是唯一一艘成功发射鱼雷并开火还击的意大利舰艇，随后被英舰火力摧毁。",
+      "en": "Serving as an escort destroyer, when confronted with the British battleship barrage, she was the only Italian vessel that successfully managed to fire torpedoes and return fire before being destroyed by British guns."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "尽管面对的是不可战胜的战列舰编队，该舰依然做出了极具勇气的反击，为这场惨败挽回了一丝颜面。",
+      "en": "Despite facing an invincible battleship formation, the ship mounted a deeply courageous counterattack, salvaging a shred of dignity from the disastrous defeat."
+    },
+    "battle": {
+      "zh": "马塔潘角海战",
+      "en": "Battle of Cape Matapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": null
+  },
+  {
+    "id": "cl-gloucester",
+    "name": {
+      "zh": "格洛斯特号轻巡洋舰",
+      "en": "HMS Gloucester"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [35.833, 23.000],
+    "sinkingDate": "1941-05-22",
+    "cause": {
+      "zh": "在安提基特拉海峡防空弹药耗尽后，遭到德国空军 Ju 87 斯图卡俯冲轰炸机集中攻击，身中至少 4 枚炸弹后沉没。",
+      "en": "After exhausting her anti-aircraft ammunition in the Antikythera Channel, she was subjected to a concentrated attack by Luftwaffe Ju 87 Stuka dive bombers, sinking after taking at least 4 bomb hits."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "被称为“战斗的 G”（The Fighting G）。它的沉没是由于指挥部错误的命令，让其在没有弹药的情况下重返空袭区，导致全舰 700 多人丧生。",
+      "en": "Known as 'The Fighting G'. Her sinking was the result of flawed orders from command, which sent her back into the air raid zone without ammunition, resulting in the loss of over 700 crew members."
+    },
+    "battle": {
+      "zh": "克里特岛战役",
+      "en": "Battle of Crete"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/bd/HMS_Gloucester.jpg"
+  },
+  {
+    "id": "cl-fiji",
+    "name": {
+      "zh": "斐济号轻巡洋舰",
+      "en": "HMS Fiji"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [34.583, 23.166],
+    "sinkingDate": "1941-05-22",
+    "cause": {
+      "zh": "在格洛斯特号沉没后不久，同样因防空弹药耗尽，被德军一架 Bf 109 战斗机投下的炸弹近失重创，随后被另一架轰炸机击沉。",
+      "en": "Shortly after Gloucester's sinking, and also out of anti-aircraft ammunition, she was severely damaged by a near miss from a bomb dropped by a German Bf 109 fighter, and was subsequently sunk by another bomber."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "斐济级轻巡洋舰首舰。在克里特岛战役中，英国巡洋舰为了保护驱逐舰和运输船，几乎是用肉身在阻挡德国空军。",
+      "en": "The lead ship of the Fiji-class light cruisers. During the Battle of Crete, British cruisers practically used their own hulls to shield destroyers and transport ships from the Luftwaffe."
+    },
+    "battle": {
+      "zh": "克里特岛战役",
+      "en": "Battle of Crete"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/93/HMS_FIJI%2C_28_August_1940_FL13125.jpg"
+  },
+  {
+    "id": "dd-kelly",
+    "name": {
+      "zh": "凯利号驱逐舰",
+      "en": "HMS Kelly"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [34.666, 24.166],
+    "sinkingDate": "1941-05-23",
+    "cause": {
+      "zh": "在撤退途中遭到德军斯图卡轰炸机编队的攻击，被一枚重型炸弹直接命中后倾覆沉没。",
+      "en": "Attacked by a formation of German Stuka dive bombers during the retreat, she capsized and sank after taking a direct hit from a heavy bomb."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "由著名的蒙巴顿勋爵（后来成为印度总督）指挥。它在沉没时仍在用高射机枪开火，这段经历后来被拍成了著名电影《与祖国同在》(In Which We Serve)。",
+      "en": "Commanded by the famous Lord Mountbatten (who later became Viceroy of India). She kept firing her anti-aircraft guns even as she was sinking; this experience was later adapted into the famous film 'In Which We Serve'."
+    },
+    "battle": {
+      "zh": "克里特岛战役",
+      "en": "Battle of Crete"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HMS_Kelly_%281939%29_on_full_power_trial.jpg"
+  },
+  {
+    "id": "cv-ark-royal",
+    "name": {
+      "zh": "皇家方舟号航空母舰",
+      "en": "HMS Ark Royal"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "航空母舰",
+      "en": "Aircraft Carrier"
+    },
+    "coordinates": [36.050, -4.750],
+    "sinkingDate": "1941-11-14",
+    "cause": {
+      "zh": "在向马耳他运送飞机返航途中，于直布罗陀以东 50 海里处被德国潜艇 U-81 发射的一枚鱼雷击中，因损管失误在次日拖曳途中沉没。",
+      "en": "While returning from delivering aircraft to Malta, she was struck by a single torpedo from the German submarine U-81 50 nautical miles east of Gibraltar. Due to damage control errors, she sank the following day while under tow."
+    },
+    "depth": {
+      "zh": "约 1066 米",
+      "en": "Approx. 1066 meters"
+    },
+    "historyNotes": {
+      "zh": "它是皇家海军当时最著名的战舰之一，曾多次被德国宣称击沉而又‘复活’，更是围剿俾斯麦号的核心功臣。残骸于 2002 年被发现。",
+      "en": "She was one of the most famous warships of the Royal Navy at the time, repeatedly claimed sunk by Germany only to 'resurrect', and was the core contributor in the hunt for the Bismarck. Her wreck was discovered in 2002."
+    },
+    "battle": {
+      "zh": "马耳他护航战",
+      "en": "Malta Convoys"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HMS_Ark_Royal_h79167.jpg/3840px-HMS_Ark_Royal_h79167.jpg"
+  },
+  {
+    "id": "bb-barham",
+    "name": {
+      "zh": "巴勒姆号战列舰",
+      "en": "HMS Barham"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [32.566, 26.400],
+    "sinkingDate": "1941-11-25",
+    "cause": {
+      "zh": "在亚历山大港以北海域被德国潜艇 U-331 近距离发射的三枚鱼雷击中。在向左倾覆的过程中，主弹药库发生惊天动地的大爆炸。",
+      "en": "Struck by three torpedoes fired at close range by the German submarine U-331 in the waters north of Alexandria. While capsizing to port, her main magazines suffered an earth-shattering explosion."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "一战日德兰海战的老兵。它沉没时的剧烈殉爆被随行的百眼巨人号上的摄影师拍下，成为二战中最具视觉冲击力、也最令人心碎的真实影像之一。",
+      "en": "A veteran of the WWI Battle of Jutland. Her violent magazine explosion during sinking was captured on film by a cameraman on the accompanying HMS Argus, becoming one of the most visually shocking and heartbreaking real footages of WWII."
+    },
+    "battle": {
+      "zh": "地中海反潜战",
+      "en": "Mediterranean Anti-Submarine Action"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HMS_Barham_%281914%29.jpg/3840px-HMS_Barham_%281914%29.jpg"
+  },
+  {
+    "id": "cl-neptune",
+    "name": {
+      "zh": "海王星号轻巡洋舰",
+      "en": "HMS Neptune"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [33.250, 15.283],
+    "sinkingDate": "1941-12-19",
+    "cause": {
+      "zh": "在的黎波里外海追击意大利护航船队时，不幸误入意大利铺设的深水雷区，连续触发 4 枚水雷后沉没。",
+      "en": "While pursuing an Italian convoy off Tripoli, she unfortunately sailed into an Italian deep-water minefield, detonating 4 mines consecutively and sinking."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "K舰队的旗舰。它的沉没是极其绝望的，全舰 760 多人中最终只有 1 人生还。同行的坎大哈号驱逐舰也在试图救援时触雷沉没。",
+      "en": "The flagship of Force K. Her sinking was utterly desperate; out of over 760 crew members, only 1 survived. The accompanying destroyer HMS Kandahar also struck a mine and sank while attempting to rescue her."
+    },
+    "battle": {
+      "zh": "第一次苏尔特海战 (雷区灾难)",
+      "en": "First Battle of Sirte (Minefield Disaster)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/71/HMS_Neptune_%28AWM_302461%29.jpg"
+  },
+  {
+    "id": "cv-eagle",
+    "name": {
+      "zh": "鹰号航空母舰",
+      "en": "HMS Eagle"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "航空母舰",
+      "en": "Aircraft Carrier"
+    },
+    "coordinates": [38.083, 3.033],
+    "sinkingDate": "1942-08-11",
+    "cause": {
+      "zh": "在参与“基座行动”护航马耳他途中，被德国潜艇 U-73 突破驱逐舰防线，在极近距离连中 4 枚鱼雷，仅 4 分钟后即沉没。",
+      "en": "While participating in Operation Pedestal to escort a convoy to Malta, the German submarine U-73 breached the destroyer screen. She was hit by 4 torpedoes at point-blank range and sank in just 4 minutes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "由智利订购的战列舰改装而来的老牌航母。它的沉没让本来就极度缺乏空中掩护的护航船队立刻陷入了地狱般的处境。",
+      "en": "A veteran carrier converted from a battleship originally ordered by Chile. Her sinking instantly plunged the already critically air-cover-starved convoy into a hellish predicament."
+    },
+    "battle": {
+      "zh": "基座行动 (马耳他护航)",
+      "en": "Operation Pedestal (Malta Convoys)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HMS_Eagle_underway_1930s.jpeg"
+  },
+  {
+    "id": "cl-manchester",
+    "name": {
+      "zh": "曼彻斯特号轻巡洋舰",
+      "en": "HMS Manchester"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [36.833, 11.166],
+    "sinkingDate": "1942-08-13",
+    "cause": {
+      "zh": "在突尼斯沿海的邦角（Cap Bon）附近，遭到意大利两艘鱼雷快艇（MAS艇）的伏击，被鱼雷击中轮机舱失去动力，后由英军自沉。",
+      "en": "Ambushed by two Italian motor torpedo boats (MAS boats) near Cap Bon off the coast of Tunisia. Hit in her engine room by a torpedo, she lost power and was subsequently scuttled by the British."
+    },
+    "depth": {
+      "zh": "约 80 米",
+      "en": "Approx. 80 meters"
+    },
+    "historyNotes": {
+      "zh": "它是二战中被鱼雷快艇击沉的最大型军舰。舰长因为下令弃舰自沉而在此后受到了军事法庭的审判，这是英国海军史上极具争议的事件。",
+      "en": "She was the largest warship sunk by motor torpedo boats in WWII. Her captain was subsequently court-martialed for ordering to abandon and scuttle the ship, a highly controversial event in British naval history."
+    },
+    "battle": {
+      "zh": "基座行动 (马耳他护航)",
+      "en": "Operation Pedestal (Malta Convoys)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a1/HMS_Manchester_%28C15%29_1942.jpg"
+  },
+  {
+    "id": "cl-primauguet",
+    "name": {
+      "zh": "普里莫盖号轻巡洋舰",
+      "en": "French Cruiser Primauguet"
+    },
+    "faction": {
+      "zh": "法国 (维希)",
+      "en": "France (Vichy)"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [33.600, -7.616],
+    "sinkingDate": "1942-11-08",
+    "cause": {
+      "zh": "在卡萨布兰卡海战中，率领驱逐舰试图阻击美军登陆舰队，遭到美军马萨诸塞号战列舰（USS Massachusetts）和奥古斯塔号重巡洋舰的绝对火力压制，重创搁浅起火。",
+      "en": "During the Naval Battle of Casablanca, while leading destroyers in an attempt to block the U.S. landing fleet, she was absolutely suppressed by firepower from the U.S. battleship USS Massachusetts and the heavy cruiser USS Augusta, leading to her being heavily damaged, beached, and set on fire."
+    },
+    "depth": {
+      "zh": "港口浅水搁浅 (战后拆解)",
+      "en": "Beached in shallow port waters (Scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "这是美军与维希法国海军之间最激烈的冲突。面对配备先进雷达和 16 英寸主炮的美国新锐战列舰，法军的决死冲锋极其悲壮但毫无胜算。",
+      "en": "This was the fiercest clash between U.S. forces and the Vichy French Navy. Facing a state-of-the-art American battleship equipped with advanced radar and 16-inch main guns, the French suicidal charge was extremely tragic but utterly hopeless."
+    },
+    "battle": {
+      "zh": "火炬行动 (卡萨布兰卡海战)",
+      "en": "Operation Torch (Naval Battle of Casablanca)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Croiseur_Primauguet_Goybet.jpg/1920px-Croiseur_Primauguet_Goybet.jpg"
+  },
+  {
+    "id": "bb-roma",
+    "name": {
+      "zh": "罗马号战列舰",
+      "en": "Italian Battleship Roma"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [41.157, 8.295],
+    "sinkingDate": "1943-09-09",
+    "cause": {
+      "zh": "在前往盟军港口投诚途中，遭到前盟友德国空军 Do 217 轰炸机的追击。被两枚‘弗里茨-X’ (Fritz-X) 无线电制导炸弹命中，直接贯穿装甲引爆主弹药库，舰体断裂沉没。",
+      "en": "While en route to surrender at an Allied port, she was pursued by Do 217 bombers of her former ally, the German Luftwaffe. Hit by two 'Fritz-X' radio-guided bombs which directly penetrated her armor and detonated the main magazine, her hull broke in two and she sank."
+    },
+    "depth": {
+      "zh": "约 1000 米",
+      "en": "Approx. 1000 meters"
+    },
+    "historyNotes": {
+      "zh": "维托里奥·维内托级战列舰，意大利海军的骄傲。它是海战史上第一艘被制导武器击沉的主力舰。这枚炸弹不仅击沉了罗马号，也宣告了‘大舰巨炮’在精确制导武器面前的彻底过时。残骸于 2012 年在撒丁岛北部海域被发现。",
+      "en": "A Vittorio Veneto-class battleship, the pride of the Italian Navy. She was the first capital ship in naval history to be sunk by a guided weapon. This bomb not only sank Roma, but also heralded the complete obsolescence of 'big guns and heavy armor' in the face of precision-guided munitions. Her wreck was discovered in 2012 in the waters north of Sardinia."
+    },
+    "battle": {
+      "zh": "意大利投降与轴心国内讧",
+      "en": "Italian Surrender and Axis Infighting"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/82/Battleship_Roma.jpg"
+  }
+]

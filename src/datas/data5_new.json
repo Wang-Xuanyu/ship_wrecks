@@ -1,0 +1,1227 @@
+[
+  {
+    "id": "bb-08-royal-oak",
+    "name": {
+      "zh": "皇家橡树号战列舰",
+      "en": "HMS Royal Oak (08)"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [58.931, -2.981],
+    "sinkingDate": "1939-10-14",
+    "cause": {
+      "zh": "在绝对安全的皇家海军大本营斯卡帕湾锚泊时，被悄悄潜入的德国潜艇 U-47（由京特·普里恩指挥）发射的多枚鱼雷击中，迅速翻覆沉没。",
+      "en": "While anchored in the supposedly impregnable Royal Navy home base of Scapa Flow, she was struck by multiple torpedoes fired by the stealthily infiltrated German submarine U-47 (commanded by Günther Prien), capsizing and sinking rapidly."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "复仇级战列舰。它的沉没是皇家海军在二战初期的奇耻大辱，暴露了斯卡帕湾防御的致命漏洞。沉船现被英国政府定为官方战争公墓，每年仍会有潜水员潜入水下更换挂在船艉的皇家海军白船旗。",
+      "en": "A Revenge-class battleship. Her sinking was a tremendous humiliation for the Royal Navy early in WWII, exposing fatal flaws in Scapa Flow's defenses. The wreck is now a designated official war grave by the UK government, and divers still descend annually to replace the White Ensign at her stern."
+    },
+    "battle": {
+      "zh": "斯卡帕湾潜入战",
+      "en": "The Raid on Scapa Flow"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5d/HMS_Royal_Oak_%2808%29.jpg"
+  },
+  {
+    "id": "ca-graf-spee",
+    "name": {
+      "zh": "斯佩伯爵海军上将号",
+      "en": "Admiral Graf Spee"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "装甲舰 (袖珍战列舰)",
+      "en": "Panzerschiff (Pocket Battleship)"
+    },
+    "coordinates": [-34.966, -56.300],
+    "sinkingDate": "1939-12-17",
+    "cause": {
+      "zh": "在拉普拉塔河口海战中遭到英国巡洋舰编队（埃克塞特号、阿贾克斯号、阿基里斯号）的围剿受损。逃入蒙得维的亚港后，因受英国情报欺骗，误以为港外有庞大舰队埋伏，最终由舰长下令自沉。",
+      "en": "Damaged while being besieged by a British cruiser squadron (HMS Exeter, Ajax, and Achilles) in the Battle of the River Plate. After fleeing into the port of Montevideo, deceived by British intelligence into believing a massive fleet awaited outside, she was ultimately scuttled by order of her captain."
+    },
+    "depth": {
+      "zh": "约 11 米 (极浅，部分残骸曾露出水面)",
+      "en": "Approx. 11 meters (Extremely shallow, parts of the wreck were once exposed)"
+    },
+    "historyNotes": {
+      "zh": "作为德国闻风丧胆的‘海上袭击舰’，它在开战初期横行南大西洋。它的自沉过程被岸上数万名围观群众和记者全程目睹，是二战最早的重大媒体事件之一。舰长汉斯·朗斯多夫在安排好船员后自尽。",
+      "en": "As a dreaded German 'commerce raider', she ran rampant in the South Atlantic early in the war. Her scuttling was witnessed by tens of thousands of onlookers and journalists ashore, making it one of the earliest major media events of WWII. Captain Hans Langsdorff committed suicide after ensuring his crew's safety."
+    },
+    "battle": {
+      "zh": "拉普拉塔河口海战",
+      "en": "Battle of the River Plate"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bundesarchiv_DVM_10_Bild-23-63-06%2C_Panzerschiff_%22Admiral_Graf_Spee%22.jpg"
+  },
+  {
+    "id": "ca-blucher",
+    "name": {
+      "zh": "布吕歇尔号重巡洋舰",
+      "en": "German Cruiser Blücher"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [59.700, 10.600],
+    "sinkingDate": "1940-04-09",
+    "cause": {
+      "zh": "在入侵挪威的“威悉演习行动”中，驶入奥斯陆峡湾时遭到挪威奥斯卡堡要塞（Oscarsborg Fortress）的古董级岸防炮和岸基鱼雷的近距离直击，起火倾覆沉没。",
+      "en": "During 'Operation Weserübung' (the invasion of Norway), while sailing up the Oslofjord, she was hit at close range by antique coastal defense guns and shore-based torpedoes from Norway's Oscarsborg Fortress. She caught fire, capsized, and sank."
+    },
+    "depth": {
+      "zh": "约 90 米",
+      "en": "Approx. 90 meters"
+    },
+    "historyNotes": {
+      "zh": "希佩尔海军上将级重巡洋舰。这艘服役才几周的崭新战舰被挪威老兵用 40 年前生产的克虏伯火炮和白头鱼雷击沉，给挪威王室和政府争取了宝贵的逃亡时间。",
+      "en": "An Admiral Hipper-class heavy cruiser. This brand-new warship, in service for only weeks, was sunk by Norwegian veterans using 40-year-old Krupp guns and Whitehead torpedoes, buying precious time for the Norwegian royal family and government to escape."
+    },
+    "battle": {
+      "zh": "奥斯陆峡湾之战",
+      "en": "Battle of Drøbak Sound (Oslofjord)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bundesarchiv_DVM_10_Bild-23-63-09%2C_Kreuzer_%22Bl%C3%BCcher%22.jpg"
+  },
+  {
+    "id": "cv-77-glorious",
+    "name": {
+      "zh": "光荣号航空母舰",
+      "en": "HMS Glorious (77)"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "舰队航空母舰",
+      "en": "Fleet Aircraft Carrier"
+    },
+    "coordinates": [68.633, 3.833],
+    "sinkingDate": "1940-06-08",
+    "cause": {
+      "zh": "在撤离挪威途中，因未放飞侦察机进行空中警戒，被德国战列巡洋舰“沙恩霍斯特号”和“格奈森瑙号”在极远距离发现并用主炮连续命中，飞行甲板被毁、机库起火后沉没。",
+      "en": "While evacuating from Norway, having failed to launch reconnaissance aircraft for air patrol, she was spotted at extreme range by the German battlecruisers Scharnhorst and Gneisenau. She was repeatedly hit by their main guns, destroying her flight deck and igniting the hangar before sinking."
+    },
+    "depth": {
+      "zh": "未知 (挪威海深水区)",
+      "en": "Unknown (Deep waters of the Norwegian Sea)"
+    },
+    "historyNotes": {
+      "zh": "由勇敢级大型轻巡洋舰改装而来。战斗中，沙恩霍斯特号在约 24 公里（26,000 码）的距离上命中了光荣号，创下了海战史上最远距离的动对动命中记录之一。全舰仅 40 余人生还。",
+      "en": "Converted from a Courageous-class large light cruiser. During the battle, Scharnhorst scored a hit on Glorious at a range of approximately 24 km (26,000 yards), setting one of the longest-range moving-target hit records in naval history. Only about 40 men survived."
+    },
+    "battle": {
+      "zh": "朱诺行动 (挪威海战)",
+      "en": "Operation Juno (Norwegian Sea)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5f/HMS_Glorious_FL22991.jpg"
+  },
+  {
+    "id": "dd-ardent",
+    "name": {
+      "zh": "热心号驱逐舰",
+      "en": "HMS Ardent (H41)"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [68.635, 3.830],
+    "sinkingDate": "1940-06-08",
+    "cause": {
+      "zh": "在掩护光荣号撤退时，独自向两艘德国巨舰发起决死冲锋并释放烟幕，遭到德舰密集的副炮和主炮火力摧毁沉没。",
+      "en": "While covering Glorious's retreat, she launched a desperate solo charge against the two German behemoths and deployed smoke screens, but was destroyed and sunk by intense secondary and main battery fire from the German ships."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "A 级驱逐舰。面对吨位和火力绝对碾压的敌人，热心号的勇敢冲锋为光荣号争取了极其短暂的喘息时间，但仍无法改变战局。全舰仅 2 人生还。",
+      "en": "An A-class destroyer. Facing an enemy with absolute superiority in tonnage and firepower, Ardent's courageous charge bought a fleeting moment of respite for Glorious, but could not alter the outcome of the battle. Only 2 men survived."
+    },
+    "battle": {
+      "zh": "朱诺行动 (挪威海战)",
+      "en": "Operation Juno (Norwegian Sea)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/89/HMS_Ardent_%28H41%29.jpg"
+  },
+  {
+    "id": "dd-acasta",
+    "name": {
+      "zh": "阿卡斯塔号驱逐舰",
+      "en": "HMS Acasta (H09)"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [68.630, 3.840],
+    "sinkingDate": "1940-06-08",
+    "cause": {
+      "zh": "在光荣号和热心号相继沉没后，继续在烟幕中与德舰周旋并绝望地发射鱼雷，最终被德舰火炮击沉。",
+      "en": "After the successive sinkings of Glorious and Ardent, she continued to maneuver through smoke screens, fighting the German ships and desperately firing torpedoes until finally sunk by their gunfire."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它在沉没前发射的一枚鱼雷奇迹般地命中了沙恩霍斯特号的右舷，导致德舰进水 2500 吨并严重受损。这一击迫使德国舰队放弃了后续的袭击任务，直接返航维修。全舰仅 1 人生还。",
+      "en": "A torpedo she fired right before sinking miraculously struck Scharnhorst on her starboard side, causing the German ship to take on 2,500 tons of water and suffer severe damage. This single blow forced the German fleet to abandon subsequent raiding missions and return directly for repairs. Only 1 man survived."
+    },
+    "battle": {
+      "zh": "朱诺行动 (挪威海战)",
+      "en": "Operation Juno (Norwegian Sea)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/ce/HMS_ACASTA_%28H09%29.jpg"
+  },
+  {
+    "id": "dd-h87-hardy",
+    "name": {
+      "zh": "哈迪号驱逐舰",
+      "en": "HMS Hardy (H87)"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [68.390, 17.120],
+    "sinkingDate": "1940-04-10",
+    "cause": {
+      "zh": "在第一次纳尔维克海战中，率队突袭港内的德国驱逐舰，撤退时遭到德军增援驱逐舰的猛烈炮击，受重创后抢滩搁浅。",
+      "en": "During the First Battle of Narvik, she led a surprise attack on German destroyers in the harbor. While retreating, she came under heavy gunfire from reinforcing German destroyers. Severely damaged, she was run aground."
+    },
+    "depth": {
+      "zh": "浅水搁浅",
+      "en": "Beached in shallow water"
+    },
+    "historyNotes": {
+      "zh": "英国 H 级驱逐舰领舰。舰长沃伯顿-李因此战获得二战中皇家海军的第一枚维多利亚十字勋章（追授）。",
+      "en": "Flotilla leader of the British H-class destroyers. Her commanding officer, Captain Warburton-Lee, was posthumously awarded the first Victoria Cross given to the Royal Navy in WWII for this action."
+    },
+    "battle": {
+      "zh": "第一次纳尔维克海战",
+      "en": "First Battle of Narvik"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/28/HMS_Hardy_1936.jpg"
+  },
+  {
+    "id": "dd-z21-wilhelm-heidkamp",
+    "name": {
+      "zh": "威廉·海德坎普号驱逐舰",
+      "en": "German Destroyer Z21 Wilhelm Heidkamp"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [68.420, 17.410],
+    "sinkingDate": "1940-04-10",
+    "cause": {
+      "zh": "在纳尔维克港内锚泊时，被突袭的英国驱逐舰（哈迪号等）发射的鱼雷击中舰艉，弹药库殉爆，次日沉没。",
+      "en": "While anchored in Narvik harbor, she was hit in the stern by a torpedo from the surprise attack by British destroyers (including Hardy). Her magazine exploded, and she sank the following day."
+    },
+    "depth": {
+      "zh": "港口浅水区",
+      "en": "Shallow port waters"
+    },
+    "historyNotes": {
+      "zh": "德国海军准将弗里德里希·邦特的旗舰。它的沉没拉开了纳尔维克峡湾血战的序幕。",
+      "en": "The flagship of German Commodore Friedrich Bonte. Her sinking marked the opening of the bloody battles in the Ofotfjord (Narvik)."
+    },
+    "battle": {
+      "zh": "第一次纳尔维克海战",
+      "en": "First Battle of Narvik"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z21_Wilhelm_Heidkamp_-_NH_83980.jpg/1920px-Z21_Wilhelm_Heidkamp_-_NH_83980.jpg"
+  },
+  {
+    "id": "dd-z11-bernd-von-arnim",
+    "name": {
+      "zh": "贝恩德·冯·阿尼姆号驱逐舰",
+      "en": "German Destroyer Z11 Bernd von Arnim"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [68.410, 17.380],
+    "sinkingDate": "1940-04-13",
+    "cause": {
+      "zh": "在第二次纳尔维克海战中，面对由“厌战号”战列舰率领的英国绝对优势舰队，在弹药耗尽后退入罗姆巴克斯峡湾（Rombaksfjord）尽头自沉。",
+      "en": "During the Second Battle of Narvik, facing a vastly superior British fleet led by the battleship HMS Warspite, she retreated to the end of the Rombaksfjord after exhausting her ammunition and was scuttled."
+    },
+    "depth": {
+      "zh": "浅水 (部分残骸至今可见)",
+      "en": "Shallow water (Parts of the wreck are still visible today)"
+    },
+    "historyNotes": {
+      "zh": "在第二次纳尔维克海战中，德国在该海域残存的 8 艘驱逐舰被皇家海军全歼。德国人虽然拿下了陆地，但付出了惨痛的海军水面舰艇代价。",
+      "en": "In the Second Battle of Narvik, the remaining 8 German destroyers in the area were completely annihilated by the Royal Navy. Although the Germans captured the land, they paid a devastating price in surface naval forces."
+    },
+    "battle": {
+      "zh": "第二次纳尔维克海战",
+      "en": "Second Battle of Narvik"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null
+  },
+  {
+  "id": "bc-hood",
+    "name": {
+      "zh": "胡德号战列巡洋舰",
+      "en": "HMS Hood"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "战列巡洋舰",
+      "en": "Battlecruiser"
+    },
+    "coordinates": [63.333, -31.833],
+    "sinkingDate": "1941-05-24",
+    "cause": {
+      "zh": "在丹麦海峡海战中，遭到德国战列舰‘俾斯麦号’的 380 毫米主炮命中。炮弹穿透了薄弱的水平装甲，引爆了后部副炮弹药库并连锁引发主弹药库极其剧烈的殉爆，舰体断裂，在 3 分钟内沉没。",
+      "en": "Struck by 380mm shells from the German battleship Bismarck during the Battle of the Denmark Strait. A shell penetrated her thin deck armor, detonating the aft secondary magazine and triggering a catastrophic chain reaction in the main magazine. Her hull broke apart, and she sank within 3 minutes."
+    },
+    "depth": {
+      "zh": "约 2844 米",
+      "en": "Approx. 2844 meters"
+    },
+    "historyNotes": {
+      "zh": "当时世界上最大的军舰，也是大英帝国的象征。全舰 1418 名官兵中仅 3 人生还。它的沉没是皇家海军在二战中最沉重的打击之一。残骸于 2001 年被大卫·梅恩斯（David Mearns）发现。",
+      "en": "The largest warship in the world at the time and the symbol of the British Empire. Only 3 of her 1,418 crew members survived. Her loss was one of the Royal Navy's heaviest blows in WWII. Her wreck was discovered by David Mearns in 2001."
+    },
+    "battle": {
+      "zh": "丹麦海峡海战",
+      "en": "Battle of the Denmark Strait"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HMS_Hood_%2851%29_-_March_17%2C_1924.jpg/3840px-HMS_Hood_%2851%29_-_March_17%2C_1924.jpg"
+  },
+  {
+    "id": "bb-bismarck",
+    "name": {
+      "zh": "俾斯麦号战列舰",
+      "en": "German Battleship Bismarck"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [48.166, -16.200],
+    "sinkingDate": "1941-05-27",
+    "cause": {
+      "zh": "先被皇家方舟号起飞的剑鱼式鱼雷机击中舰艉导致船舵卡死。随后遭到英国战列舰‘罗德尼号’和‘乔治五世国王号’的抵近集火射击，上层建筑被完全摧毁。在失去战斗力后，由舰员开启通海阀自沉。",
+      "en": "First hit by a torpedo from a Fairey Swordfish from HMS Ark Royal, jamming her rudder. She was then subjected to point-blank concentrated fire from the British battleships HMS Rodney and HMS King George V, which obliterated her superstructure. After being rendered combat-ineffective, she was scuttled by her crew via Kingston valves."
+    },
+    "depth": {
+      "zh": "约 4791 米",
+      "en": "Approx. 4791 meters"
+    },
+    "historyNotes": {
+      "zh": "当时世界上最强大的战列舰之一。它的短暂航程和戏剧性的沉没成为了二战最著名的传奇故事。残骸于 1989 年由罗伯特·巴拉德（Robert Ballard）发现，舰体仍直立在海底，显示了极其强悍的装甲防护。",
+      "en": "One of the most powerful battleships of her time. Her brief sortie and dramatic end became one of the most famous legends of WWII. Her wreck was discovered by Robert Ballard in 1989; the hull remains upright on the seabed, demonstrating her exceptionally robust armor protection."
+    },
+    "battle": {
+      "zh": "围剿俾斯麦号",
+      "en": "The Hunt for the Bismarck"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bundesarchiv_Bild_193-04-1-26%2C_Schlachtschiff_Bismarck.jpg"
+  },
+  {
+    "id": "dd-campbeltown",
+    "name": {
+      "zh": "坎贝尔城号驱逐舰",
+      "en": "HMS Campbeltown"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [47.275, -2.196],
+    "sinkingDate": "1942-03-28",
+    "cause": {
+      "zh": "在‘战车行动’ (圣纳泽尔突袭) 中，舰艏装满 4 吨延时引信烈性炸药，以自杀式冲锋撞入法国圣纳泽尔港的‘诺曼底’干船坞大门。次日炸药爆炸，彻底炸毁了船坞。",
+      "en": "During Operation Chariot (the St. Nazaire Raid), her bow was packed with 4 tons of high-explosive charges with time-delay fuses. She was rammed at high speed into the gates of the 'Normandie' dry dock in St. Nazaire. The explosives detonated the next day, completely destroying the dock."
+    },
+    "depth": {
+      "zh": "干船坞内 (完全炸毁)",
+      "en": "Inside dry dock (Completely destroyed)"
+    },
+    "historyNotes": {
+      "zh": "这是一战老式平甲板驱逐舰。它的牺牲成功摧毁了欧洲大西洋沿岸唯一能容纳‘提尔皮茨号’进行维修的干船坞，从而彻底断绝了该舰突入大西洋的可能。",
+      "en": "An old WWI-era flush-deck destroyer. Her sacrifice successfully destroyed the only dry dock on the Atlantic coast of Europe capable of accommodating the Tirpitz for repairs, effectively ending the threat of that battleship breaking out into the Atlantic."
+    },
+    "battle": {
+      "zh": "圣纳泽尔突袭 (战车行动)",
+      "en": "St. Nazaire Raid (Operation Chariot)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HMS_Campbeltown_and_Castleton.jpg"
+  },
+  {
+    "id": "dd-achates",
+    "name": {
+      "zh": "阿卡特斯号驱逐舰",
+      "en": "HMS Achates"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [73.300, 30.100],
+    "sinkingDate": "1942-12-31",
+    "cause": {
+      "zh": "在巴伦支海海战中，为了保护 JW 51B 护航船队，强行释放烟幕掩护，遭到德国重巡洋舰‘希佩尔海军上将号’的主炮重创，舰体破裂进水后沉没。",
+      "en": "During the Battle of the Barents Sea, while protecting convoy JW 51B, she aggressively deployed smoke screens to cover the transports. She was severely damaged by main battery fire from the German heavy cruiser Admiral Hipper and sank after her hull was breached."
+    },
+    "depth": {
+      "zh": "未知 (巴伦支海深水区)",
+      "en": "Unknown (Deep waters of the Barents Sea)"
+    },
+    "historyNotes": {
+      "zh": "它的英勇掩护让整个运输船队无一损失。希特勒因此战德国水面舰队的无能表现而勃然大怒，差点下令拆毁所有大型军舰。",
+      "en": "Her heroic cover ensured the entire transport convoy escaped without loss. Hitler was so enraged by the German surface fleet's poor performance in this battle that he nearly ordered the scrapping of all major warships."
+    },
+    "battle": {
+      "zh": "巴伦支海海战",
+      "en": "Battle of the Barents Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ae/HMS_Achates_%28H12%29.jpg"
+  },
+  {
+    "id": "dd-z16-friedrich-eckoldt",
+    "name": {
+      "zh": "弗里德里希·埃科尔特号驱逐舰",
+      "en": "German Destroyer Z16 Friedrich Eckoldt"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [73.316, 30.100],
+    "sinkingDate": "1942-12-31",
+    "cause": {
+      "zh": "在极夜的混乱交战中，误将赶来支援的英国巡洋舰‘谢菲尔德号’认作己方的‘希佩尔号’，靠近后被英舰抵近集火，瞬间被打成碎片沉没。",
+      "en": "In the chaos of the polar night, she mistook the approaching British cruiser HMS Sheffield for the friendly Admiral Hipper. Upon closing range, she was annihilated by concentrated fire from the British ship and sank instantly."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这场海战在极地短暂的微光和暴风雪中进行，敌我识别极度困难，Z16 成为了这种混乱战局下的直接牺牲品。",
+      "en": "The battle took place in the brief twilight and blizzards of the Arctic. Identification of friend or foe was extremely difficult, and Z16 became a direct victim of the tactical confusion."
+    },
+    "battle": {
+      "zh": "巴伦支海海战",
+      "en": "Battle of the Barents Sea"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null
+  },
+  {
+    "id": "bc-scharnhorst",
+    "name": {
+      "zh": "沙恩霍斯特号战列巡洋舰",
+      "en": "German Battlecruiser Scharnhorst"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "战列巡洋舰",
+      "en": "Battlecruiser"
+    },
+    "coordinates": [72.266, 28.683],
+    "sinkingDate": "1943-12-26",
+    "cause": {
+      "zh": "在北角海战中企图拦截盟军护航船队。在极夜的暴风雪中，被拥有先进雷达的英国‘约克公爵号’战列舰在远距离锁定并击毁主炮塔和锅炉舱，失去动力后被英国驱逐舰群发射至少 11 枚鱼雷击沉。",
+      "en": "Attempted to intercept an Allied convoy during the Battle of North Cape. In the polar night and blizzards, she was locked onto by the advanced radar of HMS Duke of York. After her main turrets and boiler rooms were destroyed, she was finished off by at least 11 torpedoes from a swarm of British destroyers."
+    },
+    "depth": {
+      "zh": "约 290 米",
+      "en": "Approx. 290 meters"
+    },
+    "historyNotes": {
+      "zh": "曾经击沉‘光荣号’的功臣，最终在冰冷刺骨的北冰洋迎来了终局。全舰 1968 名官兵中仅 36 人在冰水中获救。残骸于 2000 年由挪威海军发现。",
+      "en": "The veteran that once sank HMS Glorious met her end in the freezing Arctic Ocean. Only 36 of her 1,968 crew members were rescued from the icy waters. Her wreck was discovered by the Royal Norwegian Navy in 2000."
+    },
+    "battle": {
+      "zh": "北角海战",
+      "en": "Battle of North Cape"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bundesarchiv_DVM_10_Bild-23-63-07%2C_Schlachtschiff_%22Scharnhorst%22.jpg"
+  },
+  {
+    "id": "bb-tirpitz",
+    "name": {
+      "zh": "提尔皮茨号战列舰",
+      "en": "German Battleship Tirpitz"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [69.646, 18.808],
+    "sinkingDate": "1944-11-12",
+    "cause": {
+      "zh": "躲藏在挪威特罗姆瑟林根峡湾时，遭到英国皇家空军第 9 和第 617 中队的 32 架兰开斯特轰炸机袭击。被两枚 5.4 吨重的‘高脚柜’ (Tallboy) 地震炸弹直接命中，引发弹药库爆炸后倾覆沉没。",
+      "en": "While hiding in the Tromsøfjord, Norway, she was attacked by 32 Lancaster bombers from RAF No. 9 and No. 617 Squadrons. Hit directly by two 5.4-ton 'Tallboy' earthquake bombs, which caused a magazine explosion, she capsized and sank."
+    },
+    "depth": {
+      "zh": "极浅 (倾覆在峡湾内，战后被挪威公司当做废铁拆解)",
+      "en": "Extremely shallow (Capsized in the fjord; scrapped post-war by a Norwegian company)"
+    },
+    "historyNotes": {
+      "zh": "俾斯麦号的姊妹舰，被称为‘北方的孤独女王’。它一生极少出港作战，却牵制了皇家海军极其庞大的兵力。它的覆灭标志着德国水面舰队威胁的彻底解除。",
+      "en": "The sister ship of the Bismarck, known as 'The Lonely Queen of the North'. She spent most of her life in port but tied down immense Royal Navy resources. Her destruction marked the end of the surface threat from the German Navy."
+    },
+    "battle": {
+      "zh": "探题行动 (空袭特罗姆瑟)",
+      "en": "Operation Catechism"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/67/Tirpitz_early.jpg"
+  },
+  {
+    "id": "cv-courageous",
+    "name": {
+      "zh": "勇敢号航空母舰",
+      "en": "HMS Courageous"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "舰队航空母舰",
+      "en": "Fleet Aircraft Carrier"
+    },
+    "coordinates": [49.166, -14.333],
+    "sinkingDate": "1939-09-17",
+    "cause": {
+      "zh": "在爱尔兰西南海域执行反潜巡逻时，被德国潜艇 U-29 击中两枚鱼雷，在 20 分钟内迅速沉没。",
+      "en": "While on anti-submarine patrol southwest of Ireland, she was struck by two torpedoes from the German submarine U-29 and sank rapidly within 20 minutes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它是二战中英国损失的第一艘航空母舰。这次惨痛的教训让皇家海军立刻停止了使用宝贵的舰队航母去直接执行反潜猎杀的危险战术。",
+      "en": "She was the first British aircraft carrier lost in WWII. This painful lesson led the Royal Navy to immediately cease the dangerous tactic of using valuable fleet carriers for direct anti-submarine hunting missions."
+    },
+    "battle": {
+      "zh": "大西洋海战 (早期潜艇战)",
+      "en": "Battle of the Atlantic (Early U-boat warfare)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/75/HMS_Courageous_%2850%29.jpg"
+  },
+  {
+    "id": "amc-rawalpindi",
+    "name": {
+      "zh": "拉瓦尔品第号武装商船巡洋舰",
+      "en": "HMS Rawalpindi"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装商船巡洋舰 (AMC)",
+      "en": "Armed Merchant Cruiser (AMC)"
+    },
+    "coordinates": [63.666, -11.483],
+    "sinkingDate": "1939-11-23",
+    "cause": {
+      "zh": "在法罗群岛和冰岛之间的海峡巡逻时，遭遇德国战列巡洋舰“沙恩霍斯特号”和“格奈森瑙号”。在拒绝投降后被德舰 280 毫米主炮轰成碎片。",
+      "en": "While patrolling the passage between the Faroe Islands and Iceland, she encountered the German battlecruisers Scharnhorst and Gneisenau. After refusing to surrender, she was blown to pieces by 280mm main battery fire."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "由邮轮改装而成。面对绝对碾压的火力，舰长肯尼迪下令拉起烟幕并开火还击，进行了一场悲壮的自杀式抵抗，向德国人展示了皇家海军死战不降的决心。",
+      "en": "Converted from a passenger liner. Facing overwhelming firepower, Captain Kennedy ordered smoke screens and returned fire in a heroic suicidal resistance, demonstrating to the Germans the Royal Navy's resolve to fight to the death."
+    },
+    "battle": {
+      "zh": "大西洋海战 (北方巡逻线)",
+      "en": "Battle of the Atlantic (Northern Patrol)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null
+  },
+  {
+    "id": "amc-jervis-bay",
+    "name": {
+      "zh": "杰维斯湾号武装商船巡洋舰",
+      "en": "HMS Jervis Bay"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装商船巡洋舰 (AMC)",
+      "en": "Armed Merchant Cruiser (AMC)"
+    },
+    "coordinates": [52.833, -32.250],
+    "sinkingDate": "1940-11-05",
+    "cause": {
+      "zh": "在护航 HX 84 船队时遭遇德国袖珍战列舰“舍尔海军上将号”。为了掩护船队逃跑，单舰脱离编队向德舰发起冲锋并被击沉。",
+      "en": "Encountered the German pocket battleship Admiral Scheer while escorting Convoy HX 84. To cover the convoy's escape, she broke formation to charge the German ship and was sunk."
+    },
+    "depth": {
+      "zh": "未知 (中大西洋深水区)",
+      "en": "Unknown (Deep waters of the Mid-Atlantic)"
+    },
+    "historyNotes": {
+      "zh": "舰长爱德华·费根因此次英勇的自我牺牲被追授维多利亚十字勋章。它的死亡冲锋为船队争取了宝贵的时间，最终 37 艘商船中有 32 艘成功在夜色中逃脱。",
+      "en": "Captain Edward Fegen was posthumously awarded the Victoria Cross for this heroic act of self-sacrifice. Her suicidal charge bought precious time, allowing 32 out of 37 merchant ships to escape under the cover of darkness."
+    },
+    "battle": {
+      "zh": "大西洋海战 (护航防卫战)",
+      "en": "Battle of the Atlantic (Convoy Defense)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/JervisBayatDakar1940.jpg/960px-JervisBayatDakar1940.jpg"
+  },
+  {
+    "id": "dd-245-reuben-james",
+    "name": {
+      "zh": "鲁本·詹姆斯号驱逐舰",
+      "en": "USS Reuben James (DD-245)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [50.250, -37.800],
+    "sinkingDate": "1941-10-31",
+    "cause": {
+      "zh": "在护航 HX 156 船队时，被德国潜艇 U-552 发射的鱼雷击中前部弹药库，发生剧烈爆炸并断成两截沉没。",
+      "en": "While escorting Convoy HX 156, she was struck in the forward magazine by a torpedo from the German submarine U-552. She exploded violently, broke in two, and sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这是美国海军在二战中损失的第一艘军舰（此时距珍珠港事件还有一个多月，美国尚未正式宣战）。它的沉没极大地震动了美国国内情绪。",
+      "en": "This was the first U.S. Navy warship lost to enemy action in WWII (occurring over a month before Pearl Harbor, while the U.S. was still officially neutral). Her sinking greatly shocked the American public."
+    },
+    "battle": {
+      "zh": "大西洋海战 (中立巡逻)",
+      "en": "Battle of the Atlantic (Neutrality Patrol)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/USS_Reuben_James_%28DD-245%29_on_29_April_1939.jpg/1920px-USS_Reuben_James_%28DD-245%29_on_29_April_1939.jpg"
+  },
+  {
+    "id": "u-110",
+    "name": {
+      "zh": "U-110 号潜艇",
+      "en": "German Submarine U-110"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "IXB型潜艇",
+      "en": "Type IXB Submarine"
+    },
+    "coordinates": [60.366, -33.166],
+    "sinkingDate": "1941-05-09",
+    "cause": {
+      "zh": "在攻击船队时被英国驱逐舰逼出水面并俘获。在被拖曳回英国本土途中因进水过多而沉没。",
+      "en": "Forced to the surface and captured by British destroyers while attacking a convoy. She sank due to excessive flooding while being towed back to Britain."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "虽然最终沉没，但这艘潜艇是盟军在大西洋战役中最具决定性的胜利。英国水兵在潜艇沉没前拼死抢出了一台完好的‘恩尼格玛’ (Enigma) 密码机和密码本，让布莱切利园的图灵团队成功破译了德国海军通讯，彻底扭转了反潜战的走向。",
+      "en": "Though she eventually sank, her capture was one of the most decisive Allied victories of the Atlantic campaign. Before she went down, British sailors managed to seize an intact Enigma machine and codebooks, enabling Turing's team at Bletchley Park to crack German naval communications and fundamentally turn the tide of the anti-submarine war."
+    },
+    "battle": {
+      "zh": "大西洋海战 (情报战)",
+      "en": "Battle of the Atlantic (Intelligence War)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/86/U-110_and_HMS_Bulldog.jpg"
+  },
+  {
+    "id": "rms-laconia",
+    "name": {
+      "zh": "拉科尼亚号邮轮",
+      "en": "RMS Laconia"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装运兵船",
+      "en": "Armed Troopship"
+    },
+    "coordinates": [-4.566, -11.416],
+    "sinkingDate": "1942-09-12",
+    "cause": {
+      "zh": "在南大西洋被德国潜艇 U-156 击沉。",
+      "en": "Sunk by the German submarine U-156 in the South Atlantic."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "船上载有大量平民和意大利战俘。U-156 艇长在发现水中有大量平民后立刻展开救援，并用明码呼叫盟军协助。然而，一架美军 B-24 轰炸机赶到后，却对挂着红十字旗正在救人的潜艇投弹。这一事件直接导致德国海军司令邓尼茨下达了冷血的‘拉科尼亚命令’，绝对禁止 U 潜艇在此后救助任何沉船幸存者。",
+      "en": "Carrying numerous civilians and Italian POWs. Upon discovering the civilians in the water, the commander of U-156 immediately began rescue operations and radioed for Allied assistance in the clear. However, a U.S. B-24 bomber attacked the submarine despite it flying a Red Cross flag and engaging in rescue. This incident led Admiral Dönitz to issue the cold-blooded 'Laconia Order,' strictly forbidding U-boats from rescuing any shipwreck survivors thereafter."
+    },
+    "battle": {
+      "zh": "拉科尼亚事件",
+      "en": "The Laconia Incident"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/00/RMS_Laconia_%28cropped%29.jpg"
+  },
+  {
+    "id": "u-166",
+    "name": {
+      "zh": "U-166 号潜艇",
+      "en": "German Submarine U-166"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "IXC型潜艇",
+      "en": "Type IXC Submarine"
+    },
+    "coordinates": [28.675, -88.199],
+    "sinkingDate": "1942-07-30",
+    "cause": {
+      "zh": "在墨西哥湾伏击客轮后，遭到美国海军 PC-566 号巡逻艇投掷的深水炸弹击中，直接沉入海底。",
+      "en": "After ambushing a passenger ship in the Gulf of Mexico, she was struck by depth charges from the U.S. Navy patrol craft PC-566 and sank directly to the seabed."
+    },
+    "depth": {
+      "zh": "约 1524 米",
+      "en": "Approx. 1524 meters"
+    },
+    "historyNotes": {
+      "zh": "它是唯一一艘在墨西哥湾被击沉的 U 艇。长期以来人们一直找错了位置，直到 2001 年在进行海底输油管道勘探时，才在深海泥床上发现了它极其完整的残骸。",
+      "en": "The only U-boat sunk in the Gulf of Mexico. For decades, its location was misidentified until 2001, when its remarkably intact wreck was discovered on the deep-sea bed during a survey for an underwater oil pipeline."
+    },
+    "battle": {
+      "zh": "击鼓行动 (墨西哥湾)",
+      "en": "Operation Drumbeat (Gulf of Mexico)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null
+  },
+  {
+    "id": "u-352",
+    "name": {
+      "zh": "U-352 号潜艇",
+      "en": "German Submarine U-352"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "VIIC型潜艇",
+      "en": "Type VIIC Submarine"
+    },
+    "coordinates": [34.228, -76.565],
+    "sinkingDate": "1942-05-09",
+    "cause": {
+      "zh": "在北卡罗来纳州近海误判目标，向美国海岸警卫队伊卡洛斯号（USCGC Icarus）发射鱼雷失败，反被对方用深水炸弹逼出水面并击沉。",
+      "en": "Off the coast of North Carolina, she misidentified her target and failed in a torpedo attack against the USCGC Icarus. She was subsequently forced to the surface by depth charges and sunk."
+    },
+    "depth": {
+      "zh": "约 35 米",
+      "en": "Approx. 35 meters"
+    },
+    "historyNotes": {
+      "zh": "这是如今美国东海岸最著名的潜水胜地之一。残骸静静地躺在北卡罗来纳州的‘逃亡角’（Cape Lookout）水下，舰体向右舷倾斜，成为了人工鱼礁。",
+      "en": "One of the most popular dive sites on the U.S. East Coast today. The wreck lies off Cape Lookout, North Carolina, listing to her starboard side and serving as an artificial reef."
+    },
+    "battle": {
+      "zh": "大西洋海战 (美国东海岸)",
+      "en": "Battle of the Atlantic (U.S. East Coast)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Photographing_a_German_U-boat.jpg"
+  },
+  {
+    "id": "u-869",
+    "name": {
+      "zh": "U-869 号潜艇",
+      "en": "German Submarine U-869"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "IXC/40型潜艇",
+      "en": "Type IXC/40 Submarine"
+    },
+    "coordinates": [39.550, -73.333],
+    "sinkingDate": "1945-02-11",
+    "cause": {
+      "zh": "沉没原因至今仍有争议，主流观点认为它遭到了美军驱逐舰的深水炸弹攻击，或者被自己发射后故障回旋的声导鱼雷击中。",
+      "en": "The cause of her sinking remains controversial; leading theories suggest she was either destroyed by U.S. destroyer depth charges or struck by a circular run of her own faulty acoustic homing torpedo."
+    },
+    "depth": {
+      "zh": "约 73 米",
+      "en": "Approx. 73 meters"
+    },
+    "historyNotes": {
+      "zh": "这就是著名的‘U-Who’（无名潜艇）。1991 年被极限潜水员在新泽西州外海发现，但德国官方记录它应该沉没在直布罗陀。经过数年极其危险的深潜调查才最终确认其身份，这段故事被写成了畅销书《暗影潜水员》（Shadow Divers）。",
+      "en": "The famous 'U-Who'. Discovered off New Jersey in 1991 by technical divers, despite German official records placing her near Gibraltar. Years of dangerous deep-diving investigations eventually confirmed her identity, a saga chronicled in the bestseller 'Shadow Divers'."
+    },
+    "battle": {
+      "zh": "大西洋海战 (末期破交)",
+      "en": "Battle of the Atlantic (Late-war Raiding)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null
+  },
+  {
+    "id": "u-85",
+    "name": {
+      "zh": "U-85 号潜艇",
+      "en": "German Submarine U-85"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "VIIB型潜艇",
+      "en": "Type VIIB Submarine"
+    },
+    "coordinates": [35.916, -75.216],
+    "sinkingDate": "1942-04-14",
+    "cause": {
+      "zh": "在北卡罗来纳州哈特拉斯角（Cape Hatteras）附近的浅水区被美国海军驱逐舰罗珀号（USS Roper）的雷达发现，遭火炮近距离击沉。",
+      "en": "Detected by radar in shallow waters near Cape Hatteras, North Carolina, by the U.S. destroyer USS Roper and sunk by close-range gunfire."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "它是美国正式参战后，美国海军击沉的第一艘德国 U 艇。它的沉没地点水非常浅，属于著名的哈特拉斯‘大西洋墓地’的一部分。",
+      "en": "The first German U-boat sunk by the U.S. Navy after the United States officially entered the war. Her wreck lies in very shallow water, forming part of the famous 'Graveyard of the Atlantic' off Cape Hatteras."
+    },
+    "battle": {
+      "zh": "大西洋海战 (击鼓行动)",
+      "en": "Battle of the Atlantic (Operation Drumbeat)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/52/U_52.jpg"
+  },
+  {
+    "id": "u-1195",
+    "name": {
+      "zh": "U-1195 号潜艇",
+      "en": "German Submarine U-1195"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "VIIC型潜艇",
+      "en": "Type VIIC Submarine"
+    },
+    "coordinates": [50.550, -0.933],
+    "sinkingDate": "1945-04-06",
+    "cause": {
+      "zh": "在英吉利海峡试图用新型‘刺猬弹’躲避探测时，被英国皇家海军守望者号（HMS Watchman）的深水炸弹精准击中沉没。",
+      "en": "While attempting to evade detection in the English Channel, she was sunk by precision depth charge attacks from the Royal Navy destroyer HMS Watchman."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "这艘潜艇的残骸非常容易潜入，位于英国怀特岛（Isle of Wight）以南。它展示了战争极末期，U 艇在盟军绝对制海权下近乎自杀式的近岸突击。",
+      "en": "The wreck is highly accessible to divers and is located south of the Isle of Wight, UK. She represents the near-suicidal coastal sorties of U-boats under absolute Allied naval supremacy in the final weeks of the war."
+    },
+    "battle": {
+      "zh": "大西洋海战 (英吉利海峡)",
+      "en": "Battle of the Atlantic (English Channel)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null
+  },
+  {
+    "id": "dd-463-corry",
+    "name": {
+      "zh": "科里号驱逐舰",
+      "en": "USS Corry (DD-463)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [49.513, -1.191],
+    "sinkingDate": "1944-06-06",
+    "cause": {
+      "zh": "在诺曼底登陆（D-Day）当天，于“犹他”海滩（Utah Beach）外海执行火力支援时，不幸触发水雷（同时可能遭到德军岸防炮命中），舰体断裂后沉没。",
+      "en": "On D-Day, while providing fire support off Utah Beach, she struck a mine (and was possibly hit by German coastal artillery). Her hull broke, and she sank."
+    },
+    "depth": {
+      "zh": "约 9 米 (极浅水)",
+      "en": "Approx. 9 meters (Extremely shallow)"
+    },
+    "historyNotes": {
+      "zh": "它是诺曼底登陆当天美军损失的最大一艘军舰。由于沉没地点极其靠近海岸，很多幸存船员在冰冷的海水中坚持到了被其他登陆艇救起。残骸至今仍在犹他海滩外的浅水区。",
+      "en": "The largest U.S. warship lost on D-Day. Because she sank so close to shore, many survivors managed to endure the cold water until rescued by other landing craft. Her wreck remains in the shallow waters off Utah Beach today."
+    },
+    "battle": {
+      "zh": "诺曼底登陆 (霸王行动)",
+      "en": "D-Day (Operation Overlord)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/USS_Corry_%28DD-463%29_rescuing_German_sailors_in_the_Atlantic_Ocean%2C_17_March_1944_%2880-G-222851%29.jpg/1920px-USS_Corry_%28DD-463%29_rescuing_German_sailors_in_the_Atlantic_Ocean%2C_17_March_1944_%2880-G-222851%29.jpg"
+  },
+  {
+    "id": "cl-edinburgh",
+    "name": {
+      "zh": "爱丁堡号轻巡洋舰",
+      "en": "HMS Edinburgh"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [73.150, 32.750],
+    "sinkingDate": "1942-05-02",
+    "cause": {
+      "zh": "在护航 QP-11 船队从苏联返回英国途中，先被德国潜艇 U-456 的鱼雷重创，随后在与德国驱逐舰的混战中再次中雷失去动力，最终由友军驱逐舰发射鱼雷击沉以免落入敌手。",
+      "en": "While escorting Convoy QP-11 from the USSR back to the UK, she was first crippled by a torpedo from U-456. Later, during a melee with German destroyers, she was hit by another torpedo. She was eventually scuttled by a friendly destroyer to prevent capture."
+    },
+    "depth": {
+      "zh": "约 245 米",
+      "en": "Approx. 245 meters"
+    },
+    "historyNotes": {
+      "zh": "该舰沉没时，弹药库里装有斯大林用来支付西方军火的 4.5 吨纯金金条（当时价值约 150 万英镑）。1981 年，深海打捞队奇迹般地从这艘战争公墓中捞出了绝大部分黄金，这成为了史上最成功的深海寻宝行动之一。",
+      "en": "At the time of her sinking, her cargo held 4.5 tons of gold bullion sent by Stalin as payment for Western armaments (then valued at £1.5 million). In 1981, a deep-sea salvage team miraculously recovered most of the gold from the war grave, marking it as one of the most successful salvage operations in history."
+    },
+    "battle": {
+      "zh": "北极护航战",
+      "en": "Arctic Convoys"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HMS_Edinburgh.jpg"
+  },
+  {
+    "id": "cve-21-block-island",
+    "name": {
+      "zh": "布洛克岛号护航航空母舰",
+      "en": "USS Block Island (CVE-21)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "护航航空母舰",
+      "en": "Escort Carrier"
+    },
+    "coordinates": [31.216, -23.050],
+    "sinkingDate": "1944-05-29",
+    "cause": {
+      "zh": "在加那利群岛和亚速尔群岛之间的海域执行反潜猎杀任务时，遭到德国潜艇 U-549 的伏击，身中三枚鱼雷后沉没。",
+      "en": "While executing an anti-submarine hunter-killer mission in the waters between the Canary Islands and the Azores, she was ambushed by the German submarine U-549 and sank after taking three torpedo hits."
+    },
+    "depth": {
+      "zh": "未知 (中大西洋深水区)",
+      "en": "Unknown (Deep waters of the Mid-Atlantic)"
+    },
+    "historyNotes": {
+      "zh": "它是二战期间美国海军在大西洋战区损失的唯一一艘航空母舰。具有讽刺意味的是，它原本的任务就是专门搜寻和猎杀 U 潜艇的‘猎杀小队’旗舰。",
+      "en": "She was the only U.S. Navy aircraft carrier lost in the Atlantic Theater during WWII. Ironically, she was serving as the flagship of a 'Hunter-Killer Task Group' specifically tasked with searching for and destroying U-boats."
+    },
+    "battle": {
+      "zh": "大西洋海战 (反潜猎杀群)",
+      "en": "Battle of the Atlantic (Hunter-Killer Groups)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/USS_Block_Island_%28CVE-21%29_underway_Atlantic_Ocean_on_15_October_1943_%28NH_106576%29.jpg/1920px-USS_Block_Island_%28CVE-21%29_underway_Atlantic_Ocean_on_15_October_1943_%28NH_106576%29.jpg"
+  },
+  {
+    "id": "hsk-atlantis",
+    "name": {
+      "zh": "亚特兰蒂斯号辅助巡洋舰",
+      "en": "German Auxiliary Cruiser Atlantis (Raider C)"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "辅助巡洋舰 (伪装袭击舰)",
+      "en": "Auxiliary Cruiser (Commerce Raider)"
+    },
+    "coordinates": [-4.200, -18.700],
+    "sinkingDate": "1941-11-22",
+    "cause": {
+      "zh": "在南大西洋进行补给作业时，被英国重巡洋舰‘德文郡号’ (HMS Devonshire) 的水上飞机发现。英舰在远距离用 8 英寸主炮开火，亚特兰蒂斯号舰长下令引爆炸药自沉。",
+      "en": "Discovered by a floatplane from the British heavy cruiser HMS Devonshire while conducting resupply operations in the South Atlantic. The British ship opened fire with her 8-inch main guns at long range, and Atlantis's captain ordered scuttling charges detonated to sink her."
+    },
+    "depth": {
+      "zh": "未知 (南大西洋深渊)",
+      "en": "Unknown (Depths of the South Atlantic)"
+    },
+    "historyNotes": {
+      "zh": "这是德国二战中最成功的伪装袭击舰。它在海上连续航行了 622 天（创下记录），航迹遍布大西洋、印度洋甚至太平洋边缘，共击沉或俘获了 22 艘盟军商船。它的沉没标志着水面破交舰时代的衰落。",
+      "en": "This was Germany's most successful disguised commerce raider of WWII. She sailed continuously for 622 days (setting a record), traversing the Atlantic, Indian Ocean, and even the edge of the Pacific, sinking or capturing 22 Allied merchant ships. Her sinking signaled the decline of the era of surface commerce raiders."
+    },
+    "battle": {
+      "zh": "大西洋海战 (破交战)",
+      "en": "Battle of the Atlantic (Commerce Raiding)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hilfskreuzer_Atlantis.jpg"
+  },
+  {
+    "id": "cl-sydney",
+    "name": {
+      "zh": "悉尼号轻巡洋舰",
+      "en": "HMAS Sydney (D48)"
+    },
+    "faction": {
+      "zh": "澳大利亚",
+      "en": "Australia"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [-26.241, 111.213],
+    "sinkingDate": "1941-11-19",
+    "cause": {
+      "zh": "在西澳大利亚鲨鱼湾外海拦截不明商船时，因距离过近（约 1000 米），遭到伪装成荷兰商船的德国‘鸬鹚号’突然集火射击和鱼雷打击。舰桥和火控系统瞬间被毁，燃起大火后向东南方漂流并最终沉没。",
+      "en": "While intercepting an unidentified merchant ship off Shark Bay, Western Australia, she closed the distance too much (approx. 1000 meters) and suffered a sudden, concentrated gunfire and torpedo attack from the German raider Kormoran, which was disguised as a Dutch merchantman. Her bridge and fire control systems were instantly destroyed. She caught massive fires, drifted southeast, and eventually sank."
+    },
+    "depth": {
+      "zh": "约 2468 米",
+      "en": "Approx. 2468 meters"
+    },
+    "historyNotes": {
+      "zh": "皇家澳大利亚海军的骄傲，曾在大地中海战区屡建奇功。它的沉没是澳大利亚海军史上最惨重的损失，全舰 645 名官兵无一生还。残骸之谜困扰了澳大利亚长达 67 年，直到 2008 年才被寻获。",
+      "en": "The pride of the Royal Australian Navy, having previously distinguished herself in the Mediterranean Theater. Her sinking remains the most tragic loss in Australian naval history, with all 645 hands lost. The mystery of her wreck haunted Australia for 67 years until it was finally discovered in 2008."
+    },
+    "battle": {
+      "zh": "悉尼号与鸬鹚号海战",
+      "en": "Mutual Destruction of Sydney and Kormoran"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/au.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HMAS_Sydney_in_1936_%289916488333607636%29.jpg/960px-HMAS_Sydney_in_1936_%289916488333607636%29.jpg"
+  },
+  {
+    "id": "hsk-kormoran",
+    "name": {
+      "zh": "鸬鹚号辅助巡洋舰",
+      "en": "German Auxiliary Cruiser Kormoran (HSK-8)"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "辅助巡洋舰 (伪装袭击舰)",
+      "en": "Auxiliary Cruiser (Commerce Raider)"
+    },
+    "coordinates": [-26.059, 111.066],
+    "sinkingDate": "1941-11-19",
+    "cause": {
+      "zh": "在与悉尼号的极近距离交火中，虽然凭借偷袭重创了对手，但也遭到悉尼号主炮的致命反击。轮机舱被毁，引发的大火逼近水雷库，最终由舰长特奥多尔·德特默斯下令弃舰并引爆自沉。",
+      "en": "During her point-blank engagement with HMAS Sydney, despite crippling her opponent via surprise attack, she suffered a fatal counter-battery barrage from Sydney's main guns. Her engine room was destroyed, and spreading fires threatened the mine magazine. She was ultimately abandoned and scuttled on the orders of Captain Theodor Detmers."
+    },
+    "depth": {
+      "zh": "约 2560 米",
+      "en": "Approx. 2560 meters"
+    },
+    "historyNotes": {
+      "zh": "二战中最大型的德国伪装袭击舰。它创造了以商船底子击沉敌方正规巡洋舰的奇迹。与悉尼号全军覆没形成鲜明对比的是，鸬鹚号的船员在弃舰后有 318 人幸存并乘坐救生艇登陆了澳大利亚海岸，成为战俘。",
+      "en": "The largest German disguised commerce raider of WWII. She pulled off the miracle of sinking a regular enemy cruiser with a converted merchant hull. In stark contrast to the total loss of Sydney's crew, 318 of Kormoran's men survived the scuttling, reaching the Australian coast in lifeboats and becoming prisoners of war."
+    },
+    "battle": {
+      "zh": "悉尼号与鸬鹚号海战",
+      "en": "Mutual Destruction of Sydney and Kormoran"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_Bild_146-1985-074-27%2C_Hilfskreuzer_Kormoran.jpg"
+  },
+  {
+    "id": "cl-konigsberg",
+    "name": {
+      "zh": "柯尼斯堡号轻巡洋舰",
+      "en": "German Cruiser Königsberg"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [60.399, 5.317],
+    "sinkingDate": "1940-04-10",
+    "cause": {
+      "zh": "在入侵挪威时停泊于卑尔根港，遭到英国皇家海军航空兵 16 架‘贼鸥’(Skua) 式俯冲轰炸机的突袭。身中三枚炸弹并近失数枚，引发大火和进水，随后在港口内倾覆沉没。",
+      "en": "While moored in the port of Bergen during the invasion of Norway, she was surprised by 16 Blackburn Skua dive bombers of the Fleet Air Arm. She suffered three direct bomb hits and several near misses, triggering massive fires and flooding before capsizing and sinking in the harbor."
+    },
+    "depth": {
+      "zh": "浅水坐沉 (1942年被打捞作为防空浮台，战后拆解)",
+      "en": "Settled in shallow water (Refloated in 1942 to serve as an anti-aircraft floating battery; scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "历史地位极其特殊：它是人类战争史上第一艘在实战中被俯冲轰炸机直接击沉的主力军舰。这次攻击证明了航空兵对水面舰艇的致命威胁，拉开了二战‘海空战’的序幕。",
+      "en": "Holds a highly unique historical status: she was the first major warship in the history of human warfare to be sunk directly by dive bombers in combat. This attack proved the lethal threat that aviation posed to surface ships, drawing the curtain on the 'air-sea battles' of WWII."
+    },
+    "battle": {
+      "zh": "挪威战役 (威悉演习行动)",
+      "en": "Norwegian Campaign (Operation Weserübung)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/40/K%C3%B6nigsberg_3.jpg"
+  },
+  {
+    "id": "info-atlantic-graveyard",
+    "name": {
+      "zh": "大西洋海战：未被标记的钢铁墓地",
+      "en": "Battle of the Atlantic: The Unmapped Graveyard"
+    },
+    "faction": {
+      "zh": "所有阵营",
+      "en": "All Factions"
+    },
+    "type": {
+      "zh": "纪念/信息标记",
+      "en": "Memorial / Info Marker"
+    },
+    "coordinates": [40.000, -40.000],
+    "sinkingDate": "1939-1945",
+    "cause": {
+      "zh": "在长达六年的大西洋绞杀战中，因战损、风暴或误击沉没，且精确坐标永远消失在茫茫大洋深处。",
+      "en": "Sunk due to battle damage, storms, or friendly fire during the six-year-long Tonnage War in the Atlantic, with their precise coordinates lost forever in the vast depths of the ocean."
+    },
+    "depth": {
+      "zh": "大西洋深渊",
+      "en": "Abyssal depths of the Atlantic"
+    },
+    "historyNotes": {
+      "zh": "这是一个特殊的历史纪念标。在二战期间，仅大西洋海域就沉没了超过 3500 艘商船、上百艘护航军舰以及 700 多艘潜艇。由于数据极其庞大且多数残骸至今未能寻获，系统无法一一穷举渲染。这个坐标代表了所有未在地图上标出的无名战舰、商船，以及长眠于此的十余万名水手与平民。",
+      "en": "This is a special historical memorial marker. During WWII, the Atlantic Ocean alone saw the sinking of over 3,500 merchant ships, hundreds of escort warships, and more than 700 submarines. Because the data is overwhelmingly vast and most wrecks remain undiscovered to this day, the system cannot exhaustively render them all. This coordinate stands for all the unnamed warships and merchant vessels not marked on the map, and the over one hundred thousand sailors and civilians who rest here."
+    },
+    "battle": {
+      "zh": "大西洋海战 (全期)",
+      "en": "Battle of the Atlantic (Entire Campaign)"
+    },
+    "flagIconUrl": "/memorial_new.png",
+    "cover": "/memorial_new.png"
+  }
+]
