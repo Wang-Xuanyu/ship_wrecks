@@ -1413,41 +1413,6 @@
     "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/USS_Laffey_%28DD-459%29_underway_in_the_South_Pacific_on_4_September_1942_%28NH_97864%29.jpg/1920px-USS_Laffey_%28DD-459%29_underway_in_the_South_Pacific_on_4_September_1942_%28NH_97864%29.jpg"
   },
   {
-    "id": "dd-yudachi",
-    "name": {
-      "zh": "夕立号驱逐舰",
-      "en": "IJN Yūdachi"
-    },
-    "faction": {
-      "zh": "日本",
-      "en": "Japan"
-    },
-    "type": {
-      "zh": "驱逐舰",
-      "en": "Destroyer"
-    },
-    "coordinates": [-9.210, 159.850],
-    "sinkingDate": "1942-11-13",
-    "cause": {
-      "zh": "在夜战中受重创失去动力，随后由美军波特兰号重巡洋舰击沉。",
-      "en": "Severely damaged and lost power during the night battle, later sunk by the US heavy cruiser USS Portland."
-    },
-    "depth": {
-      "zh": "未知",
-      "en": "Unknown"
-    },
-    "historyNotes": {
-      "zh": "在著名的“周五13号”夜战中表现异常激进，但也因此深陷敌阵。",
-      "en": "Showed exceptionally aggressive behavior in the famous 'Friday the 13th' night battle, which also led her deep into enemy lines."
-    },
-    "battle": {
-      "zh": "瓜达尔卡纳尔海战",
-      "en": "Naval Battle of Guadalcanal"
-    },
-    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Yudachi_II.jpg"
-  },
-  {
     "id": "dd-akatsuki",
     "name": {
       "zh": "晓号驱逐舰",
