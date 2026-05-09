@@ -1293,5 +1293,40 @@
     },
     "flagIconUrl": "https://flagcdn.com/w40/fr.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rigault_de_Genouilly_SLV_Green_1938.jpg/3840px-Rigault_de_Genouilly_SLV_Green_1938.jpg"
+  },
+  {
+    "id": "cve-chuyo",
+    "name": {
+      "zh": "冲鹰号护航航空母舰",
+      "en": "IJN Chūyō"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "护航航空母舰",
+      "en": "Escort Carrier"
+    },
+    "coordinates": [32.500, 143.650],
+    "sinkingDate": "1943-12-04",
+    "cause": {
+      "zh": "在遭遇台风级恶劣海况的黑夜中，被美军潜艇旗鱼号 (USS Sailfish) 通过雷达追踪长达十小时，并连续进行了三次鱼雷攻击。身中至少 4 枚鱼雷后，舰艏被炸断，随后迅速倾覆沉没。",
+      "en": "In the pitch-black of a typhoon-strength gale, she was tracked via radar for ten hours by the submarine USS Sailfish. After three successive torpedo attacks, she was struck by at least 4 torpedoes, which severed her bow before she rapidly capsized and sank."
+    },
+    "depth": {
+      "zh": "未知 (伊豆群岛以东深水区)",
+      "en": "Unknown (Deep waters east of the Izu Islands)"
+    },
+    "historyNotes": {
+      "zh": "这艘船的沉没伴随着二战最令人痛心的‘误杀’。冲鹰号沉没时，底舱关押着 21 名早前被俘的美军‘杜父鱼号’ (USS Sculpin) 潜艇官兵。发起攻击的‘旗鱼号’在风暴中毫不留情地击沉了它，完全不知道里面有自己的战友。最终 20 名美军同胞随日舰长眠海底。",
+      "en": "The sinking was accompanied by one of the most tragic instances of 'friendly fire' in WWII. At the time of her sinking, Chūyō was carrying 21 American POWs from the submarine USS Sculpin. The crew of USS Sailfish, relentlessly hunting the ship in the storm, had no idea their own comrades were aboard. 20 of the 21 Americans perished along with the Japanese vessel."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (日本近海)",
+      "en": "Pacific Submarine Warfare (Japanese Home Waters)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Japanese_aircraft_carrier_Chuyo_1942.jpg"
   }
 ]
