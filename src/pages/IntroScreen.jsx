@@ -37,6 +37,13 @@ export default function IntroScreen() {
       >
         Dive into the Deep (Enter Map)
       </button>
+
+      <button
+        onClick={() => window.open('https://github.com/Wang-Xuanyu/ship_wrecks', '_blank')}
+        className="mt-16 px-8 py-4 text-lg font-bold text-cyan-400 border-2 border-cyan-500 transition-all duration-300 hover:bg-cyan-500/10 hover:-translate-y-1"
+      >
+        GitHub Repository
+      </button>
     </div>
   );
 }
