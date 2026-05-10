@@ -1328,5 +1328,40 @@
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/6/69/Imperial_Japanese_Navy_aircraft_career_Chuyo.JPG"
+  },
+  {
+    "id": "dd-urakaze",
+    "name": {
+      "zh": "浦风号驱逐舰",
+      "en": "IJN Urakaze"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "驱逐舰 (阳炎型)",
+      "en": "Destroyer (Kagerō-class)"
+    },
+    "coordinates": [26.150, 121.383],
+    "sinkingDate": "1944-11-21",
+    "cause": {
+      "zh": "在护卫金刚号和长门号战列舰撤退途中，于台湾基隆西北方海域遭遇美军潜艇海狮号 (USS Sealion) 的伏击。意外被一枚原本瞄准长门号的鱼雷命中，直接引发主弹药库极其剧烈的殉爆，舰体瞬间解体沉没。",
+      "en": "While escorting the battleships Kongō and Nagato during their retreat, she was ambushed by the U.S. submarine USS Sealion in the waters northwest of Keelung, Taiwan. She was accidentally struck by a torpedo originally aimed at Nagato, triggering a catastrophic explosion in her main magazine. The ship disintegrated and sank instantly."
+    },
+    "depth": {
+      "zh": "未知 (台湾海峡北部深水区)",
+      "en": "Unknown (Deep waters of the northern Taiwan Strait)"
+    },
+    "historyNotes": {
+      "zh": "二战中最具悲剧色彩的‘挡枪’事件之一。由于弹药库殉爆引发的瞬间解体，全舰 228 人无一生还，甚至比它所护卫的金刚号战列舰（中雷后坚持了两个多小时才沉没）死得还要迅速和惨烈。",
+      "en": "One of the most tragic 'taking a torpedo' incidents of WWII. Due to the instantaneous disintegration caused by the magazine explosion, all 228 crew members were lost with no survivors. Her end was even swifter and more brutal than that of the battleship Kongō she was escorting (which managed to stay afloat for over two hours after being torpedoed before finally sinking)."
+    },
+    "battle": {
+      "zh": "台湾海峡伏击战 (莱特湾海战余波)",
+      "en": "Taiwan Strait Ambush (Aftermath of Leyte Gulf)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Japanese_destroyer_Urakaze_1940.jpg"
   }
 ]
