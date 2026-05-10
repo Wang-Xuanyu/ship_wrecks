@@ -1343,7 +1343,7 @@
       "zh": "驱逐舰 (阳炎型)",
       "en": "Destroyer (Kagerō-class)"
     },
-    "coordinates": [26.150, 121.383],
+    "coordinates": [26.155, 121.350],
     "sinkingDate": "1944-11-21",
     "cause": {
       "zh": "在护卫金刚号和长门号战列舰撤退途中，于台湾基隆西北方海域遭遇美军潜艇海狮号 (USS Sealion) 的伏击。意外被一枚原本瞄准长门号的鱼雷命中，直接引发主弹药库极其剧烈的殉爆，舰体瞬间解体沉没。",
@@ -1358,8 +1358,8 @@
       "en": "One of the most tragic 'taking a torpedo' incidents of WWII. Due to the instantaneous disintegration caused by the magazine explosion, all 228 crew members were lost with no survivors. Her end was even swifter and more brutal than that of the battleship Kongō she was escorting (which managed to stay afloat for over two hours after being torpedoed before finally sinking)."
     },
     "battle": {
-      "zh": "台湾海峡伏击战 (莱特湾海战余波)",
-      "en": "Taiwan Strait Ambush (Aftermath of Leyte Gulf)"
+      "zh": "莱特湾后续 (台湾海峡拦截)",
+      "en": "Aftermath of Leyte Gulf (Taiwan Strait Interception)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Urakaze_II.jpg"
