@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import {
   MapContainer,
   TileLayer,
@@ -20,8 +20,16 @@ import data5 from './datas/data5_new.json';
 import data6 from './datas/data6_new.json';
 import data7 from './datas/data7_new.json';
 import data8 from './datas/data8_new.json';
+import data9 from './datas/data9_new.json';
 
-const shipwrecks = [...data1, ...data2, ...data3, ...data4, ...data5, ...data6, ...data7, ...data8];
+const allShipwrecks = [...data1, ...data2, ...data3, ...data4, ...data5, ...data6, ...data7, ...data8, ...data9];
+const shipwrecksById = new Map();
+allShipwrecks.forEach((ship) => {
+  if (!shipwrecksById.has(ship.id)) {
+    shipwrecksById.set(ship.id, ship);
+  }
+});
+const shipwrecks = Array.from(shipwrecksById.values());
 
 const getText = (value, lang = 'en') => {
   if (!value) return '';
@@ -35,10 +43,15 @@ const normalizeLongitude = (lng) => {
   return lng < -100 ? lng + 360 : lng;
 };
 
+const getMinimumMapZoom = (isMobile) => (isMobile ? 2 : 2);
+
 // 自动缩放组件
-const ChangeView = ({ filteredData }) => {
+const ChangeView = ({ filteredData, isMobile, controlsExpanded }) => {
   const map = useMap();
   useEffect(() => {
+    const minZoom = getMinimumMapZoom(isMobile);
+    map.setMinZoom(minZoom);
+
     if (filteredData.length > 0) {
       const bounds = L.latLngBounds(
         filteredData.map((s) => [
@@ -46,14 +59,24 @@ const ChangeView = ({ filteredData }) => {
           normalizeLongitude(s.coordinates[1])
         ])
       );
+      const targetZoom = Math.max(map.getBoundsZoom(bounds), minZoom);
+
       map.fitBounds(bounds, {
-        padding: [30, 30],
+        paddingTopLeft: [24, 24],
+        paddingBottomRight: [24, isMobile ? (controlsExpanded ? 280 : 104) : 24],
+        minZoom,
         maxZoom: 10,
         animate: true,
         duration: 1.5
       });
+
+      if (targetZoom === minZoom) {
+        window.setTimeout(() => {
+          map.setZoom(minZoom);
+        }, 0);
+      }
     }
-  }, [filteredData, map]);
+  }, [filteredData, map, isMobile, controlsExpanded]);
   return null;
 };
 
@@ -68,10 +91,11 @@ const createFlagIcon = (flagUrl) =>
   });
 
 const ShipwreckMap = () => {
-  const { t, i18n } = useTranslation();
+  const { i18n } = useTranslation();
   const [selectedBattle, setSelectedBattle] = useState('All');
   const [selectedFaction, setSelectedFaction] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
+  const [filtersOpen, setFiltersOpen] = useState(false);
   
   // 响应式状态：增加 SSR 兼容判断和窗口高度监听
   const [isMobile, setIsMobile] = useState(
@@ -80,11 +104,15 @@ const ShipwreckMap = () => {
   const [windowHeight, setWindowHeight] = useState(
     typeof window !== 'undefined' ? window.innerHeight : 800
   );
+  const [windowWidth, setWindowWidth] = useState(
+    typeof window !== 'undefined' ? window.innerWidth : 1024
+  );
 
   useEffect(() => {
     const handleResize = () => {
       setIsMobile(window.innerWidth < 768);
       setWindowHeight(window.innerHeight);
+      setWindowWidth(window.innerWidth);
     };
     window.addEventListener('resize', handleResize);
     return () => window.removeEventListener('resize', handleResize);
@@ -114,35 +142,51 @@ const ShipwreckMap = () => {
     });
   }, [selectedBattle, selectedFaction, searchQuery, lang]);
 
+  const controlsExpanded = !isMobile || filtersOpen;
+  const popupWidth = isMobile ? Math.max(220, Math.min(windowWidth - 44, 320)) : 300;
+  const popupMinWidth = isMobile ? Math.max(200, Math.min(windowWidth - 64, 260)) : 260;
+
   return (
-    <div className="relative w-full h-screen overflow-hidden">
+    <div className="relative w-full h-[100dvh] min-h-[520px] overflow-hidden bg-slate-950">
 
       {/* 控制面板 */}
-      <div className="absolute z-[1000] bg-white/95 p-[10px] md:p-[15px] rounded-lg shadow-[0_4px_10px_rgba(0,0,0,0.2)] flex flex-col gap-2 top-[10px] right-[10px] left-[10px] w-auto md:top-[20px] md:right-[20px] md:left-auto md:w-[240px]">
-        <div className="flex gap-[5px]">
+      <div className="absolute z-[1000] bg-white/95 p-3 md:p-[15px] rounded-lg shadow-[0_4px_18px_rgba(0,0,0,0.25)] flex flex-col gap-2 left-3 right-3 bottom-3 max-h-[58dvh] overflow-y-auto md:top-[20px] md:right-[20px] md:bottom-auto md:left-auto md:w-[260px] md:max-h-[calc(100dvh-40px)]">
+        <div className="flex items-center gap-2">
             <button
             onClick={() => i18n.changeLanguage(lang === 'en' ? 'zh' : 'en')}
-            className="w-full p-2 border border-[#ccc] rounded text-[14px] md:text-[13px] cursor-pointer flex-1 bg-[#f0f0f0]"
+            className="min-h-11 flex-1 rounded border border-[#ccc] bg-[#f0f0f0] px-3 py-2 text-[14px] font-semibold cursor-pointer md:min-h-0 md:text-[13px]"
             >
             {lang === 'en' ? '中文' : 'EN'}
             </button>
-            <div className="flex-[2] flex items-center justify-center text-xs text-[#666]">
+            <div className="flex-[2] flex items-center justify-center text-sm text-[#555] md:text-xs">
                 {filteredShipwrecks.length} {lang === 'en' ? 'ships' : '艘沉船'}
             </div>
+            {isMobile && (
+              <button
+                type="button"
+                onClick={() => setFiltersOpen((open) => !open)}
+                className="min-h-11 rounded border border-[#ccc] bg-[#f8fafc] px-3 py-2 text-sm font-semibold text-[#1f2937]"
+                aria-expanded={filtersOpen}
+              >
+                {filtersOpen ? (lang === 'en' ? 'Hide' : '收起') : (lang === 'en' ? 'Filter' : '筛选')}
+              </button>
+            )}
         </div>
 
-        <input
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-          placeholder={lang === 'en' ? 'Search ship...' : '搜索船名...'}
-          className="w-full p-2 border border-[#ccc] rounded text-[14px] md:text-[13px]"
-        />
+        {controlsExpanded && (
+          <>
+          <input
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            placeholder={lang === 'en' ? 'Search ship...' : '搜索船名...'}
+            className="min-h-11 w-full rounded border border-[#ccc] px-3 py-2 text-[16px] md:min-h-0 md:text-[13px]"
+          />
 
-        <div className="flex gap-2 flex-row md:flex-col">
+          <div className="flex flex-col gap-2 sm:flex-row md:flex-col">
             <select
             value={selectedBattle}
             onChange={(e) => setSelectedBattle(e.target.value)}
-            className="w-full p-2 border border-[#ccc] rounded text-[14px] md:text-[13px]"
+            className="min-h-11 w-full rounded border border-[#ccc] bg-white px-3 py-2 text-[16px] md:min-h-0 md:text-[13px]"
             >
             {battles.map((b) => (
                 <option key={b} value={b}>{b}</option>
@@ -152,26 +196,40 @@ const ShipwreckMap = () => {
             <select
             value={selectedFaction}
             onChange={(e) => setSelectedFaction(e.target.value)}
-            className="w-full p-2 border border-[#ccc] rounded text-[14px] md:text-[13px]"
+            className="min-h-11 w-full rounded border border-[#ccc] bg-white px-3 py-2 text-[16px] md:min-h-0 md:text-[13px]"
             >
             {factions.map((f) => (
                 <option key={f} value={f}>{f}</option>
             ))}
             </select>
-        </div>
+          </div>
+          </>
+        )}
       </div>
 
       {/* 地图组件 */}
       <MapContainer
         center={[15, 155]}
-        zoom={3}
+        zoom={isMobile ? 2 : 3}
+        minZoom={getMinimumMapZoom(isMobile)}
         className="h-full w-full z-0" // 确保地图处于控制面板下方
         zoomControl={!isMobile} 
+        worldCopyJump={true}
       >
-        <ChangeView filteredData={filteredShipwrecks} />
+        <ChangeView
+          filteredData={filteredShipwrecks}
+          isMobile={isMobile}
+          controlsExpanded={controlsExpanded}
+        />
 
         <TileLayer
           url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+          attribution="Tiles &copy; Esri"
+        />
+        <TileLayer
+          url="https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}"
+          attribution="Labels &copy; Esri"
+          zIndex={2}
         />
 
         {filteredShipwrecks.map((ship) => {
@@ -192,19 +250,18 @@ const ShipwreckMap = () => {
             >
               <Popup 
                 // 动态高度：最大不超屏幕的 55%，超过会自动出现滚动条
-                maxHeight={windowHeight * 0.55} 
-                minWidth={isMobile ? 200 : 260} 
-                maxWidth={isMobile ? 250 : 300}
+                maxHeight={windowHeight * (isMobile ? 0.5 : 0.55)}
+                minWidth={popupMinWidth}
+                maxWidth={popupWidth}
                 keepInView={true} 
                 autoPan={true}
-                // 核心修改：顶部留白避开 UI 面板 (手机端上方留 180px，PC 端留 80px)，左右下角留白 15-20px
-                autoPanPaddingTopLeft={[15, isMobile ? 180 : 80]} 
-                autoPanPaddingBottomRight={[15, 20]} 
+                autoPanPaddingTopLeft={[16, 24]} 
+                autoPanPaddingBottomRight={[16, isMobile ? (controlsExpanded ? 300 : 116) : 24]} 
               >
-                <div className="w-full text-[12px] md:text-[14px] overflow-x-hidden">
-                  <h3 className="m-0 mb-2 text-[14px] md:text-[16px] text-[#2c3e50]">{name}</h3>
+                <div className="w-full overflow-x-hidden text-[13px] md:text-[14px]">
+                  <h3 className="m-0 mb-2 text-[15px] md:text-[16px] text-[#2c3e50]">{name}</h3>
 
-                  <div className="grid grid-cols-[auto_1fr] gap-x-2 gap-y-[2px]">
+                  <div className="grid grid-cols-[auto_1fr] gap-x-2 gap-y-1">
                     <b>{lang === 'en' ? 'Faction' : '阵营'}:</b> <span>{faction}</span>
                     <b>{lang === 'en' ? 'Type' : '类型'}:</b> <span>{type}</span>
                     <b>{lang === 'en' ? 'Battle' : '战役'}:</b> <span>{battle}</span>

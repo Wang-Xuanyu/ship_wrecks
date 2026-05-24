@@ -628,5 +628,40 @@
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/4/45/E-20070195-008b_front.jpg"
+  },
+  {
+    "id": "ss-u-455",
+    "name": {
+      "zh": "U-455 号潜艇",
+      "en": "German Submarine U-455"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "VIIC型 U型潜艇",
+      "en": "Type VIIC U-boat"
+    },
+    "coordinates": [44.329, 9.213],
+    "sinkingDate": "1944-04-05",
+    "cause": {
+      "zh": "在意大利波托菲诺（Portofino）外海进行潜望镜深度潜航时，意外触雷（极大可能是德军自己布设的防御性水雷阵）。水雷直接炸碎了指挥塔后方约 10 米的舰体，导致潜艇迅速失去浮力沉没。",
+      "en": "While navigating at periscope depth off the coast of Portofino, Italy, she accidentally struck a mine (highly likely part of a German-laid defensive minefield). The mine blew apart approximately 10 meters of the hull directly behind the conning tower, causing her to rapidly lose buoyancy and sink."
+    },
+    "depth": {
+      "zh": "约 120 米",
+      "en": "Approx. 120 meters"
+    },
+    "historyNotes": {
+      "zh": "地中海最具视觉冲击力的技术潜水点之一。由于尾部大面积撕裂，它的残骸目前以一种极其诡异且戏剧性的姿态——舰艏朝上、与海底呈完美的 45 度角直立插在 120 米深的泥沙中。全艇 51 人阵亡，无人生还，其残骸直到 2005 年才被深海考古学家发现。",
+      "en": "One of the most visually striking technical dive sites in the Mediterranean. Due to the massive tear in her stern section, her wreck currently rests in an extremely eerie and dramatic posture—bow pointing upwards, sticking out of the 120-meter deep silt at a perfect 45-degree angle. All 51 crew members were lost with no survivors. Her wreck was not discovered by deep-sea archaeologists until 2005."
+    },
+    "battle": {
+      "zh": "地中海潜艇战",
+      "en": "Mediterranean Submarine Warfare"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bundesarchiv_Bild_101II-MW-6434-15%2C_St._Nazaire%2C_U-Boot_einlaufend.jpg"
   }
 ]
