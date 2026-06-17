@@ -25,7 +25,7 @@ import data10 from './datas/data10_new.json';
 import data11 from './datas/data11_new.json';
 import battlesData from './datas/battles_new.json';
 
-const allShipwrecks = [...data1, ...data2, ...data3, ...data4, ...data5, ...data6, ...data7, ...data8, ...data9,...data10];
+const allShipwrecks = [...data1, ...data2, ...data3, ...data4, ...data5, ...data6, ...data7, ...data8, ...data9,...data10,...data11];
 const shipwrecksById = new Map();
 allShipwrecks.forEach((ship) => {
   if (!shipwrecksById.has(ship.id)) {
