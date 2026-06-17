@@ -138,5 +138,215 @@
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg/1920px-Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg"
+  },
+  {
+    "id": "ss-132-s27",
+    "name": {
+      "zh": "S-27号潜艇",
+      "en": "USS S-27 (SS-132)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "潜艇 (S级)",
+      "en": "Submarine (S-class)"
+    },
+    "coordinates": [51.483, 179.100],
+    "sinkingDate": "1942-06-19",
+    "cause": {
+      "zh": "在阿留申群岛阿姆奇特卡岛（Amchitka）执行巡逻任务时，由于极地海域大雾弥漫、能见度极低且海况恶劣，在夜间水面航行时意外触礁搁浅。在尝试脱困失败后，被船员遗弃。",
+      "en": "While on patrol off Amchitka in the Aleutian Islands, navigating on the surface at night in dense polar fog, extremely low visibility, and rough seas, she accidentally ran aground on a reef. After failed attempts to break free, she was abandoned by her crew."
+    },
+    "depth": {
+      "zh": "海岸触礁沉没",
+      "en": "Wrecked on shore"
+    },
+    "historyNotes": {
+      "zh": "这是极少数无一人伤亡的沉船事件。在冰冻刺骨的阿留申群岛，全体船员在寒风中利用橡皮艇登上海滩，在一个废弃的村庄里靠吃土豆和生火熬过了 6 天，最终被友军的 PBY 卡特琳娜水上飞机奇迹般地全部救出。",
+      "en": "This is one of the rare shipwreck incidents with zero casualties. In the freezing, biting winds of the Aleutian Islands, the entire crew used rubber rafts to reach the beach, surviving for 6 days in an abandoned village by eating potatoes and building fires, before being miraculously rescued by friendly PBY Catalina flying boats."
+    },
+    "battle": {
+      "zh": "阿留申群岛战役",
+      "en": "Aleutian Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/90/USS_S-27_%28SS-132%29.jpg"
+  },
+  {
+    "id": "ss-216-grunion",
+    "name": {
+      "zh": "银鱼号潜艇",
+      "en": "USS Grunion (SS-216)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "潜艇 (猫鲨级)",
+      "en": "Submarine (Gato-class)"
+    },
+    "coordinates": [52.233, 177.500],
+    "sinkingDate": "1942-07-30",
+    "cause": {
+      "zh": "在基斯卡岛（Kiska）外海执行任务时失踪。根据最新战史研究，它在攻击日本货轮‘鹿野丸’号时，被对方甲板炮反击命中指挥塔，随后在紧急下潜中因深度失控而被海水压强压碎沉没。",
+      "en": "Missing in action while operating off Kiska. According to the latest historical research, while attacking the Japanese freighter Kano Maru, her conning tower was struck by return fire from the ship's deck gun. She subsequently lost depth control during an emergency dive and was crushed by water pressure."
+    },
+    "depth": {
+      "zh": "约 1000 米",
+      "en": "Approx. 1000 meters"
+    },
+    "historyNotes": {
+      "zh": "在失踪长达 60 多年后，其舰长的三个儿子组建了一支私人探险队，最终于 2007 年在基斯卡岛外海深处找到了这艘潜艇的残骸，解开了 70 名美军潜艇官兵长眠水底的历史谜团。",
+      "en": "After being missing for over 60 years, a private expedition team organized by the captain's three sons finally discovered her wreck in the deep waters off Kiska in 2007, solving the historical mystery of the 70 American submariners resting at the bottom of the sea."
+    },
+    "battle": {
+      "zh": "阿留申群岛战役",
+      "en": "Aleutian Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/11/USS_Grunion%3B0821602.jpg"
+  },
+  {
+    "id": "dd-526-abner-read-stern",
+    "name": {
+      "zh": "阿伯纳·里德号 (残骸舰艉段)",
+      "en": "USS Abner Read (DD-526 Stern)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "驱逐舰残骸 (弗莱彻级)",
+      "en": "Destroyer Wreckage (Fletcher-class)"
+    },
+    "coordinates": [51.983, 177.533],
+    "sinkingDate": "1943-08-18",
+    "cause": {
+      "zh": "在基斯卡岛海域进行反潜巡逻时，不幸触及日军布设的水雷。巨大的爆炸直接将长达 22 米的舰艉彻底炸断沉入海底，导致 71 名官兵落水（其中 22 人随舰艉沉入深海丧生）。",
+      "en": "While conducting anti-submarine patrols off Kiska, she unfortunately struck a Japanese-laid mine. The massive explosion completely severed the 22-meter stern, which sank to the seabed, sending 71 crewmen overboard (22 of whom perished as they went down with the stern section)."
+    },
+    "depth": {
+      "zh": "约 88 米",
+      "en": "Approx. 88 meters"
+    },
+    "historyNotes": {
+      "zh": "这是一个极其特殊的地图标记：它不是一艘完整的沉船，而是一块‘断裂的舰艉’。阿伯纳·里德号在失去舰艉后奇迹般地幸存并被修复（最终于1944年在莱特湾被神风特攻队击沉）。这块沉没在极地冰海中的舰艉残骸，于 2018 年被 NOAA（美国国家海洋和大气管理局）的深海考察队发现。",
+      "en": "This is an extremely unique map marker: it is not a complete shipwreck, but a 'severed stern'. USS Abner Read miraculously survived losing her stern and was repaired (she was ultimately sunk by kamikazes at Leyte Gulf in 1944). This stern wreckage, resting in the icy polar sea, was discovered in 2018 by a NOAA deep-sea expedition team."
+    },
+    "battle": {
+      "zh": "阿留申群岛战役",
+      "en": "Aleutian Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9a/USS_Abner_Read_%28DD-526%29_in_San_Francisco_Bay%2C_California_%28USA%29%2C_on_13_June_1943.jpg"
+  },
+  {
+    "id": "dd-arare",
+    "name": {
+      "zh": "霰号驱逐舰",
+      "en": "IJN Arare"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "驱逐舰 (朝潮型)",
+      "en": "Destroyer (Asashio-class)"
+    },
+    "coordinates": [52.000, 177.666],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "在基斯卡岛外海浓雾中锚泊时，遭到美军潜艇‘咆哮者号’ (USS Growler) 偷袭。在雷达盲区被一枚鱼雷直接命中舰体中部，发生剧烈爆炸并折断，迅速沉没。",
+      "en": "While anchored in thick fog off Kiska, she was ambushed by the U.S. submarine USS Growler. Struck directly amidships by a torpedo from the radar blind spot, she suffered a massive explosion, broke in half, and sank rapidly."
+    },
+    "depth": {
+      "zh": "未知 (基斯卡岛近海)",
+      "en": "Unknown (Off the coast of Kiska)"
+    },
+    "historyNotes": {
+      "zh": "阿留申群岛日军 7 艘阵亡战舰之一。咆哮者号在极近距离（不到 1000 米）内对停泊在雾中的三艘日本驱逐舰发起了一锅端式的鱼雷齐射，霰号当场沉没，另外两艘遭到重创，是一次极为成功的潜艇伏击战。",
+      "en": "One of the 7 Japanese warships lost in the Aleutian Islands. USS Growler launched a devastating torpedo salvo at three anchored Japanese destroyers in the fog from point-blank range (under 1000 meters). Arare sank on the spot, and the other two were severely damaged, making it an extremely successful submarine ambush."
+    },
+    "battle": {
+      "zh": "阿留申群岛战役",
+      "en": "Aleutian Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/0e/F9NI1rvaIAAH-pN.jpg"
+  },
+  {
+    "id": "dd-nenohi",
+    "name": {
+      "zh": "子日号驱逐舰",
+      "en": "IJN Nenohi"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "驱逐舰 (初春型)",
+      "en": "Destroyer (Hatsuharu-class)"
+    },
+    "coordinates": [52.250, 173.850],
+    "sinkingDate": "1942-07-04",
+    "cause": {
+      "zh": "在阿加图岛（Agattu）以南海域为日军水上飞机母舰护航时，遭到美军潜艇‘海神号’ (USS Triton) 伏击。身中一枚鱼雷后舰体严重倾斜，在短短 5 分钟内倾覆沉没。",
+      "en": "While escorting a Japanese seaplane tender south of Agattu Island, she was ambushed by the U.S. submarine USS Triton. After taking a torpedo hit, the ship listed severely and capsized and sank in just 5 minutes."
+    },
+    "depth": {
+      "zh": "未知 (阿加图岛外海)",
+      "en": "Unknown (Off the coast of Agattu)"
+    },
+    "historyNotes": {
+      "zh": "就在霰号沉没的前一天，子日号也在大雾迷漫的极地海域遭遇了美军潜艇的致命打击。这连续两天的惨痛损失，让日本海军深刻意识到了在阿留申海域进行水面行动面临着巨大的反潜压力。",
+      "en": "Just the day before Arare sank, Nenohi also met a fatal blow from a U.S. submarine in the fog-shrouded polar waters. These staggering losses over two consecutive days made the Japanese Navy acutely aware of the immense anti-submarine pressure facing surface operations in the Aleutians."
+    },
+    "battle": {
+      "zh": "阿留申群岛战役",
+      "en": "Aleutian Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nenohi_II.jpg"
+  },
+  {
+    "id": "dd-oboro",
+    "name": {
+      "zh": "胧号驱逐舰",
+      "en": "IJN Oboro"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "特型驱逐舰 (吹雪型)",
+      "en": "Special Type Destroyer (Fubuki-class)"
+    },
+    "coordinates": [52.283, 177.133],
+    "sinkingDate": "1942-10-17",
+    "cause": {
+      "zh": "在前往基斯卡岛运送弹药和补给途中，遭到美军 B-26 掠夺者轰炸机（陆军航空队）的轰炸。炸弹直接命中了其装满弹药的货舱，导致极其惨烈的连环大爆炸，全舰仅有 17 人幸存。",
+      "en": "While en route to Kiska carrying ammunition and supplies, she was bombed by U.S. Army Air Forces B-26 Marauder bombers. A bomb directly hit her ammunition-filled cargo hold, causing a catastrophic chain of massive explosions. Only 17 crew members survived."
+    },
+    "depth": {
+      "zh": "未知 (基斯卡岛以东深海)",
+      "en": "Unknown (Deep waters east of Kiska)"
+    },
+    "historyNotes": {
+      "zh": "它的沉没标志着美军在阿留申群岛的空中力量逐渐取得了绝对优势。由于缺乏防空掩护和雷达预警，日军水面舰艇在这种被美国陆航部队完全覆盖的战区中几乎等同于活靶子。",
+      "en": "Her sinking marked the U.S. military gradually establishing absolute air superiority in the Aleutian Islands. Lacking anti-aircraft cover and radar warning, Japanese surface ships were essentially sitting ducks in a theater completely dominated by the U.S. Army Air Forces."
+    },
+    "battle": {
+      "zh": "阿留申群岛战役",
+      "en": "Aleutian Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oboro_II.jpg"
   }
 ]
