@@ -1,0 +1,70 @@
+import { readFile, writeFile } from 'node:fs/promises';
+
+const dataFiles = [
+  'src/datas/data1_new.json',
+  'src/datas/data2_new.json',
+  'src/datas/data3_new.json',
+  'src/datas/data4_new.json',
+  'src/datas/data5_new.json',
+  'src/datas/data6_new.json',
+  'src/datas/data7_new.json',
+  'src/datas/data8_new.json',
+  'src/datas/data9_new.json',
+  'src/datas/data10_new.json'
+];
+
+const slugify = (value) =>
+  value
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/&/g, ' and ')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+
+const getText = (value, lang = 'en') => {
+  if (!value) return '';
+  if (typeof value === 'object') {
+    return value[lang] || value.en || value.zh || '';
+  }
+  return value;
+};
+
+const battlesById = new Map();
+
+for (const file of dataFiles) {
+  const ships = JSON.parse(await readFile(file, 'utf8'));
+
+  const updatedShips = ships.map((ship) => {
+    const battleNameEn = getText(ship.battle, 'en');
+    const battleId = slugify(battleNameEn);
+
+    if (!battlesById.has(battleId)) {
+      battlesById.set(battleId, {
+        id: battleId,
+        name: {
+          zh: getText(ship.battle, 'zh'),
+          en: battleNameEn
+        },
+        commanders: []
+      });
+    }
+
+    return {
+      ...ship,
+      battleId
+    };
+  });
+
+  await writeFile(file, `${JSON.stringify(updatedShips, null, 2)}\n`);
+}
+
+const battles = Array.from(battlesById.values()).sort((a, b) =>
+  a.name.en.localeCompare(b.name.en)
+);
+
+await writeFile('src/datas/battles_new.json', `${JSON.stringify(battles, null, 2)}\n`);
+await writeFile('battles.json', `${JSON.stringify(battles, null, 2)}\n`);
+
+console.log(`Added battleId to ${dataFiles.length} data files.`);
+console.log(`Created ${battles.length} battle metadata records.`);

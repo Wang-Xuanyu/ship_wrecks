@@ -1,0 +1,142 @@
+[
+  {
+    "id": "dd-z1-leberecht-maass",
+    "name": {
+      "zh": "Z1 莱伯雷希特·马斯号驱逐舰",
+      "en": "German Destroyer Z1 Leberecht Maass"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "驱逐舰 (1934型首舰)",
+      "en": "Destroyer (Type 1934 Lead Ship)"
+    },
+    "coordinates": [54.500, 4.500],
+    "sinkingDate": "1940-02-22",
+    "cause": {
+      "zh": "在‘维京行动’中，遭到德国空军 He 111 轰炸机的误击。被炸弹击中后失去转向能力并偏离航线，随后可能又触及了水雷（或再次被炸弹命中），舰体断裂成两截沉没。",
+      "en": "During 'Operation Wikinger', she was mistakenly attacked by a Luftwaffe He 111 bomber. After being hit by bombs, she lost steering control and veered off course, subsequently striking a mine (or being hit by bombs again). Her hull broke in two and she sank."
+    },
+    "depth": {
+      "zh": "未知 (北海多格滩海域)",
+      "en": "Unknown (Dogger Bank area, North Sea)"
+    },
+    "historyNotes": {
+      "zh": "二战史上最荒诞的惨剧之一。作为德国海军最新的 1934 型驱逐舰首舰，它没有战死在敌人的炮火下，反而死于自家空军的轰炸。全舰 280 余人阵亡，仅 60 人获救。",
+      "en": "One of the most absurd tragedies in WWII history. As the lead ship of the German Navy's newest Type 1934 destroyers, she did not fall to enemy fire but was instead sunk by her own air force. Over 280 crew members perished, with only 60 rescued."
+    },
+    "battle": {
+      "zh": "维京行动",
+      "en": "Operation Wikinger"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/05/Leberecht_Maass1.jpg"
+  },
+  {
+    "id": "dd-z3-max-schultz",
+    "name": {
+      "zh": "Z3 马克斯·舒尔茨号驱逐舰",
+      "en": "German Destroyer Z3 Max Schultz"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "驱逐舰 (1934型)",
+      "en": "Destroyer (Type 1934)"
+    },
+    "coordinates": [54.510, 4.510],
+    "sinkingDate": "1940-02-22",
+    "cause": {
+      "zh": "在目睹 Z1 号被炸沉后，试图前往雷区边缘进行救援，但在混乱和规避轰炸机时误入英国新布设的雷区（也有记录称是被德机后续投弹炸沉）。发生剧烈爆炸后迅速沉没。",
+      "en": "After witnessing the bombing of Z1, she attempted to approach the edge of the minefield for a rescue. However, in the chaos and while evading the bombers, she blundered into a newly laid British minefield (some records suggest she was also sunk by subsequent bombing from German aircraft). She sank rapidly following a massive explosion."
+    },
+    "depth": {
+      "zh": "未知 (北海多格滩海域)",
+      "en": "Unknown (Dogger Bank area, North Sea)"
+    },
+    "historyNotes": {
+      "zh": "与 Z1 一起葬身于这场荒唐的行动中，全舰 308 名官兵无一生还。这次事件让希特勒勃然大怒，也直接暴露了战争初期德军跨军种协同作战的灾难性缺陷，促使德军不得不全面修改敌我识别协议。",
+      "en": "Perished alongside Z1 in this absurd operation, with all 308 officers and men lost. This incident infuriated Hitler and directly exposed the catastrophic flaws in inter-service coordination early in the war, forcing the German military to completely overhaul its friend-or-foe identification protocols."
+    },
+    "battle": {
+      "zh": "维京行动",
+      "en": "Operation Wikinger"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Z_3_Max_Schultz.jpg/3840px-Z_3_Max_Schultz.jpg"
+  },
+  {
+    "id": "amc-jervis-bay",
+    "name": {
+      "zh": "杰维斯湾号武装商船",
+      "en": "HMS Jervis Bay"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装商船 (辅助巡洋舰)",
+      "en": "Armed Merchant Cruiser (AMC)"
+    },
+    "coordinates": [53.683, -32.283],
+    "sinkingDate": "1940-11-05",
+    "cause": {
+      "zh": "在护卫 HX-84 船团时，遭遇火力占据压倒性优势的德国袖珍战列舰‘舍尔海军上将号’。为了掩护船团分散撤退，该舰独自脱离编队，迎着德军的 280 毫米重炮发起近乎自杀式的冲锋。在吸引敌方火力并死战 22 分钟后，舰体被打成火海沉没。",
+      "en": "While escorting Convoy HX-84, she encountered the overwhelmingly superior German pocket battleship Admiral Scheer. To cover the convoy's scattering and retreat, she broke formation alone and launched a near-suicidal charge into the German 280mm heavy guns. After drawing enemy fire and fighting to the death for 22 minutes, the ship was turned into a blazing inferno and sank."
+    },
+    "depth": {
+      "zh": "未知 (大西洋中部深海)",
+      "en": "Unknown (Deep waters of the mid-Atlantic)"
+    },
+    "historyNotes": {
+      "zh": "二战护航史上最悲壮的传奇之一。这艘客轮改装的战舰明知必死，却用自己的粉身碎骨为 32 艘商船换取了生机。舰长爱德华·费根（Edward Fegen）在战斗中失去了一条手臂仍坚持指挥，最终随舰阵亡，被英国追授最高荣誉——维多利亚十字勋章。",
+      "en": "One of the most heroic and tragic legends in the history of WWII convoys. Knowing it was a suicide mission, this converted passenger liner sacrificed herself to buy time for 32 merchant ships to escape. Captain Edward Fegen, who lost an arm during the engagement but continued to command, went down with his ship and was posthumously awarded the Victoria Cross, Britain's highest military honor."
+    },
+    "battle": {
+      "zh": "大西洋护航战 (HX-84 船团)",
+      "en": "Battle of the Atlantic (Convoy HX-84)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/86/JervisBayatDakar1940.jpg"
+  },
+  {
+    "id": "ca-ashigara",
+    "name": {
+      "zh": "足柄号重巡洋舰",
+      "en": "IJN Ashigara"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰 (妙高级)",
+      "en": "Heavy Cruiser (Myōkō-class)"
+    },
+    "coordinates": [-1.983, 104.933],
+    "sinkingDate": "1945-06-08",
+    "cause": {
+      "zh": "在班加海峡遭到英国海军潜艇‘锋利号’ (HMS Trenchant) 的伏击。在近距离内被潜艇一次齐射的 8 枚鱼雷中的 5 枚直接命中，舰体燃起大火并严重右倾，在半小时后翻覆沉没。",
+      "en": "Ambushed by the Royal Navy submarine HMS Trenchant in the Bangka Strait. Struck at close range by 5 out of 8 torpedoes from a single salvo. The ship caught fire, took on a severe starboard list, and capsized and sank half an hour later."
+    },
+    "depth": {
+      "zh": "未知 (班加海峡海底)",
+      "en": "Unknown (Seabed of the Bangka Strait)"
+    },
+    "historyNotes": {
+      "zh": "二战末期被皇家海军在太平洋战场击沉的少数日本主力战舰之一。沉没时它正向新加坡运送约 1600 名陆军士兵。由于命中数枚重型鱼雷且沉没迅速，导致超过 1200 名士兵和船员丧生，是战争末期日军绝望运输线的缩影。",
+      "en": "One of the few Japanese capital ships sunk by the Royal Navy in the Pacific theater late in WWII. At the time of her sinking, she was transporting approximately 1,600 army troops to Singapore. Hit by multiple heavy torpedoes and sinking rapidly, over 1,200 soldiers and crew perished, epitomizing the desperate state of Japanese supply lines at the end of the war."
+    },
+    "battle": {
+      "zh": "班加海峡伏击战 (太平洋战争末期)",
+      "en": "Bangka Strait Ambush (Late Pacific War)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg/1920px-Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg"
+  }
+]

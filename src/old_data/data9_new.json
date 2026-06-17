@@ -13,10 +13,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      31.933,
-      120.266
-    ],
+    "coordinates": [31.933, 120.266],
     "sinkingDate": "1937-09-23",
     "cause": {
       "zh": "在极其惨烈的江阴保卫战中，遭到日本海军航母‘加贺号’及陆基航空兵总计上百架次战机的轮番狂轰滥炸。在耗尽防空弹药并被数枚重磅炸弹直接命中后，进水坐沉于长江江阴水域。",
@@ -35,8 +32,7 @@
       "en": "Battle of Jiangyin (During the Battle of Shanghai)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/tw.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Chinese_cruiser_NING-HAI_in_1932.jpg",
-    "battleId": "battle-of-jiangyin-during-the-battle-of-shanghai"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Chinese_cruiser_NING-HAI_in_1932.jpg"
   },
   {
     "id": "cl-pinghai",
@@ -52,10 +48,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      31.95,
-      120.25
-    ],
+    "coordinates": [31.950, 120.250],
     "sinkingDate": "1937-09-23",
     "cause": {
       "zh": "与姊妹舰宁海号并肩作战，死守江阴要塞。在宁海号重创坐沉后，成为日军轰炸机的首要目标。在遭到连续的俯冲轰炸并身中多枚炸弹后，舰体严重倾斜，于江阴江面沉没。",
@@ -74,8 +67,7 @@
       "en": "Battle of Jiangyin (During the Battle of Shanghai)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/tw.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/12/Chinese_cruiser_PING-HAI_in_1936.jpg",
-    "battleId": "battle-of-jiangyin-during-the-battle-of-shanghai"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/12/Chinese_cruiser_PING-HAI_in_1936.jpg"
   },
   {
     "id": "pc-haichi",
@@ -91,10 +83,7 @@
       "zh": "防护巡洋舰",
       "en": "Protected Cruiser"
     },
-    "coordinates": [
-      31.94,
-      120.24
-    ],
+    "coordinates": [31.940, 120.240],
     "sinkingDate": "1937-08-11",
     "cause": {
       "zh": "为了阻止日本海军舰队沿长江逆流而上直逼首都南京，中国海军决定在江阴江面构筑水下阻塞线。这艘老舰卸下主炮后，打开通海阀，悲壮地自沉于江阴航道中。",
@@ -113,8 +102,7 @@
       "en": "Jiangyin Blockship Operation"
     },
     "flagIconUrl": "https://flagcdn.com/w40/tw.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/ef/HaiChi_2162931587_c96191a231_o.jpg",
-    "battleId": "jiangyin-blockship-operation"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/ef/HaiChi_2162931587_c96191a231_o.jpg"
   },
   {
     "id": "gb-zhongshan",
@@ -130,10 +118,7 @@
       "zh": "炮舰",
       "en": "Gunboat"
     },
-    "coordinates": [
-      30.298,
-      114.129
-    ],
+    "coordinates": [30.298, 114.129],
     "sinkingDate": "1938-10-24",
     "cause": {
       "zh": "在武汉保卫战后期，于长江金口水域巡逻时，遭到 6 架日本轰炸机的轮番俯冲轰炸。舰长萨师俊在双腿被炸断的情况下仍拒绝离舰，最终中山舰因舰体破裂进水沉没，舰长及 25 名官兵殉国。",
@@ -152,8 +137,7 @@
       "en": "Battle of Wuhan (Battle of Jinkou)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/tw.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/13/ZhongShanJian.jpg",
-    "battleId": "battle-of-wuhan-battle-of-jinkou"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/13/ZhongShanJian.jpg"
   },
   {
     "id": "cl-chaoho",
@@ -169,10 +153,7 @@
       "zh": "防护巡洋舰 / 训练巡洋舰",
       "en": "Protected Cruiser / Training Cruiser"
     },
-    "coordinates": [
-      22.798,
-      113.626
-    ],
+    "coordinates": [22.798, 113.626],
     "sinkingDate": "1937-09-25",
     "cause": {
       "zh": "在广州虎门要塞海域，先与日本海军舰队发生罕见的水面舰艇炮战（虎门海战）并击退日舰。随后数日遭到日机连续的报复性轰炸，最终受重创坐沉于虎门海口。",
@@ -191,8 +172,7 @@
       "en": "Battle of Humen"
     },
     "flagIconUrl": "https://flagcdn.com/w40/tw.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chinese_cruiser_Chao_Ho.jpg",
-    "battleId": "battle-of-humen"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chinese_cruiser_Chao_Ho.jpg"
   },
   {
     "id": "cl-yingswei",
@@ -208,10 +188,7 @@
       "zh": "防护巡洋舰 / 训练巡洋舰",
       "en": "Protected Cruiser / Training Cruiser"
     },
-    "coordinates": [
-      32.133,
-      118.983
-    ],
+    "coordinates": [32.133, 118.983],
     "sinkingDate": "1937-10-23",
     "cause": {
       "zh": "在江阴阻塞线后方协助防空，随后撤退至南京采石矶江面。遭到日军多架战机的轮番俯冲轰炸，左舷煤舱及司令塔中弹，全舰多处起火，最终右倾倾覆于江边。",
@@ -230,8 +207,7 @@
       "en": "Defense of Nanjing (Aftermath of the Battle of Shanghai)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/tw.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Chinese_cruiser_Ying_Rui.jpg",
-    "battleId": "defense-of-nanjing-aftermath-of-the-battle-of-shanghai"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Chinese_cruiser_Ying_Rui.jpg"
   },
   {
     "id": "cl-yatsen",
@@ -247,10 +223,7 @@
       "zh": "轻巡洋舰 / 大型炮舰",
       "en": "Light Cruiser / Large Gunboat"
     },
-    "coordinates": [
-      31.96,
-      120.25
-    ],
+    "coordinates": [31.960, 120.250],
     "sinkingDate": "1937-09-25",
     "cause": {
       "zh": "在宁海、平海两舰相继沉没后，接替成为中国海军旗舰。遭到日军‘加贺’号航母舰载机共计 73 架次的狂轰滥炸。弹药耗尽后被炸弹直接命中，导致船体进水，最终在江阴水域断腕自沉。",
@@ -269,8 +242,7 @@
       "en": "Battle of Jiangyin"
     },
     "flagIconUrl": "https://flagcdn.com/w40/tw.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Yat_Sen_1930.png",
-    "battleId": "battle-of-jiangyin"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Yat_Sen_1930.png"
   },
   {
     "id": "pc-haiyung",
@@ -286,10 +258,7 @@
       "zh": "防护巡洋舰",
       "en": "Protected Cruiser"
     },
-    "coordinates": [
-      31.945,
-      120.245
-    ],
+    "coordinates": [31.945, 120.245],
     "sinkingDate": "1937-08-11",
     "cause": {
       "zh": "为了阻挡日本海军沿长江直扑南京，与海圻号等老舰一起，在卸下主要火炮后，打开通海阀自沉于江阴航道最狭窄处，构筑了著名的‘江阴水下阻塞线’。",
@@ -308,7 +277,6 @@
       "en": "Jiangyin Blockship Operation"
     },
     "flagIconUrl": "https://flagcdn.com/w40/tw.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hai_Yung.jpg",
-    "battleId": "jiangyin-blockship-operation"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hai_Yung.jpg"
   }
 ]

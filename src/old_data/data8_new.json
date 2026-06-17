@@ -13,10 +13,7 @@
       "zh": "部族级驱逐舰",
       "en": "Tribal-class Destroyer"
     },
-    "coordinates": [
-      48.716,
-      -4.533
-    ],
+    "coordinates": [48.716, -4.533],
     "sinkingDate": "1944-04-29",
     "cause": {
       "zh": "在英吉利海峡布列塔尼海岸附近巡逻时，遭到德国雷击舰 T-24 发射的鱼雷命中。弹药库发生剧烈殉爆后沉没。",
@@ -31,12 +28,11 @@
       "en": "One of the most famous RCN warships of WWII. After falling into the water, Captain John Stubbs famously waved off the rescuing sister ship HMCS Haida (now a Canadian national museum ship) to save her from being attacked, perishing alongside 128 of his crew."
     },
     "battle": {
-      "zh": "英吉利海峡海战",
-      "en": "English Channel Naval Actions"
+      "zh": "英吉利海峡海战 (霸王行动前夕)",
+      "en": "English Channel Naval Actions (Pre-Overlord)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/49/Hmcs_athabaskan_g07.jpg",
-    "battleId": "english-channel-naval-actions"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/49/Hmcs_athabaskan_g07.jpg"
   },
   {
     "id": "dd-st-croix",
@@ -52,10 +48,7 @@
       "zh": "城级驱逐舰",
       "en": "Town-class Destroyer"
     },
-    "coordinates": [
-      57.5,
-      -31.166
-    ],
+    "coordinates": [57.500, -31.166],
     "sinkingDate": "1943-09-20",
     "cause": {
       "zh": "在北大西洋护航时被德国潜艇 U-305 击中两枚鱼雷沉没。极其悲惨的是，救起其 81 名幸存者的英国驱逐舰伊琴号（HMS Itchen）在两天后也被 U 艇击沉。",
@@ -74,8 +67,7 @@
       "en": "Battle of the Atlantic (Convoy Escort)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Severe_storm_damage_to_HMCS_St_Croix.jpg",
-    "battleId": "battle-of-the-atlantic-convoy-escort"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Severe_storm_damage_to_HMCS_St_Croix.jpg"
   },
   {
     "id": "ms-esquimalt",
@@ -91,10 +83,7 @@
       "zh": "班戈级扫雷舰",
       "en": "Bangor-class Minesweeper"
     },
-    "coordinates": [
-      44.466,
-      -63.166
-    ],
+    "coordinates": [44.466, -63.166],
     "sinkingDate": "1945-04-16",
     "cause": {
       "zh": "在哈利法克斯（Halifax）港口外海执行反潜巡逻时，被潜伏的德国潜艇 U-190 发射的声导鱼雷击中，不到 5 分钟便迅速沉没。",
@@ -113,8 +102,7 @@
       "en": "Battle of the Atlantic (Canadian Coastal Defense)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/64/HMCSEsquimalt.jpg",
-    "battleId": "battle-of-the-atlantic-canadian-coastal-defense"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/64/HMCSEsquimalt.jpg"
   },
   {
     "id": "corvette-shawinigan",
@@ -130,10 +118,7 @@
       "zh": "花级轻型护卫舰",
       "en": "Flower-class Corvette"
     },
-    "coordinates": [
-      47.566,
-      -59.183
-    ],
+    "coordinates": [47.566, -59.183],
     "sinkingDate": "1944-11-24",
     "cause": {
       "zh": "在加拿大纽芬兰与新斯科舍之间的卡伯特海峡（Cabot Strait）单独巡逻时，遭到德国潜艇 U-1228 袭击，全舰无一人幸存。",
@@ -152,8 +137,7 @@
       "en": "Battle of the St. Lawrence"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/23/Corvette_Shawinigan.jpg",
-    "battleId": "battle-of-the-st-lawrence"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/23/Corvette_Shawinigan.jpg"
   },
   {
     "id": "frigate-valleyfield",
@@ -169,10 +153,7 @@
       "zh": "河级护卫舰",
       "en": "River-class Frigate"
     },
-    "coordinates": [
-      46.05,
-      -52.4
-    ],
+    "coordinates": [46.050, -52.400],
     "sinkingDate": "1944-05-07",
     "cause": {
       "zh": "在纽芬兰开普雷斯（Cape Race）以南海域护航时，被德国潜艇 U-548 的声导鱼雷击中左舷锅炉舱。军舰在短短 3 分钟内断成两截沉没。",
@@ -191,8 +172,7 @@
       "en": "Battle of the Atlantic (Convoy Escort)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/de/Valleyfield2.jpg",
-    "battleId": "battle-of-the-atlantic-convoy-escort"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/de/Valleyfield2.jpg"
   },
   {
     "id": "dd-fraser",
@@ -208,10 +188,7 @@
       "zh": "C级驱逐舰",
       "en": "C-class Destroyer"
     },
-    "coordinates": [
-      45.75,
-      -1.5
-    ],
+    "coordinates": [45.750, -1.500],
     "sinkingDate": "1940-06-25",
     "cause": {
       "zh": "在法国投降后协助撤离难民（“空中行动”）时，于夜间在吉伦特河口（Gironde estuary）与英国防空巡洋舰加尔各答号（HMS Calcutta）发生惨烈相撞，船体断裂沉没。",
@@ -226,12 +203,11 @@
       "en": "The **first** warship lost by the Royal Canadian Navy in WWII. Operating under blackout conditions at night without radar, the collision was a sheer tragedy, resulting in the loss of 47 Canadian sailors."
     },
     "battle": {
-      "zh": "法国战役",
-      "en": "Battle of France"
+      "zh": "法国战役 (海上撤退)",
+      "en": "Battle of France (Naval Evacuation)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/19/HMS_Crescent_%281932%29.jpg",
-    "battleId": "battle-of-france"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/19/HMS_Crescent_%281932%29.jpg"
   },
   {
     "id": "dd-margaree",
@@ -247,10 +223,7 @@
       "zh": "D级驱逐舰",
       "en": "D-class Destroyer"
     },
-    "coordinates": [
-      53.4,
-      -22.833
-    ],
+    "coordinates": [53.400, -22.833],
     "sinkingDate": "1940-10-22",
     "cause": {
       "zh": "在北大西洋护航 OL8 船队时遭遇狂风暴雨，在极其恶劣的能见度下被护航的商船“仙女港号”（MV Port Fairy）撞翻切断。",
@@ -269,8 +242,7 @@
       "en": "Battle of the Atlantic (Weather and Collisions)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/78/HMS_Diana_%28H49%29.jpg",
-    "battleId": "battle-of-the-atlantic-weather-and-collisions"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/78/HMS_Diana_%28H49%29.jpg"
   },
   {
     "id": "dd-ottawa",
@@ -286,10 +258,7 @@
       "zh": "C级驱逐舰",
       "en": "C-class Destroyer"
     },
-    "coordinates": [
-      47.916,
-      -43.45
-    ],
+    "coordinates": [47.916, -43.450],
     "sinkingDate": "1942-09-13",
     "cause": {
       "zh": "在纽芬兰以东的大西洋海域护航 ON 127 船队时，遭到德国潜艇 U-91 连续两枚鱼雷命中，船体断裂并在极短时间内沉没。",
@@ -308,8 +277,7 @@
       "en": "Battle of the Atlantic (The Black Pit)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/88/HMS_Ottawa_%28H60%29.jpg",
-    "battleId": "battle-of-the-atlantic-the-black-pit"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/88/HMS_Ottawa_%28H60%29.jpg"
   },
   {
     "id": "dd-skeena",
@@ -325,10 +293,7 @@
       "zh": "A级驱逐舰",
       "en": "A-class Destroyer"
     },
-    "coordinates": [
-      64.15,
-      -21.85
-    ],
+    "coordinates": [64.150, -21.850],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "在冰岛雷克雅未克（Reykjavik）港外锚泊时遭遇猛烈的飓风。锚链断裂后被狂风吹走，最终在维泽岛（Viðey Island）海岸的礁石上搁浅并严重破损沉没。",
@@ -347,8 +312,7 @@
       "en": "Battle of the Atlantic (Arctic Storms)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/cf/HMCS_Skeena_IKMD-04292.jpg",
-    "battleId": "battle-of-the-atlantic-arctic-storms"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/cf/HMCS_Skeena_IKMD-04292.jpg"
   },
   {
     "id": "corvette-charlottetown",
@@ -364,10 +328,7 @@
       "zh": "花级轻型护卫舰",
       "en": "Flower-class Corvette"
     },
-    "coordinates": [
-      49.166,
-      -66.833
-    ],
+    "coordinates": [49.166, -66.833],
     "sinkingDate": "1942-09-11",
     "cause": {
       "zh": "在圣劳伦斯河（St. Lawrence River）内护航时，遭到潜入加拿大内海的德国潜艇 U-517 发射的鱼雷击中，仅三分钟后便沉没。",
@@ -386,8 +347,7 @@
       "en": "Battle of the St. Lawrence"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HMCS_Charlottetown_%28Flower_class%29_MC-2183.jpg/1920px-HMCS_Charlottetown_%28Flower_class%29_MC-2183.jpg",
-    "battleId": "battle-of-the-st-lawrence"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HMCS_Charlottetown_%28Flower_class%29_MC-2183.jpg/1920px-HMCS_Charlottetown_%28Flower_class%29_MC-2183.jpg"
   },
   {
     "id": "corvette-louisbourg",
@@ -403,10 +363,7 @@
       "zh": "花级轻型护卫舰",
       "en": "Flower-class Corvette"
     },
-    "coordinates": [
-      36.25,
-      0.25
-    ],
+    "coordinates": [36.250, 0.250],
     "sinkingDate": "1943-02-06",
     "cause": {
       "zh": "在阿尔及利亚的奥兰（Oran）附近海域护航时，遭到意大利空军鱼雷轰炸机的突袭。被一枚航空鱼雷击中轮机舱后沉没。",
@@ -421,12 +378,11 @@
       "en": "With the commencement of Operation Torch, Canadian warships entered the Mediterranean. Louisbourg was one of the very few Canadian corvettes sunk by Axis aircraft rather than submarines."
     },
     "battle": {
-      "zh": "地中海战役",
-      "en": "Mediterranean Campaign"
+      "zh": "地中海战役 (火炬行动后勤)",
+      "en": "Mediterranean Campaign (Operation Torch Logistics)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HMCS_Louisburg.jpg",
-    "battleId": "mediterranean-campaign"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HMCS_Louisburg.jpg"
   },
   {
     "id": "corvette-weyburn",
@@ -442,10 +398,7 @@
       "zh": "花级轻型护卫舰",
       "en": "Flower-class Corvette"
     },
-    "coordinates": [
-      35.766,
-      -6.033
-    ],
+    "coordinates": [35.766, -6.033],
     "sinkingDate": "1943-02-22",
     "cause": {
       "zh": "在直布罗陀海峡（Strait of Gibraltar）以西海域不慎触雷（由德国潜艇 U-118 铺设）。水雷爆炸炸毁了舰体舯部，随后引爆了自身的深水炸弹。",
@@ -464,8 +417,7 @@
       "en": "Battle of the Atlantic (Gibraltar Approaches)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/HMCS_Weyburn_1942-1943_NP-1012.jpg/1920px-HMCS_Weyburn_1942-1943_NP-1012.jpg",
-    "battleId": "battle-of-the-atlantic-gibraltar-approaches"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/HMCS_Weyburn_1942-1943_NP-1012.jpg/1920px-HMCS_Weyburn_1942-1943_NP-1012.jpg"
   },
   {
     "id": "corvette-alberni",
@@ -481,10 +433,7 @@
       "zh": "花级轻型护卫舰",
       "en": "Flower-class Corvette"
     },
-    "coordinates": [
-      50.3,
-      -0.85
-    ],
+    "coordinates": [50.300, -0.850],
     "sinkingDate": "1944-08-21",
     "cause": {
       "zh": "在英吉利海峡执行清剿任务时，被德国潜艇 U-480 发射的声导鱼雷击中，不到一分钟便迅速沉没。",
@@ -499,12 +448,11 @@
       "en": "The U-boat that sank her (U-480) was equipped with experimental 'Alberich' anechoic rubber tiles, making it extremely difficult for Allied sonar to detect. 59 crew members of Alberni perished."
     },
     "battle": {
-      "zh": "英吉利海峡海战",
-      "en": "English Channel Naval Actions"
+      "zh": "英吉利海峡海战 (诺曼底后续)",
+      "en": "English Channel Naval Actions (Post-Normandy)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1c/HMCS_Alberni_K-103_O-6140.jpg",
-    "battleId": "english-channel-naval-actions"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1c/HMCS_Alberni_K-103_O-6140.jpg"
   },
   {
     "id": "corvette-regina",
@@ -520,10 +468,7 @@
       "zh": "花级轻型护卫舰",
       "en": "Flower-class Corvette"
     },
-    "coordinates": [
-      50.7,
-      -5.05
-    ],
+    "coordinates": [50.700, -5.050],
     "sinkingDate": "1944-08-08",
     "cause": {
       "zh": "在英国康沃尔（Cornwall）海岸附近，为了打捞一艘被击沉的美国自由轮的幸存者而停船，结果被埋伏的 U-667 发射鱼雷击沉。",
@@ -538,12 +483,11 @@
       "en": "She had performed excellently in the Mediterranean (sinking an Italian submarine), but was lost during D-Day escort duties because of the noble but highly risky act of stopping to rescue survivors."
     },
     "battle": {
-      "zh": "英吉利海峡海战",
-      "en": "English Channel Naval Actions"
+      "zh": "英吉利海峡海战 (诺曼底后续)",
+      "en": "English Channel Naval Actions (Post-Normandy)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HMCS_Regina_K234_CT-252.jpg/1920px-HMCS_Regina_K234_CT-252.jpg",
-    "battleId": "english-channel-naval-actions"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HMCS_Regina_K234_CT-252.jpg/1920px-HMCS_Regina_K234_CT-252.jpg"
   },
   {
     "id": "corvette-trentonian",
@@ -559,10 +503,7 @@
       "zh": "花级改进型护卫舰",
       "en": "Flower-class Corvette (Modified)"
     },
-    "coordinates": [
-      50.1,
-      -4.833
-    ],
+    "coordinates": [50.100, -4.833],
     "sinkingDate": "1945-02-22",
     "cause": {
       "zh": "在法尔茅斯（Falmouth）附近海域护航时被德国潜艇 U-1004 的鱼雷击中沉没。",
@@ -577,12 +518,11 @@
       "en": "She was the **last corvette** lost by Canada in WWII. Late-war U-boats equipped with snorkels were extremely difficult to detect and posed a final, deadly threat to Allied coastal convoys."
     },
     "battle": {
-      "zh": "英吉利海峡海战",
-      "en": "English Channel Naval Actions"
+      "zh": "英吉利海峡海战 (战争末期)",
+      "en": "English Channel Naval Actions (Late War)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/ed/HMCS_Trentonian.jpg",
-    "battleId": "english-channel-naval-actions"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/ed/HMCS_Trentonian.jpg"
   },
   {
     "id": "ms-clayoquot",
@@ -598,10 +538,7 @@
       "zh": "班戈级扫雷舰",
       "en": "Bangor-class Minesweeper"
     },
-    "coordinates": [
-      44.416,
-      -63.333
-    ],
+    "coordinates": [44.416, -63.333],
     "sinkingDate": "1944-12-24",
     "cause": {
       "zh": "在平安夜当天，于哈利法克斯港外的加拿大本土海域，被 U-806 的鱼雷击中舰艉后沉没。",
@@ -620,8 +557,7 @@
       "en": "Battle of the Atlantic (Canadian Coastal Defense)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": null,
-    "battleId": "battle-of-the-atlantic-canadian-coastal-defense"
+    "cover": null
   },
   {
     "id": "ms-guysborough",
@@ -637,10 +573,7 @@
       "zh": "班戈级扫雷舰",
       "en": "Bangor-class Minesweeper"
     },
-    "coordinates": [
-      46.716,
-      -9.5
-    ],
+    "coordinates": [46.716, -9.500],
     "sinkingDate": "1945-03-17",
     "cause": {
       "zh": "在比斯开湾（Bay of Biscay）单独航行前往英国时，被 U-868 连续发射的两枚声导鱼雷击中沉没。",
@@ -659,8 +592,7 @@
       "en": "Bay of Biscay Anti-Submarine Operations"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HMS_Guysborough_FL13703.jpg",
-    "battleId": "bay-of-biscay-anti-submarine-operations"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HMS_Guysborough_FL13703.jpg"
   },
   {
     "id": "ay-raccoon",
@@ -676,10 +608,7 @@
       "zh": "武装巡逻游艇",
       "en": "Armed Patrol Yacht"
     },
-    "coordinates": [
-      49.016,
-      -67.283
-    ],
+    "coordinates": [49.016, -67.283],
     "sinkingDate": "1942-09-07",
     "cause": {
       "zh": "在圣劳伦斯河护航 QS-33 船队时，在夜色中追击声呐接触信号，随后遭到 U-165 发射的鱼雷击中，全舰无一人生还。",
@@ -698,8 +627,7 @@
       "en": "Battle of the St. Lawrence"
     },
     "flagIconUrl": "https://flagcdn.com/w40/ca.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/45/E-20070195-008b_front.jpg",
-    "battleId": "battle-of-the-st-lawrence"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/45/E-20070195-008b_front.jpg"
   },
   {
     "id": "ss-u-455",
@@ -715,10 +643,7 @@
       "zh": "VIIC型 U型潜艇",
       "en": "Type VIIC U-boat"
     },
-    "coordinates": [
-      44.329,
-      9.213
-    ],
+    "coordinates": [44.329, 9.213],
     "sinkingDate": "1944-04-05",
     "cause": {
       "zh": "在意大利波托菲诺（Portofino）外海进行潜望镜深度潜航时，意外触雷（极大可能是德军自己布设的防御性水雷阵）。水雷直接炸碎了指挥塔后方约 10 米的舰体，导致潜艇迅速失去浮力沉没。",
@@ -737,7 +662,6 @@
       "en": "Mediterranean Submarine Warfare"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bundesarchiv_Bild_101II-MW-6434-15%2C_St._Nazaire%2C_U-Boot_einlaufend.jpg",
-    "battleId": "mediterranean-submarine-warfare"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bundesarchiv_Bild_101II-MW-6434-15%2C_St._Nazaire%2C_U-Boot_einlaufend.jpg"
   }
 ]

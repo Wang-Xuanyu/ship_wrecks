@@ -21,8 +21,11 @@ import data6 from './datas/data6_new.json';
 import data7 from './datas/data7_new.json';
 import data8 from './datas/data8_new.json';
 import data9 from './datas/data9_new.json';
+import data10 from './datas/data10_new.json';
+import data11 from './datas/data11_new.json';
+import battlesData from './datas/battles_new.json';
 
-const allShipwrecks = [...data1, ...data2, ...data3, ...data4, ...data5, ...data6, ...data7, ...data8, ...data9];
+const allShipwrecks = [...data1, ...data2, ...data3, ...data4, ...data5, ...data6, ...data7, ...data8, ...data9,...data10];
 const shipwrecksById = new Map();
 allShipwrecks.forEach((ship) => {
   if (!shipwrecksById.has(ship.id)) {
@@ -30,6 +33,7 @@ allShipwrecks.forEach((ship) => {
   }
 });
 const shipwrecks = Array.from(shipwrecksById.values());
+const battlesById = new Map(battlesData.map((battle) => [battle.id, battle]));
 
 const getText = (value, lang = 'en') => {
   if (!value) return '';
@@ -121,9 +125,11 @@ const ShipwreckMap = () => {
   const lang = i18n.language;
 
   const battles = useMemo(() => {
-    const all = shipwrecks.map((s) => getText(s.battle, lang));
-    return ['All', ...new Set(all)];
-  }, [lang]);
+    const battleIdsWithShips = new Set(shipwrecks.map((ship) => ship.battleId));
+    return battlesData.filter((battle) => battleIdsWithShips.has(battle.id));
+  }, []);
+
+  const selectedBattleDetails = selectedBattle === 'All' ? null : battlesById.get(selectedBattle);
 
   const factions = useMemo(() => {
     const all = shipwrecks.map((s) => getText(s.faction, lang));
@@ -132,10 +138,9 @@ const ShipwreckMap = () => {
 
   const filteredShipwrecks = useMemo(() => {
     return shipwrecks.filter((ship) => {
-      const battle = getText(ship.battle, lang);
       const faction = getText(ship.faction, lang);
       const name = getText(ship.name, lang);
-      const battleMatch = selectedBattle === 'All' || battle === selectedBattle;
+      const battleMatch = selectedBattle === 'All' || ship.battleId === selectedBattle;
       const factionMatch = selectedFaction === 'All' || faction === selectedFaction;
       const searchMatch = searchQuery === '' || name.toLowerCase().includes(searchQuery.toLowerCase());
       return battleMatch && factionMatch && searchMatch;
@@ -188,8 +193,9 @@ const ShipwreckMap = () => {
             onChange={(e) => setSelectedBattle(e.target.value)}
             className="min-h-11 w-full rounded border border-[#ccc] bg-white px-3 py-2 text-[16px] md:min-h-0 md:text-[13px]"
             >
-            {battles.map((b) => (
-                <option key={b} value={b}>{b}</option>
+              <option value="All">All</option>
+            {battles.map((battle) => (
+                <option key={battle.id} value={battle.id}>{getText(battle.name, lang)}</option>
             ))}
             </select>
 
@@ -203,6 +209,33 @@ const ShipwreckMap = () => {
             ))}
             </select>
           </div>
+
+          {selectedBattleDetails && (
+            <div className="rounded border border-[#d6dee8] bg-[#f8fafc] p-3 text-left text-[13px] text-[#334155]">
+              <div className="font-semibold text-[#0f172a]">
+                {getText(selectedBattleDetails.name, lang)}
+              </div>
+              <div className="mt-2 text-xs font-semibold uppercase tracking-wide text-[#64748b]">
+                {lang === 'en' ? 'Commanders' : '指挥官'}
+              </div>
+              {selectedBattleDetails.commanders.length > 0 ? (
+                <div className="mt-2 flex flex-col gap-2">
+                  {selectedBattleDetails.commanders.map((commander) => (
+                    <div key={`${commander.side}-${commander.name}`}>
+                      <div className="font-medium text-[#1f2937]">{commander.name}</div>
+                      <div className="text-xs text-[#64748b]">
+                        {[commander.side, commander.role].filter(Boolean).join(' - ')}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div className="mt-2 text-xs italic text-[#64748b]">
+                  {lang === 'en' ? 'Commander data not added yet.' : '指挥官资料尚未添加。'}
+                </div>
+              )}
+            </div>
+          )}
           </>
         )}
       </div>

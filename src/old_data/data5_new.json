@@ -13,10 +13,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      58.931,
-      -2.981
-    ],
+    "coordinates": [58.931, -2.981],
     "sinkingDate": "1939-10-14",
     "cause": {
       "zh": "在绝对安全的皇家海军大本营斯卡帕湾锚泊时，被悄悄潜入的德国潜艇 U-47（由京特·普里恩指挥）发射的多枚鱼雷击中，迅速翻覆沉没。",
@@ -35,8 +32,7 @@
       "en": "The Raid on Scapa Flow"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5d/HMS_Royal_Oak_%2808%29.jpg",
-    "battleId": "the-raid-on-scapa-flow"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5d/HMS_Royal_Oak_%2808%29.jpg"
   },
   {
     "id": "ca-graf-spee",
@@ -52,10 +48,7 @@
       "zh": "装甲舰 (袖珍战列舰)",
       "en": "Panzerschiff (Pocket Battleship)"
     },
-    "coordinates": [
-      -34.966,
-      -56.3
-    ],
+    "coordinates": [-34.966, -56.300],
     "sinkingDate": "1939-12-17",
     "cause": {
       "zh": "在拉普拉塔河口海战中遭到英国巡洋舰编队（埃克塞特号、阿贾克斯号、阿基里斯号）的围剿受损。逃入蒙得维的亚港后，因受英国情报欺骗，误以为港外有庞大舰队埋伏，最终由舰长下令自沉。",
@@ -74,8 +67,7 @@
       "en": "Battle of the River Plate"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bundesarchiv_DVM_10_Bild-23-63-06%2C_Panzerschiff_%22Admiral_Graf_Spee%22.jpg",
-    "battleId": "battle-of-the-river-plate"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bundesarchiv_DVM_10_Bild-23-63-06%2C_Panzerschiff_%22Admiral_Graf_Spee%22.jpg"
   },
   {
     "id": "ca-blucher",
@@ -91,10 +83,7 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [
-      59.7,
-      10.6
-    ],
+    "coordinates": [59.700, 10.600],
     "sinkingDate": "1940-04-09",
     "cause": {
       "zh": "在入侵挪威的“威悉演习行动”中，驶入奥斯陆峡湾时遭到挪威奥斯卡堡要塞（Oscarsborg Fortress）的古董级岸防炮和岸基鱼雷的近距离直击，起火倾覆沉没。",
@@ -113,8 +102,7 @@
       "en": "Battle of Drøbak Sound (Oslofjord)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bundesarchiv_DVM_10_Bild-23-63-09%2C_Kreuzer_%22Bl%C3%BCcher%22.jpg",
-    "battleId": "battle-of-dr-bak-sound-oslofjord"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bundesarchiv_DVM_10_Bild-23-63-09%2C_Kreuzer_%22Bl%C3%BCcher%22.jpg"
   },
   {
     "id": "cv-77-glorious",
@@ -130,10 +118,7 @@
       "zh": "舰队航空母舰",
       "en": "Fleet Aircraft Carrier"
     },
-    "coordinates": [
-      68.633,
-      3.833
-    ],
+    "coordinates": [68.633, 3.833],
     "sinkingDate": "1940-06-08",
     "cause": {
       "zh": "在撤离挪威途中，因未放飞侦察机进行空中警戒，被德国战列巡洋舰“沙恩霍斯特号”和“格奈森瑙号”在极远距离发现并用主炮连续命中，飞行甲板被毁、机库起火后沉没。",
@@ -152,8 +137,7 @@
       "en": "Operation Juno (Norwegian Sea)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5f/HMS_Glorious_FL22991.jpg",
-    "battleId": "operation-juno-norwegian-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5f/HMS_Glorious_FL22991.jpg"
   },
   {
     "id": "dd-ardent",
@@ -169,10 +153,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      68.635,
-      3.83
-    ],
+    "coordinates": [68.635, 3.830],
     "sinkingDate": "1940-06-08",
     "cause": {
       "zh": "在掩护光荣号撤退时，独自向两艘德国巨舰发起决死冲锋并释放烟幕，遭到德舰密集的副炮和主炮火力摧毁沉没。",
@@ -191,8 +172,7 @@
       "en": "Operation Juno (Norwegian Sea)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/89/HMS_Ardent_%28H41%29.jpg",
-    "battleId": "operation-juno-norwegian-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/89/HMS_Ardent_%28H41%29.jpg"
   },
   {
     "id": "dd-acasta",
@@ -208,10 +188,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      68.63,
-      3.84
-    ],
+    "coordinates": [68.630, 3.840],
     "sinkingDate": "1940-06-08",
     "cause": {
       "zh": "在光荣号和热心号相继沉没后，继续在烟幕中与德舰周旋并绝望地发射鱼雷，最终被德舰火炮击沉。",
@@ -230,8 +207,7 @@
       "en": "Operation Juno (Norwegian Sea)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/ce/HMS_ACASTA_%28H09%29.jpg",
-    "battleId": "operation-juno-norwegian-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/ce/HMS_ACASTA_%28H09%29.jpg"
   },
   {
     "id": "dd-h87-hardy",
@@ -247,10 +223,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      68.39,
-      17.12
-    ],
+    "coordinates": [68.390, 17.120],
     "sinkingDate": "1940-04-10",
     "cause": {
       "zh": "在第一次纳尔维克海战中，率队突袭港内的德国驱逐舰，撤退时遭到德军增援驱逐舰的猛烈炮击，受重创后抢滩搁浅。",
@@ -269,8 +242,7 @@
       "en": "First Battle of Narvik"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/28/HMS_Hardy_1936.jpg",
-    "battleId": "first-battle-of-narvik"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/28/HMS_Hardy_1936.jpg"
   },
   {
     "id": "dd-z21-wilhelm-heidkamp",
@@ -286,10 +258,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      68.42,
-      17.41
-    ],
+    "coordinates": [68.420, 17.410],
     "sinkingDate": "1940-04-10",
     "cause": {
       "zh": "在纳尔维克港内锚泊时，被突袭的英国驱逐舰（哈迪号等）发射的鱼雷击中舰艉，弹药库殉爆，次日沉没。",
@@ -308,8 +277,7 @@
       "en": "First Battle of Narvik"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z21_Wilhelm_Heidkamp_-_NH_83980.jpg/1920px-Z21_Wilhelm_Heidkamp_-_NH_83980.jpg",
-    "battleId": "first-battle-of-narvik"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z21_Wilhelm_Heidkamp_-_NH_83980.jpg/1920px-Z21_Wilhelm_Heidkamp_-_NH_83980.jpg"
   },
   {
     "id": "dd-z11-bernd-von-arnim",
@@ -325,10 +293,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      68.41,
-      17.38
-    ],
+    "coordinates": [68.410, 17.380],
     "sinkingDate": "1940-04-13",
     "cause": {
       "zh": "在第二次纳尔维克海战中，面对由“厌战号”战列舰率领的英国绝对优势舰队，在弹药耗尽后退入罗姆巴克斯峡湾（Rombaksfjord）尽头自沉。",
@@ -347,11 +312,10 @@
       "en": "Second Battle of Narvik"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": null,
-    "battleId": "second-battle-of-narvik"
+    "cover": null
   },
   {
-    "id": "bc-hood",
+  "id": "bc-hood",
     "name": {
       "zh": "胡德号战列巡洋舰",
       "en": "HMS Hood"
@@ -364,10 +328,7 @@
       "zh": "战列巡洋舰",
       "en": "Battlecruiser"
     },
-    "coordinates": [
-      63.333,
-      -31.833
-    ],
+    "coordinates": [63.333, -31.833],
     "sinkingDate": "1941-05-24",
     "cause": {
       "zh": "在丹麦海峡海战中，遭到德国战列舰‘俾斯麦号’的 380 毫米主炮命中。炮弹穿透了薄弱的水平装甲，引爆了后部副炮弹药库并连锁引发主弹药库极其剧烈的殉爆，舰体断裂，在 3 分钟内沉没。",
@@ -386,8 +347,7 @@
       "en": "Battle of the Denmark Strait"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HMS_Hood_%2851%29_-_March_17%2C_1924.jpg/3840px-HMS_Hood_%2851%29_-_March_17%2C_1924.jpg",
-    "battleId": "battle-of-the-denmark-strait"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HMS_Hood_%2851%29_-_March_17%2C_1924.jpg/3840px-HMS_Hood_%2851%29_-_March_17%2C_1924.jpg"
   },
   {
     "id": "bb-bismarck",
@@ -403,10 +363,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      48.166,
-      -16.2
-    ],
+    "coordinates": [48.166, -16.200],
     "sinkingDate": "1941-05-27",
     "cause": {
       "zh": "先被皇家方舟号起飞的剑鱼式鱼雷机击中舰艉导致船舵卡死。随后遭到英国战列舰‘罗德尼号’和‘乔治五世国王号’的抵近集火射击，上层建筑被完全摧毁。在失去战斗力后，由舰员开启通海阀自沉。",
@@ -425,8 +382,7 @@
       "en": "The Hunt for the Bismarck"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bundesarchiv_Bild_193-04-1-26%2C_Schlachtschiff_Bismarck.jpg",
-    "battleId": "the-hunt-for-the-bismarck"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bundesarchiv_Bild_193-04-1-26%2C_Schlachtschiff_Bismarck.jpg"
   },
   {
     "id": "dd-campbeltown",
@@ -442,10 +398,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      47.275,
-      -2.196
-    ],
+    "coordinates": [47.275, -2.196],
     "sinkingDate": "1942-03-28",
     "cause": {
       "zh": "在‘战车行动’ (圣纳泽尔突袭) 中，舰艏装满 4 吨延时引信烈性炸药，以自杀式冲锋撞入法国圣纳泽尔港的‘诺曼底’干船坞大门。次日炸药爆炸，彻底炸毁了船坞。",
@@ -464,8 +417,7 @@
       "en": "St. Nazaire Raid (Operation Chariot)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HMS_Campbeltown_and_Castleton.jpg",
-    "battleId": "st-nazaire-raid-operation-chariot"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HMS_Campbeltown_and_Castleton.jpg"
   },
   {
     "id": "dd-achates",
@@ -481,10 +433,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      73.3,
-      30.1
-    ],
+    "coordinates": [73.300, 30.100],
     "sinkingDate": "1942-12-31",
     "cause": {
       "zh": "在巴伦支海海战中，为了保护 JW 51B 护航船队，强行释放烟幕掩护，遭到德国重巡洋舰‘希佩尔海军上将号’的主炮重创，舰体破裂进水后沉没。",
@@ -503,8 +452,7 @@
       "en": "Battle of the Barents Sea"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ae/HMS_Achates_%28H12%29.jpg",
-    "battleId": "battle-of-the-barents-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ae/HMS_Achates_%28H12%29.jpg"
   },
   {
     "id": "dd-z16-friedrich-eckoldt",
@@ -520,10 +468,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      73.316,
-      30.1
-    ],
+    "coordinates": [73.316, 30.100],
     "sinkingDate": "1942-12-31",
     "cause": {
       "zh": "在极夜的混乱交战中，误将赶来支援的英国巡洋舰‘谢菲尔德号’认作己方的‘希佩尔号’，靠近后被英舰抵近集火，瞬间被打成碎片沉没。",
@@ -542,8 +487,7 @@
       "en": "Battle of the Barents Sea"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": null,
-    "battleId": "battle-of-the-barents-sea"
+    "cover": null
   },
   {
     "id": "bc-scharnhorst",
@@ -559,10 +503,7 @@
       "zh": "战列巡洋舰",
       "en": "Battlecruiser"
     },
-    "coordinates": [
-      72.266,
-      28.683
-    ],
+    "coordinates": [72.266, 28.683],
     "sinkingDate": "1943-12-26",
     "cause": {
       "zh": "在北角海战中企图拦截盟军护航船队。在极夜的暴风雪中，被拥有先进雷达的英国‘约克公爵号’战列舰在远距离锁定并击毁主炮塔和锅炉舱，失去动力后被英国驱逐舰群发射至少 11 枚鱼雷击沉。",
@@ -581,8 +522,7 @@
       "en": "Battle of North Cape"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bundesarchiv_DVM_10_Bild-23-63-07%2C_Schlachtschiff_%22Scharnhorst%22.jpg",
-    "battleId": "battle-of-north-cape"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bundesarchiv_DVM_10_Bild-23-63-07%2C_Schlachtschiff_%22Scharnhorst%22.jpg"
   },
   {
     "id": "bb-tirpitz",
@@ -598,10 +538,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      69.646,
-      18.808
-    ],
+    "coordinates": [69.646, 18.808],
     "sinkingDate": "1944-11-12",
     "cause": {
       "zh": "躲藏在挪威特罗姆瑟林根峡湾时，遭到英国皇家空军第 9 和第 617 中队的 32 架兰开斯特轰炸机袭击。被两枚 5.4 吨重的‘高脚柜’ (Tallboy) 地震炸弹直接命中，引发弹药库爆炸后倾覆沉没。",
@@ -620,8 +557,7 @@
       "en": "Operation Catechism"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/6/67/Tirpitz_early.jpg",
-    "battleId": "operation-catechism"
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/67/Tirpitz_early.jpg"
   },
   {
     "id": "cv-courageous",
@@ -637,10 +573,7 @@
       "zh": "舰队航空母舰",
       "en": "Fleet Aircraft Carrier"
     },
-    "coordinates": [
-      49.166,
-      -14.333
-    ],
+    "coordinates": [49.166, -14.333],
     "sinkingDate": "1939-09-17",
     "cause": {
       "zh": "在爱尔兰西南海域执行反潜巡逻时，被德国潜艇 U-29 击中两枚鱼雷，在 20 分钟内迅速沉没。",
@@ -659,8 +592,7 @@
       "en": "Battle of the Atlantic (Early U-boat warfare)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/75/HMS_Courageous_%2850%29.jpg",
-    "battleId": "battle-of-the-atlantic-early-u-boat-warfare"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/75/HMS_Courageous_%2850%29.jpg"
   },
   {
     "id": "amc-rawalpindi",
@@ -676,10 +608,7 @@
       "zh": "武装商船巡洋舰 (AMC)",
       "en": "Armed Merchant Cruiser (AMC)"
     },
-    "coordinates": [
-      63.666,
-      -11.483
-    ],
+    "coordinates": [63.666, -11.483],
     "sinkingDate": "1939-11-23",
     "cause": {
       "zh": "在法罗群岛和冰岛之间的海峡巡逻时，遭遇德国战列巡洋舰“沙恩霍斯特号”和“格奈森瑙号”。在拒绝投降后被德舰 280 毫米主炮轰成碎片。",
@@ -698,8 +627,7 @@
       "en": "Battle of the Atlantic (Northern Patrol)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": null,
-    "battleId": "battle-of-the-atlantic-northern-patrol"
+    "cover": null
   },
   {
     "id": "amc-jervis-bay",
@@ -715,10 +643,7 @@
       "zh": "武装商船巡洋舰 (AMC)",
       "en": "Armed Merchant Cruiser (AMC)"
     },
-    "coordinates": [
-      52.833,
-      -32.25
-    ],
+    "coordinates": [52.833, -32.250],
     "sinkingDate": "1940-11-05",
     "cause": {
       "zh": "在护航 HX 84 船队时遭遇德国袖珍战列舰“舍尔海军上将号”。为了掩护船队逃跑，单舰脱离编队向德舰发起冲锋并被击沉。",
@@ -737,8 +662,7 @@
       "en": "Battle of the Atlantic (Convoy Defense)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/JervisBayatDakar1940.jpg/960px-JervisBayatDakar1940.jpg",
-    "battleId": "battle-of-the-atlantic-convoy-defense"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/JervisBayatDakar1940.jpg/960px-JervisBayatDakar1940.jpg"
   },
   {
     "id": "dd-245-reuben-james",
@@ -754,10 +678,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      50.25,
-      -37.8
-    ],
+    "coordinates": [50.250, -37.800],
     "sinkingDate": "1941-10-31",
     "cause": {
       "zh": "在护航 HX 156 船队时，被德国潜艇 U-552 发射的鱼雷击中前部弹药库，发生剧烈爆炸并断成两截沉没。",
@@ -776,8 +697,7 @@
       "en": "Battle of the Atlantic (Neutrality Patrol)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/USS_Reuben_James_%28DD-245%29_on_29_April_1939.jpg/1920px-USS_Reuben_James_%28DD-245%29_on_29_April_1939.jpg",
-    "battleId": "battle-of-the-atlantic-neutrality-patrol"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/USS_Reuben_James_%28DD-245%29_on_29_April_1939.jpg/1920px-USS_Reuben_James_%28DD-245%29_on_29_April_1939.jpg"
   },
   {
     "id": "u-110",
@@ -793,10 +713,7 @@
       "zh": "IXB型潜艇",
       "en": "Type IXB Submarine"
     },
-    "coordinates": [
-      60.366,
-      -33.166
-    ],
+    "coordinates": [60.366, -33.166],
     "sinkingDate": "1941-05-09",
     "cause": {
       "zh": "在攻击船队时被英国驱逐舰逼出水面并俘获。在被拖曳回英国本土途中因进水过多而沉没。",
@@ -815,8 +732,7 @@
       "en": "Battle of the Atlantic (Intelligence War)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/86/U-110_and_HMS_Bulldog.jpg",
-    "battleId": "battle-of-the-atlantic-intelligence-war"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/86/U-110_and_HMS_Bulldog.jpg"
   },
   {
     "id": "rms-laconia",
@@ -832,10 +748,7 @@
       "zh": "武装运兵船",
       "en": "Armed Troopship"
     },
-    "coordinates": [
-      -4.566,
-      -11.416
-    ],
+    "coordinates": [-4.566, -11.416],
     "sinkingDate": "1942-09-12",
     "cause": {
       "zh": "在南大西洋被德国潜艇 U-156 击沉。",
@@ -854,8 +767,7 @@
       "en": "The Laconia Incident"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/00/RMS_Laconia_%28cropped%29.jpg",
-    "battleId": "the-laconia-incident"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/00/RMS_Laconia_%28cropped%29.jpg"
   },
   {
     "id": "u-166",
@@ -871,10 +783,7 @@
       "zh": "IXC型潜艇",
       "en": "Type IXC Submarine"
     },
-    "coordinates": [
-      28.675,
-      -88.199
-    ],
+    "coordinates": [28.675, -88.199],
     "sinkingDate": "1942-07-30",
     "cause": {
       "zh": "在墨西哥湾伏击客轮后，遭到美国海军 PC-566 号巡逻艇投掷的深水炸弹击中，直接沉入海底。",
@@ -893,8 +802,7 @@
       "en": "Operation Drumbeat (Gulf of Mexico)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": null,
-    "battleId": "operation-drumbeat-gulf-of-mexico"
+    "cover": null
   },
   {
     "id": "u-352",
@@ -910,10 +818,7 @@
       "zh": "VIIC型潜艇",
       "en": "Type VIIC Submarine"
     },
-    "coordinates": [
-      34.228,
-      -76.565
-    ],
+    "coordinates": [34.228, -76.565],
     "sinkingDate": "1942-05-09",
     "cause": {
       "zh": "在北卡罗来纳州近海误判目标，向美国海岸警卫队伊卡洛斯号（USCGC Icarus）发射鱼雷失败，反被对方用深水炸弹逼出水面并击沉。",
@@ -932,8 +837,7 @@
       "en": "Battle of the Atlantic (U.S. East Coast)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Photographing_a_German_U-boat.jpg",
-    "battleId": "battle-of-the-atlantic-u-s-east-coast"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Photographing_a_German_U-boat.jpg"
   },
   {
     "id": "u-869",
@@ -949,10 +853,7 @@
       "zh": "IXC/40型潜艇",
       "en": "Type IXC/40 Submarine"
     },
-    "coordinates": [
-      39.55,
-      -73.333
-    ],
+    "coordinates": [39.550, -73.333],
     "sinkingDate": "1945-02-11",
     "cause": {
       "zh": "沉没原因至今仍有争议，主流观点认为它遭到了美军驱逐舰的深水炸弹攻击，或者被自己发射后故障回旋的声导鱼雷击中。",
@@ -971,8 +872,7 @@
       "en": "Battle of the Atlantic (Late-war Raiding)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": null,
-    "battleId": "battle-of-the-atlantic-late-war-raiding"
+    "cover": null
   },
   {
     "id": "u-85",
@@ -988,10 +888,7 @@
       "zh": "VIIB型潜艇",
       "en": "Type VIIB Submarine"
     },
-    "coordinates": [
-      35.916,
-      -75.216
-    ],
+    "coordinates": [35.916, -75.216],
     "sinkingDate": "1942-04-14",
     "cause": {
       "zh": "在北卡罗来纳州哈特拉斯角（Cape Hatteras）附近的浅水区被美国海军驱逐舰罗珀号（USS Roper）的雷达发现，遭火炮近距离击沉。",
@@ -1010,8 +907,7 @@
       "en": "Battle of the Atlantic (Operation Drumbeat)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/52/U_52.jpg",
-    "battleId": "battle-of-the-atlantic-operation-drumbeat"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/52/U_52.jpg"
   },
   {
     "id": "u-1195",
@@ -1027,10 +923,7 @@
       "zh": "VIIC型潜艇",
       "en": "Type VIIC Submarine"
     },
-    "coordinates": [
-      50.55,
-      -0.933
-    ],
+    "coordinates": [50.550, -0.933],
     "sinkingDate": "1945-04-06",
     "cause": {
       "zh": "在英吉利海峡试图用新型‘刺猬弹’躲避探测时，被英国皇家海军守望者号（HMS Watchman）的深水炸弹精准击中沉没。",
@@ -1049,8 +942,7 @@
       "en": "Battle of the Atlantic (English Channel)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": null,
-    "battleId": "battle-of-the-atlantic-english-channel"
+    "cover": null
   },
   {
     "id": "dd-463-corry",
@@ -1066,10 +958,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      49.513,
-      -1.191
-    ],
+    "coordinates": [49.513, -1.191],
     "sinkingDate": "1944-06-06",
     "cause": {
       "zh": "在诺曼底登陆（D-Day）当天，于“犹他”海滩（Utah Beach）外海执行火力支援时，不幸触发水雷（同时可能遭到德军岸防炮命中），舰体断裂后沉没。",
@@ -1088,8 +977,7 @@
       "en": "D-Day (Operation Overlord)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/USS_Corry_%28DD-463%29_rescuing_German_sailors_in_the_Atlantic_Ocean%2C_17_March_1944_%2880-G-222851%29.jpg/1920px-USS_Corry_%28DD-463%29_rescuing_German_sailors_in_the_Atlantic_Ocean%2C_17_March_1944_%2880-G-222851%29.jpg",
-    "battleId": "d-day-operation-overlord"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/USS_Corry_%28DD-463%29_rescuing_German_sailors_in_the_Atlantic_Ocean%2C_17_March_1944_%2880-G-222851%29.jpg/1920px-USS_Corry_%28DD-463%29_rescuing_German_sailors_in_the_Atlantic_Ocean%2C_17_March_1944_%2880-G-222851%29.jpg"
   },
   {
     "id": "cl-edinburgh",
@@ -1105,10 +993,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      73.15,
-      32.75
-    ],
+    "coordinates": [73.150, 32.750],
     "sinkingDate": "1942-05-02",
     "cause": {
       "zh": "在护航 QP-11 船队从苏联返回英国途中，先被德国潜艇 U-456 的鱼雷重创，随后在与德国驱逐舰的混战中再次中雷失去动力，最终由友军驱逐舰发射鱼雷击沉以免落入敌手。",
@@ -1127,8 +1012,7 @@
       "en": "Arctic Convoys"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HMS_Edinburgh.jpg",
-    "battleId": "arctic-convoys"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HMS_Edinburgh.jpg"
   },
   {
     "id": "cve-21-block-island",
@@ -1144,10 +1028,7 @@
       "zh": "护航航空母舰",
       "en": "Escort Carrier"
     },
-    "coordinates": [
-      31.216,
-      -23.05
-    ],
+    "coordinates": [31.216, -23.050],
     "sinkingDate": "1944-05-29",
     "cause": {
       "zh": "在加那利群岛和亚速尔群岛之间的海域执行反潜猎杀任务时，遭到德国潜艇 U-549 的伏击，身中三枚鱼雷后沉没。",
@@ -1166,8 +1047,7 @@
       "en": "Battle of the Atlantic (Hunter-Killer Groups)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/USS_Block_Island_%28CVE-21%29_underway_Atlantic_Ocean_on_15_October_1943_%28NH_106576%29.jpg/1920px-USS_Block_Island_%28CVE-21%29_underway_Atlantic_Ocean_on_15_October_1943_%28NH_106576%29.jpg",
-    "battleId": "battle-of-the-atlantic-hunter-killer-groups"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/USS_Block_Island_%28CVE-21%29_underway_Atlantic_Ocean_on_15_October_1943_%28NH_106576%29.jpg/1920px-USS_Block_Island_%28CVE-21%29_underway_Atlantic_Ocean_on_15_October_1943_%28NH_106576%29.jpg"
   },
   {
     "id": "hsk-atlantis",
@@ -1183,10 +1063,7 @@
       "zh": "辅助巡洋舰 (伪装袭击舰)",
       "en": "Auxiliary Cruiser (Commerce Raider)"
     },
-    "coordinates": [
-      -4.2,
-      -18.7
-    ],
+    "coordinates": [-4.200, -18.700],
     "sinkingDate": "1941-11-22",
     "cause": {
       "zh": "在南大西洋进行补给作业时，被英国重巡洋舰‘德文郡号’ (HMS Devonshire) 的水上飞机发现。英舰在远距离用 8 英寸主炮开火，亚特兰蒂斯号舰长下令引爆炸药自沉。",
@@ -1205,8 +1082,7 @@
       "en": "Battle of the Atlantic (Commerce Raiding)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hilfskreuzer_Atlantis.jpg",
-    "battleId": "battle-of-the-atlantic-commerce-raiding"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hilfskreuzer_Atlantis.jpg"
   },
   {
     "id": "cl-sydney",
@@ -1222,10 +1098,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      -26.241,
-      111.213
-    ],
+    "coordinates": [-26.241, 111.213],
     "sinkingDate": "1941-11-19",
     "cause": {
       "zh": "在西澳大利亚鲨鱼湾外海拦截不明商船时，因距离过近（约 1000 米），遭到伪装成荷兰商船的德国‘鸬鹚号’突然集火射击和鱼雷打击。舰桥和火控系统瞬间被毁，燃起大火后向东南方漂流并最终沉没。",
@@ -1244,8 +1117,7 @@
       "en": "Mutual Destruction of Sydney and Kormoran"
     },
     "flagIconUrl": "https://flagcdn.com/w40/au.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HMAS_Sydney_in_1936_%289916488333607636%29.jpg/960px-HMAS_Sydney_in_1936_%289916488333607636%29.jpg",
-    "battleId": "mutual-destruction-of-sydney-and-kormoran"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HMAS_Sydney_in_1936_%289916488333607636%29.jpg/960px-HMAS_Sydney_in_1936_%289916488333607636%29.jpg"
   },
   {
     "id": "hsk-kormoran",
@@ -1261,10 +1133,7 @@
       "zh": "辅助巡洋舰 (伪装袭击舰)",
       "en": "Auxiliary Cruiser (Commerce Raider)"
     },
-    "coordinates": [
-      -26.059,
-      111.066
-    ],
+    "coordinates": [-26.059, 111.066],
     "sinkingDate": "1941-11-19",
     "cause": {
       "zh": "在与悉尼号的极近距离交火中，虽然凭借偷袭重创了对手，但也遭到悉尼号主炮的致命反击。轮机舱被毁，引发的大火逼近水雷库，最终由舰长特奥多尔·德特默斯下令弃舰并引爆自沉。",
@@ -1283,8 +1152,7 @@
       "en": "Mutual Destruction of Sydney and Kormoran"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_Bild_146-1985-074-27%2C_Hilfskreuzer_Kormoran.jpg",
-    "battleId": "mutual-destruction-of-sydney-and-kormoran"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_Bild_146-1985-074-27%2C_Hilfskreuzer_Kormoran.jpg"
   },
   {
     "id": "cl-konigsberg",
@@ -1300,10 +1168,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      60.399,
-      5.317
-    ],
+    "coordinates": [60.399, 5.317],
     "sinkingDate": "1940-04-10",
     "cause": {
       "zh": "在入侵挪威时停泊于卑尔根港，遭到英国皇家海军航空兵 16 架‘贼鸥’(Skua) 式俯冲轰炸机的突袭。身中三枚炸弹并近失数枚，引发大火和进水，随后在港口内倾覆沉没。",
@@ -1322,8 +1187,7 @@
       "en": "Norwegian Campaign (Operation Weserübung)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/40/K%C3%B6nigsberg_3.jpg",
-    "battleId": "norwegian-campaign-operation-weserubung"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/40/K%C3%B6nigsberg_3.jpg"
   },
   {
     "id": "info-atlantic-graveyard",
@@ -1339,10 +1203,7 @@
       "zh": "纪念/信息标记",
       "en": "Memorial / Info Marker"
     },
-    "coordinates": [
-      40,
-      -40
-    ],
+    "coordinates": [40.000, -40.000],
     "sinkingDate": "1939-1945",
     "cause": {
       "zh": "在长达六年的大西洋绞杀战中，因战损、风暴或误击沉没，且精确坐标永远消失在茫茫大洋深处。",
@@ -1361,7 +1222,6 @@
       "en": "Battle of the Atlantic (Entire Campaign)"
     },
     "flagIconUrl": "/memorial_new.png",
-    "cover": "/memorial_new.png",
-    "battleId": "battle-of-the-atlantic-entire-campaign"
+    "cover": "/memorial_new.png"
   }
 ]

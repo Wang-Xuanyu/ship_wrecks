@@ -13,10 +13,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      59.983,
-      29.766
-    ],
+    "coordinates": [59.983, 29.766],
     "sinkingDate": "1941-09-23",
     "cause": {
       "zh": "在喀琅施塔得港内遭到德国空军 Ju-87 斯图卡俯冲轰炸机（由著名飞行员汉斯-乌尔里希·鲁德尔驾驶）投下的 1000 公斤穿甲炸弹直接命中前弹药库，发生剧烈殉爆并首部沉没。",
@@ -35,8 +32,7 @@
       "en": "Siege of Leningrad"
     },
     "flagIconUrl": "/soviet.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Marat1934Gdynia.jpg/1920px-Marat1934Gdynia.jpg",
-    "battleId": "siege-of-leningrad"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Marat1934Gdynia.jpg/1920px-Marat1934Gdynia.jpg"
   },
   {
     "id": "transport-armenia",
@@ -52,10 +48,7 @@
       "zh": "医疗船/运输船",
       "en": "Hospital Ship / Transport"
     },
-    "coordinates": [
-      44.25,
-      34.28
-    ],
+    "coordinates": [44.250, 34.280],
     "sinkingDate": "1941-11-07",
     "cause": {
       "zh": "在撤离克里米亚半岛的伤员和难民时，在雅尔塔外海遭到德国空军 He 111 轰炸机的鱼雷攻击，在短短 4 分钟内迅速沉没。",
@@ -70,12 +63,11 @@
       "en": "This is one of the most tragic maritime disasters in WWII and human maritime history. Carrying between 5,000 to 7,000 wounded, medical personnel, and refugees, only a tiny fraction survived. Her wreck was not discovered by deep-sea expeditions off the Crimean coast until 2020."
     },
     "battle": {
-      "zh": "克里米亚战役",
-      "en": "Crimean Campaign"
+      "zh": "克里米亚战役 (黑海撤退)",
+      "en": "Crimean Campaign (Black Sea Evacuation)"
     },
     "flagIconUrl": "/soviet.png",
-    "cover": null,
-    "battleId": "crimean-campaign"
+    "cover": null
   },
   {
     "id": "cl-chervona-ukraina",
@@ -91,10 +83,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      44.616,
-      33.533
-    ],
+    "coordinates": [44.616, 33.533],
     "sinkingDate": "1941-11-12",
     "cause": {
       "zh": "在塞瓦斯托波尔港内为陆军提供火力支援时，遭到德国空军俯冲轰炸机群的连续轰炸，身中数枚炸弹后沉没。",
@@ -113,8 +102,7 @@
       "en": "Siege of Sevastopol"
     },
     "flagIconUrl": "/soviet.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/a/aa/Krasnaya_Ukraina.jpg",
-    "battleId": "siege-of-sevastopol"
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/aa/Krasnaya_Ukraina.jpg"
   },
   {
     "id": "dd-tashkent",
@@ -130,10 +118,7 @@
       "zh": "驱逐领舰",
       "en": "Destroyer Leader"
     },
-    "coordinates": [
-      44.716,
-      37.783
-    ],
+    "coordinates": [44.716, 37.783],
     "sinkingDate": "1942-07-02",
     "cause": {
       "zh": "在完成最后一次极其艰难的撤退任务，满载伤员突围到达新罗西斯克港后，遭到德国空军的密集轰炸而沉没。",
@@ -152,8 +137,7 @@
       "en": "Black Sea Convoys and Evacuations"
     },
     "flagIconUrl": "/soviet.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tashkent1937.jpg/960px-Tashkent1937.jpg",
-    "battleId": "black-sea-convoys-and-evacuations"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tashkent1937.jpg/960px-Tashkent1937.jpg"
   },
   {
     "id": "dd-yakov-sverdlov",
@@ -169,10 +153,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      59.766,
-      25.716
-    ],
+    "coordinates": [59.766, 25.716],
     "sinkingDate": "1941-08-28",
     "cause": {
       "zh": "在塔林大撤退期间，为舰队主力开辟航道时不幸触发水雷，舰体断成两截后迅速沉没。",
@@ -191,8 +172,7 @@
       "en": "Evacuation of Tallinn"
     },
     "flagIconUrl": "/soviet.png",
-    "cover": null,
-    "battleId": "evacuation-of-tallinn"
+    "cover": null
   },
   {
     "id": "transport-iosif-stalin",
@@ -208,10 +188,7 @@
       "zh": "武装运输船",
       "en": "Armed Transport Ship"
     },
-    "coordinates": [
-      59.95,
-      25.15
-    ],
+    "coordinates": [59.950, 25.150],
     "sinkingDate": "1941-12-03",
     "cause": {
       "zh": "在执行汉科半岛（Hanko）撤退任务时，连续触发三枚至四枚水雷失去动力，随后遭到芬兰海岸炮轰击，最终漂流搁浅并被俘获，战后被拆解。",
@@ -230,8 +207,7 @@
       "en": "Evacuation of Hanko"
     },
     "flagIconUrl": "/soviet.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bundesarchiv_Bild_101II-MN-2787-30%2C_Baltikum%2C_gesunkenes_russisches_Schiff.jpg",
-    "battleId": "evacuation-of-hanko"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bundesarchiv_Bild_101II-MN-2787-30%2C_Baltikum%2C_gesunkenes_russisches_Schiff.jpg"
   },
   {
     "id": "sub-shch-305",
@@ -247,10 +223,7 @@
       "zh": "X型潜艇 (狗鱼级)",
       "en": "Type X Submarine (Shchuka-class/Pike-class)"
     },
-    "coordinates": [
-      59.883,
-      19.15
-    ],
+    "coordinates": [59.883, 19.150],
     "sinkingDate": "1942-11-05",
     "cause": {
       "zh": "在奥兰海（Åland Sea）夜间水面航行充电时，被芬兰海军的‘水妖号’（Vetehinen）潜艇发现。芬兰潜艇在发射鱼雷未果后，直接全速撞击了它的舰体，导致其迅速沉没。",
@@ -269,8 +242,7 @@
       "en": "Baltic Sea Submarine Warfare"
     },
     "flagIconUrl": "/soviet.png",
-    "cover": null,
-    "battleId": "baltic-sea-submarine-warfare"
+    "cover": null
   },
   {
     "id": "cl-komintern",
@@ -286,10 +258,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      42.155,
-      41.65
-    ],
+    "coordinates": [42.155, 41.650],
     "sinkingDate": "1942-10-10",
     "cause": {
       "zh": "在黑海多次遭到德国空军轰炸重创，失去维修价值后，被拖至格鲁吉亚的波季港（Poti）河口凿沉，作为防波堤使用。",
@@ -308,8 +277,7 @@
       "en": "Defense of the Black Sea"
     },
     "flagIconUrl": "/soviet.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/da/Komintern1941.jpg",
-    "battleId": "defense-of-the-black-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/da/Komintern1941.jpg"
   },
   {
     "id": "av-akitsushima",
@@ -325,10 +293,7 @@
       "zh": "水上飞机母舰",
       "en": "Seaplane Tender"
     },
-    "coordinates": [
-      11.975,
-      119.965
-    ],
+    "coordinates": [11.975, 119.965],
     "sinkingDate": "1944-09-24",
     "cause": {
       "zh": "在科隆湾躲避美军空袭时，遭到美国第 38 特遣舰队舰载机轰炸，直接命中后部并引爆航空燃油，随后向左舷倾覆沉没。",
@@ -347,8 +312,7 @@
       "en": "Coron Bay Air Raid"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Japanese_seaplane_carrier_Akitsushima.jpg/960px-Japanese_seaplane_carrier_Akitsushima.jpg",
-    "battleId": "coron-bay-air-raid"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Japanese_seaplane_carrier_Akitsushima.jpg/960px-Japanese_seaplane_carrier_Akitsushima.jpg"
   },
   {
     "id": "ak-irako",
@@ -364,10 +328,7 @@
       "zh": "冷藏补给舰",
       "en": "Provision Ship / Supply Ship"
     },
-    "coordinates": [
-      11.981,
-      119.983
-    ],
+    "coordinates": [11.981, 119.983],
     "sinkingDate": "1944-09-24",
     "cause": {
       "zh": "在科隆湾被美军舰载机炸弹击中舰桥和船舯部，受重创后下沉。",
@@ -386,8 +347,7 @@
       "en": "Coron Bay Air Raid"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Japanese_supply_ship_Irako_1944.jpg/1920px-Japanese_supply_ship_Irako_1944.jpg",
-    "battleId": "coron-bay-air-raid"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Japanese_supply_ship_Irako_1944.jpg/1920px-Japanese_supply_ship_Irako_1944.jpg"
   },
   {
     "id": "ao-okikawa-maru",
@@ -403,10 +363,7 @@
       "zh": "舰队油船",
       "en": "Fleet Oiler"
     },
-    "coordinates": [
-      12.016,
-      119.982
-    ],
+    "coordinates": [12.016, 119.982],
     "sinkingDate": "1944-09-24",
     "cause": {
       "zh": "遭到美军 70 多架次飞机的轮番扫射和轰炸，船艏被炸断后燃烧沉没。",
@@ -425,8 +382,7 @@
       "en": "Coron Bay Air Raid"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "coron-bay-air-raid"
+    "cover": null
   },
   {
     "id": "ak-fujikawa-maru",
@@ -442,10 +398,7 @@
       "zh": "特设航空机搬运舰",
       "en": "Aircraft Transport (Converted)"
     },
-    "coordinates": [
-      7.352,
-      151.89
-    ],
+    "coordinates": [7.352, 151.890],
     "sinkingDate": "1944-02-18",
     "cause": {
       "zh": "在特鲁克潟湖内被美军鱼雷机击中舰良部后沉没。",
@@ -464,8 +417,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fujikawa_maru.jpg/1920px-Fujikawa_maru.jpg",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fujikawa_maru.jpg/1920px-Fujikawa_maru.jpg"
   },
   {
     "id": "ak-san-francisco-maru",
@@ -481,10 +433,7 @@
       "zh": "武装运输船",
       "en": "Armed Transport Ship"
     },
-    "coordinates": [
-      7.362,
-      151.895
-    ],
+    "coordinates": [7.362, 151.895],
     "sinkingDate": "1944-02-18",
     "cause": {
       "zh": "被美军俯冲轰炸机投下的 500 磅炸弹击中引爆，燃起大火后沉没。",
@@ -503,8 +452,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "operation-hailstone"
+    "cover": null
   },
   {
     "id": "as-heian-maru",
@@ -520,10 +468,7 @@
       "zh": "潜艇母舰",
       "en": "Submarine Tender"
     },
-    "coordinates": [
-      7.383,
-      151.825
-    ],
+    "coordinates": [7.383, 151.825],
     "sinkingDate": "1944-02-18",
     "cause": {
       "zh": "连续遭到美军轰炸机和鱼雷机打击，燃起大火后向左倾覆沉没。",
@@ -542,8 +487,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "operation-hailstone"
+    "cover": null
   },
   {
     "id": "ak-nippo-maru",
@@ -559,10 +503,7 @@
       "zh": "给水/运输船",
       "en": "Water/Transport Ship"
     },
-    "coordinates": [
-      7.375,
-      151.848
-    ],
+    "coordinates": [7.375, 151.848],
     "sinkingDate": "1944-02-18",
     "cause": {
       "zh": "遭到美军 TBF 复仇者鱼雷机轰炸，舰尾受损进水沉没。",
@@ -581,8 +522,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "operation-hailstone"
+    "cover": null
   },
   {
     "id": "av-3-langley",
@@ -598,10 +538,7 @@
       "zh": "水上飞机母舰 (原航空母舰)",
       "en": "Seaplane Tender (ex-Aircraft Carrier)"
     },
-    "coordinates": [
-      -8.85,
-      109.033
-    ],
+    "coordinates": [-8.850, 109.033],
     "sinkingDate": "1942-02-27",
     "cause": {
       "zh": "在向爪哇岛芝拉扎港（Cilacap）运送 32 架 P-40 战斗机途中，遭到日军 G4M“一式陆攻”和 G3M“九六式陆攻”轰炸机的轮番空袭。身中五枚炸弹失去动力，在严重左倾且无法扑灭大火的情况下，由护航的美国驱逐舰惠普尔号（USS Whipple）发射鱼雷和火炮击沉处理。",
@@ -616,12 +553,11 @@
       "en": "Holds a highly unique historical status: she was the first aircraft carrier in U.S. Navy history. Not only was she the cradle of American carrier tactics, but her sinking also marked the desperate struggles of the Allies defending the Dutch East Indies (ABDA fleet) early in WWII. When she sank, the dozens of invaluable P-40 fighters on her deck went down with her."
     },
     "battle": {
-      "zh": "爪哇海战役",
-      "en": "Java Sea Campaign"
+      "zh": "爪哇海战役 (荷属东印度群岛防御战)",
+      "en": "Java Sea Campaign (Defense of the Dutch East Indies)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6f/USS_Langley_%28CV-1%29_and_USS_Somers_%28DD-301%29_underway_off_San_Diego%2C_in_1928_%28NH_81279%29.jpg",
-    "battleId": "java-sea-campaign"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6f/USS_Langley_%28CV-1%29_and_USS_Somers_%28DD-301%29_underway_off_San_Diego%2C_in_1928_%28NH_81279%29.jpg"
   },
   {
     "id": "mv-wilhelm-gustloff",
@@ -637,10 +573,7 @@
       "zh": "武装客轮 / 难民运输船",
       "en": "Armed Passenger Liner / Refugee Transport"
     },
-    "coordinates": [
-      55.072,
-      17.421
-    ],
+    "coordinates": [55.072, 17.421],
     "sinkingDate": "1945-01-30",
     "cause": {
       "zh": "在执行‘汉尼拔行动’（撤离东普鲁士难民和军人）时，在波罗的海遭到苏联潜艇 S-13 发射的三枚鱼雷命中，在冰冷的海水中仅 40 分钟便沉没。",
@@ -659,8 +592,7 @@
       "en": "Operation Hannibal (Baltic Evacuation)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bundesarchiv_Bild_183-H27992%2C_Lazarettschiff_%22Wilhelm_Gustloff%22_in_Danzig.jpg",
-    "battleId": "operation-hannibal-baltic-evacuation"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bundesarchiv_Bild_183-H27992%2C_Lazarettschiff_%22Wilhelm_Gustloff%22_in_Danzig.jpg"
   },
   {
     "id": "hs-centaur",
@@ -676,10 +608,7 @@
       "zh": "医疗船",
       "en": "Hospital Ship"
     },
-    "coordinates": [
-      -27.283,
-      153.966
-    ],
+    "coordinates": [-27.283, 153.966],
     "sinkingDate": "1943-05-14",
     "cause": {
       "zh": "在完全亮起红十字医疗标志并在夜间开启照明的情况下，于澳大利亚昆士兰州外海遭到日本潜艇 I-177 的鱼雷偷袭，在不到 3 分钟内迅速沉没。",
@@ -694,12 +623,11 @@
       "en": "One of the most infamous war crimes of WWII. Of the 332 medical personnel and crew aboard, only 64 survived. The incident caused massive shock and outrage in Australia. Her wreck was finally discovered in 2009 by a deep-sea expedition led by David Mearns."
     },
     "battle": {
-      "zh": "太平洋潜艇战",
-      "en": "Pacific Submarine Warfare"
+      "zh": "太平洋潜艇战 (澳大利亚东海岸)",
+      "en": "Pacific Submarine Warfare (Australian East Coast)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/au.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AHS_Centaur_1944.jpg/1920px-AHS_Centaur_1944.jpg",
-    "battleId": "pacific-submarine-warfare"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AHS_Centaur_1944.jpg/1920px-AHS_Centaur_1944.jpg"
   },
   {
     "id": "ss-thistlegorm",
@@ -715,10 +643,7 @@
       "zh": "武装商船 (军用物资运输)",
       "en": "Armed Merchantman (Military Cargo)"
     },
-    "coordinates": [
-      27.814,
-      33.92
-    ],
+    "coordinates": [27.814, 33.920],
     "sinkingDate": "1941-10-06",
     "cause": {
       "zh": "在红海锚泊等待通过苏伊士运河时，遭到从克里特岛起飞的德国空军 He 111 轰炸机投下两枚炸弹命中弹药舱，引发极其剧烈的爆炸后断成两截沉没。",
@@ -733,12 +658,11 @@
       "en": "One of the most famous shipwreck diving sites in the world. Her cargo holds are essentially a WWII museum frozen in time, still packed with Norton motorcycles, Bedford trucks, Bren Gun Carriers, aircraft wings, and even two steam locomotives."
     },
     "battle": {
-      "zh": "北非战役",
-      "en": "North African Campaign"
+      "zh": "北非战役 (红海补给线)",
+      "en": "North African Campaign (Red Sea Supply Line)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aft_view_Thistlegorm.jpg/1920px-Aft_view_Thistlegorm.jpg",
-    "battleId": "north-african-campaign"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aft_view_Thistlegorm.jpg/1920px-Aft_view_Thistlegorm.jpg"
   },
   {
     "id": "ss-richard-montgomery",
@@ -754,10 +678,7 @@
       "zh": "自由轮 (弹药运输船)",
       "en": "Liberty Ship (Ammunition Transport)"
     },
-    "coordinates": [
-      51.466,
-      0.783
-    ],
+    "coordinates": [51.466, 0.783],
     "sinkingDate": "1944-08-20",
     "cause": {
       "zh": "在前往法国瑟堡运送弹药的途中，于英国泰晤士河口（Thames Estuary）的沙洲搁浅。随着退潮，不堪重负的船体从中间断裂并沉没。",
@@ -776,8 +697,7 @@
       "en": "Normandy Campaign Logistics"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Wreck_of_the_SS_Richard_Montgomery%2C_off_Sheerness_-_geograph.org.uk_-_4195096.jpg",
-    "battleId": "normandy-campaign-logistics"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Wreck_of_the_SS_Richard_Montgomery%2C_off_Sheerness_-_geograph.org.uk_-_4195096.jpg"
   },
   {
     "id": "ss-u-864",
@@ -793,10 +713,7 @@
       "zh": "IXD2型 U型潜艇",
       "en": "Type IXD2 U-boat"
     },
-    "coordinates": [
-      60.766,
-      4.616
-    ],
+    "coordinates": [60.766, 4.616],
     "sinkingDate": "1945-02-09",
     "cause": {
       "zh": "在前往日本运送喷气式飞机图纸和液态水银的途中，被埋伏的英国潜艇冒险者号 (HMS Venturer) 发现。英军潜艇在双方均处于潜航状态时，通过声呐盲射四枚鱼雷将其击沉。",
@@ -815,8 +732,7 @@
       "en": "North Sea Submarine Warfare (Special Transport)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": null,
-    "battleId": "north-sea-submarine-warfare-special-transport"
+    "cover": null
   },
   {
     "id": "ss-i-52",
@@ -832,10 +748,7 @@
       "zh": "丙型潜水舰 (特混运输)",
       "en": "Type C3 Submarine (Yanagi Mission)"
     },
-    "coordinates": [
-      15.266,
-      -39.916
-    ],
+    "coordinates": [15.266, -39.916],
     "sinkingDate": "1944-06-24",
     "cause": {
       "zh": "在执行‘遣德潜艇’任务时，于大西洋中部与德国潜艇会合后，遭到美国护航航母博格号 (USS Bogue) 上的复仇者式鱼雷机投下的新型‘菲多’ (Fido) 声导鱼雷击沉。",
@@ -854,7 +767,6 @@
       "en": "Battle of the Atlantic (Yanagi Mission)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4d/I-52-submarine.jpg",
-    "battleId": "battle-of-the-atlantic-yanagi-mission"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4d/I-52-submarine.jpg"
   }
 ]

@@ -13,10 +13,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      11.573,
-      165.485
-    ],
+    "coordinates": [11.573, 165.485],
     "sinkingDate": "1946-07-29",
     "cause": {
       "zh": "在‘贝克’(Baker) 水下核爆中受到极其严重的船体结构损伤。在核爆结束后的第五天夜里，由于进水过多，在无人目击的情况下默默倾覆沉没于环礁湖底。",
@@ -35,8 +32,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Japanese_Battleship_Nagato_1944.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Japanese_Battleship_Nagato_1944.jpg"
   },
   {
     "id": "bb-33-arkansas",
@@ -52,10 +48,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      11.583,
-      165.5
-    ],
+    "coordinates": [11.583, 165.500],
     "sinkingDate": "1946-07-25",
     "cause": {
       "zh": "距离‘贝克’水下核爆中心仅 155 米。核爆瞬间产生的超强水下冲击波和数百万吨重的水柱直接将其压碎并掀翻，几乎在瞬间沉入海底。",
@@ -74,8 +67,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bundesarchiv_Bild_102-10062%2C_Kiel%2C_US-Schlachtschiff_%22Arkansas%22.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bundesarchiv_Bild_102-10062%2C_Kiel%2C_US-Schlachtschiff_%22Arkansas%22.jpg"
   },
   {
     "id": "cv-3-saratoga",
@@ -91,10 +83,7 @@
       "zh": "航空母舰",
       "en": "Aircraft Carrier"
     },
-    "coordinates": [
-      11.616,
-      165.5
-    ],
+    "coordinates": [11.616, 165.500],
     "sinkingDate": "1946-07-25",
     "cause": {
       "zh": "在‘贝克’水下核爆中，遭到相当于两万吨 TNT 当量的巨大冲击波打击。飞行甲板受重创，船体大规模漏水，于核爆后约 7 个半小时沉没。",
@@ -113,8 +102,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/USS_Saratoga_%28CV-3%29_underway%2C_circa_in_1942_%2880-G-K-459%29.jpg/3840px-USS_Saratoga_%28CV-3%29_underway%2C_circa_in_1942_%2880-G-K-459%29.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/USS_Saratoga_%28CV-3%29_underway%2C_circa_in_1942_%2880-G-K-459%29.jpg/3840px-USS_Saratoga_%28CV-3%29_underway%2C_circa_in_1942_%2880-G-K-459%29.jpg"
   },
   {
     "id": "cl-sakawa",
@@ -130,10 +118,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      11.6,
-      165.516
-    ],
+    "coordinates": [11.600, 165.516],
     "sinkingDate": "1946-07-02",
     "cause": {
       "zh": "在代号‘阿贝’ (Able) 的空中核爆中，距离爆心点过近（由于炸弹偏离原定目标）。核闪光引燃了上层建筑，强烈的冲击波撕裂了舰体艉部。次日在被美军拖船尝试拖拽时沉没。",
@@ -152,8 +137,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese_cruiser_Sakawa.jpg/3840px-Japanese_cruiser_Sakawa.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese_cruiser_Sakawa.jpg/3840px-Japanese_cruiser_Sakawa.jpg"
   },
   {
     "id": "ss-308-apogon",
@@ -169,10 +153,7 @@
       "zh": "潜艇",
       "en": "Submarine"
     },
-    "coordinates": [
-      11.58,
-      165.495
-    ],
+    "coordinates": [11.580, 165.495],
     "sinkingDate": "1946-07-25",
     "cause": {
       "zh": "为了测试核爆对水下目标的破坏力，被安排在水下潜航状态接受测试。‘贝克’水下核爆的巨大水压瞬间压垮了其耐压壳，导致其永久沉没。",
@@ -191,8 +172,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3d/USS_Apogon%3B0830807.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3d/USS_Apogon%3B0830807.jpg"
   },
   {
     "id": "dd-411-anderson",
@@ -208,10 +188,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      11.59,
-      165.51
-    ],
+    "coordinates": [11.590, 165.510],
     "sinkingDate": "1946-07-01",
     "cause": {
       "zh": "在‘阿贝’空中核爆中，由于距离爆炸中心点仅 400 米，剧烈的爆炸冲击波瞬间引发大火并导致船体破裂。在爆炸后几分钟内迅速向左舷翻覆沉没。",
@@ -230,8 +207,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/USS_Anderson_%28DD-411%29_steaming_at_high_speed_during_trials%2C_in_1939_%28NH_96119%29.jpg/1920px-USS_Anderson_%28DD-411%29_steaming_at_high_speed_during_trials%2C_in_1939_%28NH_96119%29.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/USS_Anderson_%28DD-411%29_steaming_at_high_speed_during_trials%2C_in_1939_%28NH_96119%29.jpg/1920px-USS_Anderson_%28DD-411%29_steaming_at_high_speed_during_trials%2C_in_1939_%28NH_96119%29.jpg"
   },
   {
     "id": "dd-367-lamson",
@@ -247,10 +223,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      11.585,
-      165.49
-    ],
+    "coordinates": [11.585, 165.490],
     "sinkingDate": "1946-07-01",
     "cause": {
       "zh": "同样在‘阿贝’空中核爆中受损。核冲击波扫平了整个上层建筑结构并破坏了水密性，在核爆发生后的数小时内翻覆沉入礁湖。",
@@ -269,8 +242,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/USSLamsonDD367.jpg/1920px-USSLamsonDD367.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/USSLamsonDD367.jpg/1920px-USSLamsonDD367.jpg"
   },
   {
     "id": "ca-prinz-eugen",
@@ -286,10 +258,7 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [
-      8.75,
-      167.683
-    ],
+    "coordinates": [8.750, 167.683],
     "sinkingDate": "1946-12-22",
     "cause": {
       "zh": "奇迹般地抗过了两次比基尼核爆。但因受到极高剂量的核辐射污染，美军无法派人登舰修补漏水。在被拖曳至夸贾林环礁 (Kwajalein Atoll) 后，最终因进水倾覆沉没。",
@@ -308,8 +277,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/PE_Atomtest_1.jpg/1920px-PE_Atomtest_1.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/PE_Atomtest_1.jpg/1920px-PE_Atomtest_1.jpg"
   },
   {
     "id": "apa-57-gilliam",
@@ -325,10 +293,7 @@
       "zh": "运输舰",
       "en": "Attack Transport"
     },
-    "coordinates": [
-      11.595,
-      165.505
-    ],
+    "coordinates": [11.595, 165.505],
     "sinkingDate": "1946-07-01",
     "cause": {
       "zh": "在‘阿贝’ (Able) 空中核爆中，由于轰炸机投弹严重偏离原定靶心（内华达号），原子弹几乎正正在该舰上方引爆。船体瞬间受到极其恐怖的破坏，在不到 2 分钟内迅速沉没。",
@@ -347,8 +312,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/USS_Gilliam_%28APA-57%29_underway_at_sea_on_28_July_1944_%2880-G-242729%29.jpg/1920px-USS_Gilliam_%28APA-57%29_underway_at_sea_on_28_July_1944_%2880-G-242729%29.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/USS_Gilliam_%28APA-57%29_underway_at_sea_on_28_July_1944_%2880-G-242729%29.jpg/1920px-USS_Gilliam_%28APA-57%29_underway_at_sea_on_28_July_1944_%2880-G-242729%29.jpg"
   },
   {
     "id": "apa-69-carlisle",
@@ -364,10 +328,7 @@
       "zh": "运输舰",
       "en": "Attack Transport"
     },
-    "coordinates": [
-      11.592,
-      165.502
-    ],
+    "coordinates": [11.592, 165.502],
     "sinkingDate": "1946-07-01",
     "cause": {
       "zh": "在‘阿贝’ (Able) 空中核爆中，距离爆心非常近。核冲击波将其整个上层建筑向一侧推平，船身受到严重破坏并起火，在核爆后半小时内沉没。",
@@ -386,8 +347,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1b/USS_Carlisle_%28APA-69%29_in_1945.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1b/USS_Carlisle_%28APA-69%29_in_1945.jpg"
   },
   {
     "id": "ss-386-pilotfish",
@@ -403,10 +363,7 @@
       "zh": "潜艇",
       "en": "Submarine"
     },
-    "coordinates": [
-      11.582,
-      165.498
-    ],
+    "coordinates": [11.582, 165.498],
     "sinkingDate": "1946-07-25",
     "cause": {
       "zh": "在‘贝克’ (Baker) 水下核爆测试中，处于水下潜航状态。相当于两万吨 TNT 当量的巨大水压峰值瞬间压裂了潜艇的耐压外壳，导致其永久沉没。",
@@ -425,8 +382,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Pilotfish%3B0838603.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Pilotfish%3B0838603.jpg"
   },
   {
     "id": "ss-184-skipjack",
@@ -442,10 +398,7 @@
       "zh": "潜艇",
       "en": "Submarine"
     },
-    "coordinates": [
-      11.588,
-      165.492
-    ],
+    "coordinates": [11.588, 165.492],
     "sinkingDate": "1946-07-25",
     "cause": {
       "zh": "同样在‘贝克’ (Baker) 水下核爆测试中被作为水下目标。被数百万吨被核爆掀起的海水和恐怖的水下冲击波直接压碎结构而沉没。",
@@ -464,8 +417,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/USS_Skipjack_-_19-N-19055.jpg/1920px-USS_Skipjack_-_19-N-19055.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/USS_Skipjack_-_19-N-19055.jpg/1920px-USS_Skipjack_-_19-N-19055.jpg"
   },
   {
     "id": "ardc-13",
@@ -481,10 +433,7 @@
       "zh": "浮船坞",
       "en": "Floating Dry Dock"
     },
-    "coordinates": [
-      11.605,
-      165.52
-    ],
+    "coordinates": [11.605, 165.520],
     "sinkingDate": "1946-07-25",
     "cause": {
       "zh": "在‘阿贝’空中核爆中幸存但受到辐射污染。随后在‘贝克’水下核爆中，其庞大的体积使其承受了极大的破坏力，船坞壁被冲击波撕裂并最终沉没。",
@@ -503,8 +452,7 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ARDC13_ship.jpg/1920px-ARDC13_ship.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ARDC13_ship.jpg/1920px-ARDC13_ship.jpg"
   },
   {
     "id": "info-bikini-atoll",
@@ -520,10 +468,7 @@
       "zh": "纪念/信息标记",
       "en": "Memorial / Info Marker"
     },
-    "coordinates": [
-      11.6,
-      165.5
-    ],
+    "coordinates": [11.600, 165.500],
     "sinkingDate": "1946-07-01 至 1946-07-25",
     "cause": {
       "zh": "在这个曾经宁静的太平洋环礁，人类先后引爆了两枚两万吨当量的原子弹（空中爆震与水下爆发），以测试末日武器对现代舰队的绝对毁灭能力。",
@@ -542,7 +487,6 @@
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
     "flagIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Operation_Crossroads_Baker_Edit.jpg/3840px-Operation_Crossroads_Baker_Edit.jpg",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Operation_Crossroads_Baker_Edit.jpg/3840px-Operation_Crossroads_Baker_Edit.jpg",
-    "battleId": "operation-crossroads-post-war-nuclear-tests"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Operation_Crossroads_Baker_Edit.jpg/3840px-Operation_Crossroads_Baker_Edit.jpg"
   }
 ]

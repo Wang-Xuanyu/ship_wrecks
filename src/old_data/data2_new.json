@@ -13,10 +13,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      10.183,
-      151.666
-    ],
+    "coordinates": [10.183, 151.666],
     "sinkingDate": "1944-02-16",
     "cause": {
       "zh": "在特鲁克基地北方海域被美军潜艇“鳐鱼号” (USS Skate) 发射的鱼雷击中沉没。",
@@ -31,12 +28,11 @@
       "en": "She was one of the most advanced light cruisers of the Japanese Navy at the time. Her sinking served as the prelude to the Truk disaster, depriving the Japanese forces of valuable reconnaissance and anti-submarine capabilities."
     },
     "battle": {
-      "zh": "特鲁克大空袭",
-      "en": "Operation Hailstone"
+      "zh": "特鲁克大空袭 (序幕)",
+      "en": "Operation Hailstone (Prelude)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Japanese_cruiser_Agano.jpg",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Japanese_cruiser_Agano.jpg"
   },
   {
     "id": "cl-naka",
@@ -52,10 +48,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      7.25,
-      151.75
-    ],
+    "coordinates": [7.250, 151.750],
     "sinkingDate": "1944-02-17",
     "cause": {
       "zh": "在特鲁克外海试图营救被重创的阿贺野号时，遭到美军第58特混编队舰载机的多轮轰炸沉没。",
@@ -74,8 +67,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Japanese_cruiser_Naka.jpg/1920px-Japanese_cruiser_Naka.jpg",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Japanese_cruiser_Naka.jpg/1920px-Japanese_cruiser_Naka.jpg"
   },
   {
     "id": "ct-katori",
@@ -91,10 +83,7 @@
       "zh": "训练巡洋舰 (充当指挥舰)",
       "en": "Training Cruiser (Command Ship)"
     },
-    "coordinates": [
-      7.75,
-      151.333
-    ],
+    "coordinates": [7.750, 151.333],
     "sinkingDate": "1944-02-17",
     "cause": {
       "zh": "在试图逃离特鲁克时，遭到美军衣阿华号与新泽西号战列舰的16英寸主炮直接轰击沉没。",
@@ -109,12 +98,11 @@
       "en": "This was an extremely rare 'battleship vs. cruiser' duel in naval history. Despite being obsolete, Katori exhibited immense tenacity, attempting to launch torpedoes at the American super dreadnoughts in her final moments."
     },
     "battle": {
-      "zh": "特鲁克大空袭",
-      "en": "Operation Hailstone"
+      "zh": "特鲁克大空袭 (水面截击战)",
+      "en": "Operation Hailstone (Surface Interception)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Japanese_cruiser_Katori_1940.jpg",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Japanese_cruiser_Katori_1940.jpg"
   },
   {
     "id": "dd-maikaze",
@@ -130,10 +118,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      7.75,
-      151.333
-    ],
+    "coordinates": [7.750, 151.333],
     "sinkingDate": "1944-02-17",
     "cause": {
       "zh": "与香取号一同撤退时，遭到美军巡洋舰与战列舰的密集火炮截击沉没。",
@@ -148,12 +133,11 @@
       "en": "A Kagerō-class destroyer. Having survived multiple major engagements such as the Battle of Midway, she ultimately could not escape the main gun barrage of American battleships."
     },
     "battle": {
-      "zh": "特鲁克大空袭",
-      "en": "Operation Hailstone"
+      "zh": "特鲁克大空袭 (水面截击战)",
+      "en": "Operation Hailstone (Surface Interception)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Japanese_destroyer_Maikaze_on_15_July_1941.jpg",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Japanese_destroyer_Maikaze_on_15_July_1941.jpg"
   },
   {
     "id": "dd-oite",
@@ -169,10 +153,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      7.666,
-      151.75
-    ],
+    "coordinates": [7.666, 151.750],
     "sinkingDate": "1944-02-18",
     "cause": {
       "zh": "在运送被击沉的阿贺野号幸存者返回特鲁克途中，遭到美军轰炸机空袭，中雷后断成两截沉没。",
@@ -191,8 +172,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f9/IJN_DD_Oite_in_1927_off_Yokohama.jpg",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f9/IJN_DD_Oite_in_1927_off_Yokohama.jpg"
   },
   {
     "id": "dd-fumizuki",
@@ -208,10 +188,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      7.4,
-      151.74
-    ],
+    "coordinates": [7.400, 151.740],
     "sinkingDate": "1944-02-18",
     "cause": {
       "zh": "在特鲁克潟湖内遭到美军舰载机多轮轰炸与鱼雷攻击，次日因受损过重在修理过程中沉没。",
@@ -230,8 +207,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fumizuki_II.jpg",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fumizuki_II.jpg"
   },
   {
     "id": "dd-tachikaze",
@@ -247,10 +223,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      7.066,
-      151.933
-    ],
+    "coordinates": [7.066, 151.933],
     "sinkingDate": "1944-02-17",
     "cause": {
       "zh": "在战役开始前即因搁浅在库奥普环礁 (Kuop Atoll) 的珊瑚礁上无法行动，空袭中遭到美军机群毁灭性轰炸沉没。",
@@ -269,8 +242,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e0/IJN_Tachikaze_on_trials_Taisho_10.jpg",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e0/IJN_Tachikaze_on_trials_Taisho_10.jpg"
   },
   {
     "id": "as-heian-maru",
@@ -286,10 +258,7 @@
       "zh": "大型潜艇母舰 (改装自远洋客轮)",
       "en": "Large Submarine Tender (Converted Ocean Liner)"
     },
-    "coordinates": [
-      7.383,
-      151.85
-    ],
+    "coordinates": [7.383, 151.850],
     "sinkingDate": "1944-02-18",
     "cause": {
       "zh": "作为日军潜艇部队的移动指挥部和补给中心，遭到美军机群重点照顾，身中多枚炸弹后起火沉没。",
@@ -308,8 +277,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/85/Heian_Maru.jpg",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/85/Heian_Maru.jpg"
   },
   {
     "id": "as-rio-maru",
@@ -325,10 +293,7 @@
       "zh": "大型潜艇母舰 / 武装运输舰",
       "en": "Large Submarine Tender / Armed Transport"
     },
-    "coordinates": [
-      7.316,
-      151.9
-    ],
+    "coordinates": [7.316, 151.900],
     "sinkingDate": "1944-02-17",
     "cause": {
       "zh": "在潟湖内锚泊时遭美军轰炸机多次命中弹药库，发生猛烈爆炸后沉没。",
@@ -347,8 +312,7 @@
       "en": "Operation Hailstone"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/60/Rio_de_Janeiro_Maru1930_2.JPG",
-    "battleId": "operation-hailstone"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/60/Rio_de_Janeiro_Maru1930_2.JPG"
   },
   {
     "id": "dd-wakatake",
@@ -364,10 +328,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      7.5,
-      134.666
-    ],
+    "coordinates": [7.500, 134.666],
     "sinkingDate": "1944-03-30",
     "cause": {
       "zh": "在帕劳群岛附近执行护航任务时，遭到美军第58特混编队机群的饱和轰炸，被鱼雷命中后沉没。",
@@ -386,8 +347,7 @@
       "en": "Palau Raid (Operation Desecrate One)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Japanese_destroyer_Wakatake_1920.jpg/1920px-Japanese_destroyer_Wakatake_1920.jpg",
-    "battleId": "palau-raid-operation-desecrate-one"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Japanese_destroyer_Wakatake_1920.jpg/1920px-Japanese_destroyer_Wakatake_1920.jpg"
   },
   {
     "id": "ss-i-32",
@@ -403,10 +363,7 @@
       "zh": "大型潜艇",
       "en": "Large Submarine"
     },
-    "coordinates": [
-      9.25,
-      171.166
-    ],
+    "coordinates": [9.250, 171.166],
     "sinkingDate": "1944-03-24",
     "cause": {
       "zh": "在向沃特杰环礁执行补给任务途中，被美军护卫驱逐舰曼洛夫号 (USS Manlove) 发现并用深水炸弹击沉。",
@@ -425,8 +382,7 @@
       "en": "Marshall Islands Blockade"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "marshall-islands-blockade"
+    "cover": null
   },
   {
     "id": "ss-i-174",
@@ -442,10 +398,7 @@
       "zh": "大型潜艇",
       "en": "Large Submarine"
     },
-    "coordinates": [
-      10.783,
-      153.183
-    ],
+    "coordinates": [10.783, 153.183],
     "sinkingDate": "1944-04-12",
     "cause": {
       "zh": "在特鲁克以北海域巡逻时，被美军驱逐舰和巡逻机协同发现，遭连续深水炸弹攻击后沉没。",
@@ -464,8 +417,7 @@
       "en": "Caroline Islands Anti-Submarine Action"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "caroline-islands-anti-submarine-action"
+    "cover": null
   },
   {
     "id": "de-ishigaki",
@@ -481,10 +433,7 @@
       "zh": "海防舰 (护卫舰)",
       "en": "Kaibōkan (Escort Ship)"
     },
-    "coordinates": [
-      24.5,
-      141.333
-    ],
+    "coordinates": [24.500, 141.333],
     "sinkingDate": "1944-05-31",
     "cause": {
       "zh": "在执行护航任务途中，被美军潜艇“鲱鱼号” (USS Herring) 击沉。",
@@ -503,8 +452,7 @@
       "en": "Central Pacific Convoy Escort"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/67/Japanese_escort_ship_Ishigaki.jpg",
-    "battleId": "central-pacific-convoy-escort"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/67/Japanese_escort_ship_Ishigaki.jpg"
   },
   {
     "id": "dd-harusame",
@@ -520,10 +468,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      -0.083,
-      133.6
-    ],
+    "coordinates": [-0.083, 133.600],
     "sinkingDate": "1944-06-08",
     "cause": {
       "zh": "在执行比亚克岛增援任务时，遭到美军陆基航空兵（B-25轰炸机）的低空空袭沉没。",
@@ -538,12 +483,11 @@
       "en": "A Shiratsuyu-class destroyer. Her sinking signaled the complete bankruptcy of the Japanese tactic of using destroyers to transport troops without air cover."
     },
     "battle": {
-      "zh": "比亚克岛战役",
-      "en": "Battle of Biak"
+      "zh": "比亚克岛战役 (浑作战)",
+      "en": "Battle of Biak (Operation Kon)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/58/Harusame_II.jpg",
-    "battleId": "battle-of-biak"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/58/Harusame_II.jpg"
   },
   {
     "id": "dd-kazagumo",
@@ -559,10 +503,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      -6.05,
-      124.95
-    ],
+    "coordinates": [-6.050, 124.950],
     "sinkingDate": "1944-06-08",
     "cause": {
       "zh": "在护航任务中，被美军潜艇“哈达”号 (USS Haddo) 发现并用鱼雷击沉。",
@@ -577,12 +518,11 @@
       "en": "A Yūgumo-class destroyer. The location of her sinking near the entrance to Davao Gulf showed that U.S. submarines had advanced into the crucial shipping lanes of the southern Philippines."
     },
     "battle": {
-      "zh": "比亚克岛战役",
-      "en": "Battle of Biak"
+      "zh": "比亚克岛战役 (外围封锁)",
+      "en": "Battle of Biak (Outer Blockade)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/be/Japanese_destroyer_Kazagumo_on_28_March_1942.jpg",
-    "battleId": "battle-of-biak"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/be/Japanese_destroyer_Kazagumo_on_28_March_1942.jpg"
   },
   {
     "id": "cv-taiho",
@@ -598,10 +538,7 @@
       "zh": "装甲航空母舰",
       "en": "Armored Aircraft Carrier"
     },
-    "coordinates": [
-      12.366,
-      137.766
-    ],
+    "coordinates": [12.366, 137.766],
     "sinkingDate": "1944-06-19",
     "cause": {
       "zh": "战役首日遭美军潜艇“大青花鱼”号击中一枚鱼雷。因损管经验不足导致航空汽油蒸汽在密封的装甲机库内弥漫，最终引发灾难性大爆炸沉没。",
@@ -620,8 +557,7 @@
       "en": "Battle of the Philippine Sea"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/80/Japanese_aircraft_carrier_Taiho_02.jpg",
-    "battleId": "battle-of-the-philippine-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/80/Japanese_aircraft_carrier_Taiho_02.jpg"
   },
   {
     "id": "cv-shokaku",
@@ -637,10 +573,7 @@
       "zh": "舰队航空母舰",
       "en": "Fleet Aircraft Carrier"
     },
-    "coordinates": [
-      11.833,
-      137.683
-    ],
+    "coordinates": [11.833, 137.683],
     "sinkingDate": "1944-06-19",
     "cause": {
       "zh": "在回收舰载机时被美军潜艇“棘鳍”号连续命中3到4枚鱼雷，引发大火并殉爆沉没。",
@@ -659,8 +592,7 @@
       "en": "Battle of the Philippine Sea"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Japanese_aircraft_carrier_shokaku_1941.jpg/3840px-Japanese_aircraft_carrier_shokaku_1941.jpg",
-    "battleId": "battle-of-the-philippine-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Japanese_aircraft_carrier_shokaku_1941.jpg/3840px-Japanese_aircraft_carrier_shokaku_1941.jpg"
   },
   {
     "id": "cv-hiyo",
@@ -676,10 +608,7 @@
       "zh": "轻型航空母舰",
       "en": "Light Aircraft Carrier"
     },
-    "coordinates": [
-      16.2,
-      132.32
-    ],
+    "coordinates": [16.200, 132.320],
     "sinkingDate": "1944-06-20",
     "cause": {
       "zh": "在美军第二天的追击空袭中被鱼雷命中，随后因航空燃料爆炸沉没。",
@@ -698,8 +627,7 @@
       "en": "Battle of the Philippine Sea"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/84/Japanese_aircraft_carrier_Hiyo.jpg",
-    "battleId": "battle-of-the-philippine-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/84/Japanese_aircraft_carrier_Hiyo.jpg"
   },
   {
     "id": "dd-shiratsuyu",
@@ -715,10 +643,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      9.15,
-      126.833
-    ],
+    "coordinates": [9.150, 126.833],
     "sinkingDate": "1944-06-15",
     "cause": {
       "zh": "在开战前的编队机动中，为了规避美军潜艇警报，与己方油船发生剧烈碰撞，随后深水炸弹殉爆沉没。",
@@ -733,12 +658,11 @@
       "en": "The lead ship of the Shiratsuyu-class. This accidental collision on the eve of the decisive battle foreshadowed the tragedies brought about by extreme tension and chaotic coordination among Japanese forces during the Mariana campaign."
     },
     "battle": {
-      "zh": "菲律宾海海战",
-      "en": "Battle of the Philippine Sea"
+      "zh": "菲律宾海海战 (前置行动)",
+      "en": "Battle of the Philippine Sea (Preliminary Action)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c6/IJN_DD_Shiratsuyu_in_1937.jpg",
-    "battleId": "battle-of-the-philippine-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c6/IJN_DD_Shiratsuyu_in_1937.jpg"
   },
   {
     "id": "dd-minazuki",
@@ -754,10 +678,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      4.083,
-      121.5
-    ],
+    "coordinates": [4.083, 121.500],
     "sinkingDate": "1944-06-06",
     "cause": {
       "zh": "在菲律宾南部海域护航时，被号称“日舰克星”的美军潜艇“硬头鳟”号击沉。",
@@ -772,12 +693,11 @@
       "en": "A Mutsuki-class destroyer. Before the decisive Battle of the Philippine Sea, U.S. submarine forces had already laid an inescapable net across all key chokepoints around the Philippines."
     },
     "battle": {
-      "zh": "菲律宾海海战",
-      "en": "Battle of the Philippine Sea"
+      "zh": "菲律宾海海战 (外围封锁)",
+      "en": "Battle of the Philippine Sea (Outer Blockade)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/34/Minazuki_II.jpg",
-    "battleId": "battle-of-the-philippine-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/34/Minazuki_II.jpg"
   },
   {
     "id": "cl-natori",
@@ -793,10 +713,7 @@
       "zh": "轻巡洋舰",
       "en": "Light Cruiser"
     },
-    "coordinates": [
-      12.483,
-      128.816
-    ],
+    "coordinates": [12.483, 128.816],
     "sinkingDate": "1944-08-18",
     "cause": {
       "zh": "在撤往菲律宾途中，被美军潜艇“硬头鳟”号 (USS Hardhead) 发射的两枚鱼雷击中沉没。",
@@ -811,12 +728,11 @@
       "en": "A Nagara-class light cruiser. Having participated in numerous South Pacific battles, she was unfortunately ambushed while executing a retreat mission after the Battle of the Philippine Sea, marking the complete disappearance of large Japanese surface vessels in those waters."
     },
     "battle": {
-      "zh": "马里亚纳战役",
-      "en": "Mariana Islands Campaign"
+      "zh": "马里亚纳战役 (后续扫荡)",
+      "en": "Mariana Islands Campaign (Subsequent Mopping-up)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/89/IJN_Natori_in_1922_off_Nagasaki.jpg",
-    "battleId": "mariana-islands-campaign"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/89/IJN_Natori_in_1922_off_Nagasaki.jpg"
   },
   {
     "id": "dd-matsu",
@@ -832,10 +748,7 @@
       "zh": "护卫驱逐舰 (丁型驱逐舰)",
       "en": "Escort Destroyer (Type D Destroyer)"
     },
-    "coordinates": [
-      27.666,
-      142.1
-    ],
+    "coordinates": [27.666, 142.100],
     "sinkingDate": "1944-08-04",
     "cause": {
       "zh": "在执行“第4804次小笠原护航任务”时，为掩护运输船队撤退，单舰迎击美军第58特混编队的3艘巡洋舰和12艘驱逐舰，遭围攻沉没。",
@@ -854,8 +767,7 @@
       "en": "Bombing of the Ogasawara Islands (Operation Scavenger)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "bombing-of-the-ogasawara-islands-operation-scavenger"
+    "cover": null
   },
   {
     "id": "ss-i-5",
@@ -871,10 +783,7 @@
       "zh": "巡潜1型潜艇 (大型潜艇)",
       "en": "Type J1 Submarine (Large Submarine)"
     },
-    "coordinates": [
-      13.016,
-      144.633
-    ],
+    "coordinates": [13.016, 144.633],
     "sinkingDate": "1944-07-19",
     "cause": {
       "zh": "在向关岛运送补给物资时，被美军护卫驱逐舰怀曼号 (USS Wyman) 发现并用深水炸弹击沉。",
@@ -889,12 +798,11 @@
       "en": "At the time, the Japanese had to rely solely on submarines for 'Ant Transport'. The sinking of this large submarine, displacing over 2,000 tons, right at Guam's doorstep heralded the complete severing of the Guam supply line."
     },
     "battle": {
-      "zh": "关岛战役",
-      "en": "Battle of Guam"
+      "zh": "关岛战役 (外围封锁)",
+      "en": "Battle of Guam (Outer Blockade)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/48/Japanese_submarine_I-5_in_1932.jpg",
-    "battleId": "battle-of-guam"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/48/Japanese_submarine_I-5_in_1932.jpg"
   },
   {
     "id": "ss-i-55",
@@ -910,10 +818,7 @@
       "zh": "丙型潜艇 (大型潜艇)",
       "en": "Type C Submarine (Large Submarine)"
     },
-    "coordinates": [
-      15.3,
-      146.066
-    ],
+    "coordinates": [15.300, 146.066],
     "sinkingDate": "1944-07-14",
     "cause": {
       "zh": "在提尼安岛附近海域执行战斗巡逻时，被美军护卫驱逐舰雷诺兹号 (USS Reynolds) 击沉。",
@@ -928,12 +833,11 @@
       "en": "This was the Japanese Navy's final effort to disrupt the U.S. landings on Tinian. With the disappearance of these submarines, the waters around Tinian and Saipan effectively became an 'inner lake' for U.S. forces."
     },
     "battle": {
-      "zh": "提尼安岛战役",
-      "en": "Battle of Tinian"
+      "zh": "提尼安岛战役 (外围封锁)",
+      "en": "Battle of Tinian (Outer Blockade)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "battle-of-tinian"
+    "cover": null
   },
   {
     "id": "ca-atago",
@@ -949,10 +853,7 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [
-      9.467,
-      117.2
-    ],
+    "coordinates": [9.467, 117.200],
     "sinkingDate": "1944-10-23",
     "cause": {
       "zh": "在帕拉万水道遭到美军潜艇“海鲫”号 (USS Darter) 伏击，身中四枚鱼雷后在20分钟内沉没。",
@@ -971,8 +872,7 @@
       "en": "Battle of Leyte Gulf (Palawan Passage)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Atago_trials_1932.jpg",
-    "battleId": "battle-of-leyte-gulf-palawan-passage"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Atago_trials_1932.jpg"
   },
   {
     "id": "ca-maya",
@@ -988,10 +888,7 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [
-      9.45,
-      117.117
-    ],
+    "coordinates": [9.450, 117.117],
     "sinkingDate": "1944-10-23",
     "cause": {
       "zh": "在帕拉万水道被美军潜艇“鲦鱼”号 (USS Dace) 发射的四枚鱼雷击中，引发弹药库殉爆，仅5分钟便沉没。",
@@ -1010,8 +907,7 @@
       "en": "Battle of Leyte Gulf (Palawan Passage)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/81/Japanese_heavy_cruiser_Maya_1944.jpg",
-    "battleId": "battle-of-leyte-gulf-palawan-passage"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/81/Japanese_heavy_cruiser_Maya_1944.jpg"
   },
   {
     "id": "ss-227-darter",
@@ -1027,10 +923,7 @@
       "zh": "潜艇",
       "en": "Submarine"
     },
-    "coordinates": [
-      9.45,
-      116.933
-    ],
+    "coordinates": [9.450, 116.933],
     "sinkingDate": "1944-10-24",
     "cause": {
       "zh": "在追击受伤的日舰“高雄号”时意外在哈萨德礁（Hasa Hasa Shoal）搁浅，为防止泄密，由美军自毁。",
@@ -1049,8 +942,7 @@
       "en": "Battle of Leyte Gulf (Palawan Passage)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/73/USS_Darter%3B227launch.jpg",
-    "battleId": "battle-of-leyte-gulf-palawan-passage"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/73/USS_Darter%3B227launch.jpg"
   },
   {
     "id": "bb-musashi",
@@ -1066,10 +958,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      13.117,
-      122.533
-    ],
+    "coordinates": [13.117, 122.533],
     "sinkingDate": "1944-10-24",
     "cause": {
       "zh": "在锡布延海遭到美军航母舰载机多轮饱和攻击。在身中约19枚鱼雷和17枚炸弹后，最终倾覆沉没。",
@@ -1088,8 +977,7 @@
       "en": "Battle of Leyte Gulf (Sibuyan Sea)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Japanese_battleship_Musashi_underway_in_1944_%28NH_63473%29_%28cropped%29.jpg/3840px-Japanese_battleship_Musashi_underway_in_1944_%28NH_63473%29_%28cropped%29.jpg",
-    "battleId": "battle-of-leyte-gulf-sibuyan-sea"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Japanese_battleship_Musashi_underway_in_1944_%28NH_63473%29_%28cropped%29.jpg/3840px-Japanese_battleship_Musashi_underway_in_1944_%28NH_63473%29_%28cropped%29.jpg"
   },
   {
     "id": "bb-fuso",
@@ -1105,10 +993,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      10.15,
-      125.4
-    ],
+    "coordinates": [10.150, 125.400],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "在进入海峡途中遭美军驱逐舰梅尔文号 (USS Melvin) 鱼雷伏击，舰体中部发生剧烈爆炸并断成两截，随后两部分分别沉没。",
@@ -1127,8 +1012,7 @@
       "en": "Battle of Leyte Gulf (Surigao Strait)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fuso_Trial_Heading_Left.jpg",
-    "battleId": "battle-of-leyte-gulf-surigao-strait"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fuso_Trial_Heading_Left.jpg"
   },
   {
     "id": "bb-yamashiro",
@@ -1144,10 +1028,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      10.368,
-      125.358
-    ],
+    "coordinates": [10.368, 125.358],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "作为旗舰冲在最前，遭到美军6艘战列舰的雷达引导集火以及驱逐舰的鱼雷饱和攻击，倾覆沉没。",
@@ -1166,8 +1047,7 @@
       "en": "Battle of Leyte Gulf (Surigao Strait)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Yamashiro_at_Tateyama.jpg/1920px-Yamashiro_at_Tateyama.jpg",
-    "battleId": "battle-of-leyte-gulf-surigao-strait"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Yamashiro_at_Tateyama.jpg/1920px-Yamashiro_at_Tateyama.jpg"
   },
   {
     "id": "dd-michishio",
@@ -1183,10 +1063,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      10.416,
-      125.35
-    ],
+    "coordinates": [10.416, 125.350],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "在海峡中遭美军驱逐舰麦克德穆特号 (USS McDermut) 的鱼雷攻击，失去动力后被火炮彻底摧毁。",
@@ -1205,8 +1082,7 @@
       "en": "Battle of Leyte Gulf (Surigao Strait)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/77/Michishio.jpg",
-    "battleId": "battle-of-leyte-gulf-surigao-strait"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/77/Michishio.jpg"
   },
   {
     "id": "dd-yamagumo",
@@ -1222,10 +1098,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      10.266,
-      125.383
-    ],
+    "coordinates": [10.266, 125.383],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "被美军麦克德穆特号发射的鱼雷直接命中，瞬间引发大爆炸并解体，全舰几乎无人生还。",
@@ -1244,8 +1117,7 @@
       "en": "Battle of Leyte Gulf (Surigao Strait)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yamagumo.jpg",
-    "battleId": "battle-of-leyte-gulf-surigao-strait"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yamagumo.jpg"
   },
   {
     "id": "dd-asagumo",
@@ -1261,10 +1133,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      10.066,
-      125.25
-    ],
+    "coordinates": [10.066, 125.250],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "被美军鱼雷炸飞舰艏后试图撤退，但在清晨被美军巡洋舰追上并被火炮击沉。",
@@ -1283,8 +1152,7 @@
       "en": "Battle of Leyte Gulf (Surigao Strait)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Asagumo.jpg",
-    "battleId": "battle-of-leyte-gulf-surigao-strait"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Asagumo.jpg"
   },
   {
     "id": "pt-493",
@@ -1300,10 +1168,7 @@
       "zh": "鱼雷快艇",
       "en": "PT Boat (Patrol Torpedo Boat)"
     },
-    "coordinates": [
-      10.25,
-      125.316
-    ],
+    "coordinates": [10.250, 125.316],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "在近距离攻击日军编队时，被日舰火炮直接命中，随后在巴纳贡岛（Panaon Island）附近搁浅并沉没。",
@@ -1322,8 +1187,7 @@
       "en": "Battle of Leyte Gulf (Surigao Strait)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": null,
-    "battleId": "battle-of-leyte-gulf-surigao-strait"
+    "cover": null
   },
   {
     "id": "dd-557-johnston",
@@ -1339,10 +1203,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      11.75,
-      126.15
-    ],
+    "coordinates": [11.750, 126.150],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "向日军主力舰队发起自杀式冲锋，在耗尽鱼雷并用火炮持续射击后，遭日军多艘巡洋舰与驱逐舰围攻沉没。",
@@ -1361,8 +1222,7 @@
       "en": "Battle of Leyte Gulf (Battle off Samar)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/USS_Johnston_%28DD-557%29_underway_on_27_October_1943_%28NH_63495%29.jpg/1920px-USS_Johnston_%28DD-557%29_underway_on_27_October_1943_%28NH_63495%29.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-samar"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/USS_Johnston_%28DD-557%29_underway_on_27_October_1943_%28NH_63495%29.jpg/1920px-USS_Johnston_%28DD-557%29_underway_on_27_October_1943_%28NH_63495%29.jpg"
   },
   {
     "id": "de-413-samuel-b-roberts",
@@ -1378,10 +1238,7 @@
       "zh": "护卫驱逐舰",
       "en": "Destroyer Escort"
     },
-    "coordinates": [
-      11.666,
-      126.233
-    ],
+    "coordinates": [11.666, 126.233],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "以极小的吨位挑战日军金刚号战列舰和重巡洋舰，在被日军战列舰主炮直接命中后依然坚持战斗直至沉没。",
@@ -1400,8 +1257,7 @@
       "en": "Battle of Leyte Gulf (Battle off Samar)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USS_Samuel_B._Roberts_%28DE-413%29_underway_in_October_1944_%28NH_96011%29.jpg/3840px-USS_Samuel_B._Roberts_%28DE-413%29_underway_in_October_1944_%28NH_96011%29.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-samar"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USS_Samuel_B._Roberts_%28DE-413%29_underway_in_October_1944_%28NH_96011%29.jpg/3840px-USS_Samuel_B._Roberts_%28DE-413%29_underway_in_October_1944_%28NH_96011%29.jpg"
   },
   {
     "id": "dd-533-hoel",
@@ -1417,10 +1273,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      11.766,
-      126.216
-    ],
+    "coordinates": [11.766, 126.216],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "作为掩护屏卫，在近距离向金刚号战列舰发射鱼雷后，被日军密集的火炮彻底摧毁。",
@@ -1439,8 +1292,7 @@
       "en": "Battle of Leyte Gulf (Battle off Samar)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/USS_Hoel_%28DD-533%29_off_San_Francisco%2C_3_August_1943.jpg/3840px-USS_Hoel_%28DD-533%29_off_San_Francisco%2C_3_August_1943.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-samar"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/USS_Hoel_%28DD-533%29_off_San_Francisco%2C_3_August_1943.jpg/3840px-USS_Hoel_%28DD-533%29_off_San_Francisco%2C_3_August_1943.jpg"
   },
   {
     "id": "cve-73-gambier-bay",
@@ -1456,10 +1308,7 @@
       "zh": "护航航空母舰",
       "en": "Escort Carrier"
     },
-    "coordinates": [
-      11.516,
-      126.2
-    ],
+    "coordinates": [11.516, 126.200],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "被日军大和号及其他巡洋舰的水面火炮直接击沉。",
@@ -1478,8 +1327,7 @@
       "en": "Battle of Leyte Gulf (Battle off Samar)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f4/CVE_73_Gambier_Bay_underway.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-samar"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f4/CVE_73_Gambier_Bay_underway.jpg"
   },
   {
     "id": "ca-chokai",
@@ -1495,10 +1343,7 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [
-      11.366,
-      126.25
-    ],
+    "coordinates": [11.366, 126.250],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "遭到美军护航航母机群的集中空袭，被炸弹命中后引起甲板上的鱼雷殉爆，失去动力后由日军驱逐舰自沉。",
@@ -1517,8 +1362,7 @@
       "en": "Battle of Leyte Gulf (Battle off Samar)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/05/1933_Chokai.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-samar"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/05/1933_Chokai.jpg"
   },
   {
     "id": "ca-chikuma",
@@ -1534,10 +1378,7 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [
-      11.066,
-      126.5
-    ],
+    "coordinates": [11.066, 126.500],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "被美军舰载机投放的鱼雷命中舰艉导致失去动力，随后由日军驱逐舰野分号发射鱼雷处分沉没。",
@@ -1556,8 +1397,7 @@
       "en": "Battle of Leyte Gulf (Battle off Samar)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/04/Japanese_heavy_cruiser_Chikuma.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-samar"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/04/Japanese_heavy_cruiser_Chikuma.jpg"
   },
   {
     "id": "cv-zuikaku",
@@ -1573,10 +1413,7 @@
       "zh": "舰队航空母舰",
       "en": "Fleet Aircraft Carrier"
     },
-    "coordinates": [
-      19.333,
-      126.666
-    ],
+    "coordinates": [19.333, 126.666],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "遭到美军多波次舰载机饱和攻击，身中至少7枚鱼雷和9枚炸弹，最终在下午倾覆沉没。",
@@ -1595,8 +1432,7 @@
       "en": "Battle of Leyte Gulf (Battle off Cape Engaño)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/92/Japanese_aircraft_carrier_Zuikaku.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-cape-engano"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/92/Japanese_aircraft_carrier_Zuikaku.jpg"
   },
   {
     "id": "cvl-zuiho",
@@ -1612,10 +1448,7 @@
       "zh": "轻型航空母舰",
       "en": "Light Aircraft Carrier"
     },
-    "coordinates": [
-      19.333,
-      125.25
-    ],
+    "coordinates": [19.333, 125.250],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "在撤退途中被美军第三波空袭机群盯上，被多枚炸弹命中后严重起火沉没。",
@@ -1634,8 +1467,7 @@
       "en": "Battle of Leyte Gulf (Battle off Cape Engaño)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/74/Japanese_aircraft_carrier_Zuih%C5%8D.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-cape-engano"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/74/Japanese_aircraft_carrier_Zuih%C5%8D.jpg"
   },
   {
     "id": "cvl-chitose",
@@ -1651,10 +1483,7 @@
       "zh": "轻型航空母舰",
       "en": "Light Aircraft Carrier"
     },
-    "coordinates": [
-      19.333,
-      126
-    ],
+    "coordinates": [19.333, 126.000],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "在战斗首轮即遭到美军埃塞克斯号机群的猛烈轰炸，船体破裂导致海水倒灌，在上午便早早沉没。",
@@ -1673,8 +1502,7 @@
       "en": "Battle of Leyte Gulf (Battle off Cape Engaño)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/75/Japanese_aircraft_carrier_Chitose_cropped.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-cape-engano"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/75/Japanese_aircraft_carrier_Chitose_cropped.jpg"
   },
   {
     "id": "cvl-chiyoda",
@@ -1690,10 +1518,7 @@
       "zh": "轻型航空母舰",
       "en": "Light Aircraft Carrier"
     },
-    "coordinates": [
-      18.616,
-      126.75
-    ],
+    "coordinates": [18.616, 126.750],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "在空袭中受损失去动力。下午被美军追击的巡洋舰编队（威奇塔号等）追上，遭到近距离水面炮火直接击沉。",
@@ -1712,8 +1537,7 @@
       "en": "Battle of Leyte Gulf (Battle off Cape Engaño)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Japanese_aircraft_carrier_Chiyoda.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-cape-engano"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Japanese_aircraft_carrier_Chiyoda.jpg"
   },
   {
     "id": "dd-akizuki",
@@ -1729,10 +1553,7 @@
       "zh": "防空驱逐舰",
       "en": "Anti-Aircraft Destroyer"
     },
-    "coordinates": [
-      18.666,
-      126.5
-    ],
+    "coordinates": [18.666, 126.500],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "在为瑞鹤号护航时，遭到美军俯冲轰炸机攻击，被一枚炸弹直接命中弹药库引发恐怖爆炸沉没。",
@@ -1751,8 +1572,7 @@
       "en": "Battle of Leyte Gulf (Battle off Cape Engaño)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/04/Akizuki.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-cape-engano"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/04/Akizuki.jpg"
   },
   {
     "id": "dd-hatsuzuki",
@@ -1768,10 +1588,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      20.4,
-      126.333
-    ],
+    "coordinates": [20.400, 126.333],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "为了掩护受损舰艇撤退，独自拦截美军追击的巡洋舰和驱逐舰群，在长达两小时的绝望战斗后被炮火终结。",
@@ -1790,8 +1607,7 @@
       "en": "Battle of Leyte Gulf (Battle off Cape Engaño)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/da/IJN_Hatsuzuki_1942.jpg",
-    "battleId": "battle-of-leyte-gulf-battle-off-cape-engano"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/da/IJN_Hatsuzuki_1942.jpg"
   },
   {
     "id": "dd-shimakaze",
@@ -1807,10 +1623,7 @@
       "zh": "高速驱逐舰",
       "en": "High-speed Destroyer"
     },
-    "coordinates": [
-      10.833,
-      124.583
-    ],
+    "coordinates": [10.833, 124.583],
     "sinkingDate": "1944-11-11",
     "cause": {
       "zh": "在奥尔莫克湾遭美军数百架次舰载机围攻。虽凭借40节高航速拼命规避，但仍因近失弹导致船体开裂及机舱起火，最终爆炸沉没。",
@@ -1829,8 +1642,7 @@
       "en": "Operation TA (Ormoc Bay)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Shimakaze.jpg",
-    "battleId": "operation-ta-ormoc-bay"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Shimakaze.jpg"
   },
   {
     "id": "dd-naganami",
@@ -1846,10 +1658,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      10.83,
-      124.6
-    ],
+    "coordinates": [10.830, 124.600],
     "sinkingDate": "1944-11-11",
     "cause": {
       "zh": "与岛风号同属第三梯队，在同一波空袭中被多枚炸弹命中殉爆沉没。",
@@ -1868,8 +1677,7 @@
       "en": "Operation TA (Ormoc Bay)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Naganami.jpg",
-    "battleId": "operation-ta-ormoc-bay"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Naganami.jpg"
   },
   {
     "id": "dd-kuwa",
@@ -1885,10 +1693,7 @@
       "zh": "驱逐舰 (松级)",
       "en": "Destroyer (Matsu-class)"
     },
-    "coordinates": [
-      10.85,
-      124.55
-    ],
+    "coordinates": [10.850, 124.550],
     "sinkingDate": "1944-12-03",
     "cause": {
       "zh": "在奥尔莫克湾夜战中，单舰迎击美军驱逐舰群，被美军库珀号（USS Cooper）及其友舰的火炮和鱼雷击沉。",
@@ -1907,8 +1712,7 @@
       "en": "Battle of Ormoc Bay"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "battle-of-ormoc-bay"
+    "cover": null
   },
   {
     "id": "dd-695-cooper",
@@ -1924,10 +1728,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      10.9,
-      124.6
-    ],
+    "coordinates": [10.900, 124.600],
     "sinkingDate": "1944-12-03",
     "cause": {
       "zh": "在夜战中被日军“竹”号驱逐舰发射的氧气鱼雷命中，舰体瞬间断成两截并在一分钟内沉没。",
@@ -1946,8 +1747,7 @@
       "en": "Battle of Ormoc Bay"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4c/USS_Cooper_%28DD-695%29_underway_in_New_York_Harbor_%28USA%29_on_25_March_1944_%2819-N-64350%29.jpg",
-    "battleId": "battle-of-ormoc-bay"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4c/USS_Cooper_%28DD-695%29_underway_in_New_York_Harbor_%28USA%29_on_25_March_1944_%2819-N-64350%29.jpg"
   },
   {
     "id": "ca-nachi",
@@ -1963,10 +1763,7 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [
-      14.516,
-      120.866
-    ],
+    "coordinates": [14.516, 120.866],
     "sinkingDate": "1944-11-05",
     "cause": {
       "zh": "在马尼拉湾锚地遭到美军列克星敦号（CV-16）机群的轮番空袭，身中数枚鱼雷和炸弹，被炸成数段沉没。",
@@ -1981,12 +1778,11 @@
       "en": "A Myōkō-class heavy cruiser. She narrowly survived the Battle of Surigao Strait, only to be completely torn apart by U.S. air power in the so-called 'safe harbor' of Manila Bay."
     },
     "battle": {
-      "zh": "莱特湾海战",
-      "en": "Battle of Leyte Gulf"
+      "zh": "莱特湾后续 (马尼拉湾空袭)",
+      "en": "Aftermath of Leyte Gulf (Manila Bay Air Strike)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/NH_111605_Japanese_heavy_cruiser%2C_HIJMS_NACHI_%28cropped%29.jpg/3840px-NH_111605_Japanese_heavy_cruiser%2C_HIJMS_NACHI_%28cropped%29.jpg",
-    "battleId": "battle-of-leyte-gulf"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/NH_111605_Japanese_heavy_cruiser%2C_HIJMS_NACHI_%28cropped%29.jpg/3840px-NH_111605_Japanese_heavy_cruiser%2C_HIJMS_NACHI_%28cropped%29.jpg"
   },
   {
     "id": "bb-kongo",
@@ -2002,10 +1798,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      26.15,
-      121.383
-    ],
+    "coordinates": [26.150, 121.383],
     "sinkingDate": "1944-11-21",
     "cause": {
       "zh": "在撤回日本本土途中，于台湾海峡被美军潜艇“海狮”号（USS Sealion）命中两枚鱼雷。因舰体老旧及受损处铆钉震脱导致进水无法控制，最终爆炸沉没。",
@@ -2020,12 +1813,11 @@
       "en": "She was the only Japanese battleship sunk by a submarine during World War II. As a veteran of countless battles, her sinking symbolized the end of the Kongō-class myth."
     },
     "battle": {
-      "zh": "莱特湾海战",
-      "en": "Battle of Leyte Gulf"
+      "zh": "莱特湾后续 (台湾海峡拦截)",
+      "en": "Aftermath of Leyte Gulf (Taiwan Strait Interception)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kongo_after_reconstruction.jpg/3840px-Kongo_after_reconstruction.jpg",
-    "battleId": "battle-of-leyte-gulf"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kongo_after_reconstruction.jpg/3840px-Kongo_after_reconstruction.jpg"
   },
   {
     "id": "ca-kumano",
@@ -2041,10 +1833,7 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [
-      15.75,
-      119.8
-    ],
+    "coordinates": [15.750, 119.800],
     "sinkingDate": "1944-11-25",
     "cause": {
       "zh": "在不到一个月的时间内连续躲过四次毁灭性打击（被切断舰艏后仍坚持航行），最终在吕宋岛达索尔湾被美军蒂康德罗加号机群击沉。",
@@ -2059,12 +1848,11 @@
       "en": "Referred to by Admiral Halsey as 'the only Japanese ship I could ever feel sorry for.' Her incredibly tenacious will to survive is a miracle in naval history; she did not go down until taking 5 torpedo hits and multiple bombs in her final stand."
     },
     "battle": {
-      "zh": "莱特湾海战",
-      "en": "Battle of Leyte Gulf"
+      "zh": "莱特湾后续 (达索尔湾)",
+      "en": "Aftermath of Leyte Gulf (Dasol Bay)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kumano-1.jpg",
-    "battleId": "battle-of-leyte-gulf"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kumano-1.jpg"
   },
   {
     "id": "bb-39-arizona",
@@ -2080,10 +1868,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      21.364742,
-      -157.950027
-    ],
+    "coordinates": [21.364742, -157.950027],
     "sinkingDate": "1941-12-07",
     "cause": {
       "zh": "遭到日军高空轰炸机投掷的穿甲弹击中前方弹药库，引发毁灭性大爆炸，在几分钟内沉没。",
@@ -2102,8 +1887,7 @@
       "en": "Attack on Pearl Harbor"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/USS_Arizona_%28BB-39%29_-_NH_57658.jpg/1920px-USS_Arizona_%28BB-39%29_-_NH_57658.jpg",
-    "battleId": "attack-on-pearl-harbor"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/USS_Arizona_%28BB-39%29_-_NH_57658.jpg/1920px-USS_Arizona_%28BB-39%29_-_NH_57658.jpg"
   },
   {
     "id": "bb-37-oklahoma",
@@ -2119,10 +1903,7 @@
       "zh": "战列舰",
       "en": "Battleship"
     },
-    "coordinates": [
-      21.364727,
-      -157.952392
-    ],
+    "coordinates": [21.364727, -157.952392],
     "sinkingDate": "1941-12-07",
     "cause": {
       "zh": "被至少 5 枚鱼雷击中左舷，迅速向左倾覆，底朝天翻转在港内。",
@@ -2141,8 +1922,7 @@
       "en": "Attack on Pearl Harbor"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/USS_Oklahoma_%28BB-37%29_passing_Alcatraz_in_the_1930s.jpg/3840px-USS_Oklahoma_%28BB-37%29_passing_Alcatraz_in_the_1930s.jpg",
-    "battleId": "attack-on-pearl-harbor"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/USS_Oklahoma_%28BB-37%29_passing_Alcatraz_in_the_1930s.jpg/3840px-USS_Oklahoma_%28BB-37%29_passing_Alcatraz_in_the_1930s.jpg"
   },
   {
     "id": "ag-16-utah",
@@ -2158,10 +1938,7 @@
       "zh": "训练舰 (原战列舰)",
       "en": "Training Ship (ex-Battleship)"
     },
-    "coordinates": [
-      21.368742,
-      -157.962336
-    ],
+    "coordinates": [21.368742, -157.962336],
     "sinkingDate": "1941-12-07",
     "cause": {
       "zh": "被日军鱼雷机误认为是活跃战列舰而遭到攻击，中雷两枚后翻沉。",
@@ -2180,8 +1957,7 @@
       "en": "Attack on Pearl Harbor"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/USS_Utah_%28AG-16%29_being_painted_at_Puget_Sound_1941.jpg/1920px-USS_Utah_%28AG-16%29_being_painted_at_Puget_Sound_1941.jpg",
-    "battleId": "attack-on-pearl-harbor"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/USS_Utah_%28AG-16%29_being_painted_at_Puget_Sound_1941.jpg/1920px-USS_Utah_%28AG-16%29_being_painted_at_Puget_Sound_1941.jpg"
   },
   {
     "id": "cm-4-oglala",
@@ -2197,10 +1973,7 @@
       "zh": "布雷舰",
       "en": "Minelayer"
     },
-    "coordinates": [
-      21.3575,
-      -157.9482
-    ],
+    "coordinates": [21.3575, -157.9482],
     "sinkingDate": "1941-12-07",
     "cause": {
       "zh": "并未直接中弹，但因紧邻的海伦娜号巡洋舰中雷产生的剧烈震动导致船体开裂进水，随后侧翻沉没。",
@@ -2219,8 +1992,7 @@
       "en": "Attack on Pearl Harbor"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/USS_Oglala_%28ARG-1%29_in_the_Pacific_c1944.jpg/1920px-USS_Oglala_%28ARG-1%29_in_the_Pacific_c1944.jpg",
-    "battleId": "attack-on-pearl-harbor"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/USS_Oglala_%28ARG-1%29_in_the_Pacific_c1944.jpg/1920px-USS_Oglala_%28ARG-1%29_in_the_Pacific_c1944.jpg"
   },
   {
     "id": "dd-372-cassin",
@@ -2236,10 +2008,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      21.349841,
-      -157.959309
-    ],
+    "coordinates": [21.349841, -157.959309],
     "sinkingDate": "1941-12-07",
     "cause": {
       "zh": "在干船坞中维护时遭到空袭起火，旁边的唐斯号油箱爆炸引发大火，导致船体严重扭曲变形。",
@@ -2258,8 +2027,7 @@
       "en": "Attack on Pearl Harbor"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/USS_Cassin_%28DD-372%29_off_the_Philadelphia_Navy_Yard_in_1937.jpg/960px-USS_Cassin_%28DD-372%29_off_the_Philadelphia_Navy_Yard_in_1937.jpg",
-    "battleId": "attack-on-pearl-harbor"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/USS_Cassin_%28DD-372%29_off_the_Philadelphia_Navy_Yard_in_1937.jpg/960px-USS_Cassin_%28DD-372%29_off_the_Philadelphia_Navy_Yard_in_1937.jpg"
   },
   {
     "id": "cve-79-ommaney-bay",
@@ -2275,10 +2043,7 @@
       "zh": "护航航空母舰",
       "en": "Escort Carrier"
     },
-    "coordinates": [
-      11.416,
-      121.616
-    ],
+    "coordinates": [11.416, 121.616],
     "sinkingDate": "1945-01-04",
     "cause": {
       "zh": "在前往林加延湾途中，遭到一架日军“银河”轰炸机的自杀式撞击。两枚炸弹击中机库引发大火，因火势无法控制由美军驱逐舰击沉自毁。",
@@ -2293,12 +2058,11 @@
       "en": "She was the first major U.S. ship sunk by a kamikaze attack in 1945. Her loss signaled the extremely severe threat of aerial suicide attacks that U.S. forces would face during the Battle of Luzon."
     },
     "battle": {
-      "zh": "吕宋岛战役",
-      "en": "Battle of Luzon"
+      "zh": "吕宋岛战役 (林加延湾)",
+      "en": "Battle of Luzon (Lingayen Gulf)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/15/USS_Ommaney_Bay_%28CVE-79%29_off_Hawaii%2C_July_1944.jpg",
-    "battleId": "battle-of-luzon"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/15/USS_Ommaney_Bay_%28CVE-79%29_off_Hawaii%2C_July_1944.jpg"
   },
   {
     "id": "dd-momi",
@@ -2314,10 +2078,7 @@
       "zh": "驱逐舰 (松级)",
       "en": "Destroyer (Matsu-class)"
     },
-    "coordinates": [
-      14,
-      120
-    ],
+    "coordinates": [14.000, 120.000],
     "sinkingDate": "1945-01-05",
     "cause": {
       "zh": "在马尼拉湾外海执行护航任务时，遭到美军第 77 特混编队舰载机的攻击，被一枚鱼雷命中后沉没。",
@@ -2332,12 +2093,11 @@
       "en": "A Matsu-class destroyer. Early in the Battle of Luzon, the Japanese attempted to use these new small destroyers for escort missions, but they struggled to survive under absolute U.S. air superiority."
     },
     "battle": {
-      "zh": "吕宋岛战役",
-      "en": "Battle of Luzon"
+      "zh": "吕宋岛战役 (护航战)",
+      "en": "Battle of Luzon (Convoy Escort)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Momi_II.jpg",
-    "battleId": "battle-of-luzon"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Momi_II.jpg"
   },
   {
     "id": "dms-12-long",
@@ -2353,10 +2113,7 @@
       "zh": "快速扫雷舰 (驱逐舰改装)",
       "en": "High-speed Minesweeper (Converted Destroyer)"
     },
-    "coordinates": [
-      16.2,
-      120.25
-    ],
+    "coordinates": [16.200, 120.250],
     "sinkingDate": "1945-01-06",
     "cause": {
       "zh": "在林加延湾执行扫雷任务时，被两架日军神风特攻机连续撞击。尽管损管努力施救，但终因爆炸过重沉没。",
@@ -2371,12 +2128,11 @@
       "en": "Minesweepers were the vanguard of amphibious landings and prime targets for kamikazes. The sinking of USS Long marked the prelude to the 'Minesweeper Massacre' in Lingayen Gulf."
     },
     "battle": {
-      "zh": "吕宋岛战役",
-      "en": "Battle of Luzon"
+      "zh": "吕宋岛战役 (林加延湾)",
+      "en": "Battle of Luzon (Lingayen Gulf)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f0/USSLong1943.jpeg",
-    "battleId": "battle-of-luzon"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f0/USSLong1943.jpeg"
   },
   {
     "id": "dms-11-hovey",
@@ -2392,10 +2148,7 @@
       "zh": "快速扫雷舰 (驱逐舰改装)",
       "en": "High-speed Minesweeper (Converted Destroyer)"
     },
-    "coordinates": [
-      16.333,
-      120.166
-    ],
+    "coordinates": [16.333, 120.166],
     "sinkingDate": "1945-01-07",
     "cause": {
       "zh": "在隆号沉没后的第二天，于同一海域遭到日军鱼雷机攻击，右舷中雷后在两分钟内迅速倾覆沉没。",
@@ -2410,12 +2163,11 @@
       "en": "Hovey was carrying survivors rescued from USS Long the previous day. Ironically and tragically, many men endured two shipwrecks in two days."
     },
     "battle": {
-      "zh": "吕宋岛战役",
-      "en": "Battle of Luzon"
+      "zh": "吕宋岛战役 (林加延湾)",
+      "en": "Battle of Luzon (Lingayen Gulf)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/78/USSHoveyMay1943.JPG",
-    "battleId": "battle-of-luzon"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/78/USSHoveyMay1943.JPG"
   },
   {
     "id": "dd-hinoki",
@@ -2431,10 +2183,7 @@
       "zh": "驱逐舰 (松级)",
       "en": "Destroyer (Matsu-class)"
     },
-    "coordinates": [
-      14.5,
-      119.333
-    ],
+    "coordinates": [14.500, 119.333],
     "sinkingDate": "1945-01-07",
     "cause": {
       "zh": "在马尼拉附近海域被美军驱逐舰查尔斯·奥斯本号（USS Charles Ausburne）发现并由水面炮火击沉。",
@@ -2449,12 +2198,11 @@
       "en": "This was one of the 1945 victories scored by the 'Little Beavers' squadron (DesRon 23), formerly commanded by Admiral Arleigh Burke. Her sinking severed the western maritime retreat route from Manila."
     },
     "battle": {
-      "zh": "吕宋岛战役",
-      "en": "Battle of Luzon"
+      "zh": "吕宋岛战役 (拦截战)",
+      "en": "Battle of Luzon (Interception Action)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null,
-    "battleId": "battle-of-luzon"
+    "cover": null
   },
   {
     "id": "dd-416-walke",
@@ -2470,10 +2218,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      -9.2,
-      159.866
-    ],
+    "coordinates": [-9.200, 159.866],
     "sinkingDate": "1942-11-15",
     "cause": {
       "zh": "在瓜岛夜战中，遭到日军长矛鱼雷命中右舷，同时被日舰密集的交叉火力打成重伤。舰艏被炸断后迅速沉没，沉没时舰上的深水炸弹发生了惨烈的连环殉爆。",
@@ -2492,8 +2237,7 @@
       "en": "Naval Battle of Guadalcanal"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/26/USSWalkeDD416_h97912.jpg",
-    "battleId": "naval-battle-of-guadalcanal"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/26/USSWalkeDD416_h97912.jpg"
   },
   {
     "id": "dd-379-preston",
@@ -2509,10 +2253,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      -9.183,
-      159.85
-    ],
+    "coordinates": [-9.183, 159.850],
     "sinkingDate": "1942-11-15",
     "cause": {
       "zh": "遭到日本轻巡洋舰长良号和多艘驱逐舰的集火射击，两座锅炉舱被直接命中，全舰失去动力并燃起大火，被下令弃舰后翻覆沉没。",
@@ -2531,8 +2272,7 @@
       "en": "Naval Battle of Guadalcanal"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Uss_Preston_DD-379.jpg",
-    "battleId": "naval-battle-of-guadalcanal"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Uss_Preston_DD-379.jpg"
   },
   {
     "id": "dd-397-benham",
@@ -2548,10 +2288,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      -9.25,
-      159.816
-    ],
+    "coordinates": [-9.250, 159.816],
     "sinkingDate": "1942-11-15",
     "cause": {
       "zh": "在夜战中被一枚日军鱼雷命中舰艏（很可能来自绫波号），虽然坚持到了天亮并试图向南撤退，但在下午因船体结构彻底撕裂，被友军格温号（USS Gwin）驱逐舰发射火炮击沉处理。",
@@ -2570,8 +2307,7 @@
       "en": "Naval Battle of Guadalcanal"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/USS_Benham_%28DD-397%29_anchored_off_New_York_City_%28USA%29%2C_in_1939_%28NH_81173%29.jpg/3840px-USS_Benham_%28DD-397%29_anchored_off_New_York_City_%28USA%29%2C_in_1939_%28NH_81173%29.jpg",
-    "battleId": "naval-battle-of-guadalcanal"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/USS_Benham_%28DD-397%29_anchored_off_New_York_City_%28USA%29%2C_in_1939_%28NH_81173%29.jpg/3840px-USS_Benham_%28DD-397%29_anchored_off_New_York_City_%28USA%29%2C_in_1939_%28NH_81173%29.jpg"
   },
   {
     "id": "ca-kinugasa",
@@ -2587,10 +2323,7 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [
-      -8.75,
-      157
-    ],
+    "coordinates": [-8.750, 157.000],
     "sinkingDate": "1942-11-14",
     "cause": {
       "zh": "在瓜达尔卡纳尔海战中，遭到来自美军企业号航母 (USS Enterprise) 及瓜岛亨德森机场的 TBF 复仇者式鱼雷机与 SBD 无畏式俯冲轰炸机的连续空袭。舰桥被一枚 500 磅炸弹直接命中，导致舰长及多名高级军官阵亡，随后因多次近失弹导致船体破裂、严重进水而倾覆。",
@@ -2609,8 +2342,7 @@
       "en": "Naval Battle of Guadalcanal"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Japanese_cruiser_Kinugasa.jpg/960px-Japanese_cruiser_Kinugasa.jpg",
-    "battleId": "naval-battle-of-guadalcanal"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Japanese_cruiser_Kinugasa.jpg/960px-Japanese_cruiser_Kinugasa.jpg"
   },
   {
     "id": "dd-ayanami",
@@ -2626,10 +2358,7 @@
       "zh": "特型驱逐舰 (吹雪型)",
       "en": "Special Type Destroyer (Fubuki-class)"
     },
-    "coordinates": [
-      -9.166,
-      159.866
-    ],
+    "coordinates": [-9.166, 159.866],
     "sinkingDate": "1942-11-15",
     "cause": {
       "zh": "利用夜色单舰突入美军舰队，在重创美军驱逐舰后，暴露了自身位置。遭到美军‘华盛顿号’战列舰雷达火控下的 16 英寸主炮和 5 英寸副炮的毁灭性打击，起火失去动力后自沉。",
@@ -2648,8 +2377,7 @@
       "en": "Naval Battle of Guadalcanal"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ayanami_II.jpg",
-    "battleId": "naval-battle-of-guadalcanal"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ayanami_II.jpg"
   },
   {
     "id": "dd-fubuki",
@@ -2665,10 +2393,7 @@
       "zh": "特型驱逐舰 (吹雪型首舰)",
       "en": "Special Type Destroyer (Lead ship of Fubuki-class)"
     },
-    "coordinates": [
-      -9.1,
-      159.633
-    ],
+    "coordinates": [-9.100, 159.633],
     "sinkingDate": "1942-10-11",
     "cause": {
       "zh": "在埃斯佩兰斯角夜战中，作为日军编队的先导舰，率先被美军巡洋舰的雷达锁定。遭到美军旧金山号、博伊西号等舰艇的集火射击，由于距离极近且火力密集，迅速被打成碎片并爆炸沉没。",
@@ -2687,8 +2412,7 @@
       "en": "Battle of Cape Esperance"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fubuki.jpg/1920px-Fubuki.jpg",
-    "battleId": "battle-of-cape-esperance"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fubuki.jpg/1920px-Fubuki.jpg"
   },
   {
     "id": "dd-natsugumo",
@@ -2704,10 +2428,7 @@
       "zh": "驱逐舰 (朝潮型)",
       "en": "Destroyer (Asashio-class)"
     },
-    "coordinates": [
-      -8.667,
-      159.15
-    ],
+    "coordinates": [-8.667, 159.150],
     "sinkingDate": "1942-10-12",
     "cause": {
       "zh": "海战次日，在护送受创的古鹰号和丛云号撤退时，遭到来自瓜岛亨德森机场的 SBD 无畏式俯冲轰炸机的轮番空袭。舰尾被近失弹重创导致锅炉舱进水，随后迅速倾覆沉没。",
@@ -2726,8 +2447,7 @@
       "en": "Battle of Cape Esperance"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Natsugumo.jpg",
-    "battleId": "battle-of-cape-esperance"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Natsugumo.jpg"
   },
   {
     "id": "dd-murakumo",
@@ -2743,10 +2463,7 @@
       "zh": "特型驱逐舰 (吹雪型)",
       "en": "Special Type Destroyer (Fubuki-class)"
     },
-    "coordinates": [
-      -8.667,
-      159.333
-    ],
+    "coordinates": [-8.667, 159.333],
     "sinkingDate": "1942-10-12",
     "cause": {
       "zh": "海战当晚即被重创，次日撤退途中再次遭到美军航空兵连续空袭，彻底失去动力并燃起大火。由于无法拖带，由日军驱逐舰‘白雪号’发射鱼雷处分自沉。",
@@ -2765,8 +2482,7 @@
       "en": "Battle of Cape Esperance"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Murakumo.jpg",
-    "battleId": "battle-of-cape-esperance"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Murakumo.jpg"
   },
   {
     "id": "dd-yudachi",
@@ -2782,10 +2498,7 @@
       "zh": "驱逐舰 (白露型)",
       "en": "Destroyer (Shiratsuyu-class)"
     },
-    "coordinates": [
-      -9.233,
-      159.867
-    ],
+    "coordinates": [-9.233, 159.867],
     "sinkingDate": "1942-11-13",
     "cause": {
       "zh": "在夜战中疯狂穿插进美军编队中心，造成了极大的混乱。后被美军巡洋舰火炮击中失去动力。次日清晨，被美军重巡洋舰波特兰号（USS Portland）发现，波特兰号在受创状态下开火将其击沉。",
@@ -2804,8 +2517,7 @@
       "en": "Naval Battle of Guadalcanal"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Yudachi_II.jpg",
-    "battleId": "naval-battle-of-guadalcanal"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Yudachi_II.jpg"
   },
   {
     "id": "dd-376-cushing",
@@ -2821,10 +2533,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      -9.183,
-      159.816
-    ],
+    "coordinates": [-9.183, 159.816],
     "sinkingDate": "1942-11-13",
     "cause": {
       "zh": "作为美军前卫编队的先导舰，率先与日军驱逐舰发生交火。在混战中被日方多艘舰艇集火，彻底失去动力并起火。次日因火势无法控制，由船员弃舰后爆炸沉没。",
@@ -2843,8 +2552,7 @@
       "en": "Naval Battle of Guadalcanal"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/02/Uss_Cushing_DD-376.jpg",
-    "battleId": "naval-battle-of-guadalcanal"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/02/Uss_Cushing_DD-376.jpg"
   },
   {
     "id": "dd-599-barton",
@@ -2860,10 +2568,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      -9.2,
-      159.866
-    ],
+    "coordinates": [-9.200, 159.866],
     "sinkingDate": "1942-11-13",
     "cause": {
       "zh": "在极其混乱的夜战中，为了躲避前方的友舰突然急停。在静止状态下，被日军驱逐舰‘天津风号’发射的两枚 93 式长矛鱼雷直接命中弹药库和锅炉舱，舰体瞬间断成两截，在极短时间内沉没。",
@@ -2882,8 +2587,7 @@
       "en": "Naval Battle of Guadalcanal"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/67/USS_Barton_%28DD-599%29.jpg",
-    "battleId": "naval-battle-of-guadalcanal"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/67/USS_Barton_%28DD-599%29.jpg"
   },
   {
     "id": "dd-436-monssen",
@@ -2899,10 +2603,7 @@
       "zh": "驱逐舰",
       "en": "Destroyer"
     },
-    "coordinates": [
-      -9.183,
-      159.9
-    ],
+    "coordinates": [-9.183, 159.900],
     "sinkingDate": "1942-11-13",
     "cause": {
       "zh": "在混战中误将日军探照灯当成友军信号，不仅没有开火反而打开了自己的识别灯。瞬间招致日军战列舰和驱逐舰的猛烈集火，身中至少 37 发大口径炮弹，被打成燃烧的废铁后于次日沉没。",
@@ -2921,7 +2622,6 @@
       "en": "Naval Battle of Guadalcanal"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/24/Uss_Monssen_0543602.jpg",
-    "battleId": "naval-battle-of-guadalcanal"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/24/Uss_Monssen_0543602.jpg"
   }
 ]

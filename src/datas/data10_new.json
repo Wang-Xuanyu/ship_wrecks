@@ -1,0 +1,158 @@
+[
+  {
+    "id": "tanker-ohio",
+    "name": {
+      "zh": "俄亥俄号油轮",
+      "en": "SS Ohio"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "油轮 (特供补给船)",
+      "en": "Tanker (Special Supply Ship)"
+    },
+    "coordinates": [
+      35.9,
+      14.516
+    ],
+    "sinkingDate": "1942-08-15",
+    "cause": {
+      "zh": "在‘基座行动’中遭到连续6天的狂轰滥炸、鱼雷命中和斯图卡轰炸机的自杀式撞击。在舰体几乎断成两截、龙骨断裂的情况下，被两艘驱逐舰绑在两侧‘架’进马耳他大港。卸完燃料后即在港内坐沉断裂（战后被拖至外海击沉处理）。",
+      "en": "During 'Operation Pedestal', she endured 6 consecutive days of relentless bombing, torpedo hits, and a suicidal crash by a Stuka dive bomber. With her hull nearly broken in two and her keel fractured, she was lashed between two destroyers and 'carried' into the Grand Harbour of Malta. After unloading her fuel, she settled and broke her back in the harbor (she was towed offshore and sunk post-war)."
+    },
+    "depth": {
+      "zh": "战后外海深水击沉",
+      "en": "Sunk in deep waters offshore post-war"
+    },
+    "historyNotes": {
+      "zh": "马耳他岛的‘救世主’，二战史上最伟大的商船！它拼死送达的 12,000 吨航空燃油直接决定了马耳他守军能继续撑下去。当它遍体鳞伤被拖入大港时，整个马耳他岛的军民都在防波堤上为它欢呼。它不是战舰，却赢得了比战舰更高的荣誉。",
+      "en": "The 'Savior' of Malta and arguably the greatest merchant ship in WWII history! The 12,000 tons of aviation fuel she desperately delivered directly ensured the Maltese garrison could hold out. When her battered hull was towed into the Grand Harbour, the military and civilians of Malta cheered her from the breakwaters. She was not a warship, yet she earned honors surpassing them."
+    },
+    "battle": {
+      "zh": "基座行动",
+      "en": "Operation Pedestal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8f/SS-Ohio_supported.jpg",
+    "battleId": "operation-pedestal"
+  },
+  {
+    "id": "cl-cairo",
+    "name": {
+      "zh": "开罗号防空巡洋舰",
+      "en": "HMS Cairo"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "防空轻巡洋舰",
+      "en": "Anti-Aircraft Light Cruiser"
+    },
+    "coordinates": [
+      37.666,
+      10.1
+    ],
+    "sinkingDate": "1942-08-12",
+    "cause": {
+      "zh": "在掩护船团通过突尼斯北部水雷区时，遭到意大利潜艇‘阿克苏姆号’ (Axum) 发射的鱼雷命中舰艉。失去动力且螺旋桨和方向舵被彻底摧毁，由于无法拖带，由英军‘探路者号’驱逐舰发射火炮和鱼雷处分击沉。",
+      "en": "While covering the convoy's passage through a minefield north of Tunisia, she was struck in the stern by a torpedo from the Italian submarine Axum. Losing power with her propellers and rudder completely destroyed, and unable to be towed, she was scuttled with gunfire and torpedoes by the British destroyer HMS Pathfinder."
+    },
+    "depth": {
+      "zh": "未知 (突尼斯以北深水区)",
+      "en": "Unknown (Deep waters north of Tunisia)"
+    },
+    "historyNotes": {
+      "zh": "防空火力的核心节点之一。击沉它的阿克苏姆号潜艇创造了二战潜艇史上的奇迹：它一次齐射的4枚鱼雷，分别命中了开罗号、尼日利亚号（重创）和俄亥俄号（重创）三艘极其关键的舰船。",
+      "en": "One of the core nodes of the anti-aircraft screen. The submarine Axum that sank her achieved a miracle in WWII submarine history: a single salvo of 4 torpedoes simultaneously hit three extremely critical vessels—HMS Cairo, HMS Nigeria (severely damaged), and SS Ohio (severely damaged)."
+    },
+    "battle": {
+      "zh": "基座行动",
+      "en": "Operation Pedestal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/7f/HMS_Cairo.jpg",
+    "battleId": "operation-pedestal"
+  },
+  {
+    "id": "ss-waimarama",
+    "name": {
+      "zh": "怀马拉马号",
+      "en": "SS Waimarama"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装商船",
+      "en": "Armed Merchantman"
+    },
+    "coordinates": [
+      36.416,
+      12
+    ],
+    "sinkingDate": "1942-08-13",
+    "cause": {
+      "zh": "在潘泰莱里亚岛以南遭到德国空军 Ju 87 斯图卡俯冲轰炸机的突袭。至少四枚炸弹直接命中甲板上的航空燃油并引爆了底舱的高爆炸药。万吨巨轮瞬间发生灾难性大爆炸，几秒钟内便灰飞烟灭。",
+      "en": "Surprised by Luftwaffe Ju 87 Stuka dive bombers south of Pantelleria. At least four bombs directly hit aviation fuel on the deck and detonated the high explosives in the lower holds. The massive ship suffered a catastrophic explosion and was vaporized in seconds."
+    },
+    "depth": {
+      "zh": "未知 (潘泰莱里亚岛以南海域)",
+      "en": "Unknown (Waters south of Pantelleria)"
+    },
+    "historyNotes": {
+      "zh": "基座行动中最惨烈的瞬间。这艘船装载了航空燃油和弹药，爆炸的威力极其惊人，不仅瞬间将海面化为火海，爆炸抛出的碎片甚至将一架正在俯冲的德军轰炸机当场击落。全船107人仅有27人在火海中幸存。",
+      "en": "The most devastating moment of Operation Pedestal. Loaded with aviation fuel and ammunition, the explosion's power was so staggering that it instantly turned the sea surface into an inferno, and flying debris even shot down an attacking German bomber mid-air. Out of 107 crew, only 27 survived the sea of fire."
+    },
+    "battle": {
+      "zh": "基座行动",
+      "en": "Operation Pedestal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/MV_Waimarama_explodes.jpg",
+    "battleId": "operation-pedestal"
+  },
+  {
+    "id": "dd-foresight",
+    "name": {
+      "zh": "先见号驱逐舰",
+      "en": "HMS Foresight"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "驱逐舰",
+      "en": "Destroyer"
+    },
+    "coordinates": [
+      37.666,
+      10
+    ],
+    "sinkingDate": "1942-08-12",
+    "cause": {
+      "zh": "遭到意大利空军 SM.79 鱼雷轰炸机的低空突袭，被一枚鱼雷命中舰艉导致进水和动力全失。在友军拖带尝试失败且面临轴心国空军新一轮打击的情况下，由‘鞑靼人号’ (HMS Tartar) 驱逐舰发射鱼雷自沉。",
+      "en": "Suffered a low-level surprise attack by Italian Air Force SM.79 torpedo bombers, taking a torpedo hit to the stern which caused flooding and total loss of power. After friendly towing attempts failed and facing a new wave of Axis air strikes, she was scuttled by a torpedo from the destroyer HMS Tartar."
+    },
+    "depth": {
+      "zh": "未知 (突尼斯外海)",
+      "en": "Unknown (Off the coast of Tunisia)"
+    },
+    "historyNotes": {
+      "zh": "作为护航驱逐舰，它在防空网中疲于奔命。它的重创和被迫自沉，完美体现了基座行动中护航舰队在地中海‘轴心国航空走廊’内面临的那种令人窒息的海空联合绞杀压力。",
+      "en": "As an escort destroyer, she was exhausted defending the anti-aircraft screen. Her crippling and forced scuttling perfectly epitomize the suffocating pressure of joint sea-air strangulation faced by the escort fleet within the Mediterranean 'Axis Air Corridor' during Operation Pedestal."
+    },
+    "battle": {
+      "zh": "基座行动",
+      "en": "Operation Pedestal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/64/HMS_Foresight.jpg",
+    "battleId": "operation-pedestal"
+  }
+]

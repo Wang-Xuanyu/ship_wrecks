@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "arctic-convoys",
+    "name": {
+      "zh": "北极护航战",
+      "en": "Arctic Convoys"
+    },
+    "commanders": []
+  },
+  {
+    "id": "attack-on-pearl-harbor",
+    "name": {
+      "zh": "珍珠港事件",
+      "en": "Attack on Pearl Harbor"
+    },
+    "commanders": []
+  },
+  {
+    "id": "baltic-sea-submarine-warfare",
+    "name": {
+      "zh": "波罗的海潜艇战",
+      "en": "Baltic Sea Submarine Warfare"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-biak",
+    "name": {
+      "zh": "比亚克岛战役",
+      "en": "Battle of Biak"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-cape-esperance",
+    "name": {
+      "zh": "埃斯佩兰斯海角海战",
+      "en": "Battle of Cape Esperance"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-cape-matapan",
+    "name": {
+      "zh": "马塔潘角海战",
+      "en": "Battle of Cape Matapan"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-cape-st-george",
+    "name": {
+      "zh": "圣乔治角海战",
+      "en": "Battle of Cape St. George"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-crete",
+    "name": {
+      "zh": "克里特岛战役",
+      "en": "Battle of Crete"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-dr-bak-sound-oslofjord",
+    "name": {
+      "zh": "奥斯陆峡湾之战",
+      "en": "Battle of Drøbak Sound (Oslofjord)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-empress-augusta-bay",
+    "name": {
+      "zh": "奥古斯塔皇后湾海战",
+      "en": "Battle of Empress Augusta Bay"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-france",
+    "name": {
+      "zh": "法国战役",
+      "en": "Battle of France"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-guam",
+    "name": {
+      "zh": "关岛战役",
+      "en": "Battle of Guam"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-humen",
+    "name": {
+      "zh": "虎门保卫战",
+      "en": "Battle of Humen"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-jiangyin",
+    "name": {
+      "zh": "江阴海战",
+      "en": "Battle of Jiangyin"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-jiangyin-during-the-battle-of-shanghai",
+    "name": {
+      "zh": "江阴海战 (淞沪会战期间)",
+      "en": "Battle of Jiangyin (During the Battle of Shanghai)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-kolombangara",
+    "name": {
+      "zh": "科隆班加拉岛海战",
+      "en": "Battle of Kolombangara"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-kula-gulf",
+    "name": {
+      "zh": "库拉湾海战",
+      "en": "Battle of Kula Gulf"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-leyte-gulf",
+    "name": {
+      "zh": "莱特湾海战",
+      "en": "Battle of Leyte Gulf"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-leyte-gulf-battle-off-cape-engano",
+    "name": {
+      "zh": "莱特湾海战 (恩加尼奥角海战)",
+      "en": "Battle of Leyte Gulf (Battle off Cape Engaño)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-leyte-gulf-battle-off-samar",
+    "name": {
+      "zh": "莱特湾海战 (萨马岛海战)",
+      "en": "Battle of Leyte Gulf (Battle off Samar)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-leyte-gulf-palawan-passage",
+    "name": {
+      "zh": "莱特湾海战 (帕拉万水道)",
+      "en": "Battle of Leyte Gulf (Palawan Passage)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-leyte-gulf-sibuyan-sea",
+    "name": {
+      "zh": "莱特湾海战 (锡布延海)",
+      "en": "Battle of Leyte Gulf (Sibuyan Sea)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-leyte-gulf-surigao-strait",
+    "name": {
+      "zh": "莱特湾海战 (苏里高海峡)",
+      "en": "Battle of Leyte Gulf (Surigao Strait)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-luzon",
+    "name": {
+      "zh": "吕宋岛战役",
+      "en": "Battle of Luzon"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-midway",
+    "name": {
+      "zh": "中途岛海战",
+      "en": "Battle of Midway"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-north-cape",
+    "name": {
+      "zh": "北角海战",
+      "en": "Battle of North Cape"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-ormoc-bay",
+    "name": {
+      "zh": "奥尔莫克湾海战",
+      "en": "Battle of Ormoc Bay"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-rennell-island",
+    "name": {
+      "zh": "伦内尔岛海战",
+      "en": "Battle of Rennell Island"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-savo-island",
+    "name": {
+      "zh": "萨沃岛海战",
+      "en": "Battle of Savo Island"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-sunda-strait",
+    "name": {
+      "zh": "巽他海峡海战",
+      "en": "Battle of Sunda Strait"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-taranto-operation-judgement",
+    "name": {
+      "zh": "塔兰托空袭 (判断行动)",
+      "en": "Battle of Taranto (Operation Judgement)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-tassafaronga",
+    "name": {
+      "zh": "塔萨法隆加海战",
+      "en": "Battle of Tassafaronga"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-arctic-storms",
+    "name": {
+      "zh": "大西洋海战 (极地风暴)",
+      "en": "Battle of the Atlantic (Arctic Storms)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-canadian-coastal-defense",
+    "name": {
+      "zh": "大西洋海战 (加拿大近海防卫)",
+      "en": "Battle of the Atlantic (Canadian Coastal Defense)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-commerce-raiding",
+    "name": {
+      "zh": "大西洋海战 (破交战)",
+      "en": "Battle of the Atlantic (Commerce Raiding)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-convoy-defense",
+    "name": {
+      "zh": "大西洋海战 (护航防卫战)",
+      "en": "Battle of the Atlantic (Convoy Defense)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-convoy-escort",
+    "name": {
+      "zh": "大西洋海战 (护航战)",
+      "en": "Battle of the Atlantic (Convoy Escort)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-early-u-boat-warfare",
+    "name": {
+      "zh": "大西洋海战 (早期潜艇战)",
+      "en": "Battle of the Atlantic (Early U-boat warfare)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-english-channel",
+    "name": {
+      "zh": "大西洋海战 (英吉利海峡)",
+      "en": "Battle of the Atlantic (English Channel)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-entire-campaign",
+    "name": {
+      "zh": "大西洋海战 (全期)",
+      "en": "Battle of the Atlantic (Entire Campaign)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-gibraltar-approaches",
+    "name": {
+      "zh": "大西洋海战 (直布罗陀航线)",
+      "en": "Battle of the Atlantic (Gibraltar Approaches)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-hunter-killer-groups",
+    "name": {
+      "zh": "大西洋海战 (反潜猎杀群)",
+      "en": "Battle of the Atlantic (Hunter-Killer Groups)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-intelligence-war",
+    "name": {
+      "zh": "大西洋海战 (情报战)",
+      "en": "Battle of the Atlantic (Intelligence War)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-late-war-raiding",
+    "name": {
+      "zh": "大西洋海战 (末期破交)",
+      "en": "Battle of the Atlantic (Late-war Raiding)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-neutrality-patrol",
+    "name": {
+      "zh": "大西洋海战 (中立巡逻)",
+      "en": "Battle of the Atlantic (Neutrality Patrol)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-northern-patrol",
+    "name": {
+      "zh": "大西洋海战 (北方巡逻线)",
+      "en": "Battle of the Atlantic (Northern Patrol)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-operation-drumbeat",
+    "name": {
+      "zh": "大西洋海战 (击鼓行动)",
+      "en": "Battle of the Atlantic (Operation Drumbeat)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-the-black-pit",
+    "name": {
+      "zh": "大西洋海战 (黑洞水域)",
+      "en": "Battle of the Atlantic (The Black Pit)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-u-s-east-coast",
+    "name": {
+      "zh": "大西洋海战 (美国东海岸)",
+      "en": "Battle of the Atlantic (U.S. East Coast)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-weather-and-collisions",
+    "name": {
+      "zh": "大西洋海战 (天气与碰撞)",
+      "en": "Battle of the Atlantic (Weather and Collisions)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-yanagi-mission",
+    "name": {
+      "zh": "大西洋反潜战 (遣德航线)",
+      "en": "Battle of the Atlantic (Yanagi Mission)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-barents-sea",
+    "name": {
+      "zh": "巴伦支海海战",
+      "en": "Battle of the Barents Sea"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-bismarck-sea",
+    "name": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-coral-sea",
+    "name": {
+      "zh": "珊瑚海海战",
+      "en": "Battle of the Coral Sea"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-denmark-strait",
+    "name": {
+      "zh": "丹麦海峡海战",
+      "en": "Battle of the Denmark Strait"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-eastern-solomons",
+    "name": {
+      "zh": "东所罗门海战",
+      "en": "Battle of the Eastern Solomons"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-java-sea",
+    "name": {
+      "zh": "爪哇海海战",
+      "en": "Battle of the Java Sea"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-malacca-strait",
+    "name": {
+      "zh": "马六甲海峡海战",
+      "en": "Battle of the Malacca Strait"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-philippine-sea",
+    "name": {
+      "zh": "菲律宾海海战",
+      "en": "Battle of the Philippine Sea"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-river-plate",
+    "name": {
+      "zh": "拉普拉塔河口海战",
+      "en": "Battle of the River Plate"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-santa-cruz-islands",
+    "name": {
+      "zh": "圣克鲁斯群岛战役",
+      "en": "Battle of the Santa Cruz Islands"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-st-lawrence",
+    "name": {
+      "zh": "大西洋海战 (圣劳伦斯湾战役)",
+      "en": "Battle of the St. Lawrence"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-tinian",
+    "name": {
+      "zh": "提尼安岛战役",
+      "en": "Battle of Tinian"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-tulagi",
+    "name": {
+      "zh": "图拉吉战役",
+      "en": "Battle of Tulagi"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-vella-gulf",
+    "name": {
+      "zh": "韦拉湾海战",
+      "en": "Battle of Vella Gulf"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-vella-lavella",
+    "name": {
+      "zh": "维拉拉维拉海战",
+      "en": "Battle of Vella Lavella"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-wuhan-battle-of-jinkou",
+    "name": {
+      "zh": "武汉保卫战 (金口海战)",
+      "en": "Battle of Wuhan (Battle of Jinkou)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "bay-of-biscay-anti-submarine-operations",
+    "name": {
+      "zh": "比斯开湾反潜战",
+      "en": "Bay of Biscay Anti-Submarine Operations"
+    },
+    "commanders": []
+  },
+  {
+    "id": "black-sea-convoys-and-evacuations",
+    "name": {
+      "zh": "黑海护航与撤退",
+      "en": "Black Sea Convoys and Evacuations"
+    },
+    "commanders": []
+  },
+  {
+    "id": "blackett-strait-engagement",
+    "name": {
+      "zh": "布莱克特海峡冲突",
+      "en": "Blackett Strait Engagement"
+    },
+    "commanders": []
+  },
+  {
+    "id": "bombing-of-darwin",
+    "name": {
+      "zh": "达尔文大空袭",
+      "en": "Bombing of Darwin"
+    },
+    "commanders": []
+  },
+  {
+    "id": "bombing-of-kure",
+    "name": {
+      "zh": "吴港大空袭",
+      "en": "Bombing of Kure"
+    },
+    "commanders": []
+  },
+  {
+    "id": "bombing-of-rabaul",
+    "name": {
+      "zh": "拉包尔空袭",
+      "en": "Bombing of Rabaul"
+    },
+    "commanders": []
+  },
+  {
+    "id": "bombing-of-the-ogasawara-islands-operation-scavenger",
+    "name": {
+      "zh": "小笠原群岛空袭 (斯卡文杰行动)",
+      "en": "Bombing of the Ogasawara Islands (Operation Scavenger)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "bougainville-campaign",
+    "name": {
+      "zh": "布干维尔战役",
+      "en": "Bougainville Campaign"
+    },
+    "commanders": []
+  },
+  {
+    "id": "caroline-islands-anti-submarine-action",
+    "name": {
+      "zh": "加罗林群岛反潜战",
+      "en": "Caroline Islands Anti-Submarine Action"
+    },
+    "commanders": []
+  },
+  {
+    "id": "central-pacific-convoy-escort",
+    "name": {
+      "zh": "中太平洋护航战",
+      "en": "Central Pacific Convoy Escort"
+    },
+    "commanders": []
+  },
+  {
+    "id": "coron-bay-air-raid",
+    "name": {
+      "zh": "科隆湾空袭",
+      "en": "Coron Bay Air Raid"
+    },
+    "commanders": []
+  },
+  {
+    "id": "crimean-campaign",
+    "name": {
+      "zh": "克里米亚战役",
+      "en": "Crimean Campaign"
+    },
+    "commanders": []
+  },
+  {
+    "id": "d-day-operation-overlord",
+    "name": {
+      "zh": "诺曼底登陆 (霸王行动)",
+      "en": "D-Day (Operation Overlord)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "defense-of-nanjing-aftermath-of-the-battle-of-shanghai",
+    "name": {
+      "zh": "南京江防战 (淞沪会战余波)",
+      "en": "Defense of Nanjing (Aftermath of the Battle of Shanghai)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "defense-of-the-black-sea",
+    "name": {
+      "zh": "黑海防御战",
+      "en": "Defense of the Black Sea"
+    },
+    "commanders": []
+  },
+  {
+    "id": "english-channel-naval-actions",
+    "name": {
+      "zh": "英吉利海峡海战",
+      "en": "English Channel Naval Actions"
+    },
+    "commanders": []
+  },
+  {
+    "id": "evacuation-of-hanko",
+    "name": {
+      "zh": "汉科半岛撤退",
+      "en": "Evacuation of Hanko"
+    },
+    "commanders": []
+  },
+  {
+    "id": "evacuation-of-tallinn",
+    "name": {
+      "zh": "塔林大撤退",
+      "en": "Evacuation of Tallinn"
+    },
+    "commanders": []
+  },
+  {
+    "id": "final-naval-attacks-sinking-of-the-uss-indianapolis",
+    "name": {
+      "zh": "最后的海上袭击",
+      "en": "Final Naval Attacks (Sinking of the USS Indianapolis)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "first-battle-of-narvik",
+    "name": {
+      "zh": "第一次纳尔维克海战",
+      "en": "First Battle of Narvik"
+    },
+    "commanders": []
+  },
+  {
+    "id": "first-battle-of-sirte-minefield-disaster",
+    "name": {
+      "zh": "第一次苏尔特海战 (雷区灾难)",
+      "en": "First Battle of Sirte (Minefield Disaster)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "gilbert-islands-campaign",
+    "name": {
+      "zh": "吉尔伯特群岛战役",
+      "en": "Gilbert Islands Campaign"
+    },
+    "commanders": []
+  },
+  {
+    "id": "indian-ocean-raid",
+    "name": {
+      "zh": "印度洋空袭",
+      "en": "Indian Ocean Raid"
+    },
+    "commanders": []
+  },
+  {
+    "id": "indian-ocean-raid-battle-of-ceylon",
+    "name": {
+      "zh": "印度洋空袭 (锡兰海战)",
+      "en": "Indian Ocean Raid (Battle of Ceylon)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "indian-ocean-southeast-asia-submarine-warfare",
+    "name": {
+      "zh": "印度洋/东南亚潜艇战",
+      "en": "Indian Ocean/Southeast Asia Submarine Warfare"
+    },
+    "commanders": []
+  },
+  {
+    "id": "indo-pacific-strategic-transport",
+    "name": {
+      "zh": "印度洋-太平洋战略运输",
+      "en": "Indo-Pacific Strategic Transport"
+    },
+    "commanders": []
+  },
+  {
+    "id": "invasion-of-tulagi",
+    "name": {
+      "zh": "图拉吉战役",
+      "en": "Invasion of Tulagi"
+    },
+    "commanders": []
+  },
+  {
+    "id": "italian-surrender-and-axis-infighting",
+    "name": {
+      "zh": "意大利投降与轴心国内讧",
+      "en": "Italian Surrender and Axis Infighting"
+    },
+    "commanders": []
+  },
+  {
+    "id": "japanese-coastal-interception",
+    "name": {
+      "zh": "日本近海拦截战",
+      "en": "Japanese Coastal Interception"
+    },
+    "commanders": []
+  },
+  {
+    "id": "java-sea-campaign",
+    "name": {
+      "zh": "爪哇海战役",
+      "en": "Java Sea Campaign"
+    },
+    "commanders": []
+  },
+  {
+    "id": "jiangyin-blockship-operation",
+    "name": {
+      "zh": "江阴阻塞线沉船行动",
+      "en": "Jiangyin Blockship Operation"
+    },
+    "commanders": []
+  },
+  {
+    "id": "malacca-strait-blockade",
+    "name": {
+      "zh": "马六甲海峡封锁战",
+      "en": "Malacca Strait Blockade"
+    },
+    "commanders": []
+  },
+  {
+    "id": "malta-convoys",
+    "name": {
+      "zh": "马耳他护航战",
+      "en": "Malta Convoys"
+    },
+    "commanders": []
+  },
+  {
+    "id": "mariana-islands-campaign",
+    "name": {
+      "zh": "马里亚纳战役",
+      "en": "Mariana Islands Campaign"
+    },
+    "commanders": []
+  },
+  {
+    "id": "marshall-islands-blockade",
+    "name": {
+      "zh": "马绍尔群岛封锁战",
+      "en": "Marshall Islands Blockade"
+    },
+    "commanders": []
+  },
+  {
+    "id": "marshall-islands-campaign",
+    "name": {
+      "zh": "马绍尔群岛战役",
+      "en": "Marshall Islands Campaign"
+    },
+    "commanders": []
+  },
+  {
+    "id": "mediterranean-anti-submarine-action",
+    "name": {
+      "zh": "地中海反潜战",
+      "en": "Mediterranean Anti-Submarine Action"
+    },
+    "commanders": []
+  },
+  {
+    "id": "mediterranean-campaign",
+    "name": {
+      "zh": "地中海战役",
+      "en": "Mediterranean Campaign"
+    },
+    "commanders": []
+  },
+  {
+    "id": "mediterranean-submarine-warfare",
+    "name": {
+      "zh": "地中海潜艇战",
+      "en": "Mediterranean Submarine Warfare"
+    },
+    "commanders": []
+  },
+  {
+    "id": "mutual-destruction-of-sydney-and-kormoran",
+    "name": {
+      "zh": "悉尼号与鸬鹚号海战",
+      "en": "Mutual Destruction of Sydney and Kormoran"
+    },
+    "commanders": []
+  },
+  {
+    "id": "naval-battle-of-guadalcanal",
+    "name": {
+      "zh": "瓜达尔卡纳尔海战",
+      "en": "Naval Battle of Guadalcanal"
+    },
+    "commanders": []
+  },
+  {
+    "id": "normandy-campaign-logistics",
+    "name": {
+      "zh": "诺曼底战役后勤线",
+      "en": "Normandy Campaign Logistics"
+    },
+    "commanders": []
+  },
+  {
+    "id": "north-african-campaign",
+    "name": {
+      "zh": "北非战役",
+      "en": "North African Campaign"
+    },
+    "commanders": []
+  },
+  {
+    "id": "north-pacific-blockade",
+    "name": {
+      "zh": "北太平洋封锁战",
+      "en": "North Pacific Blockade"
+    },
+    "commanders": []
+  },
+  {
+    "id": "north-sea-submarine-warfare-special-transport",
+    "name": {
+      "zh": "北海潜艇战 (特种运输)",
+      "en": "North Sea Submarine Warfare (Special Transport)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "norwegian-campaign-operation-weserubung",
+    "name": {
+      "zh": "挪威战役 (威悉演习行动)",
+      "en": "Norwegian Campaign (Operation Weserübung)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-catapult-attack-on-mers-el-kebir",
+    "name": {
+      "zh": "弩炮行动 (凯比尔港海战)",
+      "en": "Operation Catapult (Attack on Mers-el-Kébir)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-catapult-peripheral-conflict",
+    "name": {
+      "zh": "弩炮行动 (外围冲突)",
+      "en": "Operation Catapult (Peripheral Conflict)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-catechism",
+    "name": {
+      "zh": "探题行动 (空袭特罗姆瑟)",
+      "en": "Operation Catechism"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-crossroads-post-war-nuclear-tests",
+    "name": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-drumbeat-gulf-of-mexico",
+    "name": {
+      "zh": "击鼓行动 (墨西哥湾)",
+      "en": "Operation Drumbeat (Gulf of Mexico)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-hailstone",
+    "name": {
+      "zh": "特鲁克大空袭",
+      "en": "Operation Hailstone"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-hannibal-baltic-evacuation",
+    "name": {
+      "zh": "汉尼拔行动 (波罗的海撤退)",
+      "en": "Operation Hannibal (Baltic Evacuation)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-juno-norwegian-sea",
+    "name": {
+      "zh": "朱诺行动 (挪威海战)",
+      "en": "Operation Juno (Norwegian Sea)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-pedestal",
+    "name": {
+      "zh": "基座行动",
+      "en": "Operation Pedestal"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-ta-ormoc-bay",
+    "name": {
+      "zh": "多号作战 (奥尔莫克湾)",
+      "en": "Operation TA (Ormoc Bay)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-ten-go-kikusui-attack",
+    "name": {
+      "zh": "菊水特攻 (天一号作战)",
+      "en": "Operation Ten-Go (Kikusui Attack)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "operation-torch-naval-battle-of-casablanca",
+    "name": {
+      "zh": "火炬行动 (卡萨布兰卡海战)",
+      "en": "Operation Torch (Naval Battle of Casablanca)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "pacific-submarine-warfare",
+    "name": {
+      "zh": "太平洋潜艇战",
+      "en": "Pacific Submarine Warfare"
+    },
+    "commanders": []
+  },
+  {
+    "id": "palau-raid-operation-desecrate-one",
+    "name": {
+      "zh": "帕劳空袭 (亵渎一号行动)",
+      "en": "Palau Raid (Operation Desecrate One)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "second-battle-of-narvik",
+    "name": {
+      "zh": "第二次纳尔维克海战",
+      "en": "Second Battle of Narvik"
+    },
+    "commanders": []
+  },
+  {
+    "id": "second-battle-of-the-java-sea",
+    "name": {
+      "zh": "第二次爪哇海海战",
+      "en": "Second Battle of the Java Sea"
+    },
+    "commanders": []
+  },
+  {
+    "id": "siege-of-leningrad",
+    "name": {
+      "zh": "列宁格勒保卫战",
+      "en": "Siege of Leningrad"
+    },
+    "commanders": []
+  },
+  {
+    "id": "siege-of-sevastopol",
+    "name": {
+      "zh": "塞瓦斯托波尔围城战",
+      "en": "Siege of Sevastopol"
+    },
+    "commanders": []
+  },
+  {
+    "id": "sinking-of-prince-of-wales-and-repulse-force-z",
+    "name": {
+      "zh": "马来亚海战 (Z 舰队)",
+      "en": "Sinking of Prince of Wales and Repulse (Force Z)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "solomon-islands-anti-submarine-operations",
+    "name": {
+      "zh": "所罗门群岛海域反潜战",
+      "en": "Solomon Islands Anti-Submarine Operations"
+    },
+    "commanders": []
+  },
+  {
+    "id": "st-nazaire-raid-operation-chariot",
+    "name": {
+      "zh": "圣纳泽尔突袭 (战车行动)",
+      "en": "St. Nazaire Raid (Operation Chariot)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "the-hunt-for-the-bismarck",
+    "name": {
+      "zh": "围剿俾斯麦号",
+      "en": "The Hunt for the Bismarck"
+    },
+    "commanders": []
+  },
+  {
+    "id": "the-laconia-incident",
+    "name": {
+      "zh": "拉科尼亚事件",
+      "en": "The Laconia Incident"
+    },
+    "commanders": []
+  },
+  {
+    "id": "the-raid-on-scapa-flow",
+    "name": {
+      "zh": "斯卡帕湾潜入战",
+      "en": "The Raid on Scapa Flow"
+    },
+    "commanders": []
+  },
+  {
+    "id": "vella-lavella-anti-submarine-action",
+    "name": {
+      "zh": "维拉拉维拉反潜战",
+      "en": "Vella Lavella Anti-Submarine Action"
+    },
+    "commanders": []
+  }
+]
