@@ -348,5 +348,285 @@
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oboro_II.jpg"
+  },
+  {
+    "id": "ss-surcouf",
+    "name": {
+      "zh": "絮库夫号巡洋潜艇",
+      "en": "French Cruiser Submarine Surcouf"
+    },
+    "faction": {
+      "zh": "自由法国",
+      "en": "Free France"
+    },
+    "type": {
+      "zh": "巡洋潜艇",
+      "en": "Cruiser Submarine"
+    },
+    "coordinates": [10.666, -79.516],
+    "sinkingDate": "1942-02-18",
+    "cause": {
+      "zh": "在巴拿马运河以北的加勒比海夜间航行时失踪。普遍认为是在漆黑的海面上与美国货轮‘汤普森·莱克斯号’ (SS Thomson Lykes) 发生了灾难性的相撞，随后沉入深海。",
+      "en": "Went missing during a night voyage in the Caribbean Sea north of the Panama Canal. It is widely believed that she suffered a catastrophic collision in the pitch-black night with the American freighter SS Thomson Lykes, subsequently sinking into the deep sea."
+    },
+    "depth": {
+      "zh": "约 3000 米",
+      "en": "Approx. 3000 meters"
+    },
+    "historyNotes": {
+      "zh": "当时世界上最大、最怪异的潜艇！它装备了两门巡洋舰级别的 203 毫米（8英寸）重炮，甚至还自带一架水上飞机。在法国投降后加入了自由法国海军。它的离奇失踪引发了无数阴谋论，甚至有人传说它其实是被美军潜艇误击沉没的。",
+      "en": "The largest and most bizarre submarine in the world at the time! She was armed with two cruiser-caliber 203mm (8-inch) heavy guns and even carried a seaplane. After the fall of France, she joined the Free French Naval Forces. Her bizarre disappearance spawned numerous conspiracy theories, with some even claiming she was accidentally sunk by a U.S. submarine."
+    },
+    "battle": {
+      "zh": "加勒比海战区 (非战斗损失)",
+      "en": "Caribbean Theater (Non-combat Loss)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/32/Surcouf_FRA.jpg"
+  },
+  {
+    "id": "mv-cap-arcona",
+    "name": {
+      "zh": "卡普·阿尔科纳号",
+      "en": "SS Cap Arcona"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "远洋客轮 / 监狱船",
+      "en": "Ocean Liner / Prison Ship"
+    },
+    "coordinates": [54.028, 10.850],
+    "sinkingDate": "1945-05-03",
+    "cause": {
+      "zh": "在德国投降前 4 天，停泊在吕贝克湾（Bay of Lübeck）时，遭到英国皇家空军霍克‘台风’式战斗轰炸机的猛烈扫射与火箭弹袭击。船体燃起大火并倾覆，大量人员在冰冷的海水中溺亡或被飞机机枪扫射致死。",
+      "en": "Anchored in the Bay of Lübeck just 4 days before Germany's surrender, she was subjected to fierce strafing and rocket attacks by British Royal Air Force Hawker Typhoon fighter-bombers. The ship caught fire and capsized, with a massive number of people drowning in the freezing water or being killed by aircraft machine gun fire."
+    },
+    "depth": {
+      "zh": "浅水海湾 (战后拆解)",
+      "en": "Shallow bay waters (Scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "二战后期最黑暗的惨剧之一，且是一场极其悲惨的误击。当时这艘船上关押着约 5000 名刚从集中营转移出来的囚犯（主要是犹太人和政治犯）。RAF 飞行员误以为船上是企图逃往挪威的党卫军高官。袭击导致约 5000 人丧生，与古斯特洛夫号海难齐名。",
+      "en": "One of the darkest tragedies of late WWII, and an exceptionally tragic misidentification incident. At the time, the ship was holding about 5,000 prisoners (mostly Jewish and political prisoners) recently transferred from concentration camps. RAF pilots mistakenly believed the ship was carrying high-ranking SS officials attempting to escape to Norway. The attack resulted in approximately 5,000 deaths, making it as infamous as the Wilhelm Gustloff disaster."
+    },
+    "battle": {
+      "zh": "波罗的海海难 (二战末期误击)",
+      "en": "Baltic Sea Disasters (Late War Misidentification)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cap_Arcona_1.JPG"
+  },
+  {
+    "id": "ca-york",
+    "name": {
+      "zh": "约克号重巡洋舰",
+      "en": "HMS York"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [35.483, 24.133],
+    "sinkingDate": "1941-03-26",
+    "cause": {
+      "zh": "停泊在希腊克里特岛苏达湾时，遭到意大利海军第十快艇支队（Decima Flottiglia MAS）装备的 6 艘 MTM 爆炸摩托艇（自杀式快艇，驾驶员在撞击前跳水）的夜间突袭。舰体被炸出大洞，为了防止沉没而被迫搁浅，随后在德军空袭中被彻底摧毁。",
+      "en": "While anchored at Souda Bay, Crete, Greece, she was subjected to a night raid by six MTM explosive motorboats (suicide boats where the pilot bails out before impact) operated by the Italian Navy's Decima Flottiglia MAS. Her hull was blown open with a massive hole, forcing her to be grounded to prevent sinking. She was subsequently completely destroyed by German air strikes."
+    },
+    "depth": {
+      "zh": "海湾搁浅坐沉 (战后拆解)",
+      "en": "Grounded and settled in the bay (Scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "这是二战中最成功的特种水下/水面渗透作战之一。意大利海军蛙人和特种快艇部队在整个二战期间表现出了极其惊人的勇气和战术素养，约克号的瘫痪极大地削弱了皇家海军在克里特岛战役中的防御力量。",
+      "en": "One of the most successful special underwater/surface infiltration operations of WWII. The frogmen and special motorboat units of the Italian Navy demonstrated astonishing courage and tactical proficiency throughout the war. The crippling of HMS York severely weakened the Royal Navy's defensive capabilities during the Battle of Crete."
+    },
+    "battle": {
+      "zh": "克里特岛战役 (苏达湾突袭)",
+      "en": "Battle of Crete (Raid on Souda Bay)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HMS_York_secured.jpg"
+  },
+  {
+    "id": "mv-awa-maru",
+    "name": {
+      "zh": "阿波丸号",
+      "en": "Awa Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "远洋客货轮 (红十字救援船)",
+      "en": "Ocean Liner / Passenger-Cargo Ship (Red Cross Relief Ship)"
+    },
+    "coordinates": [25.416, 119.933],
+    "sinkingDate": "1945-04-01",
+    "cause": {
+      "zh": "在台湾海峡牛山岛海域航行时，尽管拥有美国政府颁发的‘安全航行保证’并开启了十字照明，仍遭到美军潜艇‘皇后鱼号’ (USS Queenfish) 的误击。在浓雾中被 4 枚鱼雷命中，仅 3 分钟便沉入海底。",
+      "en": "While navigating near Niushan Island in the Taiwan Strait, despite possessing a 'safe conduct' guarantee issued by the U.S. government and being illuminated with Red Cross markings, she was mistakenly attacked by the U.S. submarine USS Queenfish. Struck by 4 torpedoes in dense fog, she sank to the bottom of the sea in just 3 minutes."
+    },
+    "depth": {
+      "zh": "约 60 米",
+      "en": "Approx. 60 meters"
+    },
+    "historyNotes": {
+      "zh": "被称为‘东方的泰坦尼克号’。船上挤满了超 2000 名从东南亚撤退的日本军官、技术人员和家属，最终仅有 1 人获救。坊间一直盛传船底装载了日军掠夺的数十吨黄金、铂金甚至‘北京人’头盖骨化石，中国曾在 1977 年耗费巨资进行打捞，但并未发现传说中的宝藏。",
+      "en": "Known as the 'Titanic of the East'. The ship was packed with over 2,000 retreating Japanese military officers, technicians, and their families from Southeast Asia; ultimately, only 1 person was rescued. Rumors have long persisted that her hull contained tens of tons of looted gold, platinum, and even the fossilized skull of the 'Peking Man'. China spent a massive fortune in 1977 attempting to salvage her, but the legendary treasure was never found."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (阿波丸事件)",
+      "en": "Pacific Submarine Warfare (Awa Maru Incident)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/ee/Awa_Maru_11249gt.JPG"
+  },
+  {
+    "id": "dd-579-william-d-porter",
+    "name": {
+      "zh": "威廉·D·波特号驱逐舰",
+      "en": "USS William D. Porter (DD-579)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "驱逐舰 (弗莱彻级)",
+      "en": "Destroyer (Fletcher-class)"
+    },
+    "coordinates": [27.100, 127.633],
+    "sinkingDate": "1945-06-10",
+    "cause": {
+      "zh": "在冲绳战役中，一架被击落的日军九九式俯冲轰炸机坠入其旁边的海中。不可思议的是，这架飞机在水下一直冲到了驱逐舰的正下方并爆炸。巨大的水下冲击波将舰体直接抛出水面并导致龙骨断裂，最终沉没。",
+      "en": "During the Battle of Okinawa, a downed Japanese Aichi D3A 'Val' dive bomber crashed into the sea next to her. Incredibly, the aircraft's underwater momentum carried it directly beneath the destroyer where it exploded. The massive underwater shockwave lifted the entire ship out of the water, fracturing her keel and ultimately causing her to sink."
+    },
+    "depth": {
+      "zh": "未知 (冲绳近海)",
+      "en": "Unknown (Off the coast of Okinawa)"
+    },
+    "historyNotes": {
+      "zh": "被军迷戏称为二战美国海军‘最倒霉的军舰’。它曾不小心向搭载着罗斯福总统的战列舰发射过实弹鱼雷，还曾误击过友军基地。即便是它的沉没也充满戏剧性：被一架‘没撞中’的飞机在水下炸沉，且全舰无一人在沉没中阵亡，堪称奇迹。",
+      "en": "Dubbed by military history enthusiasts as the 'unluckiest ship' in the WWII U.S. Navy. She once accidentally fired a live torpedo at the battleship carrying President Franklin D. Roosevelt, and had also mistakenly shelled a friendly base. Even her sinking was dramatic: sunk by an aircraft that 'missed' but exploded underwater, and miraculously, not a single crew member was killed in the sinking."
+    },
+    "battle": {
+      "zh": "冲绳岛战役",
+      "en": "Battle of Okinawa"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8e/USS_William_D._Porter_%28DD-579%29_in_Massacre_Bay%2C_Attu%2C_on_9_June_1944_%28NH_97804%29.jpg"
+  },
+  {
+    "id": "cl-java",
+    "name": {
+      "zh": "爪哇号轻巡洋舰",
+      "en": "HNLMS Java"
+    },
+    "faction": {
+      "zh": "荷兰",
+      "en": "Netherlands"
+    },
+    "type": {
+      "zh": "轻巡洋舰 (爪哇级)",
+      "en": "Light Cruiser (Java-class)"
+    },
+    "coordinates": [-6.000, 112.083],
+    "sinkingDate": "1942-02-27",
+    "cause": {
+      "zh": "在爪哇海海战的夜战阶段，被日本重巡洋舰‘那智号’发射的鱼雷击中左舷艉部。弹药库引发极其剧烈的殉爆，舰体断裂，在短短 15 分钟内迅速沉没。",
+      "en": "During the night phase of the Battle of the Java Sea, she was struck on the port stern by a torpedo fired by the Japanese heavy cruiser Nachi. The hit triggered a catastrophic magazine explosion, breaking the ship in two before she sank rapidly in just 15 minutes."
+    },
+    "depth": {
+      "zh": "约 69 米 (残骸已被非法打捞者彻底破坏)",
+      "en": "Approx. 69 meters (Wreck completely destroyed by illegal salvagers)"
+    },
+    "historyNotes": {
+      "zh": "与旗舰德·鲁伊特号在同一天夜里先后阵亡。全舰 500 多名官兵随舰沉入黑暗的爪哇海中。它的残骸与德·鲁伊特号一样，在现代被当做废钢遭到非法盗捞，海底仅留下一道巨大的深坑。",
+      "en": "Lost on the same night as the flagship HNLMS De Ruyter. Over 500 crew members went down with the ship into the dark Java Sea. Like De Ruyter, her wreck was illegally salvaged for scrap metal in modern times, leaving only a massive trench on the seabed."
+    },
+    "battle": {
+      "zh": "爪哇海海战",
+      "en": "Battle of the Java Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/nl.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Java_cruiser_SLV_H91.325_284.jpg/1920px-Java_cruiser_SLV_H91.325_284.jpg"
+  },
+  {
+    "id": "dd-kortenaer",
+    "name": {
+      "zh": "科尔特纳尔号驱逐舰",
+      "en": "HNLMS Kortenaer"
+    },
+    "faction": {
+      "zh": "荷兰",
+      "en": "Netherlands"
+    },
+    "type": {
+      "zh": "驱逐舰 (海军上将级)",
+      "en": "Destroyer (Admiralen-class)"
+    },
+    "coordinates": [-6.066, 112.083],
+    "sinkingDate": "1942-02-27",
+    "cause": {
+      "zh": "在爪哇海海战中，被日本重巡洋舰‘羽黑号’发射的鱼雷直接击中舰体中部。这艘老式驱逐舰瞬间折断成两截，随后迅速沉没。",
+      "en": "During the Battle of the Java Sea, she was hit directly amidships by a torpedo from the Japanese heavy cruiser Haguro. The aging destroyer instantly broke in two and sank rapidly."
+    },
+    "depth": {
+      "zh": "未知 (残骸已被大部分盗捞)",
+      "en": "Unknown (Wreck mostly removed by illegal salvagers)"
+    },
+    "historyNotes": {
+      "zh": "它的沉没非常迅速，但万幸的是，其幸存船员在海上绝望漂流了十几个小时后，被折返的英国驱逐舰奇迹般地救起。作为同在爪哇海的阵亡舰艇，它的残骸同样没能逃脱被非法打捞的命运。",
+      "en": "She sank extremely quickly, but fortunately, her surviving crew drifted desperately at sea for over a dozen hours before being miraculously rescued by a returning British destroyer. As a casualty of the Java Sea, her wreck similarly failed to escape the fate of illegal salvaging."
+    },
+    "battle": {
+      "zh": "爪哇海海战",
+      "en": "Battle of the Java Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/nl.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/04/COLLECTIE_TROPENMUSEUM_De_Torpedojager_%27Kortenaer%27_TMnr_10007462.jpg"
+  },
+  {
+    "id": "dd-piet-hein",
+    "name": {
+      "zh": "皮特·海因号驱逐舰",
+      "en": "HNLMS Piet Hein"
+    },
+    "faction": {
+      "zh": "荷兰",
+      "en": "Netherlands"
+    },
+    "type": {
+      "zh": "驱逐舰 (海军上将级)",
+      "en": "Destroyer (Admiralen-class)"
+    },
+    "coordinates": [-8.666, 115.333],
+    "sinkingDate": "1942-02-19",
+    "cause": {
+      "zh": "在巴塘海峡海战中，由于盟军舰队缺乏协调，单舰突入日军护航编队。在夜战中遭到日本驱逐舰‘朝潮号’和‘大潮号’的密集火炮攻击，并被一枚鱼雷命中，燃起大火后沉没。",
+      "en": "During the Battle of Badung Strait, due to poor coordination among the Allied fleet, she charged alone into the Japanese escort formation. In the ensuing night action, she sustained concentrated gunfire from the Japanese destroyers Asashio and Oshio, was hit by a torpedo, and sank after catching fire."
+    },
+    "depth": {
+      "zh": "未知 (巴塘海峡深水区)",
+      "en": "Unknown (Deep waters of Badung Strait)"
+    },
+    "historyNotes": {
+      "zh": "巴塘海峡海战是 ABDA 舰队一次极其失败的拦截行动，但皮特·海因号展现了极高的战斗意志。面对占据绝对优势的日军，这艘驱逐舰在完全被探照灯锁定的情况下依然拼死还击，直至被撕碎。",
+      "en": "The Battle of Badung Strait was a disastrous interception operation for the ABDA fleet, but Piet Hein demonstrated exceptional fighting spirit. Facing an overwhelmingly superior Japanese force and fully illuminated by searchlights, the destroyer fought desperately to the very end until she was torn apart."
+    },
+    "battle": {
+      "zh": "巴塘海峡海战",
+      "en": "Battle of Badung Strait"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/nl.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/80/HNLMS_Piet_Hein_%28full_speed%29.jpg"
   }
 ]
