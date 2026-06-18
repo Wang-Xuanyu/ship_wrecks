@@ -1,0 +1,290 @@
+[
+  {
+    "id": "mv-lisbon-maru",
+    "name": {
+      "zh": "里斯本丸",
+      "en": "Lisbon Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装客货轮 / 地狱船",
+      "en": "Armed Passenger-Cargo Ship / Hell Ship"
+    },
+    "coordinates": [30.227, 122.755],
+    "sinkingDate": "1942-10-01",
+    "cause": {
+      "zh": "在中国舟山东极岛海域，被美军潜艇‘鲈鱼号’ (USS Grouper) 发射的鱼雷击中。日军在撤离本国士兵后，将关押着 1800 多名英国战俘的底舱用木板和帆布死死钉死。船只在挣扎了一天多后沉没。",
+      "en": "Struck by a torpedo from the U.S. submarine USS Grouper in the waters off Dongji Island, Zhoushan, China. After evacuating their own soldiers, the Japanese sealed the holds containing over 1,800 British POWs with wooden planks and canvas. The ship struggled for over a day before sinking."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "二战中最令人窒息的战俘惨剧之一，但也是闪耀着人性光辉的历史事件。当英军战俘在船只沉没前绝望破舱跳海、却遭到日军机枪扫射时，中国舟山渔民冒着生命危险划着小木船冲入海中，奇迹般地救出了 384 名英国战俘。这段历史近年被拍成了高分纪录片《里斯本丸沉没》。",
+      "en": "One of the most suffocating POW tragedies of WWII, yet also a historical event shining with the brilliance of humanity. When the desperate British POWs broke out of the holds and jumped into the sea before the ship sank, only to be met with Japanese machine-gun fire, Chinese fishermen from Zhoushan risked their lives to row out in small wooden boats, miraculously rescuing 384 British POWs. This history was recently made into the highly acclaimed documentary 'The Sinking of the Lisbon Maru'."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (地狱船事件)",
+      "en": "Pacific Submarine Warfare (Hell Ship Incident)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lisbon-maru.jpg"
+  },
+  {
+    "id": "mv-montevideo-maru",
+    "name": {
+      "zh": "蒙得维的亚丸",
+      "en": "Montevideo Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "客货轮 / 地狱船",
+      "en": "Passenger-Cargo Ship / Hell Ship"
+    },
+    "coordinates": [18.616, 119.233],
+    "sinkingDate": "1942-07-01",
+    "cause": {
+      "zh": "在吕宋海峡航行时，遭到美军潜艇‘鲟鱼号’ (USS Sturgeon) 追踪并被 4 枚鱼雷命中。船体迅速进水，在短短 11 分钟内沉没。",
+      "en": "While navigating the Luzon Strait, she was tracked by the U.S. submarine USS Sturgeon and hit by 4 torpedoes. The hull rapidly took on water, and she sank in a mere 11 minutes."
+    },
+    "depth": {
+      "zh": "约 4000 米",
+      "en": "Approx. 4000 meters"
+    },
+    "historyNotes": {
+      "zh": "澳大利亚历史上最严重的海难！船上秘密关押着 1054 名从拉包尔俘虏的澳大利亚战俘和平民。美军潜艇完全不知道船上的情况。超过一千名澳大利亚人被锁在底舱随船沉入深海。2023 年 4 月，探险队在吕宋海峡 4000 米深的深渊中终于找到了它的残骸。",
+      "en": "The worst maritime disaster in Australian history! The ship was secretly holding 1,054 Australian POWs and civilians captured from Rabaul. The U.S. submarine had absolutely no idea about the ship's human cargo. Over a thousand Australians were locked in the lower holds and went down with the ship into the deep sea. In April 2023, an expedition team finally discovered her wreck in the 4,000-meter-deep abyss of the Luzon Strait."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (地狱船事件)",
+      "en": "Pacific Submarine Warfare (Hell Ship Incident)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fe/MV_Montevideo_Maru.jpg"
+  },
+  {
+    "id": "mv-junyo-maru",
+    "name": {
+      "zh": "顺阳丸",
+      "en": "Junyō Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "货轮 / 地狱船",
+      "en": "Freighter / Hell Ship"
+    },
+    "coordinates": [-2.883, 101.183],
+    "sinkingDate": "1944-09-18",
+    "cause": {
+      "zh": "在苏门答腊岛西海岸航行时，遭到英国潜艇‘信风号’ (HMS Tradewind) 发射的两枚鱼雷命中，约 20 分钟后沉没。",
+      "en": "While sailing along the west coast of Sumatra, she was struck by two torpedoes from the British submarine HMS Tradewind and sank about 20 minutes later."
+    },
+    "depth": {
+      "zh": "未知 (苏门答腊西海岸)",
+      "en": "Unknown (West coast of Sumatra)"
+    },
+    "historyNotes": {
+      "zh": "死亡人数极其恐怖的地狱船。这艘极其老旧的货轮上被日军强行塞进了约 4200 名爪哇劳工和 2300 名盟军战俘（荷、英、美、澳）。鱼雷爆炸和随后的沉没导致约 5620 人丧生，是当时世界上死亡人数最高的海难之一。",
+      "en": "A hell ship with an utterly horrifying death toll. Into this extremely decrepit freighter, the Japanese forcefully crammed approximately 4,200 Javanese laborers and 2,300 Allied POWs (Dutch, British, American, and Australian). The torpedo explosions and subsequent sinking resulted in the loss of about 5,620 lives, making it one of the deadliest maritime disasters in the world at the time."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (地狱船事件)",
+      "en": "Pacific Submarine Warfare (Hell Ship Incident)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Junyo_Maru.jpg"
+  },
+  {
+    "id": "mv-tsushima-maru",
+    "name": {
+      "zh": "对马丸",
+      "en": "Tsushima Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "客货轮 / 疏散船",
+      "en": "Passenger-Cargo Ship / Evacuation Ship"
+    },
+    "coordinates": [29.533, 129.516],
+    "sinkingDate": "1944-08-22",
+    "cause": {
+      "zh": "在从冲绳向日本本土疏散平民的途中，于恶劣天气下遭到美军潜艇‘弓鳍鱼号’ (USS Bowfin) 的雷达锁定。被多枚鱼雷命中后发生剧烈爆炸并迅速沉没。",
+      "en": "While evacuating civilians from Okinawa to the Japanese mainland, she was locked onto by the radar of the U.S. submarine USS Bowfin in severe weather. After being hit by multiple torpedoes, she suffered a massive explosion and sank rapidly."
+    },
+    "depth": {
+      "zh": "约 871 米",
+      "en": "Approx. 871 meters"
+    },
+    "historyNotes": {
+      "zh": "令人极为痛心的平民惨剧。由于美军实施无限制潜艇战，弓鳍鱼号并不知道这艘船的任务。沉没导致 1484 人丧生，其中包含了 775 名冲绳当地的小学生。这也是冲绳战役前夕最沉痛的历史记忆。",
+      "en": "An agonizingly heartbreaking civilian tragedy. Because the U.S. military was conducting unrestricted submarine warfare, USS Bowfin had no idea of the ship's mission. The sinking resulted in 1,484 deaths, including 775 local Okinawan schoolchildren. This remains the most sorrowful historical memory on the eve of the Battle of Okinawa."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (平民疏散悲剧)",
+      "en": "Pacific Submarine Warfare (Civilian Evacuation Tragedy)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tsushima_Maru_1944.jpg"
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": "cve-63-st-lo",
+    "name": {
+      "zh": "圣洛号护航航空母舰",
+      "en": "USS St. Lo (CVE-63)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "护航航空母舰 (卡萨布兰卡级)",
+      "en": "Escort Carrier (Casablanca-class)"
+    },
+    "coordinates": [11.216, 126.100],
+    "sinkingDate": "1944-10-25",
+    "cause": {
+      "zh": "在刚刚极其艰难地从日本主力舰队的炮火下逃生后，遭到日军由关行男大尉率领的首批‘神风特攻队’（Kamikaze）零式战斗机自杀式撞击。飞机穿透飞行甲板引爆了机库内的鱼雷与炸弹，导致船体断裂沉没。",
+      "en": "Having just miraculously escaped the gunfire of the main Japanese fleet, she was struck by a suicide attack from a Zero fighter of the first 'Kamikaze' special attack unit led by Lieutenant Yukio Seki. The plane penetrated the flight deck, detonating torpedoes and bombs in the hangar, causing the ship to break apart and sink."
+    },
+    "depth": {
+      "zh": "未知 (菲律宾海海沟边缘)",
+      "en": "Unknown (Edge of the Philippine Trench)"
+    },
+    "historyNotes": {
+      "zh": "人类海战史上第一艘被‘神风特攻队’自杀式攻击击沉的军舰。它的沉没标志着日本帝国在太平洋战争末期彻底陷入了疯狂的非对称消耗战模式。",
+      "en": "The first warship in naval history to be sunk by a 'Kamikaze' suicide attack. Her sinking marked the Japanese Empire's total descent into a fanatical, asymmetric war of attrition at the end of the Pacific War."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (神风特攻队首战)",
+      "en": "Battle of Leyte Gulf (First Kamikaze Attack)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c0/USS_St._Lo_Cve63.jpg"
+  },
+  {
+    "id": "ss-john-harvey",
+    "name": {
+      "zh": "约翰·哈维号",
+      "en": "SS John Harvey"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [41.133, 16.866],
+    "sinkingDate": "1943-12-02",
+    "cause": {
+      "zh": "在意大利巴里港（Bari）停泊时，遭到德国空军 Ju 88 轰炸机群的毁灭性突袭（史称‘小珍珠港事件’）。船只被炸弹击中起火，随后发生惊天大爆炸沉没。",
+      "en": "While anchored in the port of Bari, Italy, she was devastated by a surprise raid from a swarm of Luftwaffe Ju 88 bombers (known as the 'Little Pearl Harbor'). The ship was hit by bombs, caught fire, and subsequently sank following a colossal explosion."
+    },
+    "depth": {
+      "zh": "港内浅水沉没 (战后清理)",
+      "en": "Sunk in shallow harbor waters (Cleared post-war)"
+    },
+    "historyNotes": {
+      "zh": "二战中最致命的被掩盖的灾难之一！这艘船上绝密地装载了 2000 枚芥子毒气弹。爆炸将海量的致命毒气与燃烧的燃油混合在一起抛向港口和城市。由于是绝密，就连抢救伤员的医生都不知道是毒气泄漏，导致大量盟军水手和平民惨死。真相直到战争结束多年后才被完全公开。",
+      "en": "One of the deadliest covered-up disasters of WWII! This ship was secretly carrying 2,000 mustard gas bombs. The explosion spewed massive amounts of lethal toxic gas mixed with burning oil across the harbor and city. Because it was top secret, even the doctors treating the wounded didn't know it was a chemical leak, leading to the horrific deaths of numerous Allied sailors and civilians. The truth was not fully revealed until years after the war."
+    },
+    "battle": {
+      "zh": "巴里空袭 (化学武器灾难)",
+      "en": "Air Raid on Bari (Chemical Weapons Disaster)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://warfarehistorynetwork.com/wp-content/uploads/2025/08/W-Fal25-Top-Secret-Bari-4-e1754080850131.jpg"
+  },
+  {
+    "id": "bb-courbet",
+    "name": {
+      "zh": "孤拔号战列舰",
+      "en": "French Battleship Courbet"
+    },
+    "faction": {
+      "zh": "自由法国",
+      "en": "Free France"
+    },
+    "type": {
+      "zh": "战列舰 (孤拔级)",
+      "en": "Battleship (Courbet-class)"
+    },
+    "coordinates": [49.366, -0.266],
+    "sinkingDate": "1944-06-09",
+    "cause": {
+      "zh": "作为一艘极度老旧的无畏舰，它在诺曼底登陆中执行了最后一次任务：驶向‘宝剑海滩’（Sword Beach）外海，打开通海阀自沉，成为‘鹅莓’（Gooseberry）防波堤的一部分，为盟军的登陆船只提供避风港。",
+      "en": "As an extremely obsolete dreadnought, she performed her final mission during the Normandy landings: sailing off Sword Beach, she opened her Kingston valves and scuttled herself to become part of the 'Gooseberry' breakwater, providing a safe haven for Allied landing craft."
+    },
+    "depth": {
+      "zh": "作为防波堤浅水坐沉 (战后拆解)",
+      "en": "Settled in shallow water as a breakwater (Scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "这艘参加过一战的老朽战列舰，以自沉的方式见证了盟军重返法兰西。有趣的是，德军的侦察机和鱼雷艇在随后的几天里依然把它当成活跃的主力舰，对着这艘已经坐在海底的空壳倾泻了大量的炸弹和鱼雷，浪费了大量弹药。",
+      "en": "This aging battleship, a veteran of WWI, witnessed the Allies' return to France through her self-sinking. Interestingly, German reconnaissance planes and torpedo boats still mistook her for an active capital ship in the following days, unleashing large numbers of bombs and torpedoes on the empty shell already sitting on the seabed, thereby wasting massive amounts of ammunition."
+    },
+    "battle": {
+      "zh": "霸王行动 (桑椹港建设)",
+      "en": "Operation Overlord (Mulberry Harbour Construction)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Courbet_Q_22265_%28cropped%29.jpg"
+  },
+  {
+    "id": "dd-glowworm",
+    "name": {
+      "zh": "萤火虫号驱逐舰",
+      "en": "HMS Glowworm"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "驱逐舰 (G级)",
+      "en": "Destroyer (G-class)"
+    },
+    "coordinates": [64.450, 6.066],
+    "sinkingDate": "1940-04-08",
+    "cause": {
+      "zh": "在挪威海域极其偶然地遭遇了由德国重巡洋舰‘希佩尔海军上将号’率领的舰队。在被德舰 203 毫米重炮打成重伤、弹药耗尽且全舰燃起大火的情况下，舰长杰拉德·鲁普下令全速撞击德军重巡洋舰。撞击撕裂了德舰的右舷，随后萤火虫号爆炸沉没。",
+      "en": "In the Norwegian Sea, she accidentally encountered a German fleet led by the heavy cruiser Admiral Hipper. Battered by the German 203mm heavy guns, out of ammunition, and ablaze, Lieutenant Commander Gerard Roope ordered a full-speed ramming attack against the German heavy cruiser. The collision tore open the German ship's starboard side, after which Glowworm exploded and sank."
+    },
+    "depth": {
+      "zh": "未知 (挪威海深水区)",
+      "en": "Unknown (Deep waters of the Norwegian Sea)"
+    },
+    "historyNotes": {
+      "zh": "皇家海军大无畏精神的极致体现。面对排水量是自己十倍的重巡洋舰，它没有选择投降。希佩尔海军上将号的舰长赫尔穆特·海耶被其英勇所震撼，战后亲自通过红十字会致信英国海军部，为萤火虫号的舰长申请了维多利亚十字勋章（这是二战中唯一一次由敌方推荐的最高荣誉）。",
+      "en": "The ultimate manifestation of the Royal Navy's dauntless spirit. Facing a heavy cruiser ten times her displacement, she did not surrender. The captain of Admiral Hipper, Hellmuth Heye, was so moved by her bravery that he personally wrote to the British Admiralty via the Red Cross after the battle, recommending the Victoria Cross for Glowworm's captain (the only time in WWII this highest honor was recommended by the enemy)."
+    },
+    "battle": {
+      "zh": "挪威战役",
+      "en": "Norwegian Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9c/HMS_Glowworm_%28H92%29.jpg"
+  }
+]
