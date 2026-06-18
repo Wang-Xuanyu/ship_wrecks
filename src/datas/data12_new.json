@@ -1,0 +1,842 @@
+[
+  {
+    "id": "ss-alcoa-ranger",
+    "name": {
+      "zh": "阿尔科亚游骑兵号",
+      "en": "SS Alcoa Ranger"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [71.600, 49.300],
+    "sinkingDate": "1942-07-07",
+    "cause": {
+      "zh": "在逃往新地岛途中，被德国 U-255 号潜艇拦截。潜艇浮出水面用甲板炮将其打残后，发射鱼雷将其击沉。",
+      "en": "While fleeing towards Novaya Zemlya, she was intercepted by the German submarine U-255. The U-boat surfaced and crippled her with its deck gun before sinking her with a torpedo."
+    },
+    "depth": {
+      "zh": "未知 (巴伦支海)",
+      "en": "Unknown (Barents Sea)"
+    },
+    "historyNotes": {
+      "zh": "美籍货轮。德国潜艇艇长在将其击沉前，甚至浮出水面给美国水手们指明了最近陆地的方向，这种残酷中的“骑士精神”在此时的冰海中显得极其荒诞。",
+      "en": "An American freighter. Before sinking her, the German U-boat commander actually surfaced and pointed the American sailors in the direction of the nearest land. This 'chivalry' amidst the cruelty seemed incredibly absurd in the icy seas at that moment."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/alcoa_ranger.jpg"
+  },
+  {
+    "id": "rfa-aldersdale",
+    "name": {
+      "zh": "奥尔德斯代尔号",
+      "en": "RFA Aldersdale"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "皇家辅助舰队 / 油轮",
+      "en": "Royal Fleet Auxiliary / Tanker"
+    },
+    "coordinates": [75.000, 43.000],
+    "sinkingDate": "1942-07-07",
+    "cause": {
+      "zh": "先遭到德军轰炸机炸毁动力，漂流两天后被 U-457 潜艇发射鱼雷击沉。",
+      "en": "First paralyzed by German bombers, she drifted for two days before being sunk by a torpedo from the submarine U-457."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "舰队的核心油轮。它的瘫痪意味着护航舰队彻底丧失了持续作战的续航能力，所搭载的海量航空燃油随之倾泻进冰海。",
+      "en": "The core tanker of the fleet. Her paralysis meant the escort fleet completely lost its endurance for sustained operations, and the massive amount of aviation fuel she carried spilled into the icy sea."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/32/RFA_Aldersdale.jpg"
+  },
+  {
+    "id": "ss-bolton-castle",
+    "name": {
+      "zh": "博尔顿城堡号",
+      "en": "SS Bolton Castle"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [76.300, 38.000],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "船团解散次日，遭到德国空军 Ju 88 轰炸机群的集中轰炸。炸弹引爆了舱内的烈性炸药，船体迅速下沉。",
+      "en": "The day after the convoy scattered, she was subjected to concentrated bombing by a swarm of Luftwaffe Ju 88 bombers. The bombs detonated high explosives in her hold, causing the ship to sink rapidly."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "满载着送往苏联的卡车、坦克和弹药。它在与其他两艘船结伴逃亡时被盯上，三艘船在极短时间内被同时炸沉。",
+      "en": "Fully loaded with trucks, tanks, and ammunition destined for the Soviet Union. She was targeted while fleeing alongside two other ships, and all three were bombed and sunk within a very short timeframe."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://www.wrecksite.eu/img/wrecks/thumbs/bolton_castle_boltan.jpg"
+  },
+  {
+    "id": "ss-carlton",
+    "name": {
+      "zh": "卡尔顿号",
+      "en": "SS Carlton"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [73.800, 37.600],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到德国 U-88 潜艇发射的鱼雷命中，船体破裂并在几分钟内沉没。",
+      "en": "Struck by a torpedo from the German submarine U-88. Her hull ruptured and she sank within minutes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这艘美国货轮的船长和船员在冰冻的救生艇上漂流了数日才被德军水上飞机俘虏，随后被送往战俘营。",
+      "en": "The captain and crew of this American freighter drifted in freezing lifeboats for several days before being captured by a German seaplane and subsequently sent to a POW camp."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/carlton.jpg"
+  },
+  {
+    "id": "ss-christopher-newport",
+    "name": {
+      "zh": "克里斯托弗·纽波特号",
+      "en": "SS Christopher Newport"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [71.283, 10.800],
+    "sinkingDate": "1942-07-04",
+    "cause": {
+      "zh": "遭德国空军鱼雷机击中失去动力，被船员弃船后，由 U-457 号潜艇用鱼雷补刀击沉。",
+      "en": "Hit by a Luftwaffe torpedo bomber and lost power. After being abandoned by her crew, she was finished off with a torpedo by the submarine U-457."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "PQ-17 船团解散前最早的牺牲品之一。作为一艘刚下水的新锐自由轮，还没抵达终点便化为废铁。",
+      "en": "One of the earliest casualties before Convoy PQ-17 scattered. As a newly launched Liberty ship, she was turned to scrap before ever reaching her destination."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/christopher_newport.jpg"
+  },
+  {
+    "id": "ss-daniel-morgan",
+    "name": {
+      "zh": "丹尼尔·摩根号",
+      "en": "SS Daniel Morgan"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [75.100, 44.000],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到多架 Ju 88 连续俯冲轰炸，船体结构严重受损，随后被 U-88 潜艇发现并用鱼雷击沉。",
+      "en": "Subjected to continuous dive-bombing by multiple Ju 88s, severely damaging her hull structure. She was later discovered and sunk by a torpedo from the submarine U-88."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这艘自由轮的防空炮手极为英勇，在绝望中战斗至最后一刻，甚至击落了两架德国轰炸机，但依然无法挽回被击沉的命运。",
+      "en": "The anti-aircraft gunners of this Liberty ship were incredibly heroic, fighting to the bitter end in desperation. They even managed to shoot down two German bombers, but it was not enough to save the ship from its fate."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://i.pinimg.com/736x/66/63/64/666364fbbb6dd9d018bcff6f3833372f.jpg"
+  },
+  {
+    "id": "ss-earlston",
+    "name": {
+      "zh": "厄尔斯顿号",
+      "en": "SS Earlston"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [74.900, 37.666],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "在逃亡中遭轰炸机重创，随后被 U-334 潜艇用鱼雷彻底击沉。",
+      "en": "Heavily damaged by bombers while fleeing, and subsequently finished off by a torpedo from the submarine U-334."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "典型的“天上炸完水下补刀”的受害者。舰长被德国潜艇捞起成为战俘。",
+      "en": "A typical victim of the 'bombed from above, finished from below' tactic. Her captain was picked up by the German U-boat as a prisoner of war."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null
+  },
+  {
+    "id": "ss-el-capitan",
+    "name": {
+      "zh": "埃尔卡皮坦号",
+      "en": "SS El Capitan"
+    },
+    "faction": {
+      "zh": "巴拿马",
+      "en": "Panama"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [69.300, 67.500],
+    "sinkingDate": "1942-07-10",
+    "cause": {
+      "zh": "在距离苏联摩尔曼斯克极近的区域（几乎已经逃出生天）遭到空袭重创抛锚，数小时后被 U-251 潜艇击沉。",
+      "en": "In an area extremely close to Murmansk, Soviet Union (having almost escaped), she was heavily damaged by an air raid and broke down. Hours later, she was sunk by the submarine U-251."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "悬挂巴拿马国旗的货轮。它死在了一段让人最绝望的航程里——几乎已经看到了苏联的海岸线，却依然没能逃过狼群的追捕。",
+      "en": "A freighter flying the Panamanian flag. She met her end on the most despair-inducing leg of the journey—with the Soviet coastline almost in sight, she still couldn't escape the pursuing wolfpacks."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/pa.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SS_El_Capitan_%281917%29.jpg"
+  },
+  {
+    "id": "ss-empire-byron",
+    "name": {
+      "zh": "帝国拜伦号",
+      "en": "SS Empire Byron"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [76.300, 33.500],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "被 U-703 潜艇的鱼雷直接命中并迅速沉没。",
+      "en": "Directly hit by a torpedo from the submarine U-703 and sank rapidly."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "一艘标准的英国战时标准货轮。它装载着苏联红军急需的卡车与飞机零件，最终全部葬送海底。",
+      "en": "A standard British wartime freighter. She was loaded with trucks and aircraft parts desperately needed by the Soviet Red Army, all of which were ultimately lost to the bottom of the sea."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null
+  },
+  {
+    "id": "ss-fairfield-city",
+    "name": {
+      "zh": "费尔菲尔德城号",
+      "en": "SS Fairfield City"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [74.600, 39.700],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到德国空军猛烈空袭，被数枚炸弹直接命中无装甲的甲板，迅速进水沉没。",
+      "en": "Subjected to a fierce Luftwaffe air raid, taking direct bomb hits to her unarmored deck, causing rapid flooding and sinking."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它在逃生中试图与美国同胞船只结阵防空，但在铺天盖地的轰炸机面前，商船那点微弱的高射机枪火力形同虚设。",
+      "en": "During her escape, she attempted to form an anti-aircraft formation with fellow American ships, but against the overwhelming swarm of bombers, the meager anti-aircraft machine gun fire of the merchant vessels was useless."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://minnehallen.no/wp-content/uploads/2020/03/939193-999x0-c-default.jpg"
+  },
+  {
+    "id": "ss-hartlebury",
+    "name": {
+      "zh": "哈特尔伯里号",
+      "en": "SS Hartlebury"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [72.500, 52.000],
+    "sinkingDate": "1942-07-07",
+    "cause": {
+      "zh": "被德国潜艇 U-355 追踪并击沉。",
+      "en": "Tracked and sunk by the German submarine U-355."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "该船沉没后，由于极地寒风和冰水，绝大多数成功登上救生筏的船员最后都因冻结而死，这也是北极护航战最残忍的现实。",
+      "en": "After the ship sank, due to the biting polar winds and freezing water, the vast majority of the crew who managed to board liferafts ultimately froze to death—the cruelest reality of the Arctic convoys."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://uboat.net/media/allies/merchants/br/hartlebury.jpg"
+  },
+  {
+    "id": "ss-honomu",
+    "name": {
+      "zh": "霍诺姆号",
+      "en": "SS Honomu"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [75.100, 38.000],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到潜艇 U-456 发射的鱼雷命中。由于装载了大量弹药，发生了剧烈爆炸。",
+      "en": "Struck by a torpedo fired by the submarine U-456. Due to carrying a massive amount of ammunition, she suffered a violent explosion."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "由于弹药爆炸沉没极快，船员伤亡惨重。幸存者中有一部分被潜艇捞起作为战俘，其余在冰海中自生自灭。",
+      "en": "Because the ammunition explosion caused her to sink so rapidly, crew casualties were devastating. Some survivors were picked up by the U-boat as POWs, while the rest were left to fend for themselves in the icy sea."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/honomu-ex-edmore.jpg"
+  },
+  {
+    "id": "ss-hoosier",
+    "name": {
+      "zh": "胡希尔号",
+      "en": "SS Hoosier"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [69.400, 43.500],
+    "sinkingDate": "1942-07-10",
+    "cause": {
+      "zh": "在坚持了数日后，遭德国潜艇 U-376 发射的鱼雷终结。",
+      "en": "After holding out for several days, she was finally finished off by a torpedo from the German submarine U-376."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它是苦撑到最后阶段才被击沉的倒霉蛋之一。船员在极昼的疲劳和持续的恐惧中度过了漫长的五天，最终还是迎来了鱼雷。",
+      "en": "She was one of the unlucky ones that held out until the final stages before being sunk. The crew endured five long days of exhaustion and continuous fear under the midnight sun, only to be met with a torpedo in the end."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/hoosier.jpg"
+  },
+  {
+    "id": "ss-john-witherspoon",
+    "name": {
+      "zh": "约翰·威瑟斯庞号",
+      "en": "SS John Witherspoon"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [72.000, 48.000],
+    "sinkingDate": "1942-07-06",
+    "cause": {
+      "zh": "被猎杀效率极高的潜艇 U-255 锁定，连中数雷后沉没。",
+      "en": "Targeted by the highly efficient submarine U-255, she took multiple torpedo hits before sinking."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "U-255 是这次针对 PQ-17 屠杀中的“MVP”潜艇之一，击沉了多艘迷失在冰海中的商船。该船船员幸存率较高。",
+      "en": "U-255 was one of the 'MVP' submarines during the slaughter of PQ-17, sinking multiple merchant ships lost in the icy sea. This particular ship had a relatively high crew survival rate."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null
+  },
+  {
+    "id": "ss-navarino",
+    "name": {
+      "zh": "纳瓦里诺号",
+      "en": "SS Navarino"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [75.900, 34.000],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到德国空军 Ju 88 轰炸机群的精准轰炸，迅速沉没。",
+      "en": "Subjected to precise bombing by a swarm of Luftwaffe Ju 88 bombers and sank rapidly."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "解散命令下达后的头两天是空袭最猛烈的时候。没有驱逐舰和高射炮的掩护，这些商船就是德国轰炸机完美的投弹练习靶。",
+      "en": "The first two days after the order to scatter were when the air raids were most intense. Without the cover of destroyers and anti-aircraft guns, these merchant ships were perfect target practice for German bombers."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null
+  },
+  {
+    "id": "ss-olopana",
+    "name": {
+      "zh": "奥罗帕纳号",
+      "en": "SS Olopana"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [72.100, 51.000],
+    "sinkingDate": "1942-07-08",
+    "cause": {
+      "zh": "在逃亡多日后，被 U-255 号潜艇利用海雾掩护逼近，并以鱼雷击沉。",
+      "en": "After fleeing for several days, the submarine U-255 used sea fog as cover to approach and sank her with a torpedo."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "由于北极地区复杂的浓雾天气，这艘船一度成功躲过了德军飞机的视线，但终究逃不过水下静音潜航的 U 型潜艇群的围剿。",
+      "en": "Thanks to the complex dense fog of the Arctic region, this ship managed to temporarily evade the sight of German aircraft, but ultimately could not escape the encirclement of the silently stalking U-boat wolfpacks."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null
+  },
+  {
+    "id": "ss-pan-atlantic",
+    "name": {
+      "zh": "泛大西洋号",
+      "en": "SS Pan Atlantic"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [72.000, 43.000],
+    "sinkingDate": "1942-07-06",
+    "cause": {
+      "zh": "在毫无预警的情况下被德国俯冲轰炸机炸中底舱爆炸沉没。",
+      "en": "Bombed by German dive bombers without warning; hit in the lower hold, she exploded and sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "与其他商船一样，它的死没有任何回击的余地。冰冷的巴伦支海成为了美国商船队难以磨灭的梦魇。",
+      "en": "Like the other merchant ships, she died with no chance to fight back. The freezing Barents Sea became an indelible nightmare for the American merchant marine."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null
+  },
+  {
+    "id": "ss-pan-kraft",
+    "name": {
+      "zh": "泛克拉夫特号",
+      "en": "SS Pan Kraft"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [76.800, 38.000],
+    "sinkingDate": "1942-07-07",
+    "cause": {
+      "zh": "遭到空袭重创燃烧，船员被迫弃船。数日后废弃的船体被潜艇鱼雷摧毁或自然沉没。",
+      "en": "Heavily damaged and set ablaze by an air raid, forcing the crew to abandon ship. Days later, the derelict hull was destroyed by a U-boat torpedo or sank naturally."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它在极地海面上像一座巨大的火炬燃烧了很久，这种火光在极昼的阴云下极为显眼，反而引来了更多的德国潜艇聚集。",
+      "en": "She burned for a long time on the polar sea like a giant torch. This blaze was highly visible under the cloudy midnight sun, ironically drawing even more German U-boats to the area."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c4/WestAvenal.jpg"
+  },
+  {
+    "id": "ss-paulus-potter",
+    "name": {
+      "zh": "保卢斯·波特号",
+      "en": "SS Paulus Potter"
+    },
+    "faction": {
+      "zh": "荷兰",
+      "en": "Netherlands"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [70.000, 52.000],
+    "sinkingDate": "1942-07-13",
+    "cause": {
+      "zh": "7月5日遭到轰炸机重创并被船员遗弃。在冰海中漂流了整整一周后，最终被德国 U-255 号潜艇发现并用鱼雷击沉。",
+      "en": "Heavily damaged by bombers on July 5 and abandoned by her crew. After drifting in the icy sea for a full week, she was finally discovered by the German submarine U-255 and sunk with a torpedo."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "属于荷兰流亡政府。U-255 潜艇的艇长登上了这艘漂浮的鬼船，甚至在船长室里拿走了一些文件和航海日记，随后才好整以暇地将其炸沉。",
+      "en": "Belonged to the Dutch government-in-exile. The commander of U-255 boarded the floating ghost ship and even took documents and the logbook from the captain's cabin before taking his time to sink her."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/nl.png",
+    "cover": "https://uboat.net/media/allies/merchants/nl/paulus_potter.jpg"
+  },
+  {
+    "id": "ss-peter-kerr",
+    "name": {
+      "zh": "彼得·克尔号",
+      "en": "SS Peter Kerr"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [74.500, 35.000],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭遇惨烈的连续空袭，被炸弹直接引燃丧失动力，随后沉没。",
+      "en": "Endured a brutal series of air raids, was directly ignited by bombs, lost power, and subsequently sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "船上的无线电报务员在弃船前一直拼命向外界发报求救，但皇家海军的护航编队此时正在奉命向西全速撤退，根本无人回应。",
+      "en": "The ship's radio operator desperately broadcast distress signals right up until abandoning ship, but the Royal Navy escort fleet was under orders to retreat west at full speed, and no one responded."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null
+  },
+  {
+    "id": "ss-river-afton",
+    "name": {
+      "zh": "里弗阿夫顿号",
+      "en": "SS River Afton"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装货轮 (船团准将旗舰)",
+      "en": "Armed Freighter (Convoy Commodore Flagship)"
+    },
+    "coordinates": [75.900, 43.000],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "被 U-703 潜艇盯上，连续被两枚鱼雷命中，迅速沉入冰冷的海水中。",
+      "en": "Targeted by the submarine U-703, she was struck by two consecutive torpedoes and sank rapidly into the freezing sea."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这不仅是一艘货轮，更是整个 PQ-17 商船团准将（Commodore John Dowding）所在的旗舰。旗舰的沉没象征着船团指挥体系和抵抗意志的彻底崩溃。",
+      "en": "She was not just a freighter, but the flagship carrying the Commodore of Convoy PQ-17 (Commodore John Dowding). The sinking of the flagship symbolized the complete collapse of the convoy's command structure and will to resist."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null
+  },
+  {
+    "id": "ss-washington",
+    "name": {
+      "zh": "华盛顿号",
+      "en": "SS Washington"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [76.300, 33.500],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "货舱内载有 600 吨高爆炸药。遭到俯冲轰炸机袭击起火后，船员因担心大爆炸疯狂逃生，船体随后被放弃并沉没。",
+      "en": "Her hold contained 600 tons of high explosives. After catching fire from a dive bomber attack, the crew scrambled to escape in fear of a massive explosion. The ship was subsequently abandoned and sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "绝望的生还者在救生艇上拒绝了其他同样身陷险境的商船的救援，因为他们知道任何停下来的船只都会成为轰炸机的靶子。",
+      "en": "The desperate survivors in lifeboats refused rescue from other merchant ships in equal peril, knowing that any ship that stopped would instantly become a target for bombers."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null
+  },
+  {
+    "id": "ss-william-hooper",
+    "name": {
+      "zh": "威廉·霍珀号",
+      "en": "SS William Hooper"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [76.000, 33.500],
+    "sinkingDate": "1942-07-04",
+    "cause": {
+      "zh": "船团刚刚解散时，便遭空袭重创。被遗弃后于当晚被 U-334 号潜艇补刀击沉。",
+      "en": "Heavily damaged by an air raid just as the convoy scattered. After being abandoned, she was finished off by a torpedo from submarine U-334 that night."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这艘倒霉的船完美展现了商船在北极圈的脆弱：它仅被一枚航空鱼雷剐蹭就失去了作战能力，而在没有拖船的情况下，受损的商船只能被遗弃。",
+      "en": "This unlucky ship perfectly demonstrates the fragility of merchant vessels in the Arctic Circle: merely grazed by an aerial torpedo, she lost combat capability, and without tugs, damaged merchantmen had no choice but to be abandoned."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/william_hooper.jpg"
+  },
+  {
+    "id": "ss-zaafaran",
+    "name": {
+      "zh": "扎法兰号",
+      "en": "SS Zaafaran"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "护航救援船",
+      "en": "Convoy Rescue Ship"
+    },
+    "coordinates": [76.000, 38.000],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "向新地岛方向逃亡途中，遭到德机猛烈空袭，被炸弹直接命中沉没。",
+      "en": "While fleeing towards Novaya Zemlya, she suffered a fierce German air raid and was sunk by a direct bomb hit."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "作为一艘专门用来从冰海里捞人的救援船，它的覆灭是极其悲剧性的。当救援者自己都沉入冰海，漂浮在海面上的落水水手便被宣判了彻底的死刑。",
+      "en": "As a rescue ship specifically designated to pull survivors from the icy sea, her destruction was exceptionally tragic. When the rescuers themselves sank into the ice, the sailors already adrift were effectively handed an absolute death sentence."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://www.wrecksite.eu/img/wrecks/zaafaran.jpg"
+  }
+]
