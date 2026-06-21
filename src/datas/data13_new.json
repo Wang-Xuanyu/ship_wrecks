@@ -286,5 +286,110 @@
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9c/HMS_Glowworm_%28H92%29.jpg"
+  },
+  {
+    "id": "mv-antonio-locatelli",
+    "name": {
+      "zh": "安东尼奥·洛卡特利号",
+      "en": "SS Antonio Locatelli"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "武装运输船 / 货轮",
+      "en": "Armed Transport / Freighter"
+    },
+    "coordinates": [40.333, 18.750],
+    "sinkingDate": "1940-11-12",
+    "cause": {
+      "zh": "在夜间毫无防备的情况下，遭到英国巡洋舰编队（猎户座号、悉尼号、阿贾克斯号）的雷达与探照灯锁定。在极近距离内被英军 6 英寸主炮的密集交叉火力撕碎，燃起冲天大火后沉没。",
+      "en": "Caught completely off guard at night, she was locked onto by the radar and searchlights of a British cruiser squadron (HMS Orion, HMAS Sydney, HMS Ajax). Torn apart at point-blank range by the concentrated crossfire of British 6-inch main guns, she caught fire and sank."
+    },
+    "depth": {
+      "zh": "未知 (亚得里亚海深水区)",
+      "en": "Unknown (Deep waters of the Adriatic Sea)"
+    },
+    "historyNotes": {
+      "zh": "意大利增援阿尔巴尼亚前线（希意战争）四艘满载后勤物资的运输船之一。由于护航兵力极度薄弱（仅一艘老式鱼雷艇和一艘辅助巡洋舰），在面对英国正规水面舰队的夜间突袭时毫无还手之力。",
+      "en": "One of four fully loaded transport ships reinforcing the Italian frontline in Albania (Greco-Italian War). Due to extremely weak escort forces (only one obsolete torpedo boat and an auxiliary cruiser), she was completely defenseless against the night raid by a regular British surface fleet."
+    },
+    "battle": {
+      "zh": "奥特朗托海峡战役",
+      "en": "Battle of the Strait of Otranto"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": null
+  },
+  {
+    "id": "mv-capo-vado",
+    "name": {
+      "zh": "瓦多角号",
+      "en": "SS Capo Vado"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "武装运输船 / 货轮",
+      "en": "Armed Transport / Freighter"
+    },
+    "coordinates": [40.350, 18.766],
+    "sinkingDate": "1940-11-12",
+    "cause": {
+      "zh": "在英军发起突袭的最初几分钟内，遭到英国‘莫霍克号’与‘努比亚号’驱逐舰的猛烈火炮覆盖和鱼雷打击。船体迅速破裂并随船团其他目标一起沉没。",
+      "en": "Within the first few minutes of the British surprise attack, she was subjected to intense artillery fire and torpedo strikes from the British destroyers HMS Mohawk and HMS Nubian. The hull ruptured quickly, and she sank alongside the rest of the convoy."
+    },
+    "depth": {
+      "zh": "未知 (亚得里亚海深水区)",
+      "en": "Unknown (Deep waters of the Adriatic Sea)"
+    },
+    "historyNotes": {
+      "zh": "瓦多角号的毁灭代表了意大利皇家海军在二战初期夜战能力和护航体系的灾难性缺陷。英军在摧毁整个船团的过程中自身毫发无损，甚至没有一艘英舰遭到实质性的炮火还击。",
+      "en": "The destruction of Capo Vado represented the catastrophic flaws in the Italian Royal Navy's night-fighting capabilities and convoy escort system early in WWII. The British suffered zero casualties while destroying the entire convoy, with not a single British ship taking any substantial return fire."
+    },
+    "battle": {
+      "zh": "奥特朗托海峡战役",
+      "en": "Battle of the Strait of Otranto"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": null
+  },
+  {
+    "id": "mv-premuda",
+    "name": {
+      "zh": "普雷穆达号",
+      "en": "SS Premuda"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "武装运输船 / 货轮",
+      "en": "Armed Transport / Freighter"
+    },
+    "coordinates": [40.316, 18.733],
+    "sinkingDate": "1940-11-12",
+    "cause": {
+      "zh": "在编队遭遇毁灭性打击时试图借助夜色逃离，但由于航速过慢被英国巡洋舰编队追上。在探照灯的照射下，被无情地当做水面打靶练习的目标击沉。",
+      "en": "Attempted to escape under the cover of darkness when the formation was devastated, but was caught by the British cruiser squadron due to her slow speed. Illuminated by searchlights, she was mercilessly sunk as a surface target practice."
+    },
+    "depth": {
+      "zh": "未知 (亚得里亚海深水区)",
+      "en": "Unknown (Deep waters of the Adriatic Sea)"
+    },
+    "historyNotes": {
+      "zh": "这场单方面的海上屠杀，与同一晚发生的‘奇袭塔兰托’遥相呼应，构成了意大利皇家海军在 1940 年末经历的最黑暗、最耻辱的一夜。整支护航船团的四艘商船（还包括 Catalani 号）无一幸免，全军覆没。",
+      "en": "This one-sided maritime massacre, echoing the 'Raid on Taranto' that occurred on the same night, constituted the darkest and most humiliating night experienced by the Italian Royal Navy in late 1940. All four merchant ships of the convoy (including Catalani) were annihilated with no survivors."
+    },
+    "battle": {
+      "zh": "奥特朗托海峡战役",
+      "en": "Battle of the Strait of Otranto"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": null
   }
 ]
