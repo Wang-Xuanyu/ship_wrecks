@@ -45,6 +45,34 @@ const getText = (value, lang = 'en') => {
   return value;
 };
 
+const SHIP_TYPE_FILTERS = [
+  { id: 'All', label: { en: 'All types', zh: '全部类型' } },
+  { id: 'carrier', label: { en: 'Carriers', zh: '航空母舰' } },
+  { id: 'battleship', label: { en: 'Battleships', zh: '战列舰' } },
+  { id: 'cruiser', label: { en: 'Cruisers', zh: '巡洋舰' } },
+  { id: 'destroyer', label: { en: 'Destroyers', zh: '驱逐舰' } },
+  { id: 'submarine', label: { en: 'Submarines', zh: '潜艇' } },
+  { id: 'merchant', label: { en: 'Merchant / transport', zh: '商船/运输船' } },
+  { id: 'small', label: { en: 'Small warships', zh: '小型军舰' } },
+  { id: 'support', label: { en: 'Support ships', zh: '支援舰船' } },
+  { id: 'other', label: { en: 'Other', zh: '其他' } }
+];
+
+const getShipTypeCategory = (type) => {
+  const normalizedType = getText(type, 'en').toLowerCase();
+
+  if (/carrier|aircraft/.test(normalizedType)) return 'carrier';
+  if (/battleship|battlecruiser|panzerschiff/.test(normalizedType)) return 'battleship';
+  if (/cruiser/.test(normalizedType)) return 'cruiser';
+  if (/destroyer|escort ship|kaibōkan/.test(normalizedType)) return 'destroyer';
+  if (/submarine|u-boat/.test(normalizedType)) return 'submarine';
+  if (/freighter|merchant|transport|troopship|liner|cargo|liberty|tanker|oiler|hell ship|passenger/.test(normalizedType)) return 'merchant';
+  if (/minesweeper|minelayer|gunboat|corvette|frigate|sloop|pt boat|patrol/.test(normalizedType)) return 'small';
+  if (/tender|supply|provision|hospital|auxiliary|dry dock|rescue/.test(normalizedType)) return 'support';
+
+  return 'other';
+};
+
 const normalizeLongitude = (lng) => {
   return lng < -100 ? lng + 360 : lng;
 };
@@ -100,6 +128,7 @@ const ShipwreckMap = () => {
   const { i18n } = useTranslation();
   const [selectedBattle, setSelectedBattle] = useState('All');
   const [selectedFaction, setSelectedFaction] = useState('All');
+  const [selectedType, setSelectedType] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
   const [filtersOpen, setFiltersOpen] = useState(false);
   
@@ -144,10 +173,11 @@ const ShipwreckMap = () => {
       const name = getText(ship.name, lang);
       const battleMatch = selectedBattle === 'All' || ship.battleId === selectedBattle;
       const factionMatch = selectedFaction === 'All' || faction === selectedFaction;
+      const typeMatch = selectedType === 'All' || getShipTypeCategory(ship.type) === selectedType;
       const searchMatch = searchQuery === '' || name.toLowerCase().includes(searchQuery.toLowerCase());
-      return battleMatch && factionMatch && searchMatch;
+      return battleMatch && factionMatch && typeMatch && searchMatch;
     });
-  }, [selectedBattle, selectedFaction, searchQuery, lang]);
+  }, [selectedBattle, selectedFaction, selectedType, searchQuery, lang]);
 
   const controlsExpanded = !isMobile || filtersOpen;
   const popupWidth = isMobile ? Math.max(220, Math.min(windowWidth - 44, 320)) : 300;
@@ -208,6 +238,16 @@ const ShipwreckMap = () => {
             >
             {factions.map((f) => (
                 <option key={f} value={f}>{f}</option>
+            ))}
+            </select>
+
+            <select
+            value={selectedType}
+            onChange={(e) => setSelectedType(e.target.value)}
+            className="min-h-11 w-full rounded border border-[#ccc] bg-white px-3 py-2 text-[16px] md:min-h-0 md:text-[13px]"
+            >
+            {SHIP_TYPE_FILTERS.map((type) => (
+                <option key={type.id} value={type.id}>{getText(type.label, lang)}</option>
             ))}
             </select>
           </div>
@@ -273,6 +313,7 @@ const ShipwreckMap = () => {
           const type = getText(ship.type, lang);
           const battle = getText(ship.battle, lang);
           const cause = getText(ship.cause, lang);
+          const historyNotes = getText(ship.historyNotes, lang);
 
           return (
             <Marker
@@ -316,6 +357,13 @@ const ShipwreckMap = () => {
                     <b className="text-[#e74c3c]">{lang === 'en' ? 'Cause' : '沉没原因'}:</b>
                     <div className="mt-1 italic">{cause}</div>
                   </div>
+
+                  {historyNotes && (
+                    <div className="mt-[10px] border-t border-[#eee] pt-2">
+                      <b className="text-[#2563eb]">{lang === 'en' ? 'History Notes' : '历史备注'}:</b>
+                      <div className="mt-1 leading-relaxed">{historyNotes}</div>
+                    </div>
+                  )}
                 </div>
               </Popup>
             </Marker>

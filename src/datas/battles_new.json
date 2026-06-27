@@ -1,9 +1,33 @@
 [
   {
+    "id": "air-raid-on-bari-chemical-weapons-disaster",
+    "name": {
+      "zh": "巴里空袭 (化学武器灾难)",
+      "en": "Air Raid on Bari (Chemical Weapons Disaster)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "aleutian-islands-campaign",
+    "name": {
+      "zh": "阿留申群岛战役",
+      "en": "Aleutian Islands Campaign"
+    },
+    "commanders": []
+  },
+  {
     "id": "arctic-convoys",
     "name": {
       "zh": "北极护航战",
       "en": "Arctic Convoys"
+    },
+    "commanders": []
+  },
+  {
+    "id": "arctic-convoys-convoy-pq-17",
+    "name": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "commanders": []
   },
@@ -16,6 +40,14 @@
     "commanders": []
   },
   {
+    "id": "baltic-sea-disasters-late-war-misidentification",
+    "name": {
+      "zh": "波罗的海海难 (二战末期误击)",
+      "en": "Baltic Sea Disasters (Late War Misidentification)"
+    },
+    "commanders": []
+  },
+  {
     "id": "baltic-sea-submarine-warfare",
     "name": {
       "zh": "波罗的海潜艇战",
@@ -24,10 +56,34 @@
     "commanders": []
   },
   {
+    "id": "bangka-strait-ambush-late-pacific-war",
+    "name": {
+      "zh": "班加海峡伏击战 (太平洋战争末期)",
+      "en": "Bangka Strait Ambush (Late Pacific War)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-badung-strait",
+    "name": {
+      "zh": "巴塘海峡海战",
+      "en": "Battle of Badung Strait"
+    },
+    "commanders": []
+  },
+  {
     "id": "battle-of-biak",
     "name": {
       "zh": "比亚克岛战役",
       "en": "Battle of Biak"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-blackett-strait",
+    "name": {
+      "zh": "布莱克特海峡冲突",
+      "en": "Battle of Blackett Strait"
     },
     "commanders": []
   },
@@ -60,6 +116,14 @@
     "name": {
       "zh": "克里特岛战役",
       "en": "Battle of Crete"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-crete-raid-on-souda-bay",
+    "name": {
+      "zh": "克里特岛战役 (苏达湾突袭)",
+      "en": "Battle of Crete (Raid on Souda Bay)"
     },
     "commanders": []
   },
@@ -160,6 +224,14 @@
     "commanders": []
   },
   {
+    "id": "battle-of-leyte-gulf-first-kamikaze-attack",
+    "name": {
+      "zh": "莱特湾海战 (神风特攻队首战)",
+      "en": "Battle of Leyte Gulf (First Kamikaze Attack)"
+    },
+    "commanders": []
+  },
+  {
     "id": "battle-of-leyte-gulf-palawan-passage",
     "name": {
       "zh": "莱特湾海战 (帕拉万水道)",
@@ -204,6 +276,14 @@
     "name": {
       "zh": "北角海战",
       "en": "Battle of North Cape"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-okinawa",
+    "name": {
+      "zh": "冲绳岛战役",
+      "en": "Battle of Okinawa"
     },
     "commanders": []
   },
@@ -292,6 +372,14 @@
     "name": {
       "zh": "大西洋海战 (护航战)",
       "en": "Battle of the Atlantic (Convoy Escort)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "battle-of-the-atlantic-convoy-hx-84",
+    "name": {
+      "zh": "大西洋护航战 (HX-84 船团)",
+      "en": "Battle of the Atlantic (Convoy HX-84)"
     },
     "commanders": []
   },
@@ -496,6 +584,14 @@
     "commanders": []
   },
   {
+    "id": "battle-of-the-strait-of-otranto",
+    "name": {
+      "zh": "奥特朗托海峡战役",
+      "en": "Battle of the Strait of Otranto"
+    },
+    "commanders": []
+  },
+  {
     "id": "battle-of-tinian",
     "name": {
       "zh": "提尼安岛战役",
@@ -552,14 +648,6 @@
     "commanders": []
   },
   {
-    "id": "Battle-of-blackett-strait",
-    "name": {
-      "zh": "布莱克特海峡冲突",
-      "en": "Battle of-blackett Strait"
-    },
-    "commanders": []
-  },
-  {
     "id": "bombing-of-darwin",
     "name": {
       "zh": "达尔文大空袭",
@@ -596,6 +684,14 @@
     "name": {
       "zh": "布干维尔战役",
       "en": "Bougainville Campaign"
+    },
+    "commanders": []
+  },
+  {
+    "id": "caribbean-theater-non-combat-loss",
+    "name": {
+      "zh": "加勒比海战区 (非战斗损失)",
+      "en": "Caribbean Theater (Non-combat Loss)"
     },
     "commanders": []
   },
@@ -896,6 +992,14 @@
     "commanders": []
   },
   {
+    "id": "norwegian-campaign",
+    "name": {
+      "zh": "挪威战役",
+      "en": "Norwegian Campaign"
+    },
+    "commanders": []
+  },
+  {
     "id": "norwegian-campaign-operation-weserubung",
     "name": {
       "zh": "挪威战役 (威悉演习行动)",
@@ -968,6 +1072,14 @@
     "commanders": []
   },
   {
+    "id": "operation-overlord-mulberry-harbour-construction",
+    "name": {
+      "zh": "霸王行动 (桑椹港建设)",
+      "en": "Operation Overlord (Mulberry Harbour Construction)"
+    },
+    "commanders": []
+  },
+  {
     "id": "operation-pedestal",
     "name": {
       "zh": "基座行动",
@@ -1000,10 +1112,42 @@
     "commanders": []
   },
   {
+    "id": "operation-wikinger",
+    "name": {
+      "zh": "维京行动",
+      "en": "Operation Wikinger"
+    },
+    "commanders": []
+  },
+  {
     "id": "pacific-submarine-warfare",
     "name": {
       "zh": "太平洋潜艇战",
       "en": "Pacific Submarine Warfare"
+    },
+    "commanders": []
+  },
+  {
+    "id": "pacific-submarine-warfare-awa-maru-incident",
+    "name": {
+      "zh": "太平洋潜艇战 (阿波丸事件)",
+      "en": "Pacific Submarine Warfare (Awa Maru Incident)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "pacific-submarine-warfare-civilian-evacuation-tragedy",
+    "name": {
+      "zh": "太平洋潜艇战 (平民疏散悲剧)",
+      "en": "Pacific Submarine Warfare (Civilian Evacuation Tragedy)"
+    },
+    "commanders": []
+  },
+  {
+    "id": "pacific-submarine-warfare-hell-ship-incident",
+    "name": {
+      "zh": "太平洋潜艇战 (地狱船事件)",
+      "en": "Pacific Submarine Warfare (Hell Ship Incident)"
     },
     "commanders": []
   },

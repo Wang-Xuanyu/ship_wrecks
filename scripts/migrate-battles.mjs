@@ -1,17 +1,9 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { readdir, readFile, writeFile } from 'node:fs/promises';
 
-const dataFiles = [
-  'src/datas/data1_new.json',
-  'src/datas/data2_new.json',
-  'src/datas/data3_new.json',
-  'src/datas/data4_new.json',
-  'src/datas/data5_new.json',
-  'src/datas/data6_new.json',
-  'src/datas/data7_new.json',
-  'src/datas/data8_new.json',
-  'src/datas/data9_new.json',
-  'src/datas/data10_new.json'
-];
+const dataFiles = (await readdir('src/datas'))
+  .filter((file) => /^data\d+_new\.json$/.test(file))
+  .sort((a, b) => Number(a.match(/\d+/)[0]) - Number(b.match(/\d+/)[0]))
+  .map((file) => `src/datas/${file}`);
 
 const slugify = (value) =>
   value

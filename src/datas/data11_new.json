@@ -13,7 +13,10 @@
       "zh": "驱逐舰 (1934型首舰)",
       "en": "Destroyer (Type 1934 Lead Ship)"
     },
-    "coordinates": [54.500, 4.500],
+    "coordinates": [
+      54.5,
+      4.5
+    ],
     "sinkingDate": "1940-02-22",
     "cause": {
       "zh": "在‘维京行动’中，遭到德国空军 He 111 轰炸机的误击。被炸弹击中后失去转向能力并偏离航线，随后可能又触及了水雷（或再次被炸弹命中），舰体断裂成两截沉没。",
@@ -32,7 +35,8 @@
       "en": "Operation Wikinger"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/05/Leberecht_Maass1.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/05/Leberecht_Maass1.jpg",
+    "battleId": "operation-wikinger"
   },
   {
     "id": "dd-z3-max-schultz",
@@ -48,7 +52,10 @@
       "zh": "驱逐舰 (1934型)",
       "en": "Destroyer (Type 1934)"
     },
-    "coordinates": [54.510, 4.510],
+    "coordinates": [
+      54.51,
+      4.51
+    ],
     "sinkingDate": "1940-02-22",
     "cause": {
       "zh": "在目睹 Z1 号被炸沉后，试图前往雷区边缘进行救援，但在混乱和规避轰炸机时误入英国新布设的雷区（也有记录称是被德机后续投弹炸沉）。发生剧烈爆炸后迅速沉没。",
@@ -67,7 +74,8 @@
       "en": "Operation Wikinger"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Z_3_Max_Schultz.jpg/3840px-Z_3_Max_Schultz.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Z_3_Max_Schultz.jpg/3840px-Z_3_Max_Schultz.jpg",
+    "battleId": "operation-wikinger"
   },
   {
     "id": "amc-jervis-bay",
@@ -83,7 +91,10 @@
       "zh": "武装商船 (辅助巡洋舰)",
       "en": "Armed Merchant Cruiser (AMC)"
     },
-    "coordinates": [53.683, -32.283],
+    "coordinates": [
+      53.683,
+      -32.283
+    ],
     "sinkingDate": "1940-11-05",
     "cause": {
       "zh": "在护卫 HX-84 船团时，遭遇火力占据压倒性优势的德国袖珍战列舰‘舍尔海军上将号’。为了掩护船团分散撤退，该舰独自脱离编队，迎着德军的 280 毫米重炮发起近乎自杀式的冲锋。在吸引敌方火力并死战 22 分钟后，舰体被打成火海沉没。",
@@ -102,7 +113,8 @@
       "en": "Battle of the Atlantic (Convoy HX-84)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/86/JervisBayatDakar1940.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/86/JervisBayatDakar1940.jpg",
+    "battleId": "battle-of-the-atlantic-convoy-hx-84"
   },
   {
     "id": "ca-ashigara",
@@ -118,7 +130,10 @@
       "zh": "重巡洋舰 (妙高级)",
       "en": "Heavy Cruiser (Myōkō-class)"
     },
-    "coordinates": [-1.983, 104.933],
+    "coordinates": [
+      -1.983,
+      104.933
+    ],
     "sinkingDate": "1945-06-08",
     "cause": {
       "zh": "在班加海峡遭到英国海军潜艇‘锋利号’ (HMS Trenchant) 的伏击。在近距离内被潜艇一次齐射的 8 枚鱼雷中的 5 枚直接命中，舰体燃起大火并严重右倾，在半小时后翻覆沉没。",
@@ -137,7 +152,8 @@
       "en": "Bangka Strait Ambush (Late Pacific War)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg/1920px-Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg/1920px-Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg",
+    "battleId": "bangka-strait-ambush-late-pacific-war"
   },
   {
     "id": "ss-132-s27",
@@ -153,7 +169,10 @@
       "zh": "潜艇 (S级)",
       "en": "Submarine (S-class)"
     },
-    "coordinates": [51.483, 179.100],
+    "coordinates": [
+      51.483,
+      179.1
+    ],
     "sinkingDate": "1942-06-19",
     "cause": {
       "zh": "在阿留申群岛阿姆奇特卡岛（Amchitka）执行巡逻任务时，由于极地海域大雾弥漫、能见度极低且海况恶劣，在夜间水面航行时意外触礁搁浅。在尝试脱困失败后，被船员遗弃。",
@@ -172,7 +191,8 @@
       "en": "Aleutian Islands Campaign"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/90/USS_S-27_%28SS-132%29.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/90/USS_S-27_%28SS-132%29.jpg",
+    "battleId": "aleutian-islands-campaign"
   },
   {
     "id": "ss-216-grunion",
@@ -188,7 +208,10 @@
       "zh": "潜艇 (猫鲨级)",
       "en": "Submarine (Gato-class)"
     },
-    "coordinates": [52.233, 177.500],
+    "coordinates": [
+      52.233,
+      177.5
+    ],
     "sinkingDate": "1942-07-30",
     "cause": {
       "zh": "在基斯卡岛（Kiska）外海执行任务时失踪。根据最新战史研究，它在攻击日本货轮‘鹿野丸’号时，被对方甲板炮反击命中指挥塔，随后在紧急下潜中因深度失控而被海水压强压碎沉没。",
@@ -207,7 +230,8 @@
       "en": "Aleutian Islands Campaign"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/11/USS_Grunion%3B0821602.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/11/USS_Grunion%3B0821602.jpg",
+    "battleId": "aleutian-islands-campaign"
   },
   {
     "id": "dd-526-abner-read-stern",
@@ -223,7 +247,10 @@
       "zh": "驱逐舰残骸 (弗莱彻级)",
       "en": "Destroyer Wreckage (Fletcher-class)"
     },
-    "coordinates": [51.983, 177.533],
+    "coordinates": [
+      51.983,
+      177.533
+    ],
     "sinkingDate": "1943-08-18",
     "cause": {
       "zh": "在基斯卡岛海域进行反潜巡逻时，不幸触及日军布设的水雷。巨大的爆炸直接将长达 22 米的舰艉彻底炸断沉入海底，导致 71 名官兵落水（其中 22 人随舰艉沉入深海丧生）。",
@@ -242,7 +269,8 @@
       "en": "Aleutian Islands Campaign"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9a/USS_Abner_Read_%28DD-526%29_in_San_Francisco_Bay%2C_California_%28USA%29%2C_on_13_June_1943.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9a/USS_Abner_Read_%28DD-526%29_in_San_Francisco_Bay%2C_California_%28USA%29%2C_on_13_June_1943.jpg",
+    "battleId": "aleutian-islands-campaign"
   },
   {
     "id": "dd-arare",
@@ -258,7 +286,10 @@
       "zh": "驱逐舰 (朝潮型)",
       "en": "Destroyer (Asashio-class)"
     },
-    "coordinates": [52.000, 177.666],
+    "coordinates": [
+      52,
+      177.666
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "在基斯卡岛外海浓雾中锚泊时，遭到美军潜艇‘咆哮者号’ (USS Growler) 偷袭。在雷达盲区被一枚鱼雷直接命中舰体中部，发生剧烈爆炸并折断，迅速沉没。",
@@ -277,7 +308,8 @@
       "en": "Aleutian Islands Campaign"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/0e/F9NI1rvaIAAH-pN.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/0e/F9NI1rvaIAAH-pN.jpg",
+    "battleId": "aleutian-islands-campaign"
   },
   {
     "id": "dd-nenohi",
@@ -293,7 +325,10 @@
       "zh": "驱逐舰 (初春型)",
       "en": "Destroyer (Hatsuharu-class)"
     },
-    "coordinates": [52.250, 173.850],
+    "coordinates": [
+      52.25,
+      173.85
+    ],
     "sinkingDate": "1942-07-04",
     "cause": {
       "zh": "在阿加图岛（Agattu）以南海域为日军水上飞机母舰护航时，遭到美军潜艇‘海神号’ (USS Triton) 伏击。身中一枚鱼雷后舰体严重倾斜，在短短 5 分钟内倾覆沉没。",
@@ -312,7 +347,8 @@
       "en": "Aleutian Islands Campaign"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nenohi_II.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nenohi_II.jpg",
+    "battleId": "aleutian-islands-campaign"
   },
   {
     "id": "dd-oboro",
@@ -328,7 +364,10 @@
       "zh": "特型驱逐舰 (吹雪型)",
       "en": "Special Type Destroyer (Fubuki-class)"
     },
-    "coordinates": [52.283, 177.133],
+    "coordinates": [
+      52.283,
+      177.133
+    ],
     "sinkingDate": "1942-10-17",
     "cause": {
       "zh": "在前往基斯卡岛运送弹药和补给途中，遭到美军 B-26 掠夺者轰炸机（陆军航空队）的轰炸。炸弹直接命中了其装满弹药的货舱，导致极其惨烈的连环大爆炸，全舰仅有 17 人幸存。",
@@ -347,7 +386,8 @@
       "en": "Aleutian Islands Campaign"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oboro_II.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oboro_II.jpg",
+    "battleId": "aleutian-islands-campaign"
   },
   {
     "id": "ss-surcouf",
@@ -363,7 +403,10 @@
       "zh": "巡洋潜艇",
       "en": "Cruiser Submarine"
     },
-    "coordinates": [10.666, -79.516],
+    "coordinates": [
+      10.666,
+      -79.516
+    ],
     "sinkingDate": "1942-02-18",
     "cause": {
       "zh": "在巴拿马运河以北的加勒比海夜间航行时失踪。普遍认为是在漆黑的海面上与美国货轮‘汤普森·莱克斯号’ (SS Thomson Lykes) 发生了灾难性的相撞，随后沉入深海。",
@@ -382,7 +425,8 @@
       "en": "Caribbean Theater (Non-combat Loss)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/fr.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/32/Surcouf_FRA.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/32/Surcouf_FRA.jpg",
+    "battleId": "caribbean-theater-non-combat-loss"
   },
   {
     "id": "mv-cap-arcona",
@@ -398,7 +442,10 @@
       "zh": "远洋客轮 / 监狱船",
       "en": "Ocean Liner / Prison Ship"
     },
-    "coordinates": [54.028, 10.850],
+    "coordinates": [
+      54.028,
+      10.85
+    ],
     "sinkingDate": "1945-05-03",
     "cause": {
       "zh": "在德国投降前 4 天，停泊在吕贝克湾（Bay of Lübeck）时，遭到英国皇家空军霍克‘台风’式战斗轰炸机的猛烈扫射与火箭弹袭击。船体燃起大火并倾覆，大量人员在冰冷的海水中溺亡或被飞机机枪扫射致死。",
@@ -417,7 +464,8 @@
       "en": "Baltic Sea Disasters (Late War Misidentification)"
     },
     "flagIconUrl": "/nazi.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cap_Arcona_1.JPG"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cap_Arcona_1.JPG",
+    "battleId": "baltic-sea-disasters-late-war-misidentification"
   },
   {
     "id": "ca-york",
@@ -433,7 +481,10 @@
       "zh": "重巡洋舰",
       "en": "Heavy Cruiser"
     },
-    "coordinates": [35.483, 24.133],
+    "coordinates": [
+      35.483,
+      24.133
+    ],
     "sinkingDate": "1941-03-26",
     "cause": {
       "zh": "停泊在希腊克里特岛苏达湾时，遭到意大利海军第十快艇支队（Decima Flottiglia MAS）装备的 6 艘 MTM 爆炸摩托艇（自杀式快艇，驾驶员在撞击前跳水）的夜间突袭。舰体被炸出大洞，为了防止沉没而被迫搁浅，随后在德军空袭中被彻底摧毁。",
@@ -452,7 +503,8 @@
       "en": "Battle of Crete (Raid on Souda Bay)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HMS_York_secured.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HMS_York_secured.jpg",
+    "battleId": "battle-of-crete-raid-on-souda-bay"
   },
   {
     "id": "mv-awa-maru",
@@ -468,7 +520,10 @@
       "zh": "远洋客货轮 (红十字救援船)",
       "en": "Ocean Liner / Passenger-Cargo Ship (Red Cross Relief Ship)"
     },
-    "coordinates": [25.416, 119.933],
+    "coordinates": [
+      25.416,
+      119.933
+    ],
     "sinkingDate": "1945-04-01",
     "cause": {
       "zh": "在台湾海峡牛山岛海域航行时，尽管拥有美国政府颁发的‘安全航行保证’并开启了十字照明，仍遭到美军潜艇‘皇后鱼号’ (USS Queenfish) 的误击。在浓雾中被 4 枚鱼雷命中，仅 3 分钟便沉入海底。",
@@ -487,7 +542,8 @@
       "en": "Pacific Submarine Warfare (Awa Maru Incident)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/e/ee/Awa_Maru_11249gt.JPG"
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/ee/Awa_Maru_11249gt.JPG",
+    "battleId": "pacific-submarine-warfare-awa-maru-incident"
   },
   {
     "id": "dd-579-william-d-porter",
@@ -503,7 +559,10 @@
       "zh": "驱逐舰 (弗莱彻级)",
       "en": "Destroyer (Fletcher-class)"
     },
-    "coordinates": [27.100, 127.633],
+    "coordinates": [
+      27.1,
+      127.633
+    ],
     "sinkingDate": "1945-06-10",
     "cause": {
       "zh": "在冲绳战役中，一架被击落的日军九九式俯冲轰炸机坠入其旁边的海中。不可思议的是，这架飞机在水下一直冲到了驱逐舰的正下方并爆炸。巨大的水下冲击波将舰体直接抛出水面并导致龙骨断裂，最终沉没。",
@@ -522,7 +581,8 @@
       "en": "Battle of Okinawa"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8e/USS_William_D._Porter_%28DD-579%29_in_Massacre_Bay%2C_Attu%2C_on_9_June_1944_%28NH_97804%29.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8e/USS_William_D._Porter_%28DD-579%29_in_Massacre_Bay%2C_Attu%2C_on_9_June_1944_%28NH_97804%29.jpg",
+    "battleId": "battle-of-okinawa"
   },
   {
     "id": "cl-java",
@@ -538,7 +598,10 @@
       "zh": "轻巡洋舰 (爪哇级)",
       "en": "Light Cruiser (Java-class)"
     },
-    "coordinates": [-6.000, 112.083],
+    "coordinates": [
+      -6,
+      112.083
+    ],
     "sinkingDate": "1942-02-27",
     "cause": {
       "zh": "在爪哇海海战的夜战阶段，被日本重巡洋舰‘那智号’发射的鱼雷击中左舷艉部。弹药库引发极其剧烈的殉爆，舰体断裂，在短短 15 分钟内迅速沉没。",
@@ -557,7 +620,8 @@
       "en": "Battle of the Java Sea"
     },
     "flagIconUrl": "https://flagcdn.com/w40/nl.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Java_cruiser_SLV_H91.325_284.jpg/1920px-Java_cruiser_SLV_H91.325_284.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Java_cruiser_SLV_H91.325_284.jpg/1920px-Java_cruiser_SLV_H91.325_284.jpg",
+    "battleId": "battle-of-the-java-sea"
   },
   {
     "id": "dd-kortenaer",
@@ -573,7 +637,10 @@
       "zh": "驱逐舰 (海军上将级)",
       "en": "Destroyer (Admiralen-class)"
     },
-    "coordinates": [-6.066, 112.083],
+    "coordinates": [
+      -6.066,
+      112.083
+    ],
     "sinkingDate": "1942-02-27",
     "cause": {
       "zh": "在爪哇海海战中，被日本重巡洋舰‘羽黑号’发射的鱼雷直接击中舰体中部。这艘老式驱逐舰瞬间折断成两截，随后迅速沉没。",
@@ -592,7 +659,8 @@
       "en": "Battle of the Java Sea"
     },
     "flagIconUrl": "https://flagcdn.com/w40/nl.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/04/COLLECTIE_TROPENMUSEUM_De_Torpedojager_%27Kortenaer%27_TMnr_10007462.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/04/COLLECTIE_TROPENMUSEUM_De_Torpedojager_%27Kortenaer%27_TMnr_10007462.jpg",
+    "battleId": "battle-of-the-java-sea"
   },
   {
     "id": "dd-piet-hein",
@@ -608,7 +676,10 @@
       "zh": "驱逐舰 (海军上将级)",
       "en": "Destroyer (Admiralen-class)"
     },
-    "coordinates": [-8.666, 115.333],
+    "coordinates": [
+      -8.666,
+      115.333
+    ],
     "sinkingDate": "1942-02-19",
     "cause": {
       "zh": "在巴塘海峡海战中，由于盟军舰队缺乏协调，单舰突入日军护航编队。在夜战中遭到日本驱逐舰‘朝潮号’和‘大潮号’的密集火炮攻击，并被一枚鱼雷命中，燃起大火后沉没。",
@@ -627,6 +698,7 @@
       "en": "Battle of Badung Strait"
     },
     "flagIconUrl": "https://flagcdn.com/w40/nl.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/80/HNLMS_Piet_Hein_%28full_speed%29.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/80/HNLMS_Piet_Hein_%28full_speed%29.jpg",
+    "battleId": "battle-of-badung-strait"
   }
 ]

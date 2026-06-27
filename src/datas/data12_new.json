@@ -13,7 +13,10 @@
       "zh": "武装货轮",
       "en": "Armed Freighter"
     },
-    "coordinates": [71.600, 49.300],
+    "coordinates": [
+      71.6,
+      49.3
+    ],
     "sinkingDate": "1942-07-07",
     "cause": {
       "zh": "在逃往新地岛途中，被德国 U-255 号潜艇拦截。潜艇浮出水面用甲板炮将其打残后，发射鱼雷将其击沉。",
@@ -32,7 +35,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://uboat.net/media/allies/merchants/am/alcoa_ranger.jpg"
+    "cover": "https://uboat.net/media/allies/merchants/am/alcoa_ranger.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "rfa-aldersdale",
@@ -48,7 +52,10 @@
       "zh": "皇家辅助舰队 / 油轮",
       "en": "Royal Fleet Auxiliary / Tanker"
     },
-    "coordinates": [75.000, 43.000],
+    "coordinates": [
+      75,
+      43
+    ],
     "sinkingDate": "1942-07-07",
     "cause": {
       "zh": "先遭到德军轰炸机炸毁动力，漂流两天后被 U-457 潜艇发射鱼雷击沉。",
@@ -67,7 +74,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/3/32/RFA_Aldersdale.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/32/RFA_Aldersdale.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-bolton-castle",
@@ -83,7 +91,10 @@
       "zh": "武装货轮",
       "en": "Armed Freighter"
     },
-    "coordinates": [76.300, 38.000],
+    "coordinates": [
+      76.3,
+      38
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "船团解散次日，遭到德国空军 Ju 88 轰炸机群的集中轰炸。炸弹引爆了舱内的烈性炸药，船体迅速下沉。",
@@ -102,7 +113,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://www.wrecksite.eu/img/wrecks/thumbs/bolton_castle_boltan.jpg"
+    "cover": "https://www.wrecksite.eu/img/wrecks/thumbs/bolton_castle_boltan.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-carlton",
@@ -118,7 +130,10 @@
       "zh": "武装货轮",
       "en": "Armed Freighter"
     },
-    "coordinates": [73.800, 37.600],
+    "coordinates": [
+      73.8,
+      37.6
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "遭到德国 U-88 潜艇发射的鱼雷命中，船体破裂并在几分钟内沉没。",
@@ -137,7 +152,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://uboat.net/media/allies/merchants/am/carlton.jpg"
+    "cover": "https://uboat.net/media/allies/merchants/am/carlton.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-christopher-newport",
@@ -153,7 +169,10 @@
       "zh": "自由轮",
       "en": "Liberty Ship"
     },
-    "coordinates": [71.283, 10.800],
+    "coordinates": [
+      71.283,
+      10.8
+    ],
     "sinkingDate": "1942-07-04",
     "cause": {
       "zh": "遭德国空军鱼雷机击中失去动力，被船员弃船后，由 U-457 号潜艇用鱼雷补刀击沉。",
@@ -172,7 +191,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://uboat.net/media/allies/merchants/am/christopher_newport.jpg"
+    "cover": "https://uboat.net/media/allies/merchants/am/christopher_newport.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-daniel-morgan",
@@ -188,7 +208,10 @@
       "zh": "自由轮",
       "en": "Liberty Ship"
     },
-    "coordinates": [75.100, 44.000],
+    "coordinates": [
+      75.1,
+      44
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "遭到多架 Ju 88 连续俯冲轰炸，船体结构严重受损，随后被 U-88 潜艇发现并用鱼雷击沉。",
@@ -207,7 +230,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://i.pinimg.com/736x/66/63/64/666364fbbb6dd9d018bcff6f3833372f.jpg"
+    "cover": "https://i.pinimg.com/736x/66/63/64/666364fbbb6dd9d018bcff6f3833372f.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-earlston",
@@ -223,7 +247,10 @@
       "zh": "武装货轮",
       "en": "Armed Freighter"
     },
-    "coordinates": [74.900, 37.666],
+    "coordinates": [
+      74.9,
+      37.666
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "在逃亡中遭轰炸机重创，随后被 U-334 潜艇用鱼雷彻底击沉。",
@@ -242,7 +269,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": null
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-el-capitan",
@@ -258,7 +286,10 @@
       "zh": "武装货轮",
       "en": "Armed Freighter"
     },
-    "coordinates": [69.300, 67.500],
+    "coordinates": [
+      69.3,
+      67.5
+    ],
     "sinkingDate": "1942-07-10",
     "cause": {
       "zh": "在距离苏联摩尔曼斯克极近的区域（几乎已经逃出生天）遭到空袭重创抛锚，数小时后被 U-251 潜艇击沉。",
@@ -277,7 +308,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/pa.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SS_El_Capitan_%281917%29.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SS_El_Capitan_%281917%29.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-empire-byron",
@@ -293,7 +325,10 @@
       "zh": "货轮",
       "en": "Freighter"
     },
-    "coordinates": [76.300, 33.500],
+    "coordinates": [
+      76.3,
+      33.5
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "被 U-703 潜艇的鱼雷直接命中并迅速沉没。",
@@ -312,7 +347,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": null
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-fairfield-city",
@@ -328,7 +364,10 @@
       "zh": "货轮",
       "en": "Freighter"
     },
-    "coordinates": [74.600, 39.700],
+    "coordinates": [
+      74.6,
+      39.7
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "遭到德国空军猛烈空袭，被数枚炸弹直接命中无装甲的甲板，迅速进水沉没。",
@@ -347,7 +386,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://minnehallen.no/wp-content/uploads/2020/03/939193-999x0-c-default.jpg"
+    "cover": "https://minnehallen.no/wp-content/uploads/2020/03/939193-999x0-c-default.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-hartlebury",
@@ -363,7 +403,10 @@
       "zh": "武装货轮",
       "en": "Armed Freighter"
     },
-    "coordinates": [72.500, 52.000],
+    "coordinates": [
+      72.5,
+      52
+    ],
     "sinkingDate": "1942-07-07",
     "cause": {
       "zh": "被德国潜艇 U-355 追踪并击沉。",
@@ -382,7 +425,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://uboat.net/media/allies/merchants/br/hartlebury.jpg"
+    "cover": "https://uboat.net/media/allies/merchants/br/hartlebury.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-honomu",
@@ -398,7 +442,10 @@
       "zh": "货轮",
       "en": "Freighter"
     },
-    "coordinates": [75.100, 38.000],
+    "coordinates": [
+      75.1,
+      38
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "遭到潜艇 U-456 发射的鱼雷命中。由于装载了大量弹药，发生了剧烈爆炸。",
@@ -417,7 +464,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://uboat.net/media/allies/merchants/am/honomu-ex-edmore.jpg"
+    "cover": "https://uboat.net/media/allies/merchants/am/honomu-ex-edmore.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-hoosier",
@@ -433,7 +481,10 @@
       "zh": "货轮",
       "en": "Freighter"
     },
-    "coordinates": [69.400, 43.500],
+    "coordinates": [
+      69.4,
+      43.5
+    ],
     "sinkingDate": "1942-07-10",
     "cause": {
       "zh": "在坚持了数日后，遭德国潜艇 U-376 发射的鱼雷终结。",
@@ -452,7 +503,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://uboat.net/media/allies/merchants/am/hoosier.jpg"
+    "cover": "https://uboat.net/media/allies/merchants/am/hoosier.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-john-witherspoon",
@@ -468,7 +520,10 @@
       "zh": "自由轮",
       "en": "Liberty Ship"
     },
-    "coordinates": [72.000, 48.000],
+    "coordinates": [
+      72,
+      48
+    ],
     "sinkingDate": "1942-07-06",
     "cause": {
       "zh": "被猎杀效率极高的潜艇 U-255 锁定，连中数雷后沉没。",
@@ -487,7 +542,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": null
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-navarino",
@@ -503,7 +559,10 @@
       "zh": "货轮",
       "en": "Freighter"
     },
-    "coordinates": [75.900, 34.000],
+    "coordinates": [
+      75.9,
+      34
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "遭到德国空军 Ju 88 轰炸机群的精准轰炸，迅速沉没。",
@@ -522,7 +581,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": null
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-olopana",
@@ -538,7 +598,10 @@
       "zh": "货轮",
       "en": "Freighter"
     },
-    "coordinates": [72.100, 51.000],
+    "coordinates": [
+      72.1,
+      51
+    ],
     "sinkingDate": "1942-07-08",
     "cause": {
       "zh": "在逃亡多日后，被 U-255 号潜艇利用海雾掩护逼近，并以鱼雷击沉。",
@@ -557,7 +620,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": null
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-pan-atlantic",
@@ -573,7 +637,10 @@
       "zh": "货轮",
       "en": "Freighter"
     },
-    "coordinates": [72.000, 43.000],
+    "coordinates": [
+      72,
+      43
+    ],
     "sinkingDate": "1942-07-06",
     "cause": {
       "zh": "在毫无预警的情况下被德国俯冲轰炸机炸中底舱爆炸沉没。",
@@ -592,7 +659,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": null
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-pan-kraft",
@@ -608,7 +676,10 @@
       "zh": "货轮",
       "en": "Freighter"
     },
-    "coordinates": [76.800, 38.000],
+    "coordinates": [
+      76.8,
+      38
+    ],
     "sinkingDate": "1942-07-07",
     "cause": {
       "zh": "遭到空袭重创燃烧，船员被迫弃船。数日后废弃的船体被潜艇鱼雷摧毁或自然沉没。",
@@ -627,7 +698,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c4/WestAvenal.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c4/WestAvenal.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-paulus-potter",
@@ -643,7 +715,10 @@
       "zh": "武装货轮",
       "en": "Armed Freighter"
     },
-    "coordinates": [70.000, 52.000],
+    "coordinates": [
+      70,
+      52
+    ],
     "sinkingDate": "1942-07-13",
     "cause": {
       "zh": "7月5日遭到轰炸机重创并被船员遗弃。在冰海中漂流了整整一周后，最终被德国 U-255 号潜艇发现并用鱼雷击沉。",
@@ -662,7 +737,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/nl.png",
-    "cover": "https://uboat.net/media/allies/merchants/nl/paulus_potter.jpg"
+    "cover": "https://uboat.net/media/allies/merchants/nl/paulus_potter.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-peter-kerr",
@@ -678,7 +754,10 @@
       "zh": "货轮",
       "en": "Freighter"
     },
-    "coordinates": [74.500, 35.000],
+    "coordinates": [
+      74.5,
+      35
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "遭遇惨烈的连续空袭，被炸弹直接引燃丧失动力，随后沉没。",
@@ -697,7 +776,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": null
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-river-afton",
@@ -713,7 +793,10 @@
       "zh": "武装货轮 (船团准将旗舰)",
       "en": "Armed Freighter (Convoy Commodore Flagship)"
     },
-    "coordinates": [75.900, 43.000],
+    "coordinates": [
+      75.9,
+      43
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "被 U-703 潜艇盯上，连续被两枚鱼雷命中，迅速沉入冰冷的海水中。",
@@ -732,7 +815,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": null
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-washington",
@@ -748,7 +832,10 @@
       "zh": "武装货轮",
       "en": "Armed Freighter"
     },
-    "coordinates": [76.300, 33.500],
+    "coordinates": [
+      76.3,
+      33.5
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "货舱内载有 600 吨高爆炸药。遭到俯冲轰炸机袭击起火后，船员因担心大爆炸疯狂逃生，船体随后被放弃并沉没。",
@@ -767,7 +854,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": null
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-william-hooper",
@@ -783,7 +871,10 @@
       "zh": "自由轮",
       "en": "Liberty Ship"
     },
-    "coordinates": [76.000, 33.500],
+    "coordinates": [
+      76,
+      33.5
+    ],
     "sinkingDate": "1942-07-04",
     "cause": {
       "zh": "船团刚刚解散时，便遭空袭重创。被遗弃后于当晚被 U-334 号潜艇补刀击沉。",
@@ -802,7 +893,8 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://uboat.net/media/allies/merchants/am/william_hooper.jpg"
+    "cover": "https://uboat.net/media/allies/merchants/am/william_hooper.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   },
   {
     "id": "ss-zaafaran",
@@ -818,7 +910,10 @@
       "zh": "护航救援船",
       "en": "Convoy Rescue Ship"
     },
-    "coordinates": [76.000, 38.000],
+    "coordinates": [
+      76,
+      38
+    ],
     "sinkingDate": "1942-07-05",
     "cause": {
       "zh": "向新地岛方向逃亡途中，遭到德机猛烈空袭，被炸弹直接命中沉没。",
@@ -837,6 +932,7 @@
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://www.wrecksite.eu/img/wrecks/zaafaran.jpg"
+    "cover": "https://www.wrecksite.eu/img/wrecks/zaafaran.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
   }
 ]

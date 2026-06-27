@@ -741,6 +741,45 @@
     "battleId": "solomon-islands-anti-submarine-operations"
   },
   {
+    "id": "dd-415-obrien",
+    "name": {
+      "zh": "奥布莱恩号驱逐舰",
+      "en": "USS O'Brien (DD-415)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "驱逐舰 (西姆斯级)",
+      "en": "Destroyer (Sims-class)"
+    },
+    "coordinates": [
+      -13.5,
+      -171.3
+    ],
+    "sinkingDate": "1942-10-19",
+    "cause": {
+      "zh": "在 9 月 15 日遭到日本潜艇 I-19 发射的鱼雷命中舰艏（与黄蜂号航母同一次雷击）。经过紧急修补后试图返回美国旧金山大修，但在航行了近 3000 海里后，因鱼雷造成的龙骨结构性损伤严重恶化，舰体在萨摩亚附近海域断裂成两截并沉没。",
+      "en": "Struck in the bow by a torpedo fired by the Japanese submarine I-19 on September 15 (during the same torpedo salvo that sank the aircraft carrier USS Wasp). After emergency repairs, she attempted to return to San Francisco, USA, for a major overhaul. However, after sailing nearly 3,000 nautical miles, the severe structural damage to her keel caused by the torpedo worsened, and her hull broke in two and sank in the waters near Samoa."
+    },
+    "depth": {
+      "zh": "未知 (中太平洋深水区)",
+      "en": "Unknown (Deep waters of the Central Pacific)"
+    },
+    "historyNotes": {
+      "zh": "海战史上最不可思议的‘延时击杀’之一。遭受雷击后，它靠着极其顽强的损管和临时修补，在太平洋上硬撑着航行了一个多月。最终龙骨因金属疲劳彻底断裂，由于沉没前有极其充分的预警时间，舰上人员从容撤离，全舰无一人在沉没中阵亡。",
+      "en": "One of the most incredible 'delayed kills' in naval history. After being torpedoed, she relied on extremely tenacious damage control and temporary repairs to stubbornly sail across the Pacific for over a month. Ultimately, her keel completely fractured due to metal fatigue. Because there was ample warning time before the sinking, the crew evacuated calmly, and not a single soul was lost when she went down."
+    },
+    "battle": {
+      "zh": "所罗门群岛海域反潜战",
+      "en": "Solomon Islands Anti-Submarine Operations"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/da/USS_O%27Brien_DD-415.jpg",
+    "battleId": "solomon-islands-anti-submarine-operations"
+  },
+  {
     "id": "ca-furutaka",
     "name": {
       "zh": "古鹰号重巡洋舰",
@@ -1323,7 +1362,7 @@
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/USS_PT-109_on_board_SS_Joseph_Stanton_%28cropped%29.jpg/3840px-USS_PT-109_on_board_SS_Joseph_Stanton_%28cropped%29.jpg",
-    "battleId": "Battle-of-blackett-strait"
+    "battleId": "battle-of-blackett-strait"
   },
   {
     "id": "dd-murasame",
@@ -1339,7 +1378,10 @@
       "zh": "驱逐舰 (白露型)",
       "en": "Destroyer (Shiratsuyu-class)"
     },
-    "coordinates": [-8.050, 157.216],
+    "coordinates": [
+      -8.05,
+      157.216
+    ],
     "sinkingDate": "1943-03-05",
     "cause": {
       "zh": "在执行“东京快车”运输任务返航途中，于布莱克特海峡遭到配备新式雷达的美军第 68 特遣舰队伏击。被美军火炮密集命中后，又被‘沃勒号’（USS Waller）驱逐舰发射的鱼雷击中弹药库，发生剧烈爆炸并迅速断裂沉没。",
@@ -1358,7 +1400,8 @@
       "en": "Battle of Blackett Strait"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IJN_DD_Murasame_in_1937_at_Yangtze_River.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IJN_DD_Murasame_in_1937_at_Yangtze_River.jpg",
+    "battleId": "battle-of-blackett-strait"
   },
   {
     "id": "dd-minegumo",
@@ -1374,7 +1417,10 @@
       "zh": "驱逐舰 (朝潮型)",
       "en": "Destroyer (Asashio-class)"
     },
-    "coordinates": [-8.016, 157.233],
+    "coordinates": [
+      -8.016,
+      157.233
+    ],
     "sinkingDate": "1943-03-05",
     "cause": {
       "zh": "与村雨号同行，在目睹村雨号被击沉后试图向北高速突围。但在美军雷达的持续追踪下，遭到轻巡洋舰‘丹佛号’、‘蒙彼利埃号’及多艘驱逐舰的无情炮火覆盖，很快被打成燃烧的废铁并沉没。",
@@ -1393,7 +1439,8 @@
       "en": "Battle of Blackett Strait"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f2/IJN_DD_Minegumo_1937_launching.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f2/IJN_DD_Minegumo_1937_launching.jpg",
+    "battleId": "battle-of-blackett-strait"
   },
   {
     "id": "dd-451-chevalier",

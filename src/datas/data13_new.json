@@ -13,7 +13,10 @@
       "zh": "武装客货轮 / 地狱船",
       "en": "Armed Passenger-Cargo Ship / Hell Ship"
     },
-    "coordinates": [30.227, 122.755],
+    "coordinates": [
+      30.227,
+      122.755
+    ],
     "sinkingDate": "1942-10-01",
     "cause": {
       "zh": "在中国舟山东极岛海域，被美军潜艇‘鲈鱼号’ (USS Grouper) 发射的鱼雷击中。日军在撤离本国士兵后，将关押着 1800 多名英国战俘的底舱用木板和帆布死死钉死。船只在挣扎了一天多后沉没。",
@@ -32,7 +35,8 @@
       "en": "Pacific Submarine Warfare (Hell Ship Incident)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lisbon-maru.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lisbon-maru.jpg",
+    "battleId": "pacific-submarine-warfare-hell-ship-incident"
   },
   {
     "id": "mv-montevideo-maru",
@@ -48,7 +52,10 @@
       "zh": "客货轮 / 地狱船",
       "en": "Passenger-Cargo Ship / Hell Ship"
     },
-    "coordinates": [18.616, 119.233],
+    "coordinates": [
+      18.616,
+      119.233
+    ],
     "sinkingDate": "1942-07-01",
     "cause": {
       "zh": "在吕宋海峡航行时，遭到美军潜艇‘鲟鱼号’ (USS Sturgeon) 追踪并被 4 枚鱼雷命中。船体迅速进水，在短短 11 分钟内沉没。",
@@ -67,7 +74,8 @@
       "en": "Pacific Submarine Warfare (Hell Ship Incident)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fe/MV_Montevideo_Maru.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fe/MV_Montevideo_Maru.jpg",
+    "battleId": "pacific-submarine-warfare-hell-ship-incident"
   },
   {
     "id": "mv-junyo-maru",
@@ -83,7 +91,10 @@
       "zh": "货轮 / 地狱船",
       "en": "Freighter / Hell Ship"
     },
-    "coordinates": [-2.883, 101.183],
+    "coordinates": [
+      -2.883,
+      101.183
+    ],
     "sinkingDate": "1944-09-18",
     "cause": {
       "zh": "在苏门答腊岛西海岸航行时，遭到英国潜艇‘信风号’ (HMS Tradewind) 发射的两枚鱼雷命中，约 20 分钟后沉没。",
@@ -102,7 +113,8 @@
       "en": "Pacific Submarine Warfare (Hell Ship Incident)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Junyo_Maru.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Junyo_Maru.jpg",
+    "battleId": "pacific-submarine-warfare-hell-ship-incident"
   },
   {
     "id": "mv-tsushima-maru",
@@ -118,7 +130,10 @@
       "zh": "客货轮 / 疏散船",
       "en": "Passenger-Cargo Ship / Evacuation Ship"
     },
-    "coordinates": [29.533, 129.516],
+    "coordinates": [
+      29.533,
+      129.516
+    ],
     "sinkingDate": "1944-08-22",
     "cause": {
       "zh": "在从冲绳向日本本土疏散平民的途中，于恶劣天气下遭到美军潜艇‘弓鳍鱼号’ (USS Bowfin) 的雷达锁定。被多枚鱼雷命中后发生剧烈爆炸并迅速沉没。",
@@ -137,16 +152,9 @@
       "en": "Pacific Submarine Warfare (Civilian Evacuation Tragedy)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tsushima_Maru_1944.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tsushima_Maru_1944.jpg",
+    "battleId": "pacific-submarine-warfare-civilian-evacuation-tragedy"
   },
-
-
-
-
-
-
-
-
   {
     "id": "cve-63-st-lo",
     "name": {
@@ -161,7 +169,10 @@
       "zh": "护航航空母舰 (卡萨布兰卡级)",
       "en": "Escort Carrier (Casablanca-class)"
     },
-    "coordinates": [11.216, 126.100],
+    "coordinates": [
+      11.216,
+      126.1
+    ],
     "sinkingDate": "1944-10-25",
     "cause": {
       "zh": "在刚刚极其艰难地从日本主力舰队的炮火下逃生后，遭到日军由关行男大尉率领的首批‘神风特攻队’（Kamikaze）零式战斗机自杀式撞击。飞机穿透飞行甲板引爆了机库内的鱼雷与炸弹，导致船体断裂沉没。",
@@ -180,7 +191,8 @@
       "en": "Battle of Leyte Gulf (First Kamikaze Attack)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c0/USS_St._Lo_Cve63.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c0/USS_St._Lo_Cve63.jpg",
+    "battleId": "battle-of-leyte-gulf-first-kamikaze-attack"
   },
   {
     "id": "ss-john-harvey",
@@ -196,7 +208,10 @@
       "zh": "自由轮",
       "en": "Liberty Ship"
     },
-    "coordinates": [41.133, 16.866],
+    "coordinates": [
+      41.133,
+      16.866
+    ],
     "sinkingDate": "1943-12-02",
     "cause": {
       "zh": "在意大利巴里港（Bari）停泊时，遭到德国空军 Ju 88 轰炸机群的毁灭性突袭（史称‘小珍珠港事件’）。船只被炸弹击中起火，随后发生惊天大爆炸沉没。",
@@ -215,7 +230,8 @@
       "en": "Air Raid on Bari (Chemical Weapons Disaster)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
-    "cover": "https://warfarehistorynetwork.com/wp-content/uploads/2025/08/W-Fal25-Top-Secret-Bari-4-e1754080850131.jpg"
+    "cover": "https://warfarehistorynetwork.com/wp-content/uploads/2025/08/W-Fal25-Top-Secret-Bari-4-e1754080850131.jpg",
+    "battleId": "air-raid-on-bari-chemical-weapons-disaster"
   },
   {
     "id": "bb-courbet",
@@ -231,7 +247,10 @@
       "zh": "战列舰 (孤拔级)",
       "en": "Battleship (Courbet-class)"
     },
-    "coordinates": [49.366, -0.266],
+    "coordinates": [
+      49.366,
+      -0.266
+    ],
     "sinkingDate": "1944-06-09",
     "cause": {
       "zh": "作为一艘极度老旧的无畏舰，它在诺曼底登陆中执行了最后一次任务：驶向‘宝剑海滩’（Sword Beach）外海，打开通海阀自沉，成为‘鹅莓’（Gooseberry）防波堤的一部分，为盟军的登陆船只提供避风港。",
@@ -250,7 +269,8 @@
       "en": "Operation Overlord (Mulberry Harbour Construction)"
     },
     "flagIconUrl": "https://flagcdn.com/w40/fr.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Courbet_Q_22265_%28cropped%29.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Courbet_Q_22265_%28cropped%29.jpg",
+    "battleId": "operation-overlord-mulberry-harbour-construction"
   },
   {
     "id": "dd-glowworm",
@@ -266,7 +286,10 @@
       "zh": "驱逐舰 (G级)",
       "en": "Destroyer (G-class)"
     },
-    "coordinates": [64.450, 6.066],
+    "coordinates": [
+      64.45,
+      6.066
+    ],
     "sinkingDate": "1940-04-08",
     "cause": {
       "zh": "在挪威海域极其偶然地遭遇了由德国重巡洋舰‘希佩尔海军上将号’率领的舰队。在被德舰 203 毫米重炮打成重伤、弹药耗尽且全舰燃起大火的情况下，舰长杰拉德·鲁普下令全速撞击德军重巡洋舰。撞击撕裂了德舰的右舷，随后萤火虫号爆炸沉没。",
@@ -285,7 +308,8 @@
       "en": "Norwegian Campaign"
     },
     "flagIconUrl": "https://flagcdn.com/w40/gb.png",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9c/HMS_Glowworm_%28H92%29.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9c/HMS_Glowworm_%28H92%29.jpg",
+    "battleId": "norwegian-campaign"
   },
   {
     "id": "mv-antonio-locatelli",
@@ -301,7 +325,10 @@
       "zh": "武装运输船 / 货轮",
       "en": "Armed Transport / Freighter"
     },
-    "coordinates": [40.333, 18.750],
+    "coordinates": [
+      40.333,
+      18.75
+    ],
     "sinkingDate": "1940-11-12",
     "cause": {
       "zh": "在夜间毫无防备的情况下，遭到英国巡洋舰编队（猎户座号、悉尼号、阿贾克斯号）的雷达与探照灯锁定。在极近距离内被英军 6 英寸主炮的密集交叉火力撕碎，燃起冲天大火后沉没。",
@@ -320,7 +347,8 @@
       "en": "Battle of the Strait of Otranto"
     },
     "flagIconUrl": "https://flagcdn.com/w40/it.png",
-    "cover": null
+    "cover": null,
+    "battleId": "battle-of-the-strait-of-otranto"
   },
   {
     "id": "mv-capo-vado",
@@ -336,7 +364,10 @@
       "zh": "武装运输船 / 货轮",
       "en": "Armed Transport / Freighter"
     },
-    "coordinates": [40.350, 18.766],
+    "coordinates": [
+      40.35,
+      18.766
+    ],
     "sinkingDate": "1940-11-12",
     "cause": {
       "zh": "在英军发起突袭的最初几分钟内，遭到英国‘莫霍克号’与‘努比亚号’驱逐舰的猛烈火炮覆盖和鱼雷打击。船体迅速破裂并随船团其他目标一起沉没。",
@@ -355,7 +386,8 @@
       "en": "Battle of the Strait of Otranto"
     },
     "flagIconUrl": "https://flagcdn.com/w40/it.png",
-    "cover": null
+    "cover": null,
+    "battleId": "battle-of-the-strait-of-otranto"
   },
   {
     "id": "mv-premuda",
@@ -371,7 +403,10 @@
       "zh": "武装运输船 / 货轮",
       "en": "Armed Transport / Freighter"
     },
-    "coordinates": [40.316, 18.733],
+    "coordinates": [
+      40.316,
+      18.733
+    ],
     "sinkingDate": "1940-11-12",
     "cause": {
       "zh": "在编队遭遇毁灭性打击时试图借助夜色逃离，但由于航速过慢被英国巡洋舰编队追上。在探照灯的照射下，被无情地当做水面打靶练习的目标击沉。",
@@ -390,6 +425,7 @@
       "en": "Battle of the Strait of Otranto"
     },
     "flagIconUrl": "https://flagcdn.com/w40/it.png",
-    "cover": null
+    "cover": null,
+    "battleId": "battle-of-the-strait-of-otranto"
   }
 ]
