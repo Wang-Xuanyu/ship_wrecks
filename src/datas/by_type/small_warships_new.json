@@ -700,40 +700,5 @@
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/USS_Oglala_%28ARG-1%29_in_the_Pacific_c1944.jpg/1920px-USS_Oglala_%28ARG-1%29_in_the_Pacific_c1944.jpg",
     "battleId": "attack-on-pearl-harbor"
-  },
-  {
-    "id": "pb-37",
-    "name": {
-      "zh": "第37号哨戒艇",
-      "en": "Patrol Boat No. 37"
-    },
-    "faction": {
-      "zh": "日本",
-      "en": "Japan"
-    },
-    "type": {
-      "zh": "哨戒艇 (原驱逐舰)",
-      "en": "Patrol Boat (ex-Destroyer)"
-    },
-    "coordinates": [-1.270, 116.860],
-    "sinkingDate": "1942-01-24",
-    "cause": {
-      "zh": "作为船团中为数不多的护航火力，在试图拦截美军时，被‘约翰·D·福特号’（USS John D. Ford）等驱逐舰的鱼雷及密集炮火击中，严重受损并沉没。",
-      "en": "As one of the few escort vessels with firepower in the convoy, she was hit by torpedoes and concentrated gunfire from destroyers like USS John D. Ford while attempting to intercept the Americans. Severely damaged, she sank."
-    },
-    "depth": {
-      "zh": "未知 (巴厘巴板近海)",
-      "en": "Unknown (Off the coast of Balikpapan)"
-    },
-    "historyNotes": {
-      "zh": "这艘哨戒艇原本是日本海军的一艘旧式驱逐舰（二等驱逐舰樗号/菱号改装）。它在混乱中成为唯一一艘试图向美军还击的日军舰艇，但很快就在美军的集火下化为废铁。",
-      "en": "This patrol boat was originally an obsolete Japanese destroyer (converted from the second-class destroyer Hishi). Amid the chaos, she was the only Japanese vessel that attempted to return fire against the US forces, but was quickly reduced to scrap iron under concentrated American fire."
-    },
-    "battle": {
-      "zh": "巴厘巴板海战",
-      "en": "Battle of Balikpapan"
-    },
-    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
-    "cover": null
   }
 ]

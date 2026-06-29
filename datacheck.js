@@ -1,9 +1,9 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 
-const dataFiles = (await readdir('src/datas'))
-  .filter((file) => /^data\d+_new\.json$/.test(file))
-  .sort((a, b) => Number(a.match(/\d+/)[0]) - Number(b.match(/\d+/)[0]))
-  .map((file) => `src/datas/${file}`);
+const dataFiles = (await readdir('src/datas/by_type'))
+  .filter((file) => file.endsWith('_new.json'))
+  .sort()
+  .map((file) => `src/datas/by_type/${file}`);
 
 const slugify = (value) =>
   value

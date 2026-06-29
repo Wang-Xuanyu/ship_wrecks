@@ -1,23 +1,18 @@
-import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
+import { readdir, readFile, writeFile } from 'node:fs/promises';
 
-const outputDir = 'src/datas/by_type';
+const sourceDir = 'src/datas/by_type';
 
-const typeFiles = {
-  carrier: 'carriers_new.json',
-  battleship: 'battleships_new.json',
-  cruiser: 'cruisers_new.json',
-  destroyer: 'destroyers_new.json',
-  submarine: 'submarines_new.json',
-  merchant: 'merchant_transport_new.json',
-  small: 'small_warships_new.json',
-  support: 'support_ships_new.json',
-  other: 'other_ships_new.json'
-};
-
-const dataFiles = (await readdir('src/datas'))
-  .filter((file) => /^data\d+_new\.json$/.test(file))
-  .sort((a, b) => Number(a.match(/\d+/)[0]) - Number(b.match(/\d+/)[0]))
-  .map((file) => `src/datas/${file}`);
+const typeFiles = [
+  'battleships_new.json',
+  'carriers_new.json',
+  'cruisers_new.json',
+  'destroyers_new.json',
+  'merchant_transport_new.json',
+  'other_ships_new.json',
+  'small_warships_new.json',
+  'submarines_new.json',
+  'support_ships_new.json'
+];
 
 const getText = (value, lang = 'en') => {
   if (!value) return '';
@@ -27,52 +22,45 @@ const getText = (value, lang = 'en') => {
   return value;
 };
 
-const getShipTypeCategory = (type) => {
-  const normalizedType = getText(type, 'en').toLowerCase();
+const slugify = (value) =>
+  value
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/&/g, ' and ')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
 
-  if (/memorial|info marker/.test(normalizedType)) return 'other';
-  if (/tender|fleet oiler|oiler|supply|provision|hospital|dry dock|rescue/.test(normalizedType)) return 'support';
-  if (/freighter|merchant|transport|troopship|liner|cargo|liberty|tanker|hell ship|passenger/.test(normalizedType)) return 'merchant';
-  if (/\bsubmarine\b|u-boat/.test(normalizedType)) return 'submarine';
-  if (/battleship|battlecruiser|panzerschiff/.test(normalizedType)) return 'battleship';
-  if (/carrier/.test(normalizedType)) return 'carrier';
-  if (/destroyer|escort ship|kaibōkan/.test(normalizedType)) return 'destroyer';
-  if (/cruiser/.test(normalizedType)) return 'cruiser';
-  if (/minesweeper|minelayer|gunboat|corvette|frigate|sloop|pt boat|patrol|aviso/.test(normalizedType)) return 'small';
-  if (/auxiliary/.test(normalizedType)) return 'support';
+const existingFiles = new Set(await readdir(sourceDir));
+const missingFiles = typeFiles.filter((file) => !existingFiles.has(file));
 
-  return 'other';
-};
+if (missingFiles.length > 0) {
+  throw new Error(`Missing by_type files: ${missingFiles.join(', ')}`);
+}
 
-const shipsById = new Map();
+const seenIds = new Map();
+let totalShips = 0;
 
-for (const file of dataFiles) {
-  const ships = JSON.parse(await readFile(file, 'utf8'));
+for (const file of typeFiles) {
+  const path = `${sourceDir}/${file}`;
+  const ships = JSON.parse(await readFile(path, 'utf8'));
+  const normalizedShips = ships.map((ship) => ({
+    ...ship,
+    battleId: ship.battleId || slugify(getText(ship.battle))
+  }));
 
-  ships.forEach((ship) => {
-    if (!shipsById.has(ship.id)) {
-      shipsById.set(ship.id, ship);
+  normalizedShips.sort((a, b) => getText(a.name).localeCompare(getText(b.name)));
+  await writeFile(path, `${JSON.stringify(normalizedShips, null, 2)}\n`);
+
+  normalizedShips.forEach((ship) => {
+    if (seenIds.has(ship.id)) {
+      throw new Error(`Duplicate ship id "${ship.id}" in ${file} and ${seenIds.get(ship.id)}`);
     }
+    seenIds.set(ship.id, file);
   });
+
+  totalShips += normalizedShips.length;
+  console.log(`${file}: ${normalizedShips.length}`);
 }
 
-const shipsByType = Object.fromEntries(
-  Object.keys(typeFiles).map((category) => [category, []])
-);
-
-Array.from(shipsById.values()).forEach((ship) => {
-  shipsByType[getShipTypeCategory(ship.type)].push(ship);
-});
-
-await mkdir(outputDir, { recursive: true });
-
-for (const [category, ships] of Object.entries(shipsByType)) {
-  ships.sort((a, b) => getText(a.name).localeCompare(getText(b.name)));
-  await writeFile(`${outputDir}/${typeFiles[category]}`, `${JSON.stringify(ships, null, 2)}\n`);
-}
-
-console.log(`Organized ${shipsById.size} unique ships into ${Object.keys(typeFiles).length} type files.`);
-
-Object.entries(shipsByType).forEach(([category, ships]) => {
-  console.log(`${category}: ${ships.length}`);
-});
+console.log(`Checked ${totalShips} ships across ${typeFiles.length} by_type files.`);

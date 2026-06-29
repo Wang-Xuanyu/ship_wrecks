@@ -92,7 +92,7 @@
   {
     "id": "battle-of-blackett-strait",
     "name": {
-      "zh": "布莱克特海峡冲突",
+      "zh": "布莱克特海峡海战",
       "en": "Battle of Blackett Strait"
     },
     "commanders": [],
@@ -105,18 +105,18 @@
       "en": "Battle of Cape Esperance"
     },
     "commanders": [
-       {
-          "name": "Norman Scott",
-          "side": "United States",
-          "role": "Task Group commander",
-          "cover": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rear-Admiral-Norman-Scott-i02454.jpg"
-        },
-        {
-          "name": "Aritomo Gotō",
-          "side": "Japan",
-          "role": "Reinforcement group commander",
-          "cover": "https://upload.wikimedia.org/wikipedia/commons/3/36/Goto_Aritomo.jpg"
-        }
+      {
+        "name": "Norman Scott",
+        "side": "United States",
+        "role": "Task Group commander",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rear-Admiral-Norman-Scott-i02454.jpg"
+      },
+      {
+        "name": "Aritomo Gotō",
+        "side": "Japan",
+        "role": "Reinforcement group commander",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/3/36/Goto_Aritomo.jpg"
+      }
     ],
     "pics": []
   },
@@ -128,17 +128,17 @@
     },
     "commanders": [
       {
-          "name": "Andrew Cunningham",
-          "side": "United Kingdom",
-          "role": "Task Group commander",
-          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Andrew_Cunningham_1947.jpg/1280px-Andrew_Cunningham_1947.jpg"
-        },
-        {
-          "name": "Angelo Iachino",
-          "side": "Italy",
-          "role": "Reinforcement group commander",
-          "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Angelo_Iachino.jpg"
-        }
+        "name": "Andrew Cunningham",
+        "side": "United Kingdom",
+        "role": "Task Group commander",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Andrew_Cunningham_1947.jpg/1280px-Andrew_Cunningham_1947.jpg"
+      },
+      {
+        "name": "Angelo Iachino",
+        "side": "Italy",
+        "role": "Reinforcement group commander",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Angelo_Iachino.jpg"
+      }
     ],
     "pics": []
   },
@@ -470,15 +470,6 @@
     "name": {
       "zh": "大西洋海战 (护航战)",
       "en": "Battle of the Atlantic (Convoy Escort)"
-    },
-    "commanders": [],
-    "pics": []
-  },
-  {
-    "id": "battle-of-the-atlantic-convoy-hx-84",
-    "name": {
-      "zh": "大西洋护航战 (HX-84 船团)",
-      "en": "Battle of the Atlantic (Convoy HX-84)"
     },
     "commanders": [],
     "pics": []
