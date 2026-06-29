@@ -1,0 +1,2290 @@
+[
+  {
+    "id": "mv-awa-maru",
+    "name": {
+      "zh": "阿波丸号",
+      "en": "Awa Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "远洋客货轮 (红十字救援船)",
+      "en": "Ocean Liner / Passenger-Cargo Ship (Red Cross Relief Ship)"
+    },
+    "coordinates": [
+      25.416,
+      119.933
+    ],
+    "sinkingDate": "1945-04-01",
+    "cause": {
+      "zh": "在台湾海峡牛山岛海域航行时，尽管拥有美国政府颁发的‘安全航行保证’并开启了十字照明，仍遭到美军潜艇‘皇后鱼号’ (USS Queenfish) 的误击。在浓雾中被 4 枚鱼雷命中，仅 3 分钟便沉入海底。",
+      "en": "While navigating near Niushan Island in the Taiwan Strait, despite possessing a 'safe conduct' guarantee issued by the U.S. government and being illuminated with Red Cross markings, she was mistakenly attacked by the U.S. submarine USS Queenfish. Struck by 4 torpedoes in dense fog, she sank to the bottom of the sea in just 3 minutes."
+    },
+    "depth": {
+      "zh": "约 60 米",
+      "en": "Approx. 60 meters"
+    },
+    "historyNotes": {
+      "zh": "被称为‘东方的泰坦尼克号’。船上挤满了超 2000 名从东南亚撤退的日本军官、技术人员和家属，最终仅有 1 人获救。坊间一直盛传船底装载了日军掠夺的数十吨黄金、铂金甚至‘北京人’头盖骨化石，中国曾在 1977 年耗费巨资进行打捞，但并未发现传说中的宝藏。",
+      "en": "Known as the 'Titanic of the East'. The ship was packed with over 2,000 retreating Japanese military officers, technicians, and their families from Southeast Asia; ultimately, only 1 person was rescued. Rumors have long persisted that her hull contained tens of tons of looted gold, platinum, and even the fossilized skull of the 'Peking Man'. China spent a massive fortune in 1977 attempting to salvage her, but the legendary treasure was never found."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (阿波丸事件)",
+      "en": "Pacific Submarine Warfare (Awa Maru Incident)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/ee/Awa_Maru_11249gt.JPG",
+    "battleId": "pacific-submarine-warfare-awa-maru-incident"
+  },
+  {
+    "id": "ak-fujikawa-maru",
+    "name": {
+      "zh": "富士川丸",
+      "en": "Fujikawa Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "特设航空机搬运舰",
+      "en": "Aircraft Transport (Converted)"
+    },
+    "coordinates": [
+      7.352,
+      151.89
+    ],
+    "sinkingDate": "1944-02-18",
+    "cause": {
+      "zh": "在特鲁克潟湖内被美军鱼雷机击中舰良部后沉没。",
+      "en": "Sunk in Truk Lagoon after being struck amidships by a torpedo from a U.S. torpedo bomber."
+    },
+    "depth": {
+      "zh": "约 34 米",
+      "en": "Approx. 34 meters"
+    },
+    "historyNotes": {
+      "zh": "特鲁克潟湖最具代表性的沉船。它的前部 2 号货舱里至今还整齐地码放着大量未拆箱的零式战斗机机身、机翼和航空机枪残骸。",
+      "en": "The most iconic wreck in Truk Lagoon. Her forward No. 2 cargo hold still contains rows of unassembled Zero fighter fuselages, wings, and aircraft machine gun remains."
+    },
+    "battle": {
+      "zh": "冰雹行动 (特鲁克空袭)",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fujikawa_maru.jpg/1920px-Fujikawa_maru.jpg",
+    "battleId": "operation-hailstone"
+  },
+  {
+    "id": "amc-jervis-bay",
+    "name": {
+      "zh": "杰维斯湾号武装商船巡洋舰",
+      "en": "HMS Jervis Bay"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装商船巡洋舰 (AMC)",
+      "en": "Armed Merchant Cruiser (AMC)"
+    },
+    "coordinates": [
+      52.833,
+      -32.25
+    ],
+    "sinkingDate": "1940-11-05",
+    "cause": {
+      "zh": "在护航 HX 84 船队时遭遇德国袖珍战列舰“舍尔海军上将号”。为了掩护船队逃跑，单舰脱离编队向德舰发起冲锋并被击沉。",
+      "en": "Encountered the German pocket battleship Admiral Scheer while escorting Convoy HX 84. To cover the convoy's escape, she broke formation to charge the German ship and was sunk."
+    },
+    "depth": {
+      "zh": "未知 (中大西洋深水区)",
+      "en": "Unknown (Deep waters of the Mid-Atlantic)"
+    },
+    "historyNotes": {
+      "zh": "舰长爱德华·费根因此次英勇的自我牺牲被追授维多利亚十字勋章。它的死亡冲锋为船队争取了宝贵的时间，最终 37 艘商船中有 32 艘成功在夜色中逃脱。",
+      "en": "Captain Edward Fegen was posthumously awarded the Victoria Cross for this heroic act of self-sacrifice. Her suicidal charge bought precious time, allowing 32 out of 37 merchant ships to escape under the cover of darkness."
+    },
+    "battle": {
+      "zh": "大西洋海战 (护航防卫战)",
+      "en": "Battle of the Atlantic (Convoy Defense)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/JervisBayatDakar1940.jpg/960px-JervisBayatDakar1940.jpg",
+    "battleId": "battle-of-the-atlantic-convoy-defense"
+  },
+  {
+    "id": "amc-rawalpindi",
+    "name": {
+      "zh": "拉瓦尔品第号武装商船巡洋舰",
+      "en": "HMS Rawalpindi"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装商船巡洋舰 (AMC)",
+      "en": "Armed Merchant Cruiser (AMC)"
+    },
+    "coordinates": [
+      63.666,
+      -11.483
+    ],
+    "sinkingDate": "1939-11-23",
+    "cause": {
+      "zh": "在法罗群岛和冰岛之间的海峡巡逻时，遭遇德国战列巡洋舰“沙恩霍斯特号”和“格奈森瑙号”。在拒绝投降后被德舰 280 毫米主炮轰成碎片。",
+      "en": "While patrolling the passage between the Faroe Islands and Iceland, she encountered the German battlecruisers Scharnhorst and Gneisenau. After refusing to surrender, she was blown to pieces by 280mm main battery fire."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "由邮轮改装而成。面对绝对碾压的火力，舰长肯尼迪下令拉起烟幕并开火还击，进行了一场悲壮的自杀式抵抗，向德国人展示了皇家海军死战不降的决心。",
+      "en": "Converted from a passenger liner. Facing overwhelming firepower, Captain Kennedy ordered smoke screens and returned fire in a heroic suicidal resistance, demonstrating to the Germans the Royal Navy's resolve to fight to the death."
+    },
+    "battle": {
+      "zh": "大西洋海战 (北方巡逻线)",
+      "en": "Battle of the Atlantic (Northern Patrol)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null,
+    "battleId": "battle-of-the-atlantic-northern-patrol"
+  },
+  {
+    "id": "mv-junyo-maru",
+    "name": {
+      "zh": "顺阳丸",
+      "en": "Junyō Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "货轮 / 地狱船",
+      "en": "Freighter / Hell Ship"
+    },
+    "coordinates": [
+      -2.883,
+      101.183
+    ],
+    "sinkingDate": "1944-09-18",
+    "cause": {
+      "zh": "在苏门答腊岛西海岸航行时，遭到英国潜艇‘信风号’ (HMS Tradewind) 发射的两枚鱼雷命中，约 20 分钟后沉没。",
+      "en": "While sailing along the west coast of Sumatra, she was struck by two torpedoes from the British submarine HMS Tradewind and sank about 20 minutes later."
+    },
+    "depth": {
+      "zh": "未知 (苏门答腊西海岸)",
+      "en": "Unknown (West coast of Sumatra)"
+    },
+    "historyNotes": {
+      "zh": "死亡人数极其恐怖的地狱船。这艘极其老旧的货轮上被日军强行塞进了约 4200 名爪哇劳工和 2300 名盟军战俘（荷、英、美、澳）。鱼雷爆炸和随后的沉没导致约 5620 人丧生，是当时世界上死亡人数最高的海难之一。",
+      "en": "A hell ship with an utterly horrifying death toll. Into this extremely decrepit freighter, the Japanese forcefully crammed approximately 4,200 Javanese laborers and 2,300 Allied POWs (Dutch, British, American, and Australian). The torpedo explosions and subsequent sinking resulted in the loss of about 5,620 lives, making it one of the deadliest maritime disasters in the world at the time."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (地狱船事件)",
+      "en": "Pacific Submarine Warfare (Hell Ship Incident)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Junyo_Maru.jpg",
+    "battleId": "pacific-submarine-warfare-hell-ship-incident"
+  },
+  {
+    "id": "mv-lisbon-maru",
+    "name": {
+      "zh": "里斯本丸",
+      "en": "Lisbon Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装客货轮 / 地狱船",
+      "en": "Armed Passenger-Cargo Ship / Hell Ship"
+    },
+    "coordinates": [
+      30.227,
+      122.755
+    ],
+    "sinkingDate": "1942-10-01",
+    "cause": {
+      "zh": "在中国舟山东极岛海域，被美军潜艇‘鲈鱼号’ (USS Grouper) 发射的鱼雷击中。日军在撤离本国士兵后，将关押着 1800 多名英国战俘的底舱用木板和帆布死死钉死。船只在挣扎了一天多后沉没。",
+      "en": "Struck by a torpedo from the U.S. submarine USS Grouper in the waters off Dongji Island, Zhoushan, China. After evacuating their own soldiers, the Japanese sealed the holds containing over 1,800 British POWs with wooden planks and canvas. The ship struggled for over a day before sinking."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "二战中最令人窒息的战俘惨剧之一，但也是闪耀着人性光辉的历史事件。当英军战俘在船只沉没前绝望破舱跳海、却遭到日军机枪扫射时，中国舟山渔民冒着生命危险划着小木船冲入海中，奇迹般地救出了 384 名英国战俘。这段历史近年被拍成了高分纪录片《里斯本丸沉没》。",
+      "en": "One of the most suffocating POW tragedies of WWII, yet also a historical event shining with the brilliance of humanity. When the desperate British POWs broke out of the holds and jumped into the sea before the ship sank, only to be met with Japanese machine-gun fire, Chinese fishermen from Zhoushan risked their lives to row out in small wooden boats, miraculously rescuing 384 British POWs. This history was recently made into the highly acclaimed documentary 'The Sinking of the Lisbon Maru'."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (地狱船事件)",
+      "en": "Pacific Submarine Warfare (Hell Ship Incident)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lisbon-maru.jpg",
+    "battleId": "pacific-submarine-warfare-hell-ship-incident"
+  },
+  {
+    "id": "mv-montevideo-maru",
+    "name": {
+      "zh": "蒙得维的亚丸",
+      "en": "Montevideo Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "客货轮 / 地狱船",
+      "en": "Passenger-Cargo Ship / Hell Ship"
+    },
+    "coordinates": [
+      18.616,
+      119.233
+    ],
+    "sinkingDate": "1942-07-01",
+    "cause": {
+      "zh": "在吕宋海峡航行时，遭到美军潜艇‘鲟鱼号’ (USS Sturgeon) 追踪并被 4 枚鱼雷命中。船体迅速进水，在短短 11 分钟内沉没。",
+      "en": "While navigating the Luzon Strait, she was tracked by the U.S. submarine USS Sturgeon and hit by 4 torpedoes. The hull rapidly took on water, and she sank in a mere 11 minutes."
+    },
+    "depth": {
+      "zh": "约 4000 米",
+      "en": "Approx. 4000 meters"
+    },
+    "historyNotes": {
+      "zh": "澳大利亚历史上最严重的海难！船上秘密关押着 1054 名从拉包尔俘虏的澳大利亚战俘和平民。美军潜艇完全不知道船上的情况。超过一千名澳大利亚人被锁在底舱随船沉入深海。2023 年 4 月，探险队在吕宋海峡 4000 米深的深渊中终于找到了它的残骸。",
+      "en": "The worst maritime disaster in Australian history! The ship was secretly holding 1,054 Australian POWs and civilians captured from Rabaul. The U.S. submarine had absolutely no idea about the ship's human cargo. Over a thousand Australians were locked in the lower holds and went down with the ship into the deep sea. In April 2023, an expedition team finally discovered her wreck in the 4,000-meter-deep abyss of the Luzon Strait."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (地狱船事件)",
+      "en": "Pacific Submarine Warfare (Hell Ship Incident)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fe/MV_Montevideo_Maru.jpg",
+    "battleId": "pacific-submarine-warfare-hell-ship-incident"
+  },
+  {
+    "id": "mv-wilhelm-gustloff",
+    "name": {
+      "zh": "威廉·古斯特洛夫号",
+      "en": "MV Wilhelm Gustloff"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "武装客轮 / 难民运输船",
+      "en": "Armed Passenger Liner / Refugee Transport"
+    },
+    "coordinates": [
+      55.072,
+      17.421
+    ],
+    "sinkingDate": "1945-01-30",
+    "cause": {
+      "zh": "在执行‘汉尼拔行动’（撤离东普鲁士难民和军人）时，在波罗的海遭到苏联潜艇 S-13 发射的三枚鱼雷命中，在冰冷的海水中仅 40 分钟便沉没。",
+      "en": "While executing Operation Hannibal (the evacuation of East Prussian refugees and military personnel), she was hit by three torpedoes fired by the Soviet submarine S-13 in the Baltic Sea, sinking in the freezing water in just 40 minutes."
+    },
+    "depth": {
+      "zh": "约 44 米",
+      "en": "Approx. 44 meters"
+    },
+    "historyNotes": {
+      "zh": "人类航海史上最惨烈的单船海难。船上挤满了逃避苏联红军的德国平民、伤兵和潜艇训练兵。据估计，超过 9000 人在极寒的冰水和混乱中丧生。其残骸现被波兰政府指定为战争公墓，严禁潜水。",
+      "en": "The deadliest single-ship maritime disaster in human history. The ship was heavily overcrowded with German civilians, wounded soldiers, and submarine trainees fleeing the advancing Soviet Red Army. It is estimated that over 9,000 people perished in the freezing waters and chaos. Her wreck is now designated as a war grave by the Polish government, and diving is strictly prohibited."
+    },
+    "battle": {
+      "zh": "汉尼拔行动 (波罗的海撤退)",
+      "en": "Operation Hannibal (Baltic Evacuation)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bundesarchiv_Bild_183-H27992%2C_Lazarettschiff_%22Wilhelm_Gustloff%22_in_Danzig.jpg",
+    "battleId": "operation-hannibal-baltic-evacuation"
+  },
+  {
+    "id": "ak-nippo-maru",
+    "name": {
+      "zh": "日丰丸",
+      "en": "Nippo Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "给水/运输船",
+      "en": "Water/Transport Ship"
+    },
+    "coordinates": [
+      7.375,
+      151.848
+    ],
+    "sinkingDate": "1944-02-18",
+    "cause": {
+      "zh": "遭到美军 TBF 复仇者鱼雷机轰炸，舰尾受损进水沉没。",
+      "en": "Bombed by U.S. TBF Avenger torpedo planes. She sustained damage to her stern, took on water, and sank."
+    },
+    "depth": {
+      "zh": "约 46 米",
+      "en": "Approx. 46 meters"
+    },
+    "historyNotes": {
+      "zh": "船上满载了水、反坦克炮以及防毒面具。最引人注目的是其左舷甲板上完好地固定着一辆日本九五式小型乘用车（类似吉普车）。",
+      "en": "The ship was fully loaded with water, anti-tank guns, and gas masks. The most striking feature is a perfectly secured Japanese Type 95 small passenger car (similar to a Jeep) resting intact on her port deck."
+    },
+    "battle": {
+      "zh": "冰雹行动 (特鲁克空袭)",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null,
+    "battleId": "operation-hailstone"
+  },
+  {
+    "id": "rfa-aldersdale",
+    "name": {
+      "zh": "奥尔德斯代尔号",
+      "en": "RFA Aldersdale"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "皇家辅助舰队 / 油轮",
+      "en": "Royal Fleet Auxiliary / Tanker"
+    },
+    "coordinates": [
+      75,
+      43
+    ],
+    "sinkingDate": "1942-07-07",
+    "cause": {
+      "zh": "先遭到德军轰炸机炸毁动力，漂流两天后被 U-457 潜艇发射鱼雷击沉。",
+      "en": "First paralyzed by German bombers, she drifted for two days before being sunk by a torpedo from the submarine U-457."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "舰队的核心油轮。它的瘫痪意味着护航舰队彻底丧失了持续作战的续航能力，所搭载的海量航空燃油随之倾泻进冰海。",
+      "en": "The core tanker of the fleet. Her paralysis meant the escort fleet completely lost its endurance for sustained operations, and the massive amount of aviation fuel she carried spilled into the icy sea."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/32/RFA_Aldersdale.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "rms-laconia",
+    "name": {
+      "zh": "拉科尼亚号邮轮",
+      "en": "RMS Laconia"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装运兵船",
+      "en": "Armed Troopship"
+    },
+    "coordinates": [
+      -4.566,
+      -11.416
+    ],
+    "sinkingDate": "1942-09-12",
+    "cause": {
+      "zh": "在南大西洋被德国潜艇 U-156 击沉。",
+      "en": "Sunk by the German submarine U-156 in the South Atlantic."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "船上载有大量平民和意大利战俘。U-156 艇长在发现水中有大量平民后立刻展开救援，并用明码呼叫盟军协助。然而，一架美军 B-24 轰炸机赶到后，却对挂着红十字旗正在救人的潜艇投弹。这一事件直接导致德国海军司令邓尼茨下达了冷血的‘拉科尼亚命令’，绝对禁止 U 潜艇在此后救助任何沉船幸存者。",
+      "en": "Carrying numerous civilians and Italian POWs. Upon discovering the civilians in the water, the commander of U-156 immediately began rescue operations and radioed for Allied assistance in the clear. However, a U.S. B-24 bomber attacked the submarine despite it flying a Red Cross flag and engaging in rescue. This incident led Admiral Dönitz to issue the cold-blooded 'Laconia Order,' strictly forbidding U-boats from rescuing any shipwreck survivors thereafter."
+    },
+    "battle": {
+      "zh": "拉科尼亚事件",
+      "en": "The Laconia Incident"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/00/RMS_Laconia_%28cropped%29.jpg",
+    "battleId": "the-laconia-incident"
+  },
+  {
+    "id": "ak-san-francisco-maru",
+    "name": {
+      "zh": "旧金山丸",
+      "en": "San Francisco Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport Ship"
+    },
+    "coordinates": [
+      7.362,
+      151.895
+    ],
+    "sinkingDate": "1944-02-18",
+    "cause": {
+      "zh": "被美军俯冲轰炸机投下的 500 磅炸弹击中引爆，燃起大火后沉没。",
+      "en": "Struck by 500-pound bombs dropped by U.S. dive bombers. The explosions ignited massive fires, causing her to sink."
+    },
+    "depth": {
+      "zh": "约 63 米",
+      "en": "Approx. 63 meters"
+    },
+    "historyNotes": {
+      "zh": "在潜水界被称为‘百万美元沉船’。由于深度较大，未受台风破坏。它的主甲板上至今停放着三辆极其罕见的日本 95 式轻型坦克，货舱里装满了卡车、航空炸弹和水雷。",
+      "en": "Known in the diving community as 'The Million Dollar Wreck'. Due to her depth, she remains undamaged by typhoons. Three extremely rare Japanese Type 95 Ha-Go light tanks still rest on her main deck today, while her cargo holds are packed with trucks, aerial bombs, and mines."
+    },
+    "battle": {
+      "zh": "冰雹行动 (特鲁克空袭)",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null,
+    "battleId": "operation-hailstone"
+  },
+  {
+    "id": "transport-iosif-stalin",
+    "name": {
+      "zh": "约瑟夫·斯大林号客/运输船",
+      "en": "Soviet Transport Iosif Stalin (VT-501)"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport Ship"
+    },
+    "coordinates": [
+      59.95,
+      25.15
+    ],
+    "sinkingDate": "1941-12-03",
+    "cause": {
+      "zh": "在执行汉科半岛（Hanko）撤退任务时，连续触发三枚至四枚水雷失去动力，随后遭到芬兰海岸炮轰击，最终漂流搁浅并被俘获，战后被拆解。",
+      "en": "While executing the evacuation of the Hanko Peninsula, she hit three to four mines consecutively and lost power. She was subsequently shelled by Finnish coastal artillery, eventually drifting aground and being captured. Scrapped post-war."
+    },
+    "depth": {
+      "zh": "浅水搁浅",
+      "en": "Drifted aground in shallow water"
+    },
+    "historyNotes": {
+      "zh": "当时苏联最豪华的客轮之一。船上挤满了超过 5000 名撤退的苏军官兵。触雷导致了极其惨重的伤亡（约 4000 人丧生），被芬兰军队俘获的幸存者大部分在战俘营中死去。这是波罗的海最悲惨的海难之一。",
+      "en": "One of the most luxurious Soviet passenger liners of the time. The ship was packed with over 5,000 retreating Soviet troops. Striking the mines caused catastrophic casualties (around 4,000 deaths), and most of the survivors captured by Finnish forces died in POW camps. This remains one of the most tragic maritime disasters in the Baltic Sea."
+    },
+    "battle": {
+      "zh": "汉科半岛撤退",
+      "en": "Evacuation of Hanko"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bundesarchiv_Bild_101II-MN-2787-30%2C_Baltikum%2C_gesunkenes_russisches_Schiff.jpg",
+    "battleId": "evacuation-of-hanko"
+  },
+  {
+    "id": "ss-alcoa-ranger",
+    "name": {
+      "zh": "阿尔科亚游骑兵号",
+      "en": "SS Alcoa Ranger"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [
+      71.6,
+      49.3
+    ],
+    "sinkingDate": "1942-07-07",
+    "cause": {
+      "zh": "在逃往新地岛途中，被德国 U-255 号潜艇拦截。潜艇浮出水面用甲板炮将其打残后，发射鱼雷将其击沉。",
+      "en": "While fleeing towards Novaya Zemlya, she was intercepted by the German submarine U-255. The U-boat surfaced and crippled her with its deck gun before sinking her with a torpedo."
+    },
+    "depth": {
+      "zh": "未知 (巴伦支海)",
+      "en": "Unknown (Barents Sea)"
+    },
+    "historyNotes": {
+      "zh": "美籍货轮。德国潜艇艇长在将其击沉前，甚至浮出水面给美国水手们指明了最近陆地的方向，这种残酷中的“骑士精神”在此时的冰海中显得极其荒诞。",
+      "en": "An American freighter. Before sinking her, the German U-boat commander actually surfaced and pointed the American sailors in the direction of the nearest land. This 'chivalry' amidst the cruelty seemed incredibly absurd in the icy seas at that moment."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/alcoa_ranger.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "mv-antonio-locatelli",
+    "name": {
+      "zh": "安东尼奥·洛卡特利号",
+      "en": "SS Antonio Locatelli"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "武装运输船 / 货轮",
+      "en": "Armed Transport / Freighter"
+    },
+    "coordinates": [
+      40.333,
+      18.75
+    ],
+    "sinkingDate": "1940-11-12",
+    "cause": {
+      "zh": "在夜间毫无防备的情况下，遭到英国巡洋舰编队（猎户座号、悉尼号、阿贾克斯号）的雷达与探照灯锁定。在极近距离内被英军 6 英寸主炮的密集交叉火力撕碎，燃起冲天大火后沉没。",
+      "en": "Caught completely off guard at night, she was locked onto by the radar and searchlights of a British cruiser squadron (HMS Orion, HMAS Sydney, HMS Ajax). Torn apart at point-blank range by the concentrated crossfire of British 6-inch main guns, she caught fire and sank."
+    },
+    "depth": {
+      "zh": "未知 (亚得里亚海深水区)",
+      "en": "Unknown (Deep waters of the Adriatic Sea)"
+    },
+    "historyNotes": {
+      "zh": "意大利增援阿尔巴尼亚前线（希意战争）四艘满载后勤物资的运输船之一。由于护航兵力极度薄弱（仅一艘老式鱼雷艇和一艘辅助巡洋舰），在面对英国正规水面舰队的夜间突袭时毫无还手之力。",
+      "en": "One of four fully loaded transport ships reinforcing the Italian frontline in Albania (Greco-Italian War). Due to extremely weak escort forces (only one obsolete torpedo boat and an auxiliary cruiser), she was completely defenseless against the night raid by a regular British surface fleet."
+    },
+    "battle": {
+      "zh": "奥特朗托海峡战役",
+      "en": "Battle of the Strait of Otranto"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": null,
+    "battleId": "battle-of-the-strait-of-otranto"
+  },
+  {
+    "id": "ss-bolton-castle",
+    "name": {
+      "zh": "博尔顿城堡号",
+      "en": "SS Bolton Castle"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [
+      76.3,
+      38
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "船团解散次日，遭到德国空军 Ju 88 轰炸机群的集中轰炸。炸弹引爆了舱内的烈性炸药，船体迅速下沉。",
+      "en": "The day after the convoy scattered, she was subjected to concentrated bombing by a swarm of Luftwaffe Ju 88 bombers. The bombs detonated high explosives in her hold, causing the ship to sink rapidly."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "满载着送往苏联的卡车、坦克和弹药。它在与其他两艘船结伴逃亡时被盯上，三艘船在极短时间内被同时炸沉。",
+      "en": "Fully loaded with trucks, tanks, and ammunition destined for the Soviet Union. She was targeted while fleeing alongside two other ships, and all three were bombed and sunk within a very short timeframe."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://www.wrecksite.eu/img/wrecks/thumbs/bolton_castle_boltan.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "mv-cap-arcona",
+    "name": {
+      "zh": "卡普·阿尔科纳号",
+      "en": "SS Cap Arcona"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "远洋客轮 / 监狱船",
+      "en": "Ocean Liner / Prison Ship"
+    },
+    "coordinates": [
+      54.028,
+      10.85
+    ],
+    "sinkingDate": "1945-05-03",
+    "cause": {
+      "zh": "在德国投降前 4 天，停泊在吕贝克湾（Bay of Lübeck）时，遭到英国皇家空军霍克‘台风’式战斗轰炸机的猛烈扫射与火箭弹袭击。船体燃起大火并倾覆，大量人员在冰冷的海水中溺亡或被飞机机枪扫射致死。",
+      "en": "Anchored in the Bay of Lübeck just 4 days before Germany's surrender, she was subjected to fierce strafing and rocket attacks by British Royal Air Force Hawker Typhoon fighter-bombers. The ship caught fire and capsized, with a massive number of people drowning in the freezing water or being killed by aircraft machine gun fire."
+    },
+    "depth": {
+      "zh": "浅水海湾 (战后拆解)",
+      "en": "Shallow bay waters (Scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "二战后期最黑暗的惨剧之一，且是一场极其悲惨的误击。当时这艘船上关押着约 5000 名刚从集中营转移出来的囚犯（主要是犹太人和政治犯）。RAF 飞行员误以为船上是企图逃往挪威的党卫军高官。袭击导致约 5000 人丧生，与古斯特洛夫号海难齐名。",
+      "en": "One of the darkest tragedies of late WWII, and an exceptionally tragic misidentification incident. At the time, the ship was holding about 5,000 prisoners (mostly Jewish and political prisoners) recently transferred from concentration camps. RAF pilots mistakenly believed the ship was carrying high-ranking SS officials attempting to escape to Norway. The attack resulted in approximately 5,000 deaths, making it as infamous as the Wilhelm Gustloff disaster."
+    },
+    "battle": {
+      "zh": "波罗的海海难 (二战末期误击)",
+      "en": "Baltic Sea Disasters (Late War Misidentification)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cap_Arcona_1.JPG",
+    "battleId": "baltic-sea-disasters-late-war-misidentification"
+  },
+  {
+    "id": "mv-capo-vado",
+    "name": {
+      "zh": "瓦多角号",
+      "en": "SS Capo Vado"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "武装运输船 / 货轮",
+      "en": "Armed Transport / Freighter"
+    },
+    "coordinates": [
+      40.35,
+      18.766
+    ],
+    "sinkingDate": "1940-11-12",
+    "cause": {
+      "zh": "在英军发起突袭的最初几分钟内，遭到英国‘莫霍克号’与‘努比亚号’驱逐舰的猛烈火炮覆盖和鱼雷打击。船体迅速破裂并随船团其他目标一起沉没。",
+      "en": "Within the first few minutes of the British surprise attack, she was subjected to intense artillery fire and torpedo strikes from the British destroyers HMS Mohawk and HMS Nubian. The hull ruptured quickly, and she sank alongside the rest of the convoy."
+    },
+    "depth": {
+      "zh": "未知 (亚得里亚海深水区)",
+      "en": "Unknown (Deep waters of the Adriatic Sea)"
+    },
+    "historyNotes": {
+      "zh": "瓦多角号的毁灭代表了意大利皇家海军在二战初期夜战能力和护航体系的灾难性缺陷。英军在摧毁整个船团的过程中自身毫发无损，甚至没有一艘英舰遭到实质性的炮火还击。",
+      "en": "The destruction of Capo Vado represented the catastrophic flaws in the Italian Royal Navy's night-fighting capabilities and convoy escort system early in WWII. The British suffered zero casualties while destroying the entire convoy, with not a single British ship taking any substantial return fire."
+    },
+    "battle": {
+      "zh": "奥特朗托海峡战役",
+      "en": "Battle of the Strait of Otranto"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": null,
+    "battleId": "battle-of-the-strait-of-otranto"
+  },
+  {
+    "id": "ss-carlton",
+    "name": {
+      "zh": "卡尔顿号",
+      "en": "SS Carlton"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [
+      73.8,
+      37.6
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到德国 U-88 潜艇发射的鱼雷命中，船体破裂并在几分钟内沉没。",
+      "en": "Struck by a torpedo from the German submarine U-88. Her hull ruptured and she sank within minutes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这艘美国货轮的船长和船员在冰冻的救生艇上漂流了数日才被德军水上飞机俘虏，随后被送往战俘营。",
+      "en": "The captain and crew of this American freighter drifted in freezing lifeboats for several days before being captured by a German seaplane and subsequently sent to a POW camp."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/carlton.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-christopher-newport",
+    "name": {
+      "zh": "克里斯托弗·纽波特号",
+      "en": "SS Christopher Newport"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [
+      71.283,
+      10.8
+    ],
+    "sinkingDate": "1942-07-04",
+    "cause": {
+      "zh": "遭德国空军鱼雷机击中失去动力，被船员弃船后，由 U-457 号潜艇用鱼雷补刀击沉。",
+      "en": "Hit by a Luftwaffe torpedo bomber and lost power. After being abandoned by her crew, she was finished off with a torpedo by the submarine U-457."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "PQ-17 船团解散前最早的牺牲品之一。作为一艘刚下水的新锐自由轮，还没抵达终点便化为废铁。",
+      "en": "One of the earliest casualties before Convoy PQ-17 scattered. As a newly launched Liberty ship, she was turned to scrap before ever reaching her destination."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/christopher_newport.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-daniel-morgan",
+    "name": {
+      "zh": "丹尼尔·摩根号",
+      "en": "SS Daniel Morgan"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [
+      75.1,
+      44
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到多架 Ju 88 连续俯冲轰炸，船体结构严重受损，随后被 U-88 潜艇发现并用鱼雷击沉。",
+      "en": "Subjected to continuous dive-bombing by multiple Ju 88s, severely damaging her hull structure. She was later discovered and sunk by a torpedo from the submarine U-88."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这艘自由轮的防空炮手极为英勇，在绝望中战斗至最后一刻，甚至击落了两架德国轰炸机，但依然无法挽回被击沉的命运。",
+      "en": "The anti-aircraft gunners of this Liberty ship were incredibly heroic, fighting to the bitter end in desperation. They even managed to shoot down two German bombers, but it was not enough to save the ship from its fate."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://i.pinimg.com/736x/66/63/64/666364fbbb6dd9d018bcff6f3833372f.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-earlston",
+    "name": {
+      "zh": "厄尔斯顿号",
+      "en": "SS Earlston"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [
+      74.9,
+      37.666
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "在逃亡中遭轰炸机重创，随后被 U-334 潜艇用鱼雷彻底击沉。",
+      "en": "Heavily damaged by bombers while fleeing, and subsequently finished off by a torpedo from the submarine U-334."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "典型的“天上炸完水下补刀”的受害者。舰长被德国潜艇捞起成为战俘。",
+      "en": "A typical victim of the 'bombed from above, finished from below' tactic. Her captain was picked up by the German U-boat as a prisoner of war."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-el-capitan",
+    "name": {
+      "zh": "埃尔卡皮坦号",
+      "en": "SS El Capitan"
+    },
+    "faction": {
+      "zh": "巴拿马",
+      "en": "Panama"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [
+      69.3,
+      67.5
+    ],
+    "sinkingDate": "1942-07-10",
+    "cause": {
+      "zh": "在距离苏联摩尔曼斯克极近的区域（几乎已经逃出生天）遭到空袭重创抛锚，数小时后被 U-251 潜艇击沉。",
+      "en": "In an area extremely close to Murmansk, Soviet Union (having almost escaped), she was heavily damaged by an air raid and broke down. Hours later, she was sunk by the submarine U-251."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "悬挂巴拿马国旗的货轮。它死在了一段让人最绝望的航程里——几乎已经看到了苏联的海岸线，却依然没能逃过狼群的追捕。",
+      "en": "A freighter flying the Panamanian flag. She met her end on the most despair-inducing leg of the journey—with the Soviet coastline almost in sight, she still couldn't escape the pursuing wolfpacks."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/pa.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3c/SS_El_Capitan_%281917%29.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-empire-byron",
+    "name": {
+      "zh": "帝国拜伦号",
+      "en": "SS Empire Byron"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [
+      76.3,
+      33.5
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "被 U-703 潜艇的鱼雷直接命中并迅速沉没。",
+      "en": "Directly hit by a torpedo from the submarine U-703 and sank rapidly."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "一艘标准的英国战时标准货轮。它装载着苏联红军急需的卡车与飞机零件，最终全部葬送海底。",
+      "en": "A standard British wartime freighter. She was loaded with trucks and aircraft parts desperately needed by the Soviet Red Army, all of which were ultimately lost to the bottom of the sea."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-fairfield-city",
+    "name": {
+      "zh": "费尔菲尔德城号",
+      "en": "SS Fairfield City"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [
+      74.6,
+      39.7
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到德国空军猛烈空袭，被数枚炸弹直接命中无装甲的甲板，迅速进水沉没。",
+      "en": "Subjected to a fierce Luftwaffe air raid, taking direct bomb hits to her unarmored deck, causing rapid flooding and sinking."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它在逃生中试图与美国同胞船只结阵防空，但在铺天盖地的轰炸机面前，商船那点微弱的高射机枪火力形同虚设。",
+      "en": "During her escape, she attempted to form an anti-aircraft formation with fellow American ships, but against the overwhelming swarm of bombers, the meager anti-aircraft machine gun fire of the merchant vessels was useless."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://minnehallen.no/wp-content/uploads/2020/03/939193-999x0-c-default.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-hartlebury",
+    "name": {
+      "zh": "哈特尔伯里号",
+      "en": "SS Hartlebury"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [
+      72.5,
+      52
+    ],
+    "sinkingDate": "1942-07-07",
+    "cause": {
+      "zh": "被德国潜艇 U-355 追踪并击沉。",
+      "en": "Tracked and sunk by the German submarine U-355."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "该船沉没后，由于极地寒风和冰水，绝大多数成功登上救生筏的船员最后都因冻结而死，这也是北极护航战最残忍的现实。",
+      "en": "After the ship sank, due to the biting polar winds and freezing water, the vast majority of the crew who managed to board liferafts ultimately froze to death—the cruelest reality of the Arctic convoys."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://uboat.net/media/allies/merchants/br/hartlebury.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-honomu",
+    "name": {
+      "zh": "霍诺姆号",
+      "en": "SS Honomu"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [
+      75.1,
+      38
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到潜艇 U-456 发射的鱼雷命中。由于装载了大量弹药，发生了剧烈爆炸。",
+      "en": "Struck by a torpedo fired by the submarine U-456. Due to carrying a massive amount of ammunition, she suffered a violent explosion."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "由于弹药爆炸沉没极快，船员伤亡惨重。幸存者中有一部分被潜艇捞起作为战俘，其余在冰海中自生自灭。",
+      "en": "Because the ammunition explosion caused her to sink so rapidly, crew casualties were devastating. Some survivors were picked up by the U-boat as POWs, while the rest were left to fend for themselves in the icy sea."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/honomu-ex-edmore.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-hoosier",
+    "name": {
+      "zh": "胡希尔号",
+      "en": "SS Hoosier"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [
+      69.4,
+      43.5
+    ],
+    "sinkingDate": "1942-07-10",
+    "cause": {
+      "zh": "在坚持了数日后，遭德国潜艇 U-376 发射的鱼雷终结。",
+      "en": "After holding out for several days, she was finally finished off by a torpedo from the German submarine U-376."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它是苦撑到最后阶段才被击沉的倒霉蛋之一。船员在极昼的疲劳和持续的恐惧中度过了漫长的五天，最终还是迎来了鱼雷。",
+      "en": "She was one of the unlucky ones that held out until the final stages before being sunk. The crew endured five long days of exhaustion and continuous fear under the midnight sun, only to be met with a torpedo in the end."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/hoosier.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-john-harvey",
+    "name": {
+      "zh": "约翰·哈维号",
+      "en": "SS John Harvey"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [
+      41.133,
+      16.866
+    ],
+    "sinkingDate": "1943-12-02",
+    "cause": {
+      "zh": "在意大利巴里港（Bari）停泊时，遭到德国空军 Ju 88 轰炸机群的毁灭性突袭（史称‘小珍珠港事件’）。船只被炸弹击中起火，随后发生惊天大爆炸沉没。",
+      "en": "While anchored in the port of Bari, Italy, she was devastated by a surprise raid from a swarm of Luftwaffe Ju 88 bombers (known as the 'Little Pearl Harbor'). The ship was hit by bombs, caught fire, and subsequently sank following a colossal explosion."
+    },
+    "depth": {
+      "zh": "港内浅水沉没 (战后清理)",
+      "en": "Sunk in shallow harbor waters (Cleared post-war)"
+    },
+    "historyNotes": {
+      "zh": "二战中最致命的被掩盖的灾难之一！这艘船上绝密地装载了 2000 枚芥子毒气弹。爆炸将海量的致命毒气与燃烧的燃油混合在一起抛向港口和城市。由于是绝密，就连抢救伤员的医生都不知道是毒气泄漏，导致大量盟军水手和平民惨死。真相直到战争结束多年后才被完全公开。",
+      "en": "One of the deadliest covered-up disasters of WWII! This ship was secretly carrying 2,000 mustard gas bombs. The explosion spewed massive amounts of lethal toxic gas mixed with burning oil across the harbor and city. Because it was top secret, even the doctors treating the wounded didn't know it was a chemical leak, leading to the horrific deaths of numerous Allied sailors and civilians. The truth was not fully revealed until years after the war."
+    },
+    "battle": {
+      "zh": "巴里空袭 (化学武器灾难)",
+      "en": "Air Raid on Bari (Chemical Weapons Disaster)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://warfarehistorynetwork.com/wp-content/uploads/2025/08/W-Fal25-Top-Secret-Bari-4-e1754080850131.jpg",
+    "battleId": "air-raid-on-bari-chemical-weapons-disaster"
+  },
+  {
+    "id": "ss-john-witherspoon",
+    "name": {
+      "zh": "约翰·威瑟斯庞号",
+      "en": "SS John Witherspoon"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [
+      72,
+      48
+    ],
+    "sinkingDate": "1942-07-06",
+    "cause": {
+      "zh": "被猎杀效率极高的潜艇 U-255 锁定，连中数雷后沉没。",
+      "en": "Targeted by the highly efficient submarine U-255, she took multiple torpedo hits before sinking."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "U-255 是这次针对 PQ-17 屠杀中的“MVP”潜艇之一，击沉了多艘迷失在冰海中的商船。该船船员幸存率较高。",
+      "en": "U-255 was one of the 'MVP' submarines during the slaughter of PQ-17, sinking multiple merchant ships lost in the icy sea. This particular ship had a relatively high crew survival rate."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-navarino",
+    "name": {
+      "zh": "纳瓦里诺号",
+      "en": "SS Navarino"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [
+      75.9,
+      34
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭到德国空军 Ju 88 轰炸机群的精准轰炸，迅速沉没。",
+      "en": "Subjected to precise bombing by a swarm of Luftwaffe Ju 88 bombers and sank rapidly."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "解散命令下达后的头两天是空袭最猛烈的时候。没有驱逐舰和高射炮的掩护，这些商船就是德国轰炸机完美的投弹练习靶。",
+      "en": "The first two days after the order to scatter were when the air raids were most intense. Without the cover of destroyers and anti-aircraft guns, these merchant ships were perfect target practice for German bombers."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-olopana",
+    "name": {
+      "zh": "奥罗帕纳号",
+      "en": "SS Olopana"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [
+      72.1,
+      51
+    ],
+    "sinkingDate": "1942-07-08",
+    "cause": {
+      "zh": "在逃亡多日后，被 U-255 号潜艇利用海雾掩护逼近，并以鱼雷击沉。",
+      "en": "After fleeing for several days, the submarine U-255 used sea fog as cover to approach and sank her with a torpedo."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "由于北极地区复杂的浓雾天气，这艘船一度成功躲过了德军飞机的视线，但终究逃不过水下静音潜航的 U 型潜艇群的围剿。",
+      "en": "Thanks to the complex dense fog of the Arctic region, this ship managed to temporarily evade the sight of German aircraft, but ultimately could not escape the encirclement of the silently stalking U-boat wolfpacks."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-pan-atlantic",
+    "name": {
+      "zh": "泛大西洋号",
+      "en": "SS Pan Atlantic"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [
+      72,
+      43
+    ],
+    "sinkingDate": "1942-07-06",
+    "cause": {
+      "zh": "在毫无预警的情况下被德国俯冲轰炸机炸中底舱爆炸沉没。",
+      "en": "Bombed by German dive bombers without warning; hit in the lower hold, she exploded and sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "与其他商船一样，它的死没有任何回击的余地。冰冷的巴伦支海成为了美国商船队难以磨灭的梦魇。",
+      "en": "Like the other merchant ships, she died with no chance to fight back. The freezing Barents Sea became an indelible nightmare for the American merchant marine."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-pan-kraft",
+    "name": {
+      "zh": "泛克拉夫特号",
+      "en": "SS Pan Kraft"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [
+      76.8,
+      38
+    ],
+    "sinkingDate": "1942-07-07",
+    "cause": {
+      "zh": "遭到空袭重创燃烧，船员被迫弃船。数日后废弃的船体被潜艇鱼雷摧毁或自然沉没。",
+      "en": "Heavily damaged and set ablaze by an air raid, forcing the crew to abandon ship. Days later, the derelict hull was destroyed by a U-boat torpedo or sank naturally."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它在极地海面上像一座巨大的火炬燃烧了很久，这种火光在极昼的阴云下极为显眼，反而引来了更多的德国潜艇聚集。",
+      "en": "She burned for a long time on the polar sea like a giant torch. This blaze was highly visible under the cloudy midnight sun, ironically drawing even more German U-boats to the area."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c4/WestAvenal.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-paulus-potter",
+    "name": {
+      "zh": "保卢斯·波特号",
+      "en": "SS Paulus Potter"
+    },
+    "faction": {
+      "zh": "荷兰",
+      "en": "Netherlands"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [
+      70,
+      52
+    ],
+    "sinkingDate": "1942-07-13",
+    "cause": {
+      "zh": "7月5日遭到轰炸机重创并被船员遗弃。在冰海中漂流了整整一周后，最终被德国 U-255 号潜艇发现并用鱼雷击沉。",
+      "en": "Heavily damaged by bombers on July 5 and abandoned by her crew. After drifting in the icy sea for a full week, she was finally discovered by the German submarine U-255 and sunk with a torpedo."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "属于荷兰流亡政府。U-255 潜艇的艇长登上了这艘漂浮的鬼船，甚至在船长室里拿走了一些文件和航海日记，随后才好整以暇地将其炸沉。",
+      "en": "Belonged to the Dutch government-in-exile. The commander of U-255 boarded the floating ghost ship and even took documents and the logbook from the captain's cabin before taking his time to sink her."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/nl.png",
+    "cover": "https://uboat.net/media/allies/merchants/nl/paulus_potter.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-peter-kerr",
+    "name": {
+      "zh": "彼得·克尔号",
+      "en": "SS Peter Kerr"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "货轮",
+      "en": "Freighter"
+    },
+    "coordinates": [
+      74.5,
+      35
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "遭遇惨烈的连续空袭，被炸弹直接引燃丧失动力，随后沉没。",
+      "en": "Endured a brutal series of air raids, was directly ignited by bombs, lost power, and subsequently sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "船上的无线电报务员在弃船前一直拼命向外界发报求救，但皇家海军的护航编队此时正在奉命向西全速撤退，根本无人回应。",
+      "en": "The ship's radio operator desperately broadcast distress signals right up until abandoning ship, but the Royal Navy escort fleet was under orders to retreat west at full speed, and no one responded."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "mv-premuda",
+    "name": {
+      "zh": "普雷穆达号",
+      "en": "SS Premuda"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "武装运输船 / 货轮",
+      "en": "Armed Transport / Freighter"
+    },
+    "coordinates": [
+      40.316,
+      18.733
+    ],
+    "sinkingDate": "1940-11-12",
+    "cause": {
+      "zh": "在编队遭遇毁灭性打击时试图借助夜色逃离，但由于航速过慢被英国巡洋舰编队追上。在探照灯的照射下，被无情地当做水面打靶练习的目标击沉。",
+      "en": "Attempted to escape under the cover of darkness when the formation was devastated, but was caught by the British cruiser squadron due to her slow speed. Illuminated by searchlights, she was mercilessly sunk as a surface target practice."
+    },
+    "depth": {
+      "zh": "未知 (亚得里亚海深水区)",
+      "en": "Unknown (Deep waters of the Adriatic Sea)"
+    },
+    "historyNotes": {
+      "zh": "这场单方面的海上屠杀，与同一晚发生的‘奇袭塔兰托’遥相呼应，构成了意大利皇家海军在 1940 年末经历的最黑暗、最耻辱的一夜。整支护航船团的四艘商船（还包括 Catalani 号）无一幸免，全军覆没。",
+      "en": "This one-sided maritime massacre, echoing the 'Raid on Taranto' that occurred on the same night, constituted the darkest and most humiliating night experienced by the Italian Royal Navy in late 1940. All four merchant ships of the convoy (including Catalani) were annihilated with no survivors."
+    },
+    "battle": {
+      "zh": "奥特朗托海峡战役",
+      "en": "Battle of the Strait of Otranto"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": null,
+    "battleId": "battle-of-the-strait-of-otranto"
+  },
+  {
+    "id": "ss-richard-montgomery",
+    "name": {
+      "zh": "理查德·蒙哥马利号",
+      "en": "SS Richard Montgomery"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "自由轮 (弹药运输船)",
+      "en": "Liberty Ship (Ammunition Transport)"
+    },
+    "coordinates": [
+      51.466,
+      0.783
+    ],
+    "sinkingDate": "1944-08-20",
+    "cause": {
+      "zh": "在前往法国瑟堡运送弹药的途中，于英国泰晤士河口（Thames Estuary）的沙洲搁浅。随着退潮，不堪重负的船体从中间断裂并沉没。",
+      "en": "While carrying munitions to Cherbourg, France, she ran aground on a sandbank in the Thames Estuary. As the tide went out, the overloaded hull buckled, broke in half, and sank."
+    },
+    "depth": {
+      "zh": "约 15 米 (退潮时桅杆露出水面)",
+      "en": "Approx. 15 meters (masts visible above water at low tide)"
+    },
+    "historyNotes": {
+      "zh": "这可以说是当今世界上最危险的沉船。它依然携带着约 1400 吨的高爆炸药。如果发生爆炸，将产生巨大的海啸冲击伦敦。该遗址受到雷达的严密监控并被严格封锁。",
+      "en": "Arguably the most dangerous shipwreck in the world today. It still holds approximately 1,400 tons of high explosives. If detonated, it would create a massive tsunami hitting London. The site is heavily monitored by radar and strictly cordoned off."
+    },
+    "battle": {
+      "zh": "诺曼底战役后勤线",
+      "en": "Normandy Campaign Logistics"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Wreck_of_the_SS_Richard_Montgomery%2C_off_Sheerness_-_geograph.org.uk_-_4195096.jpg",
+    "battleId": "normandy-campaign-logistics"
+  },
+  {
+    "id": "ss-river-afton",
+    "name": {
+      "zh": "里弗阿夫顿号",
+      "en": "SS River Afton"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装货轮 (船团准将旗舰)",
+      "en": "Armed Freighter (Convoy Commodore Flagship)"
+    },
+    "coordinates": [
+      75.9,
+      43
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "被 U-703 潜艇盯上，连续被两枚鱼雷命中，迅速沉入冰冷的海水中。",
+      "en": "Targeted by the submarine U-703, she was struck by two consecutive torpedoes and sank rapidly into the freezing sea."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这不仅是一艘货轮，更是整个 PQ-17 商船团准将（Commodore John Dowding）所在的旗舰。旗舰的沉没象征着船团指挥体系和抵抗意志的彻底崩溃。",
+      "en": "She was not just a freighter, but the flagship carrying the Commodore of Convoy PQ-17 (Commodore John Dowding). The sinking of the flagship symbolized the complete collapse of the convoy's command structure and will to resist."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-thistlegorm",
+    "name": {
+      "zh": "西斯特格姆号",
+      "en": "SS Thistlegorm"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装商船 (军用物资运输)",
+      "en": "Armed Merchantman (Military Cargo)"
+    },
+    "coordinates": [
+      27.814,
+      33.92
+    ],
+    "sinkingDate": "1941-10-06",
+    "cause": {
+      "zh": "在红海锚泊等待通过苏伊士运河时，遭到从克里特岛起飞的德国空军 He 111 轰炸机投下两枚炸弹命中弹药舱，引发极其剧烈的爆炸后断成两截沉没。",
+      "en": "While anchored in the Red Sea waiting to transit the Suez Canal, she was hit by two bombs in her ammunition hold from a Luftwaffe He 111 bomber launched from Crete. The resulting violent explosion broke the ship in two and she sank rapidly."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "全球最著名的沉船潜水胜地之一。它的货舱简直是一个被时间冻结的二战博物馆，至今里面还整齐地装满了诺顿摩托车、贝德福德卡车、布伦轻型装甲车、飞机机翼甚至两台蒸汽机车头。",
+      "en": "One of the most famous shipwreck diving sites in the world. Her cargo holds are essentially a WWII museum frozen in time, still packed with Norton motorcycles, Bedford trucks, Bren Gun Carriers, aircraft wings, and even two steam locomotives."
+    },
+    "battle": {
+      "zh": "北非战役",
+      "en": "North African Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aft_view_Thistlegorm.jpg/1920px-Aft_view_Thistlegorm.jpg",
+    "battleId": "north-african-campaign"
+  },
+  {
+    "id": "ss-waimarama",
+    "name": {
+      "zh": "怀马拉马号",
+      "en": "SS Waimarama"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "武装商船",
+      "en": "Armed Merchantman"
+    },
+    "coordinates": [
+      36.416,
+      12
+    ],
+    "sinkingDate": "1942-08-13",
+    "cause": {
+      "zh": "在潘泰莱里亚岛以南遭到德国空军 Ju 87 斯图卡俯冲轰炸机的突袭。至少四枚炸弹直接命中甲板上的航空燃油并引爆了底舱的高爆炸药。万吨巨轮瞬间发生灾难性大爆炸，几秒钟内便灰飞烟灭。",
+      "en": "Surprised by Luftwaffe Ju 87 Stuka dive bombers south of Pantelleria. At least four bombs directly hit aviation fuel on the deck and detonated the high explosives in the lower holds. The massive ship suffered a catastrophic explosion and was vaporized in seconds."
+    },
+    "depth": {
+      "zh": "未知 (潘泰莱里亚岛以南海域)",
+      "en": "Unknown (Waters south of Pantelleria)"
+    },
+    "historyNotes": {
+      "zh": "基座行动中最惨烈的瞬间。这艘船装载了航空燃油和弹药，爆炸的威力极其惊人，不仅瞬间将海面化为火海，爆炸抛出的碎片甚至将一架正在俯冲的德军轰炸机当场击落。全船107人仅有27人在火海中幸存。",
+      "en": "The most devastating moment of Operation Pedestal. Loaded with aviation fuel and ammunition, the explosion's power was so staggering that it instantly turned the sea surface into an inferno, and flying debris even shot down an attacking German bomber mid-air. Out of 107 crew, only 27 survived the sea of fire."
+    },
+    "battle": {
+      "zh": "基座行动",
+      "en": "Operation Pedestal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/MV_Waimarama_explodes.jpg",
+    "battleId": "operation-pedestal"
+  },
+  {
+    "id": "ss-washington",
+    "name": {
+      "zh": "华盛顿号",
+      "en": "SS Washington"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "武装货轮",
+      "en": "Armed Freighter"
+    },
+    "coordinates": [
+      76.3,
+      33.5
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "货舱内载有 600 吨高爆炸药。遭到俯冲轰炸机袭击起火后，船员因担心大爆炸疯狂逃生，船体随后被放弃并沉没。",
+      "en": "Her hold contained 600 tons of high explosives. After catching fire from a dive bomber attack, the crew scrambled to escape in fear of a massive explosion. The ship was subsequently abandoned and sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "绝望的生还者在救生艇上拒绝了其他同样身陷险境的商船的救援，因为他们知道任何停下来的船只都会成为轰炸机的靶子。",
+      "en": "The desperate survivors in lifeboats refused rescue from other merchant ships in equal peril, knowing that any ship that stopped would instantly become a target for bombers."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null,
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ss-william-hooper",
+    "name": {
+      "zh": "威廉·霍珀号",
+      "en": "SS William Hooper"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "自由轮",
+      "en": "Liberty Ship"
+    },
+    "coordinates": [
+      76,
+      33.5
+    ],
+    "sinkingDate": "1942-07-04",
+    "cause": {
+      "zh": "船团刚刚解散时，便遭空袭重创。被遗弃后于当晚被 U-334 号潜艇补刀击沉。",
+      "en": "Heavily damaged by an air raid just as the convoy scattered. After being abandoned, she was finished off by a torpedo from submarine U-334 that night."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这艘倒霉的船完美展现了商船在北极圈的脆弱：它仅被一枚航空鱼雷剐蹭就失去了作战能力，而在没有拖船的情况下，受损的商船只能被遗弃。",
+      "en": "This unlucky ship perfectly demonstrates the fragility of merchant vessels in the Arctic Circle: merely grazed by an aerial torpedo, she lost combat capability, and without tugs, damaged merchantmen had no choice but to be abandoned."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://uboat.net/media/allies/merchants/am/william_hooper.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "mv-tsushima-maru",
+    "name": {
+      "zh": "对马丸",
+      "en": "Tsushima Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "客货轮 / 疏散船",
+      "en": "Passenger-Cargo Ship / Evacuation Ship"
+    },
+    "coordinates": [
+      29.533,
+      129.516
+    ],
+    "sinkingDate": "1944-08-22",
+    "cause": {
+      "zh": "在从冲绳向日本本土疏散平民的途中，于恶劣天气下遭到美军潜艇‘弓鳍鱼号’ (USS Bowfin) 的雷达锁定。被多枚鱼雷命中后发生剧烈爆炸并迅速沉没。",
+      "en": "While evacuating civilians from Okinawa to the Japanese mainland, she was locked onto by the radar of the U.S. submarine USS Bowfin in severe weather. After being hit by multiple torpedoes, she suffered a massive explosion and sank rapidly."
+    },
+    "depth": {
+      "zh": "约 871 米",
+      "en": "Approx. 871 meters"
+    },
+    "historyNotes": {
+      "zh": "令人极为痛心的平民惨剧。由于美军实施无限制潜艇战，弓鳍鱼号并不知道这艘船的任务。沉没导致 1484 人丧生，其中包含了 775 名冲绳当地的小学生。这也是冲绳战役前夕最沉痛的历史记忆。",
+      "en": "An agonizingly heartbreaking civilian tragedy. Because the U.S. military was conducting unrestricted submarine warfare, USS Bowfin had no idea of the ship's mission. The sinking resulted in 1,484 deaths, including 775 local Okinawan schoolchildren. This remains the most sorrowful historical memory on the eve of the Battle of Okinawa."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战 (平民疏散悲剧)",
+      "en": "Pacific Submarine Warfare (Civilian Evacuation Tragedy)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tsushima_Maru_1944.jpg",
+    "battleId": "pacific-submarine-warfare-civilian-evacuation-tragedy"
+  },
+  {
+    "id": "apa-69-carlisle",
+    "name": {
+      "zh": "卡莱尔号攻击运输舰",
+      "en": "USS Carlisle (APA-69)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "运输舰",
+      "en": "Attack Transport"
+    },
+    "coordinates": [
+      11.592,
+      165.502
+    ],
+    "sinkingDate": "1946-07-01",
+    "cause": {
+      "zh": "在‘阿贝’ (Able) 空中核爆中，距离爆心非常近。核冲击波将其整个上层建筑向一侧推平，船身受到严重破坏并起火，在核爆后半小时内沉没。",
+      "en": "Located very close to ground zero during the 'Able' atmospheric nuclear test. The nuclear blast wave flattened her entire superstructure to one side; the hull was severely damaged and caught fire, sinking within half an hour of the detonation."
+    },
+    "depth": {
+      "zh": "约 51 米",
+      "en": "Approx. 51 meters"
+    },
+    "historyNotes": {
+      "zh": "阿贝空中核爆的另一位牺牲品。在沉入环礁湖之前，剧烈的冲击波甚至使其发生了物理位移。",
+      "en": "Another victim of the Able air burst. The sheer force of the blast wave physically displaced the ship before it sank into the lagoon."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1b/USS_Carlisle_%28APA-69%29_in_1945.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "apa-57-gilliam",
+    "name": {
+      "zh": "吉列姆号攻击运输舰",
+      "en": "USS Gilliam (APA-57)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "运输舰",
+      "en": "Attack Transport"
+    },
+    "coordinates": [
+      11.595,
+      165.505
+    ],
+    "sinkingDate": "1946-07-01",
+    "cause": {
+      "zh": "在‘阿贝’ (Able) 空中核爆中，由于轰炸机投弹严重偏离原定靶心（内华达号），原子弹几乎正正在该舰上方引爆。船体瞬间受到极其恐怖的破坏，在不到 2 分钟内迅速沉没。",
+      "en": "During the 'Able' atmospheric nuclear test, because the bomber dropped the weapon significantly off the intended target (USS Nevada), the atomic bomb detonated almost directly above this ship. The hull instantly suffered horrifying damage, sinking rapidly in less than 2 minutes."
+    },
+    "depth": {
+      "zh": "约 54 米",
+      "en": "Approx. 54 meters"
+    },
+    "historyNotes": {
+      "zh": "十字路口行动中第一艘沉没的战舰。它意外地成为了阿贝核爆真正的‘零点’（Ground Zero）。其被彻底压碎的船体目前躺在环礁湖底。",
+      "en": "The first ship to sink during Operation Crossroads. It accidentally became the true 'Ground Zero' for the Able test. Its completely crushed hull lies on the lagoon floor."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/USS_Gilliam_%28APA-57%29_underway_at_sea_on_28_July_1944_%2880-G-242729%29.jpg/1920px-USS_Gilliam_%28APA-57%29_underway_at_sea_on_28_July_1944_%2880-G-242729%29.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "apd-5-mckean",
+    "name": {
+      "zh": "麦基恩号驱逐舰运输舰",
+      "en": "USS McKean (APD-5)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "驱逐舰运输舰 (由驱逐舰改装)",
+      "en": "High-speed Transport (converted from destroyer)"
+    },
+    "coordinates": [
+      -6.516,
+      154.25
+    ],
+    "sinkingDate": "1943-11-17",
+    "cause": {
+      "zh": "在向布干维尔岛运送增援部队途中，被日军一式陆攻投掷的鱼雷击中，引发弹药库和燃油殉爆沉没。",
+      "en": "While transporting reinforcements to Bougainville, she was struck by a torpedo dropped by a Japanese Type 1 land-based attack aircraft (Betty bomber), causing the magazine and fuel to explode and sink the ship."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "麦基恩号是一艘由旧式一战驱逐舰（平甲板型）改装的快速运输舰，是布干维尔登陆战期间美军损失的重要战斗支援舰艇。",
+      "en": "McKean was a high-speed transport converted from an old WWI-era flush-deck destroyer, and represented a significant loss of combat support shipping for the U.S. during the Bougainville landings."
+    },
+    "battle": {
+      "zh": "布干维尔战役",
+      "en": "Bougainville Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/USS_McKean_%28APD-5%29_en_route_to_Guadalcanal_in_August_1942.jpg/1920px-USS_McKean_%28APD-5%29_en_route_to_Guadalcanal_in_August_1942.jpg",
+    "battleId": "bougainville-campaign"
+  },
+  {
+    "id": "ak-tsuruga-maru",
+    "name": {
+      "zh": "敦贺丸",
+      "en": "Tsuruga Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-1.300, 116.900],
+    "sinkingDate": "1942-01-24",
+    "cause": {
+      "zh": "在夜间锚地遭到美国海军第 59 驱逐舰中队（DesDiv 59）的突袭。被‘帕罗特号’（USS Parrott）发射的鱼雷击中沉没。",
+      "en": "Surprised in her night anchorage by the US Navy's Destroyer Division 59 (DesDiv 59). Struck and sunk by a torpedo fired by USS Parrott."
+    },
+    "depth": {
+      "zh": "未知 (巴厘巴板锚地浅水区)",
+      "en": "Unknown (Shallow waters of the Balikpapan anchorage)"
+    },
+    "historyNotes": {
+      "zh": "这是美国海军自 1898 年美西战争以来，在水面战斗中击沉的第一批敌舰之一。由于日军误以为是盟军潜艇袭击，在极度混乱中根本没有组织起有效的对水面还击。",
+      "en": "One of the first enemy ships sunk by the US Navy in a surface engagement since the Spanish-American War in 1898. Because the Japanese mistakenly believed they were under attack by Allied submarines, total confusion prevented them from organizing any effective surface counterattack."
+    },
+    "battle": {
+      "zh": "巴厘巴板海战",
+      "en": "Battle of Balikpapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://www.combinedfleet.com/Tsuraga2.jpg"
+  },
+  {
+    "id": "ak-sumanoura-maru",
+    "name": {
+      "zh": "须磨浦丸",
+      "en": "Sumanoura Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-1.310, 116.890],
+    "sinkingDate": "1942-01-24",
+    "cause": {
+      "zh": "在巴厘巴板外海锚地，被突入的美国驱逐舰编队发射的多枚鱼雷命中，发生剧烈爆炸并迅速沉没。",
+      "en": "In the anchorage off Balikpapan, she was hit by multiple torpedoes fired by the infiltrating US destroyer squadron, suffered a massive explosion, and sank rapidly."
+    },
+    "depth": {
+      "zh": "未知 (巴厘巴板近海)",
+      "en": "Unknown (Off the coast of Balikpapan)"
+    },
+    "historyNotes": {
+      "zh": "当时日军的主力护航驱逐舰去追击此前攻击他们的荷兰潜艇了，导致这支满载入侵部队的庞大运输船团在锚地毫无防备地暴露在 4 艘美国旧式平甲板驱逐舰的炮口下。",
+      "en": "At the time, the main Japanese escort destroyers had sailed off to chase a Dutch submarine that had attacked earlier. This left the massive transport convoy, fully loaded with invasion troops, completely defenseless at anchor against the guns of 4 old US flush-deck destroyers."
+    },
+    "battle": {
+      "zh": "巴厘巴板海战",
+      "en": "Battle of Balikpapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://www.combinedfleet.com/Sumanoura%20Maru.jpg"
+  },
+  {
+    "id": "ak-tatsukami-maru",
+    "name": {
+      "zh": "辰神丸",
+      "en": "Tatsukami Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-1.280, 116.880],
+    "sinkingDate": "1942-01-24",
+    "cause": {
+      "zh": "被美国驱逐舰‘保罗·琼斯号’（USS Paul Jones）发射的鱼雷击中，随后又遭到美舰 4 英寸火炮的抵近射击，起火沉没。",
+      "en": "Hit by a torpedo from the US destroyer USS Paul Jones, then subjected to point-blank 4-inch gunfire from American ships, she caught fire and sank."
+    },
+    "depth": {
+      "zh": "未知 (巴厘巴板近海)",
+      "en": "Unknown (Off the coast of Balikpapan)"
+    },
+    "historyNotes": {
+      "zh": "美军驱逐舰在这场战斗中完全杀红了眼。在打光了大部分鱼雷后，它们直接在日军船队中高速穿插，用舰炮在极近距离（甚至不到 1000 米）疯狂扫射这些巨大的运输船。",
+      "en": "The US destroyers went absolutely berserk in this battle. After expending most of their torpedoes, they wove through the Japanese fleet at high speed, wildly strafing these massive transports with naval gunfire at point-blank range (some under 1,000 meters)."
+    },
+    "battle": {
+      "zh": "巴厘巴板海战",
+      "en": "Battle of Balikpapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "ak-kuretake-maru",
+    "name": {
+      "zh": "吴竹丸",
+      "en": "Kuretake Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-1.290, 116.870],
+    "sinkingDate": "1942-01-24",
+    "cause": {
+      "zh": "被美国驱逐舰的鱼雷击中，船体严重受损，随后在混战中燃烧并沉入望加锡海峡的黑暗中。",
+      "en": "Struck by torpedoes from US destroyers, her hull was severely damaged. She burned in the melee before sinking into the darkness of the Makassar Strait."
+    },
+    "depth": {
+      "zh": "未知 (巴厘巴板近海)",
+      "en": "Unknown (Off the coast of Balikpapan)"
+    },
+    "historyNotes": {
+      "zh": "尽管美军在此战中取得了战术上的巨大成功，但这并没能阻止日军在巴厘巴板的登陆和对荷属东印度的最终占领。不过，这场狂野的夜战极大地提振了当时节节败退的盟军士气。",
+      "en": "Although the US Navy achieved a massive tactical success in this battle, it failed to prevent the Japanese landings at Balikpapan and the ultimate conquest of the Dutch East Indies. Nevertheless, this wild night action significantly boosted the morale of the then-retreating Allied forces."
+    },
+    "battle": {
+      "zh": "巴厘巴板海战",
+      "en": "Battle of Balikpapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://www.combinedfleet.com/samarang.jpg"
+  },
+  {
+    "id": "ak-nana-maru",
+    "name": {
+      "zh": "奈那丸",
+      "en": "Nana Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "运输船 / 辅助飞机运搬舰",
+      "en": "Transport / Auxiliary Aircraft Transport"
+    },
+    "coordinates": [-1.260, 116.850],
+    "sinkingDate": "1942-01-23",
+    "cause": {
+      "zh": "在夜间水面战斗爆发的前一天，遭到荷兰皇家东印度陆军航空军（ML-KNIL）的马丁 B-10 轰炸机突袭，被炸弹命中后起火沉没。",
+      "en": "The day before the night surface battle broke out, she was surprised by Martin B-10 bombers of the Royal Netherlands East Indies Army Air Force (ML-KNIL). Hit by bombs, she caught fire and sank."
+    },
+    "depth": {
+      "zh": "浅水区",
+      "en": "Shallow waters"
+    },
+    "historyNotes": {
+      "zh": "作为巴厘巴板海战的一部分，虽然它不是在当晚的水面突袭中被击沉的，但它是盟军在这场反击战中的‘首杀’，提前一天拉开了这支日本南下入侵舰队连遭厄运的序幕。",
+      "en": "As part of the Battle of Balikpapan, though not sunk during the night surface raid, she was the Allied 'first blood' in this counterattack, foreshadowing the impending doom of this Japanese southward invasion fleet a day in advance."
+    },
+    "battle": {
+      "zh": "巴厘巴板海战",
+      "en": "Battle of Balikpapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "ak-kyokusei-maru",
+    "name": {
+      "zh": "旭星丸",
+      "en": "Kyokusei Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-6.500, 148.000],
+    "sinkingDate": "1943-03-02",
+    "cause": {
+      "zh": "作为船团中第一艘倒霉蛋，在3月2日即被美军 B-17 高空轰炸机直接命中炸沉。",
+      "en": "As the first unlucky victim in the convoy, she was directly hit and sunk by US B-17 high-altitude bombers as early as March 2."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它的沉没拉开了整场大屠杀的序幕。虽然只有它是在高空轰炸中沉没的，但这也让日军彻底暴露了行踪，引来了第二天的毁灭性打击。",
+      "en": "Her sinking kicked off the entire massacre. Although she was the only one sunk by high-altitude bombing, this completely exposed the Japanese fleet's movements, drawing the devastating strikes of the following day."
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Margaret_Coughlan%2C_asset_W1onOWfZubgiaNcrjHkaLNhf.jpg/3840px-Margaret_Coughlan%2C_asset_W1onOWfZubgiaNcrjHkaLNhf.jpg"
+  },
+  {
+    "id": "ak-teiyo-maru",
+    "name": {
+      "zh": "帝洋丸",
+      "en": "Teiyo Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-7.200, 148.200],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "在3月3日的空袭高潮中，遭到数架盟军轰炸机极低空跳弹轰炸，被瞬间撕裂沉没。",
+      "en": "During the climax of the air raids on March 3, she was subjected to extreme low-altitude skip bombing by several Allied bombers, instantly torn apart and sunk."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "满载着日军第51师团的士兵。跳弹直接穿透了薄弱的商船装甲，船上燃起地狱般的大火，大量日军士兵葬身鱼腹。",
+      "en": "Fully loaded with soldiers of the Japanese 51st Division. Skip bombs directly penetrated the weak merchant armor. A hellish fire broke out on board, and massive numbers of Japanese soldiers ended up in the bellies of fishes."
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "ak-kembu-maru",
+    "name": {
+      "zh": "建武丸",
+      "en": "Kembu Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-7.210, 148.210],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "遭到盟军飞机投下的燃烧弹和跳弹袭击，由于载有大量弹药和航空汽油，发生极其惨烈的巨大爆炸。",
+      "en": "Attacked by incendiary and skip bombs dropped by Allied aircraft. Carrying a massive load of ammunition and aviation fuel, she suffered an extremely horrific and colossal explosion."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "整场战役中最惨烈的烟花。由于装满了航空汽油和弹药，被击中时产生的爆炸火球甚至危及了正在超低空投弹的盟军轰炸机自己。",
+      "en": "The most horrific fireworks of the entire battle. Because she was packed with aviation fuel and ammo, the fireball from the explosion when hit even endangered the Allied bombers making their ultra-low-altitude drops."
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bismarck_Sea_141996.jpg"
+  },
+  {
+    "id": "ak-oigawa-maru",
+    "name": {
+      "zh": "大井川丸",
+      "en": "Oigawa Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-7.220, 148.220],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "在空袭中受重创失去行动能力，当晚被盟军 PT 鱼雷快艇抵近发射鱼雷彻底终结。",
+      "en": "Severely damaged and immobilized during the air raids, she was completely finished off that night by Allied PT boats that closed in and fired torpedoes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "白天被空军打成瘫痪，晚上被海军快艇补刀。盟军不留任何活口的战术执行得极其彻底。",
+      "en": "Paralyzed by the air force during the day, finished off by navy speedboats at night. The Allied tactic of leaving no survivors was executed incredibly thoroughly."
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "ak-sin-ai-maru",
+    "name": {
+      "zh": "神爱丸",
+      "en": "Sin-ai Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-7.230, 148.230],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "被澳大利亚皇家空军（RAAF）的‘英俊战士’（Beaufighter）重型战斗机密集扫射防空火力后，遭跳弹轰炸机摧毁。",
+      "en": "After her anti-aircraft defenses were heavily strafed by Royal Australian Air Force (RAAF) Beaufighter heavy fighters, she was destroyed by skip bombers."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "澳军战斗机先用极其凶猛的机头机炮扫平了商船甲板上的一切活物，随后美军轰炸机从容投弹，这是一种完美且极度致命的战术协同。",
+      "en": "Australian fighters first used their incredibly fierce nose cannons to wipe out everything living on the merchant ship's deck, allowing US bombers to drop their payloads at leisure. This was a perfect and extremely lethal tactical coordination."
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "ak-taimei-maru",
+    "name": {
+      "zh": "大明丸",
+      "en": "Taimei Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-7.240, 148.240],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "在超低空轰炸网中被多枚炸弹命中吃水线附近，进水极快，带着大量物资和兵员沉入海底。",
+      "en": "Caught in the ultra-low-altitude bombing net, she took multiple bomb hits near the waterline. Flooding rapidly, she sank to the bottom of the sea with a massive amount of supplies and troops."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "跳弹的恐怖之处在于它像鱼雷一样直接攻击船只吃水线，导致进水速度极快，船上人员几乎没有任何逃生时间。",
+      "en": "The terror of skip bombs lies in how they attack a ship's waterline directly like a torpedo, leading to incredibly fast flooding and leaving the crew almost no time to escape."
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Japanese_transport_Taimei_Maru_is_bombed_during_the_Battle_of_the_Bismarck_Sea%2C_4_March_1943_%28342-FH-3A33358-A23285AC%29.jpg/1920px-Japanese_transport_Taimei_Maru_is_bombed_during_the_Battle_of_the_Bismarck_Sea%2C_4_March_1943_%28342-FH-3A33358-A23285AC%29.jpg"
+  },
+  {
+    "id": "ak-aiyo-maru",
+    "name": {
+      "zh": "爱洋丸",
+      "en": "Aiyo Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "武装运输船",
+      "en": "Armed Transport"
+    },
+    "coordinates": [-7.250, 148.250],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "遭到盟军机群的多波次交叉轰炸，在海面上燃起无法扑灭的大火后沉没。",
+      "en": "Subjected to multiple waves of cross-bombing by Allied aircraft squadrons, she caught an uncontrollable fire on the surface and sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这支庞大的船团在不到一天的时间内土崩瓦解。爱洋丸的毁灭标志着日军向新几内亚的大规模海运补给尝试彻底破产。",
+      "en": "This massive convoy totally collapsed in less than a day. The destruction of Aiyo Maru marked the complete bankruptcy of the Japanese attempt at large-scale maritime resupply to New Guinea."
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  },
+  {
+    "id": "ak-nojima",
+    "name": {
+      "zh": "野岛号",
+      "en": "Nojima"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "给炭/给油船 / 舰队特务舰",
+      "en": "Collier/Oiler / Fleet Auxiliary"
+    },
+    "coordinates": [-7.260, 148.260],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "遭到炸弹直接命中受创，在混乱的海面上与同样失控的荒潮号驱逐舰发生严重相撞，最终伤重沉没。",
+      "en": "Damaged by a direct bomb hit, she suffered a severe collision with the similarly out-of-control destroyer Arashio on the chaotic sea surface, ultimately sinking from her fatal wounds."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "作为船团中重要的舰队补给舰，它的结局极具戏剧性——没被炸弹当场炸死，反而在混乱中被自家失去控制的驱逐舰撞了致命一击。",
+      "en": "As a crucial fleet supply ship in the convoy, her end was highly dramatic—not blown up on the spot by bombs, but instead dealt a fatal blow in the chaos by her own side's out-of-control destroyer."
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  }
+]

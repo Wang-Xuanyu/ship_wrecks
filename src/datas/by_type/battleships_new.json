@@ -1,0 +1,1211 @@
+[
+  {
+    "id": "ca-graf-spee",
+    "name": {
+      "zh": "斯佩伯爵海军上将号",
+      "en": "Admiral Graf Spee"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "装甲舰 (袖珍战列舰)",
+      "en": "Panzerschiff (Pocket Battleship)"
+    },
+    "coordinates": [
+      -34.966,
+      -56.3
+    ],
+    "sinkingDate": "1939-12-17",
+    "cause": {
+      "zh": "在拉普拉塔河口海战中遭到英国巡洋舰编队（埃克塞特号、阿贾克斯号、阿基里斯号）的围剿受损。逃入蒙得维的亚港后，因受英国情报欺骗，误以为港外有庞大舰队埋伏，最终由舰长下令自沉。",
+      "en": "Damaged while being besieged by a British cruiser squadron (HMS Exeter, Ajax, and Achilles) in the Battle of the River Plate. After fleeing into the port of Montevideo, deceived by British intelligence into believing a massive fleet awaited outside, she was ultimately scuttled by order of her captain."
+    },
+    "depth": {
+      "zh": "约 11 米 (极浅，部分残骸曾露出水面)",
+      "en": "Approx. 11 meters (Extremely shallow, parts of the wreck were once exposed)"
+    },
+    "historyNotes": {
+      "zh": "作为德国闻风丧胆的‘海上袭击舰’，它在开战初期横行南大西洋。它的自沉过程被岸上数万名围观群众和记者全程目睹，是二战最早的重大媒体事件之一。舰长汉斯·朗斯多夫在安排好船员后自尽。",
+      "en": "As a dreaded German 'commerce raider', she ran rampant in the South Atlantic early in the war. Her scuttling was witnessed by tens of thousands of onlookers and journalists ashore, making it one of the earliest major media events of WWII. Captain Hans Langsdorff committed suicide after ensuring his crew's safety."
+    },
+    "battle": {
+      "zh": "拉普拉塔河口海战",
+      "en": "Battle of the River Plate"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bundesarchiv_DVM_10_Bild-23-63-06%2C_Panzerschiff_%22Admiral_Graf_Spee%22.jpg",
+    "battleId": "battle-of-the-river-plate"
+  },
+  {
+    "id": "bb-bretagne",
+    "name": {
+      "zh": "布列塔尼号战列舰",
+      "en": "French Battleship Bretagne"
+    },
+    "faction": {
+      "zh": "法国 (维希)",
+      "en": "France (Vichy)"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      35.735,
+      -0.692
+    ],
+    "sinkingDate": "1940-07-03",
+    "cause": {
+      "zh": "在凯比尔港内锚泊时，遭到英国 H 舰队胡德号等主力舰的集火射击，身中数枚 15 英寸炮弹引发弹药库殉爆，随后倾覆沉没。",
+      "en": "While anchored at Mers-el-Kébir, she was subjected to concentrated fire from capital ships of the British Force H, including HMS Hood. She suffered a magazine explosion after taking several 15-inch shell hits, subsequently capsizing and sinking."
+    },
+    "depth": {
+      "zh": "港口浅水区 (防波堤内侧，后被部分拆解)",
+      "en": "Shallow harbor waters (inside the breakwater, partially scrapped later)"
+    },
+    "historyNotes": {
+      "zh": "法军在弩炮行动中损失最惨重的军舰，舰上近千名官兵阵亡。它是法国海军力量被‘盟友’摧毁的痛苦象征。",
+      "en": "The heaviest French loss during Operation Catapult, with nearly a thousand officers and men killed. She is a painful symbol of the French naval power being destroyed by a former 'ally'."
+    },
+    "battle": {
+      "zh": "弩炮行动 (凯比尔港海战)",
+      "en": "Operation Catapult (Attack on Mers-el-Kébir)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Provence-1.jpg",
+    "battleId": "operation-catapult-attack-on-mers-el-kebir"
+  },
+  {
+    "id": "bb-courbet",
+    "name": {
+      "zh": "孤拔号战列舰",
+      "en": "French Battleship Courbet"
+    },
+    "faction": {
+      "zh": "自由法国",
+      "en": "Free France"
+    },
+    "type": {
+      "zh": "战列舰 (孤拔级)",
+      "en": "Battleship (Courbet-class)"
+    },
+    "coordinates": [
+      49.366,
+      -0.266
+    ],
+    "sinkingDate": "1944-06-09",
+    "cause": {
+      "zh": "作为一艘极度老旧的无畏舰，它在诺曼底登陆中执行了最后一次任务：驶向‘宝剑海滩’（Sword Beach）外海，打开通海阀自沉，成为‘鹅莓’（Gooseberry）防波堤的一部分，为盟军的登陆船只提供避风港。",
+      "en": "As an extremely obsolete dreadnought, she performed her final mission during the Normandy landings: sailing off Sword Beach, she opened her Kingston valves and scuttled herself to become part of the 'Gooseberry' breakwater, providing a safe haven for Allied landing craft."
+    },
+    "depth": {
+      "zh": "作为防波堤浅水坐沉 (战后拆解)",
+      "en": "Settled in shallow water as a breakwater (Scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "这艘参加过一战的老朽战列舰，以自沉的方式见证了盟军重返法兰西。有趣的是，德军的侦察机和鱼雷艇在随后的几天里依然把它当成活跃的主力舰，对着这艘已经坐在海底的空壳倾泻了大量的炸弹和鱼雷，浪费了大量弹药。",
+      "en": "This aging battleship, a veteran of WWI, witnessed the Allies' return to France through her self-sinking. Interestingly, German reconnaissance planes and torpedo boats still mistook her for an active capital ship in the following days, unleashing large numbers of bombs and torpedoes on the empty shell already sitting on the seabed, thereby wasting massive amounts of ammunition."
+    },
+    "battle": {
+      "zh": "霸王行动 (桑椹港建设)",
+      "en": "Operation Overlord (Mulberry Harbour Construction)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Courbet_Q_22265_%28cropped%29.jpg",
+    "battleId": "operation-overlord-mulberry-harbour-construction"
+  },
+  {
+    "id": "bb-dunkerque",
+    "name": {
+      "zh": "敦刻尔克号战列舰",
+      "en": "French Battleship Dunkerque"
+    },
+    "faction": {
+      "zh": "法国 (维希)",
+      "en": "France (Vichy)"
+    },
+    "type": {
+      "zh": "快速战列舰",
+      "en": "Fast Battleship"
+    },
+    "coordinates": [
+      35.732,
+      -0.698
+    ],
+    "sinkingDate": "1940-07-06",
+    "cause": {
+      "zh": "7月3日受创搁浅，7月6日遭英国剑鱼式鱼雷机补充打击，引爆了旁边的辅助船导致舰体大破，坐沉于港湾深处的圣安德烈浅水区。",
+      "en": "Damaged and grounded on July 3. On July 6, she suffered a follow-up attack by British Fairey Swordfish torpedo bombers, which detonated an adjacent auxiliary ship. Her hull was severely damaged, causing her to settle into the shallow waters of St. Andre deep within the harbor."
+    },
+    "depth": {
+      "zh": "浅水坐沉 (后打捞修复返回土伦)",
+      "en": "Settled in shallow water (Later refloated, repaired, and returned to Toulon)"
+    },
+    "historyNotes": {
+      "zh": "作为法国海军骄傲的新锐战列舰，它在这里遭到重创。虽然没有彻底沉入深海，但其在弩炮行动中完全丧失了战斗力。",
+      "en": "As a proud modern battleship of the French Navy, she was heavily damaged here. Although she did not sink into the deep sea, she completely lost her combat capability during Operation Catapult."
+    },
+    "battle": {
+      "zh": "弩炮行动 (凯比尔港海战)",
+      "en": "Operation Catapult (Attack on Mers-el-Kébir)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Dunkerque-1.jpg",
+    "battleId": "operation-catapult-attack-on-mers-el-kebir"
+  },
+  {
+    "id": "bb-provence",
+    "name": {
+      "zh": "普罗旺斯号战列舰",
+      "en": "French Battleship Provence"
+    },
+    "faction": {
+      "zh": "法国 (维希)",
+      "en": "France (Vichy)"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      35.733,
+      -0.694
+    ],
+    "sinkingDate": "1940-07-03",
+    "cause": {
+      "zh": "在防波堤泊位遭到英国舰队主炮火力重创，舰体起火进水，为防止彻底沉没而主动在港内抢滩搁浅。",
+      "en": "Severely damaged by main gun fire from the British fleet while moored at the breakwater. Catching fire and taking on water, she was intentionally beached in the harbor to prevent her from sinking completely."
+    },
+    "depth": {
+      "zh": "抢滩搁浅 (后打捞修复返回土伦)",
+      "en": "Beached/Grounded (Later refloated, repaired, and returned to Toulon)"
+    },
+    "historyNotes": {
+      "zh": "布列塔尼级的姊妹舰。它的遭遇代表了当时法国舰队的普遍惨状——在港内完全处于被动挨打的局面。",
+      "en": "A sister ship of the Bretagne. Her fate represented the general plight of the French fleet at the time—completely passive and under fire within the harbor."
+    },
+    "battle": {
+      "zh": "弩炮行动 (凯比尔港海战)",
+      "en": "Operation Catapult (Attack on Mers-el-Kébir)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Provence-3.jpg",
+    "battleId": "operation-catapult-attack-on-mers-el-kebir"
+  },
+  {
+    "id": "bc-scharnhorst",
+    "name": {
+      "zh": "沙恩霍斯特号战列巡洋舰",
+      "en": "German Battlecruiser Scharnhorst"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "战列巡洋舰",
+      "en": "Battlecruiser"
+    },
+    "coordinates": [
+      72.266,
+      28.683
+    ],
+    "sinkingDate": "1943-12-26",
+    "cause": {
+      "zh": "在北角海战中企图拦截盟军护航船队。在极夜的暴风雪中，被拥有先进雷达的英国‘约克公爵号’战列舰在远距离锁定并击毁主炮塔和锅炉舱，失去动力后被英国驱逐舰群发射至少 11 枚鱼雷击沉。",
+      "en": "Attempted to intercept an Allied convoy during the Battle of North Cape. In the polar night and blizzards, she was locked onto by the advanced radar of HMS Duke of York. After her main turrets and boiler rooms were destroyed, she was finished off by at least 11 torpedoes from a swarm of British destroyers."
+    },
+    "depth": {
+      "zh": "约 290 米",
+      "en": "Approx. 290 meters"
+    },
+    "historyNotes": {
+      "zh": "曾经击沉‘光荣号’的功臣，最终在冰冷刺骨的北冰洋迎来了终局。全舰 1968 名官兵中仅 36 人在冰水中获救。残骸于 2000 年由挪威海军发现。",
+      "en": "The veteran that once sank HMS Glorious met her end in the freezing Arctic Ocean. Only 36 of her 1,968 crew members were rescued from the icy waters. Her wreck was discovered by the Royal Norwegian Navy in 2000."
+    },
+    "battle": {
+      "zh": "北角海战",
+      "en": "Battle of North Cape"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bundesarchiv_DVM_10_Bild-23-63-07%2C_Schlachtschiff_%22Scharnhorst%22.jpg",
+    "battleId": "battle-of-north-cape"
+  },
+  {
+    "id": "bb-bismarck",
+    "name": {
+      "zh": "俾斯麦号战列舰",
+      "en": "German Battleship Bismarck"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      48.166,
+      -16.2
+    ],
+    "sinkingDate": "1941-05-27",
+    "cause": {
+      "zh": "先被皇家方舟号起飞的剑鱼式鱼雷机击中舰艉导致船舵卡死。随后遭到英国战列舰‘罗德尼号’和‘乔治五世国王号’的抵近集火射击，上层建筑被完全摧毁。在失去战斗力后，由舰员开启通海阀自沉。",
+      "en": "First hit by a torpedo from a Fairey Swordfish from HMS Ark Royal, jamming her rudder. She was then subjected to point-blank concentrated fire from the British battleships HMS Rodney and HMS King George V, which obliterated her superstructure. After being rendered combat-ineffective, she was scuttled by her crew via Kingston valves."
+    },
+    "depth": {
+      "zh": "约 4791 米",
+      "en": "Approx. 4791 meters"
+    },
+    "historyNotes": {
+      "zh": "当时世界上最强大的战列舰之一。它的短暂航程和戏剧性的沉没成为了二战最著名的传奇故事。残骸于 1989 年由罗伯特·巴拉德（Robert Ballard）发现，舰体仍直立在海底，显示了极其强悍的装甲防护。",
+      "en": "One of the most powerful battleships of her time. Her brief sortie and dramatic end became one of the most famous legends of WWII. Her wreck was discovered by Robert Ballard in 1989; the hull remains upright on the seabed, demonstrating her exceptionally robust armor protection."
+    },
+    "battle": {
+      "zh": "围剿俾斯麦号",
+      "en": "The Hunt for the Bismarck"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bundesarchiv_Bild_193-04-1-26%2C_Schlachtschiff_Bismarck.jpg",
+    "battleId": "the-hunt-for-the-bismarck"
+  },
+  {
+    "id": "bb-tirpitz",
+    "name": {
+      "zh": "提尔皮茨号战列舰",
+      "en": "German Battleship Tirpitz"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      69.646,
+      18.808
+    ],
+    "sinkingDate": "1944-11-12",
+    "cause": {
+      "zh": "躲藏在挪威特罗姆瑟林根峡湾时，遭到英国皇家空军第 9 和第 617 中队的 32 架兰开斯特轰炸机袭击。被两枚 5.4 吨重的‘高脚柜’ (Tallboy) 地震炸弹直接命中，引发弹药库爆炸后倾覆沉没。",
+      "en": "While hiding in the Tromsøfjord, Norway, she was attacked by 32 Lancaster bombers from RAF No. 9 and No. 617 Squadrons. Hit directly by two 5.4-ton 'Tallboy' earthquake bombs, which caused a magazine explosion, she capsized and sank."
+    },
+    "depth": {
+      "zh": "极浅 (倾覆在峡湾内，战后被挪威公司当做废铁拆解)",
+      "en": "Extremely shallow (Capsized in the fjord; scrapped post-war by a Norwegian company)"
+    },
+    "historyNotes": {
+      "zh": "俾斯麦号的姊妹舰，被称为‘北方的孤独女王’。它一生极少出港作战，却牵制了皇家海军极其庞大的兵力。它的覆灭标志着德国水面舰队威胁的彻底解除。",
+      "en": "The sister ship of the Bismarck, known as 'The Lonely Queen of the North'. She spent most of her life in port but tied down immense Royal Navy resources. Her destruction marked the end of the surface threat from the German Navy."
+    },
+    "battle": {
+      "zh": "探题行动 (空袭特罗姆瑟)",
+      "en": "Operation Catechism"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/67/Tirpitz_early.jpg",
+    "battleId": "operation-catechism"
+  },
+  {
+    "id": "bb-barham",
+    "name": {
+      "zh": "巴勒姆号战列舰",
+      "en": "HMS Barham"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      32.566,
+      26.4
+    ],
+    "sinkingDate": "1941-11-25",
+    "cause": {
+      "zh": "在亚历山大港以北海域被德国潜艇 U-331 近距离发射的三枚鱼雷击中。在向左倾覆的过程中，主弹药库发生惊天动地的大爆炸。",
+      "en": "Struck by three torpedoes fired at close range by the German submarine U-331 in the waters north of Alexandria. While capsizing to port, her main magazines suffered an earth-shattering explosion."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "一战日德兰海战的老兵。它沉没时的剧烈殉爆被随行的百眼巨人号上的摄影师拍下，成为二战中最具视觉冲击力、也最令人心碎的真实影像之一。",
+      "en": "A veteran of the WWI Battle of Jutland. Her violent magazine explosion during sinking was captured on film by a cameraman on the accompanying HMS Argus, becoming one of the most visually shocking and heartbreaking real footages of WWII."
+    },
+    "battle": {
+      "zh": "地中海反潜战",
+      "en": "Mediterranean Anti-Submarine Action"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HMS_Barham_%281914%29.jpg/3840px-HMS_Barham_%281914%29.jpg",
+    "battleId": "mediterranean-anti-submarine-action"
+  },
+  {
+    "id": "bc-hood",
+    "name": {
+      "zh": "胡德号战列巡洋舰",
+      "en": "HMS Hood"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "战列巡洋舰",
+      "en": "Battlecruiser"
+    },
+    "coordinates": [
+      63.333,
+      -31.833
+    ],
+    "sinkingDate": "1941-05-24",
+    "cause": {
+      "zh": "在丹麦海峡海战中，遭到德国战列舰‘俾斯麦号’的 380 毫米主炮命中。炮弹穿透了薄弱的水平装甲，引爆了后部副炮弹药库并连锁引发主弹药库极其剧烈的殉爆，舰体断裂，在 3 分钟内沉没。",
+      "en": "Struck by 380mm shells from the German battleship Bismarck during the Battle of the Denmark Strait. A shell penetrated her thin deck armor, detonating the aft secondary magazine and triggering a catastrophic chain reaction in the main magazine. Her hull broke apart, and she sank within 3 minutes."
+    },
+    "depth": {
+      "zh": "约 2844 米",
+      "en": "Approx. 2844 meters"
+    },
+    "historyNotes": {
+      "zh": "当时世界上最大的军舰，也是大英帝国的象征。全舰 1418 名官兵中仅 3 人生还。它的沉没是皇家海军在二战中最沉重的打击之一。残骸于 2001 年被大卫·梅恩斯（David Mearns）发现。",
+      "en": "The largest warship in the world at the time and the symbol of the British Empire. Only 3 of her 1,418 crew members survived. Her loss was one of the Royal Navy's heaviest blows in WWII. Her wreck was discovered by David Mearns in 2001."
+    },
+    "battle": {
+      "zh": "丹麦海峡海战",
+      "en": "Battle of the Denmark Strait"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HMS_Hood_%2851%29_-_March_17%2C_1924.jpg/3840px-HMS_Hood_%2851%29_-_March_17%2C_1924.jpg",
+    "battleId": "battle-of-the-denmark-strait"
+  },
+  {
+    "id": "bb-prince-of-wales",
+    "name": {
+      "zh": "威尔士亲王号战列舰",
+      "en": "HMS Prince of Wales"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      3.55,
+      104.466
+    ],
+    "sinkingDate": "1941-12-10",
+    "cause": {
+      "zh": "在关丹海域遭到日军陆基航空兵（一式陆攻与九六陆攻）的饱和鱼雷攻击，动力系统瘫痪后倾覆沉没。",
+      "en": "Subjected to a saturation torpedo attack by Japanese land-based aviation (Mitsubishi G4M 'Betty' and G3M 'Nell' bombers) off Kuantan. Her propulsion system was paralyzed, causing her to capsize and sink."
+    },
+    "depth": {
+      "zh": "约 68 米",
+      "en": "Approx. 68 meters"
+    },
+    "historyNotes": {
+      "zh": "乔治五世国王级战列舰。它是海战史上第一艘在公海被纯航空力量击沉的现代化战列舰，标志着战列舰时代开始落幕。",
+      "en": "A King George V-class battleship. She was the first modern battleship in naval history to be sunk entirely by air power on the open sea, signaling the beginning of the end for the battleship era."
+    },
+    "battle": {
+      "zh": "马来亚海战 (Z 舰队)",
+      "en": "Sinking of Prince of Wales and Repulse (Force Z)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/28/Prince_of_Wales-1.jpg",
+    "battleId": "sinking-of-prince-of-wales-and-repulse-force-z"
+  },
+  {
+    "id": "bc-repulse",
+    "name": {
+      "zh": "反击号战列巡洋舰",
+      "en": "HMS Repulse"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "战列巡洋舰",
+      "en": "Battlecruiser"
+    },
+    "coordinates": [
+      3.566,
+      104.333
+    ],
+    "sinkingDate": "1941-12-10",
+    "cause": {
+      "zh": "遭到多轮高空轰炸与鱼雷机交替攻击，身中至少 5 枚鱼雷后迅速沉没。",
+      "en": "Endured alternating attacks from multiple waves of high-altitude bombers and torpedo planes, sinking rapidly after sustaining at least 5 torpedo hits."
+    },
+    "depth": {
+      "zh": "约 54 米",
+      "en": "Approx. 54 meters"
+    },
+    "historyNotes": {
+      "zh": "虽然是老牌战巡，但其防空与机动性在战斗初期表现优异。它的残骸目前与威尔士亲王号相距不远，同为著名的战争公墓。",
+      "en": "Although an older battlecruiser, her anti-aircraft fire and maneuverability performed excellently early in the battle. Her wreck now lies not far from the Prince of Wales; both serve as famous war graves."
+    },
+    "battle": {
+      "zh": "马来亚海战 (Z 舰队)",
+      "en": "Sinking of Prince of Wales and Repulse (Force Z)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Repulse-1.jpg/3840px-Repulse-1.jpg",
+    "battleId": "sinking-of-prince-of-wales-and-repulse-force-z"
+  },
+  {
+    "id": "bb-08-royal-oak",
+    "name": {
+      "zh": "皇家橡树号战列舰",
+      "en": "HMS Royal Oak (08)"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      58.931,
+      -2.981
+    ],
+    "sinkingDate": "1939-10-14",
+    "cause": {
+      "zh": "在绝对安全的皇家海军大本营斯卡帕湾锚泊时，被悄悄潜入的德国潜艇 U-47（由京特·普里恩指挥）发射的多枚鱼雷击中，迅速翻覆沉没。",
+      "en": "While anchored in the supposedly impregnable Royal Navy home base of Scapa Flow, she was struck by multiple torpedoes fired by the stealthily infiltrated German submarine U-47 (commanded by Günther Prien), capsizing and sinking rapidly."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "复仇级战列舰。它的沉没是皇家海军在二战初期的奇耻大辱，暴露了斯卡帕湾防御的致命漏洞。沉船现被英国政府定为官方战争公墓，每年仍会有潜水员潜入水下更换挂在船艉的皇家海军白船旗。",
+      "en": "A Revenge-class battleship. Her sinking was a tremendous humiliation for the Royal Navy early in WWII, exposing fatal flaws in Scapa Flow's defenses. The wreck is now a designated official war grave by the UK government, and divers still descend annually to replace the White Ensign at her stern."
+    },
+    "battle": {
+      "zh": "斯卡帕湾潜入战",
+      "en": "The Raid on Scapa Flow"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5d/HMS_Royal_Oak_%2808%29.jpg",
+    "battleId": "the-raid-on-scapa-flow"
+  },
+  {
+    "id": "bb-fuso",
+    "name": {
+      "zh": "扶桑号战列舰",
+      "en": "IJN Fusō"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      10.15,
+      125.4
+    ],
+    "sinkingDate": "1944-10-25",
+    "cause": {
+      "zh": "在进入海峡途中遭美军驱逐舰梅尔文号 (USS Melvin) 鱼雷伏击，舰体中部发生剧烈爆炸并断成两截，随后两部分分别沉没。",
+      "en": "Ambushed by torpedoes from the U.S. destroyer USS Melvin while entering the strait. A massive explosion occurred amidships, breaking the hull in two, with both halves subsequently sinking."
+    },
+    "depth": {
+      "zh": "约 185 米",
+      "en": "Approx. 185 meters"
+    },
+    "historyNotes": {
+      "zh": "以其极其高耸、像违章建筑一样的“违章建筑桅楼”闻名。它是那一晚第一艘倒下的巨舰，残骸目前在海底呈断裂状态。",
+      "en": "Famous for her extremely tall, unstable-looking 'pagoda mast'. She was the first behemoth to fall that night, and her wreck currently lies on the seabed in a fractured state."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (苏里高海峡)",
+      "en": "Battle of Leyte Gulf (Surigao Strait)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fuso_Trial_Heading_Left.jpg",
+    "battleId": "battle-of-leyte-gulf-surigao-strait"
+  },
+  {
+    "id": "bb-haruna",
+    "name": {
+      "zh": "榛名号战列舰",
+      "en": "IJN Haruna"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      34.25151,
+      132.49404
+    ],
+    "sinkingDate": "1945-07-28",
+    "cause": {
+      "zh": "在吴港锚地遭到美军舰载机的连续轰炸，身中多枚炸弹后坐沉于浅水中。",
+      "en": "Subjected to continuous bombing by U.S. carrier aircraft while moored at Kure, settling into the shallow water after taking multiple bomb hits."
+    },
+    "depth": {
+      "zh": "浅水 (部分建筑露出水面)",
+      "en": "Shallow water (superstructure partially exposed)"
+    },
+    "historyNotes": {
+      "zh": "金刚级战列舰中唯一幸存到战后的舰只（尽管是以坐沉状态）。它参与了几乎所有重大海战，其残骸在战后被拆解。",
+      "en": "The only Kongō-class battleship to survive until the end of the war (albeit in a sunken state). She participated in almost all major naval battles. Her wreck was scrapped post-war."
+    },
+    "battle": {
+      "zh": "吴港大空袭",
+      "en": "Bombing of Kure"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Haruna_1934.jpg/1920px-Haruna_1934.jpg",
+    "battleId": "bombing-of-kure"
+  },
+  {
+    "id": "bb-hiei",
+    "name": {
+      "zh": "比叡号战列舰",
+      "en": "IJN Hiei"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      -9,
+      159
+    ],
+    "sinkingDate": "1942-11-14",
+    "cause": {
+      "zh": "在13日夜战中遭到美军巡洋舰与驱逐舰近距离围攻，上层建筑严重毁坏并失去操舵能力。次日白天又遭美军飞机持续空袭，最终被日军自行凿沉。",
+      "en": "During the night battle of November 13, Hiei was battered by American cruisers and destroyers at close range, losing steering control after severe damage to her superstructure. Repeated American air attacks the next day forced the Japanese to scuttle her."
+    },
+    "depth": {
+      "zh": "约 985 米",
+      "en": "Approx. 985 meters"
+    },
+    "historyNotes": {
+      "zh": "这是日本在第二次世界大战中损失的第一艘战列舰。残骸于2019年初被发现，舰体断裂并倒扣在海床上。",
+      "en": "Hiei became the first Japanese battleship lost during World War II. Her wreck was discovered in early 2019, resting upside down on the seabed in two major sections."
+    },
+    "battle": {
+      "zh": "瓜达尔卡纳尔海战",
+      "en": "Naval Battle of Guadalcanal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hiei_Tsukugewan.jpg",
+    "battleId": "naval-battle-of-guadalcanal"
+  },
+  {
+    "id": "bb-hyuga",
+    "name": {
+      "zh": "日向号航空战列舰",
+      "en": "IJN Hyūga"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "航空战列舰",
+      "en": "Aviation Battleship"
+    },
+    "coordinates": [
+      34.166,
+      132.55
+    ],
+    "sinkingDate": "1945-07-24",
+    "cause": {
+      "zh": "遭到美军约50架战机的集中攻击，舰体被炸弹贯穿后坐沉。",
+      "en": "Attacked by approximately 50 U.S. aircraft, she settled to the bottom after bombs penetrated her hull."
+    },
+    "depth": {
+      "zh": "浅水",
+      "en": "Shallow water"
+    },
+    "historyNotes": {
+      "zh": "伊势级的二号舰。它的沉没标志着日军最后一点大型水面机动力量的彻底瓦解。",
+      "en": "The second ship of the Ise-class. Her sinking marked the complete disintegration of what little remained of Japan's large surface mobile forces."
+    },
+    "battle": {
+      "zh": "吴港大空袭",
+      "en": "Bombing of Kure"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ColorizedHyuga.jpg",
+    "battleId": "bombing-of-kure"
+  },
+  {
+    "id": "bb-ise",
+    "name": {
+      "zh": "伊势号航空战列舰",
+      "en": "IJN Ise"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "航空战列舰",
+      "en": "Aviation Battleship"
+    },
+    "coordinates": [
+      34.183,
+      132.45
+    ],
+    "sinkingDate": "1945-07-28",
+    "cause": {
+      "zh": "在吴港附近的坪井锚地遭到毁灭性空袭，舰体严重进水后坐沉。",
+      "en": "Suffered a devastating air strike at her Tsubojima mooring near Kure, settling to the bottom after severe flooding."
+    },
+    "depth": {
+      "zh": "浅水",
+      "en": "Shallow water"
+    },
+    "historyNotes": {
+      "zh": "独特的“半航母半战列舰”构造。它在战争末期因缺乏舰载机和燃料，只能作为固定防空平台在港内迎风待毙。",
+      "en": "Featured a unique 'half-carrier, half-battleship' configuration. Late in the war, lacking both aircraft and fuel, she was reduced to a stationary anti-aircraft platform waiting for her doom in port."
+    },
+    "battle": {
+      "zh": "吴港大空袭",
+      "en": "Bombing of Kure"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/47/Battleship-carrier_Ise.jpg",
+    "battleId": "bombing-of-kure"
+  },
+  {
+    "id": "bb-kirishima",
+    "name": {
+      "zh": "雾岛号战列舰",
+      "en": "IJN Kirishima"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      -9.083,
+      159.65
+    ],
+    "sinkingDate": "1942-11-15",
+    "cause": {
+      "zh": "在夜战中攻击美军南达科他号时，被华盛顿号战列舰利用雷达在近距离锁定，遭9枚16英寸炮弹重创，最终被迫自沉。",
+      "en": "While engaging USS South Dakota during the night battle, Kirishima was detected at close range by radar-equipped USS Washington and struck by nine 16-inch shells, forcing the Japanese crew to scuttle her."
+    },
+    "depth": {
+      "zh": "约 1200 米",
+      "en": "Approx. 1,200 meters"
+    },
+    "historyNotes": {
+      "zh": "这是太平洋战争中极少见的战列舰对决之一。残骸于1992年由罗伯特·巴拉德发现，完全倒扣于海底。",
+      "en": "This engagement became one of the rare battleship-versus-battleship duels of the Pacific War. The wreck was discovered in 1992 by Robert Ballard, lying upside down on the ocean floor."
+    },
+    "battle": {
+      "zh": "瓜达尔卡纳尔海战",
+      "en": "Naval Battle of Guadalcanal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kirishima_Tsukumowan_1937.jpg",
+    "battleId": "naval-battle-of-guadalcanal"
+  },
+  {
+    "id": "bb-kongo",
+    "name": {
+      "zh": "金刚号战列舰",
+      "en": "IJN Kongō"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      26.15,
+      121.383
+    ],
+    "sinkingDate": "1944-11-21",
+    "cause": {
+      "zh": "在撤回日本本土途中，于台湾海峡被美军潜艇“海狮”号（USS Sealion）命中两枚鱼雷。因舰体老旧及受损处铆钉震脱导致进水无法控制，最终爆炸沉没。",
+      "en": "Hit by two torpedoes from the U.S. submarine USS Sealion in the Taiwan Strait while retreating to the Japanese mainland. Due to her aging hull and popped rivets at the damage sites causing uncontrollable flooding, she eventually exploded and sank."
+    },
+    "depth": {
+      "zh": "约 100 米",
+      "en": "Approx. 100 meters"
+    },
+    "historyNotes": {
+      "zh": "它是二战中唯一一艘被潜艇击沉的日军战列舰。作为参加过无数战斗的老兵，它的沉没象征着金刚级神话的终结。",
+      "en": "She was the only Japanese battleship sunk by a submarine during World War II. As a veteran of countless battles, her sinking symbolized the end of the Kongō-class myth."
+    },
+    "battle": {
+      "zh": "莱特湾海战",
+      "en": "Battle of Leyte Gulf"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kongo_after_reconstruction.jpg/3840px-Kongo_after_reconstruction.jpg",
+    "battleId": "battle-of-leyte-gulf"
+  },
+  {
+    "id": "bb-musashi",
+    "name": {
+      "zh": "武藏号战列舰",
+      "en": "IJN Musashi"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      13.117,
+      122.533
+    ],
+    "sinkingDate": "1944-10-24",
+    "cause": {
+      "zh": "在锡布延海遭到美军航母舰载机多轮饱和攻击。在身中约19枚鱼雷和17枚炸弹后，最终倾覆沉没。",
+      "en": "Subjected to multiple waves of saturation attacks by U.S. carrier aircraft in the Sibuyan Sea. After sustaining an estimated 19 torpedo hits and 17 bomb hits, she finally capsized and sank."
+    },
+    "depth": {
+      "zh": "约 1000 米",
+      "en": "Approx. 1000 meters"
+    },
+    "historyNotes": {
+      "zh": "大和级战列舰二号舰，当时世界上最强大的战列舰之一。它的沉没证明了在失去制空权的情况下，即便拥有最厚装甲的巨舰也无法生存。2015年残骸被发现。",
+      "en": "The second ship of the Yamato-class, and one of the most powerful battleships in the world at the time. Her sinking proved that without air superiority, even behemoths with the thickest armor could not survive. Her wreck was discovered in 2015."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (锡布延海)",
+      "en": "Battle of Leyte Gulf (Sibuyan Sea)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Japanese_battleship_Musashi_underway_in_1944_%28NH_63473%29_%28cropped%29.jpg/3840px-Japanese_battleship_Musashi_underway_in_1944_%28NH_63473%29_%28cropped%29.jpg",
+    "battleId": "battle-of-leyte-gulf-sibuyan-sea"
+  },
+  {
+    "id": "bb-nagato",
+    "name": {
+      "zh": "长门号战列舰",
+      "en": "IJN Nagato"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      11.573,
+      165.485
+    ],
+    "sinkingDate": "1946-07-29",
+    "cause": {
+      "zh": "在‘贝克’(Baker) 水下核爆中受到极其严重的船体结构损伤。在核爆结束后的第五天夜里，由于进水过多，在无人目击的情况下默默倾覆沉没于环礁湖底。",
+      "en": "Suffered extremely severe hull structural damage during the 'Baker' underwater nuclear test. On the night of the fifth day after the detonation, due to excessive flooding, she quietly capsized and sank to the bottom of the lagoon unobserved."
+    },
+    "depth": {
+      "zh": "约 50 米 (倒扣在海底)",
+      "en": "Approx. 50 meters (Capsized/Upside down on the seabed)"
+    },
+    "historyNotes": {
+      "zh": "曾是日本联合舰队的旗舰，山本五十六正是从这艘船上发出了偷袭珍珠港的‘虎！虎！虎！’指令。作为日本投降时唯一一艘能够航行的战列舰，它的沉没标志着日本帝国海军的彻底终结。",
+      "en": "Once the flagship of the Japanese Combined Fleet, from which Isoroku Yamamoto issued the 'Tora! Tora! Tora!' order to attack Pearl Harbor. As the only survivable Japanese battleship capable of sailing at the time of Japan's surrender, her sinking marked the absolute end of the Imperial Japanese Navy."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Japanese_Battleship_Nagato_1944.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "bb-yamashiro",
+    "name": {
+      "zh": "山城号战列舰",
+      "en": "IJN Yamashiro"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      10.368,
+      125.358
+    ],
+    "sinkingDate": "1944-10-25",
+    "cause": {
+      "zh": "作为旗舰冲在最前，遭到美军6艘战列舰的雷达引导集火以及驱逐舰的鱼雷饱和攻击，倾覆沉没。",
+      "en": "Charging ahead as the flagship, she was subjected to radar-directed concentrated fire from 6 U.S. battleships, as well as saturation torpedo attacks from destroyers, eventually capsizing and sinking."
+    },
+    "depth": {
+      "zh": "约 200 米",
+      "en": "Approx. 200 meters"
+    },
+    "historyNotes": {
+      "zh": "西村中将的旗舰。它在生命最后时刻依然在向美军回击，是海战史上最后一艘与对方战列舰交火并被击沉的战列舰。",
+      "en": "The flagship of Vice Admiral Nishimura. She continued to return fire at American forces until her final moments. She holds the distinction of being the last battleship in naval history to engage in combat with, and be sunk by, enemy battleships."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (苏里高海峡)",
+      "en": "Battle of Leyte Gulf (Surigao Strait)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Yamashiro_at_Tateyama.jpg/1920px-Yamashiro_at_Tateyama.jpg",
+    "battleId": "battle-of-leyte-gulf-surigao-strait"
+  },
+  {
+    "id": "bb-yamato",
+    "name": {
+      "zh": "大和号战列舰",
+      "en": "IJN Yamato"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      30.366,
+      128.066
+    ],
+    "sinkingDate": "1945-04-07",
+    "cause": {
+      "zh": "遭到美军第58特混编队数百架战机的饱和攻击。左舷被多枚鱼雷命中导致严重倾斜，最终因弹药库起火引发威力巨大的殉爆，舰体断裂沉没。",
+      "en": "Subjected to a saturation attack by hundreds of aircraft from U.S. Task Force 58. Struck by multiple torpedoes on her port side causing a severe list, she ultimately suffered a massive magazine explosion due to a fire, breaking her hull in two as she sank."
+    },
+    "depth": {
+      "zh": "约 340 米",
+      "en": "Approx. 340 meters"
+    },
+    "historyNotes": {
+      "zh": "当时世界上排水量最大的战列舰，日本海军的最后象征。它的沉没被视为战列舰作为海战核心地位的正式告终。",
+      "en": "The largest battleship in the world by displacement at the time, and the final symbol of the Imperial Japanese Navy. Her sinking is widely regarded as the official end of the battleship's era as the core of naval warfare."
+    },
+    "battle": {
+      "zh": "菊水特攻 (天一号作战)",
+      "en": "Operation Ten-Go (Kikusui Attack)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/30/Yamato_during_Trial_Service.jpg",
+    "battleId": "operation-ten-go-kikusui-attack"
+  },
+  {
+    "id": "bb-conte-di-cavour",
+    "name": {
+      "zh": "加富尔伯爵号战列舰",
+      "en": "Italian Battleship Conte di Cavour"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      40.473,
+      17.225
+    ],
+    "sinkingDate": "1940-11-12",
+    "cause": {
+      "zh": "在塔兰托港内遭到英国皇家海军“光辉号”航母起飞的剑鱼式鱼雷机空袭，被一条鱼雷击中舰舯部后坐沉。",
+      "en": "Attacked in the port of Taranto by Fairey Swordfish torpedo bombers launched from the Royal Navy carrier HMS Illustrious. She was struck amidships by a torpedo and settled to the bottom."
+    },
+    "depth": {
+      "zh": "约 12 米 (港口浅水)",
+      "en": "Approx. 12 meters (Shallow port waters)"
+    },
+    "historyNotes": {
+      "zh": "虽然日后被打捞，但直到意大利投降都未能完成修复。塔兰托空袭向全世界（尤其是日本海军）展示了航母舰载机对港内战列舰的毁灭性打击能力。",
+      "en": "Although salvaged later, she was never fully repaired before the Italian armistice. The Battle of Taranto demonstrated to the world (especially the Japanese Navy) the devastating strike capability of carrier-based aircraft against battleships in port."
+    },
+    "battle": {
+      "zh": "塔兰托空袭 (判断行动)",
+      "en": "Battle of Taranto (Operation Judgement)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/bc/RNConte_di_Cavour-Original.jpg",
+    "battleId": "battle-of-taranto-operation-judgement"
+  },
+  {
+    "id": "bb-roma",
+    "name": {
+      "zh": "罗马号战列舰",
+      "en": "Italian Battleship Roma"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      41.157,
+      8.295
+    ],
+    "sinkingDate": "1943-09-09",
+    "cause": {
+      "zh": "在前往盟军港口投诚途中，遭到前盟友德国空军 Do 217 轰炸机的追击。被两枚‘弗里茨-X’ (Fritz-X) 无线电制导炸弹命中，直接贯穿装甲引爆主弹药库，舰体断裂沉没。",
+      "en": "While en route to surrender at an Allied port, she was pursued by Do 217 bombers of her former ally, the German Luftwaffe. Hit by two 'Fritz-X' radio-guided bombs which directly penetrated her armor and detonated the main magazine, her hull broke in two and she sank."
+    },
+    "depth": {
+      "zh": "约 1000 米",
+      "en": "Approx. 1000 meters"
+    },
+    "historyNotes": {
+      "zh": "维托里奥·维内托级战列舰，意大利海军的骄傲。它是海战史上第一艘被制导武器击沉的主力舰。这枚炸弹不仅击沉了罗马号，也宣告了‘大舰巨炮’在精确制导武器面前的彻底过时。残骸于 2012 年在撒丁岛北部海域被发现。",
+      "en": "A Vittorio Veneto-class battleship, the pride of the Italian Navy. She was the first capital ship in naval history to be sunk by a guided weapon. This bomb not only sank Roma, but also heralded the complete obsolescence of 'big guns and heavy armor' in the face of precision-guided munitions. Her wreck was discovered in 2012 in the waters north of Sardinia."
+    },
+    "battle": {
+      "zh": "意大利投降与轴心国内讧",
+      "en": "Italian Surrender and Axis Infighting"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/82/Battleship_Roma.jpg",
+    "battleId": "italian-surrender-and-axis-infighting"
+  },
+  {
+    "id": "bb-marat",
+    "name": {
+      "zh": "马拉号战列舰",
+      "en": "Soviet Battleship Marat"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      59.983,
+      29.766
+    ],
+    "sinkingDate": "1941-09-23",
+    "cause": {
+      "zh": "在喀琅施塔得港内遭到德国空军 Ju-87 斯图卡俯冲轰炸机（由著名飞行员汉斯-乌尔里希·鲁德尔驾驶）投下的 1000 公斤穿甲炸弹直接命中前弹药库，发生剧烈殉爆并首部沉没。",
+      "en": "While in the port of Kronstadt, she took a direct hit to her forward magazine from a 1,000 kg armor-piercing bomb dropped by a Luftwaffe Ju-87 Stuka (piloted by the famous Hans-Ulrich Rudel). She suffered a catastrophic magazine explosion and sank by the bow."
+    },
+    "depth": {
+      "zh": "港口浅水坐沉",
+      "en": "Settled in shallow port waters"
+    },
+    "historyNotes": {
+      "zh": "甘古特级战列舰。虽然舰艏和前主炮塔被炸飞并坐沉在浅水中，但苏联水兵没有放弃它。其剩余的后部主炮在整个列宁格勒保卫战期间，持续作为固定炮台为苏军提供火力支援。",
+      "en": "A Gangut-class battleship. Although her bow and forward turret were blown off and she settled in the shallow water, Soviet sailors did not abandon her. Her remaining aft turrets continued to provide fire support as a stationary battery throughout the Siege of Leningrad."
+    },
+    "battle": {
+      "zh": "列宁格勒保卫战",
+      "en": "Siege of Leningrad"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Marat1934Gdynia.jpg/1920px-Marat1934Gdynia.jpg",
+    "battleId": "siege-of-leningrad"
+  },
+  {
+    "id": "bb-39-arizona",
+    "name": {
+      "zh": "亚利桑那号战列舰",
+      "en": "USS Arizona (BB-39)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      21.364742,
+      -157.950027
+    ],
+    "sinkingDate": "1941-12-07",
+    "cause": {
+      "zh": "遭到日军高空轰炸机投掷的穿甲弹击中前方弹药库，引发毁灭性大爆炸，在几分钟内沉没。",
+      "en": "Struck by an armor-piercing bomb dropped by a Japanese high-altitude bomber, which ignited the forward ammunition magazine. This triggered a devastating massive explosion, sinking the ship in a matter of minutes."
+    },
+    "depth": {
+      "zh": "约 12 米 (上层建筑露出水面)",
+      "en": "Approx. 12 meters (superstructure above water)"
+    },
+    "historyNotes": {
+      "zh": "珍珠港事件最著名的受害者。目前舰体上方建有纪念馆，至今仍在向海面渗出被称为“亚利桑那之泪”的燃油。",
+      "en": "The most famous victim of the attack on Pearl Harbor. A memorial is now built over the wreck, which continues to leak oil into the water to this day, commonly referred to as the 'Tears of the Arizona'."
+    },
+    "battle": {
+      "zh": "珍珠港事件",
+      "en": "Attack on Pearl Harbor"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/USS_Arizona_%28BB-39%29_-_NH_57658.jpg/1920px-USS_Arizona_%28BB-39%29_-_NH_57658.jpg",
+    "battleId": "attack-on-pearl-harbor"
+  },
+  {
+    "id": "bb-33-arkansas",
+    "name": {
+      "zh": "阿肯色号战列舰",
+      "en": "USS Arkansas (BB-33)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      11.583,
+      165.5
+    ],
+    "sinkingDate": "1946-07-25",
+    "cause": {
+      "zh": "距离‘贝克’水下核爆中心仅 155 米。核爆瞬间产生的超强水下冲击波和数百万吨重的水柱直接将其压碎并掀翻，几乎在瞬间沉入海底。",
+      "en": "Positioned just 155 meters from the 'Baker' underwater nuclear blast center. The incredibly powerful underwater shockwave and millions of tons of water column generated instantly by the explosion directly crushed and flipped her over, causing her to sink almost instantaneously."
+    },
+    "depth": {
+      "zh": "约 55 米",
+      "en": "Approx. 55 meters"
+    },
+    "historyNotes": {
+      "zh": "这是美国海军参加一战和二战的骨灰级老将（1912年服役）。由于距离爆心极近，它的残骸在海底被倒扣着深深砸进沙子里，船体结构被核爆巨大的能量撕扯得极其扭曲。",
+      "en": "A veteran of both WWI and WWII for the U.S. Navy (commissioned in 1912). Due to being extremely close to the hypocenter, her wreck was slammed upside down deep into the sand on the seabed, with her hull structure severely twisted by the immense energy of the nuclear explosion."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bundesarchiv_Bild_102-10062%2C_Kiel%2C_US-Schlachtschiff_%22Arkansas%22.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "bb-37-oklahoma",
+    "name": {
+      "zh": "俄克拉荷马号战列舰",
+      "en": "USS Oklahoma (BB-37)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "战列舰",
+      "en": "Battleship"
+    },
+    "coordinates": [
+      21.364727,
+      -157.952392
+    ],
+    "sinkingDate": "1941-12-07",
+    "cause": {
+      "zh": "被至少 5 枚鱼雷击中左舷，迅速向左倾覆，底朝天翻转在港内。",
+      "en": "Hit by at least 5 torpedoes on her port side, she quickly capsized to port, rolling completely upside down in the harbor."
+    },
+    "depth": {
+      "zh": "约 12 米",
+      "en": "Approx. 12 meters"
+    },
+    "historyNotes": {
+      "zh": "由于翻转严重，它虽然在1943年被打捞起来，但已无修复价值。在1947年拖往拆解点的途中遭遇风暴沉没在深海。",
+      "en": "Due to the severe capsizing, although she was righted and refloated in 1943, she was deemed beyond repair. She was lost in a deep-sea storm while under tow to a scrapyard in 1947."
+    },
+    "battle": {
+      "zh": "珍珠港事件",
+      "en": "Attack on Pearl Harbor"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/USS_Oklahoma_%28BB-37%29_passing_Alcatraz_in_the_1930s.jpg/3840px-USS_Oklahoma_%28BB-37%29_passing_Alcatraz_in_the_1930s.jpg",
+    "battleId": "attack-on-pearl-harbor"
+  },
+  {
+    "id": "ag-16-utah",
+    "name": {
+      "zh": "犹他号训练舰/战列舰",
+      "en": "USS Utah (AG-16)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "训练舰 (原战列舰)",
+      "en": "Training Ship (ex-Battleship)"
+    },
+    "coordinates": [
+      21.368742,
+      -157.962336
+    ],
+    "sinkingDate": "1941-12-07",
+    "cause": {
+      "zh": "被日军鱼雷机误认为是活跃战列舰而遭到攻击，中雷两枚后翻沉。",
+      "en": "Mistaken for an active battleship by Japanese torpedo bombers and attacked. She capsized and sank after taking two torpedo hits."
+    },
+    "depth": {
+      "zh": "部分舰体露出水面",
+      "en": "Partially submerged (hull exposed)"
+    },
+    "historyNotes": {
+      "zh": "它位于福特岛的西侧。美军后来决定不打捞其残骸，它至今仍以翻沉的姿态留在珍珠港，作为那场灾难的无声见证。",
+      "en": "She was moored on the west side of Ford Island. The U.S. Navy later decided against salvaging the wreck. She remains capsized in Pearl Harbor to this day, serving as a silent witness to the disaster."
+    },
+    "battle": {
+      "zh": "珍珠港事件",
+      "en": "Attack on Pearl Harbor"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/USS_Utah_%28AG-16%29_being_painted_at_Puget_Sound_1941.jpg/1920px-USS_Utah_%28AG-16%29_being_painted_at_Puget_Sound_1941.jpg",
+    "battleId": "attack-on-pearl-harbor"
+  }
+]

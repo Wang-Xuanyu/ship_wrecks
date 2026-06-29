@@ -1,0 +1,80 @@
+[
+  {
+    "id": "info-atlantic-graveyard",
+    "name": {
+      "zh": "大西洋海战：未被标记的钢铁墓地",
+      "en": "Battle of the Atlantic: The Unmapped Graveyard"
+    },
+    "faction": {
+      "zh": "所有阵营",
+      "en": "All Factions"
+    },
+    "type": {
+      "zh": "纪念/信息标记",
+      "en": "Memorial / Info Marker"
+    },
+    "coordinates": [
+      40,
+      -40
+    ],
+    "sinkingDate": "1939-1945",
+    "cause": {
+      "zh": "在长达六年的大西洋绞杀战中，因战损、风暴或误击沉没，且精确坐标永远消失在茫茫大洋深处。",
+      "en": "Sunk due to battle damage, storms, or friendly fire during the six-year-long Tonnage War in the Atlantic, with their precise coordinates lost forever in the vast depths of the ocean."
+    },
+    "depth": {
+      "zh": "大西洋深渊",
+      "en": "Abyssal depths of the Atlantic"
+    },
+    "historyNotes": {
+      "zh": "这是一个特殊的历史纪念标。在二战期间，仅大西洋海域就沉没了超过 3500 艘商船、上百艘护航军舰以及 700 多艘潜艇。由于数据极其庞大且多数残骸至今未能寻获，系统无法一一穷举渲染。这个坐标代表了所有未在地图上标出的无名战舰、商船，以及长眠于此的十余万名水手与平民。",
+      "en": "This is a special historical memorial marker. During WWII, the Atlantic Ocean alone saw the sinking of over 3,500 merchant ships, hundreds of escort warships, and more than 700 submarines. Because the data is overwhelmingly vast and most wrecks remain undiscovered to this day, the system cannot exhaustively render them all. This coordinate stands for all the unnamed warships and merchant vessels not marked on the map, and the over one hundred thousand sailors and civilians who rest here."
+    },
+    "battle": {
+      "zh": "大西洋海战 (全期)",
+      "en": "Battle of the Atlantic (Entire Campaign)"
+    },
+    "flagIconUrl": "/memorial_new.png",
+    "cover": "/memorial_new.png",
+    "battleId": "battle-of-the-atlantic-entire-campaign"
+  },
+  {
+    "id": "info-bikini-atoll",
+    "name": {
+      "zh": "比基尼环礁：十字路口核爆纪念碑",
+      "en": "Bikini Atoll: Nuclear Crossroads Memorial"
+    },
+    "faction": {
+      "zh": "所有阵营",
+      "en": "All Factions"
+    },
+    "type": {
+      "zh": "纪念/信息标记",
+      "en": "Memorial / Info Marker"
+    },
+    "coordinates": [
+      11.6,
+      165.5
+    ],
+    "sinkingDate": "1946-07-01 至 1946-07-25",
+    "cause": {
+      "zh": "在这个曾经宁静的太平洋环礁，人类先后引爆了两枚两万吨当量的原子弹（空中爆震与水下爆发），以测试末日武器对现代舰队的绝对毁灭能力。",
+      "en": "In this once-tranquil Pacific atoll, humanity detonated two 20-kiloton atomic bombs (an atmospheric detonation and an underwater burst) to test the absolute destructive capability of doomsday weapons against a modern fleet."
+    },
+    "depth": {
+      "zh": "受核污染的礁湖",
+      "en": "Nuclear-contaminated lagoon"
+    },
+    "historyNotes": {
+      "zh": "这是一个特殊的历史纪念标。1946 年，美军在此集结了近百艘二战功勋战舰（以及缴获的轴心国巨舰）作为核武器的靶舰。随着剧烈的核闪光与冲天而起的海啸，数十艘钢铁巨兽被瞬间融化或压碎，永远留在了海底。这场行动不仅彻底终结了巨舰大炮时代，也迫使比基尼岛的原住民永远告别了他们世代居住的家园。这里是二战的终点，也是人类正式迈入冷战核威慑纪元的‘零点’。",
+      "en": "This is a special historical memorial marker. In 1946, the U.S. military assembled nearly a hundred decorated WWII warships (along with captured Axis behemoths) here as target ships for nuclear weapons. With fierce nuclear flashes and sky-high tsunamis, dozens of steel leviathans were instantly melted or crushed, remaining on the seabed forever. This operation not only completely ended the era of big guns and heavy armor but also forced the indigenous people of Bikini to permanently bid farewell to their ancestral home. This place marks the end of WWII and the 'Ground Zero' where humanity officially stepped into the era of Cold War nuclear deterrence."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Operation_Crossroads_Baker_Edit.jpg/3840px-Operation_Crossroads_Baker_Edit.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Operation_Crossroads_Baker_Edit.jpg/3840px-Operation_Crossroads_Baker_Edit.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  }
+]

@@ -1,0 +1,2607 @@
+[
+  {
+    "id": "cl-primauguet",
+    "name": {
+      "zh": "普里莫盖号轻巡洋舰",
+      "en": "French Cruiser Primauguet"
+    },
+    "faction": {
+      "zh": "法国 (维希)",
+      "en": "France (Vichy)"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      33.6,
+      -7.616
+    ],
+    "sinkingDate": "1942-11-08",
+    "cause": {
+      "zh": "在卡萨布兰卡海战中，率领驱逐舰试图阻击美军登陆舰队，遭到美军马萨诸塞号战列舰（USS Massachusetts）和奥古斯塔号重巡洋舰的绝对火力压制，重创搁浅起火。",
+      "en": "During the Naval Battle of Casablanca, while leading destroyers in an attempt to block the U.S. landing fleet, she was absolutely suppressed by firepower from the U.S. battleship USS Massachusetts and the heavy cruiser USS Augusta, leading to her being heavily damaged, beached, and set on fire."
+    },
+    "depth": {
+      "zh": "港口浅水搁浅 (战后拆解)",
+      "en": "Beached in shallow port waters (Scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "这是美军与维希法国海军之间最激烈的冲突。面对配备先进雷达和 16 英寸主炮的美国新锐战列舰，法军的决死冲锋极其悲壮但毫无胜算。",
+      "en": "This was the fiercest clash between U.S. forces and the Vichy French Navy. Facing a state-of-the-art American battleship equipped with advanced radar and 16-inch main guns, the French suicidal charge was extremely tragic but utterly hopeless."
+    },
+    "battle": {
+      "zh": "火炬行动 (卡萨布兰卡海战)",
+      "en": "Operation Torch (Naval Battle of Casablanca)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Croiseur_Primauguet_Goybet.jpg/1920px-Croiseur_Primauguet_Goybet.jpg",
+    "battleId": "operation-torch-naval-battle-of-casablanca"
+  },
+  {
+    "id": "hsk-atlantis",
+    "name": {
+      "zh": "亚特兰蒂斯号辅助巡洋舰",
+      "en": "German Auxiliary Cruiser Atlantis (Raider C)"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "辅助巡洋舰 (伪装袭击舰)",
+      "en": "Auxiliary Cruiser (Commerce Raider)"
+    },
+    "coordinates": [
+      -4.2,
+      -18.7
+    ],
+    "sinkingDate": "1941-11-22",
+    "cause": {
+      "zh": "在南大西洋进行补给作业时，被英国重巡洋舰‘德文郡号’ (HMS Devonshire) 的水上飞机发现。英舰在远距离用 8 英寸主炮开火，亚特兰蒂斯号舰长下令引爆炸药自沉。",
+      "en": "Discovered by a floatplane from the British heavy cruiser HMS Devonshire while conducting resupply operations in the South Atlantic. The British ship opened fire with her 8-inch main guns at long range, and Atlantis's captain ordered scuttling charges detonated to sink her."
+    },
+    "depth": {
+      "zh": "未知 (南大西洋深渊)",
+      "en": "Unknown (Depths of the South Atlantic)"
+    },
+    "historyNotes": {
+      "zh": "这是德国二战中最成功的伪装袭击舰。它在海上连续航行了 622 天（创下记录），航迹遍布大西洋、印度洋甚至太平洋边缘，共击沉或俘获了 22 艘盟军商船。它的沉没标志着水面破交舰时代的衰落。",
+      "en": "This was Germany's most successful disguised commerce raider of WWII. She sailed continuously for 622 days (setting a record), traversing the Atlantic, Indian Ocean, and even the edge of the Pacific, sinking or capturing 22 Allied merchant ships. Her sinking signaled the decline of the era of surface commerce raiders."
+    },
+    "battle": {
+      "zh": "大西洋海战 (破交战)",
+      "en": "Battle of the Atlantic (Commerce Raiding)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hilfskreuzer_Atlantis.jpg",
+    "battleId": "battle-of-the-atlantic-commerce-raiding"
+  },
+  {
+    "id": "hsk-kormoran",
+    "name": {
+      "zh": "鸬鹚号辅助巡洋舰",
+      "en": "German Auxiliary Cruiser Kormoran (HSK-8)"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "辅助巡洋舰 (伪装袭击舰)",
+      "en": "Auxiliary Cruiser (Commerce Raider)"
+    },
+    "coordinates": [
+      -26.059,
+      111.066
+    ],
+    "sinkingDate": "1941-11-19",
+    "cause": {
+      "zh": "在与悉尼号的极近距离交火中，虽然凭借偷袭重创了对手，但也遭到悉尼号主炮的致命反击。轮机舱被毁，引发的大火逼近水雷库，最终由舰长特奥多尔·德特默斯下令弃舰并引爆自沉。",
+      "en": "During her point-blank engagement with HMAS Sydney, despite crippling her opponent via surprise attack, she suffered a fatal counter-battery barrage from Sydney's main guns. Her engine room was destroyed, and spreading fires threatened the mine magazine. She was ultimately abandoned and scuttled on the orders of Captain Theodor Detmers."
+    },
+    "depth": {
+      "zh": "约 2560 米",
+      "en": "Approx. 2560 meters"
+    },
+    "historyNotes": {
+      "zh": "二战中最大型的德国伪装袭击舰。它创造了以商船底子击沉敌方正规巡洋舰的奇迹。与悉尼号全军覆没形成鲜明对比的是，鸬鹚号的船员在弃舰后有 318 人幸存并乘坐救生艇登陆了澳大利亚海岸，成为战俘。",
+      "en": "The largest German disguised commerce raider of WWII. She pulled off the miracle of sinking a regular enemy cruiser with a converted merchant hull. In stark contrast to the total loss of Sydney's crew, 318 of Kormoran's men survived the scuttling, reaching the Australian coast in lifeboats and becoming prisoners of war."
+    },
+    "battle": {
+      "zh": "悉尼号与鸬鹚号海战",
+      "en": "Mutual Destruction of Sydney and Kormoran"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_Bild_146-1985-074-27%2C_Hilfskreuzer_Kormoran.jpg",
+    "battleId": "mutual-destruction-of-sydney-and-kormoran"
+  },
+  {
+    "id": "ca-blucher",
+    "name": {
+      "zh": "布吕歇尔号重巡洋舰",
+      "en": "German Cruiser Blücher"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      59.7,
+      10.6
+    ],
+    "sinkingDate": "1940-04-09",
+    "cause": {
+      "zh": "在入侵挪威的“威悉演习行动”中，驶入奥斯陆峡湾时遭到挪威奥斯卡堡要塞（Oscarsborg Fortress）的古董级岸防炮和岸基鱼雷的近距离直击，起火倾覆沉没。",
+      "en": "During 'Operation Weserübung' (the invasion of Norway), while sailing up the Oslofjord, she was hit at close range by antique coastal defense guns and shore-based torpedoes from Norway's Oscarsborg Fortress. She caught fire, capsized, and sank."
+    },
+    "depth": {
+      "zh": "约 90 米",
+      "en": "Approx. 90 meters"
+    },
+    "historyNotes": {
+      "zh": "希佩尔海军上将级重巡洋舰。这艘服役才几周的崭新战舰被挪威老兵用 40 年前生产的克虏伯火炮和白头鱼雷击沉，给挪威王室和政府争取了宝贵的逃亡时间。",
+      "en": "An Admiral Hipper-class heavy cruiser. This brand-new warship, in service for only weeks, was sunk by Norwegian veterans using 40-year-old Krupp guns and Whitehead torpedoes, buying precious time for the Norwegian royal family and government to escape."
+    },
+    "battle": {
+      "zh": "奥斯陆峡湾之战",
+      "en": "Battle of Drøbak Sound (Oslofjord)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bundesarchiv_DVM_10_Bild-23-63-09%2C_Kreuzer_%22Bl%C3%BCcher%22.jpg",
+    "battleId": "battle-of-dr-bak-sound-oslofjord"
+  },
+  {
+    "id": "cl-konigsberg",
+    "name": {
+      "zh": "柯尼斯堡号轻巡洋舰",
+      "en": "German Cruiser Königsberg"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      60.399,
+      5.317
+    ],
+    "sinkingDate": "1940-04-10",
+    "cause": {
+      "zh": "在入侵挪威时停泊于卑尔根港，遭到英国皇家海军航空兵 16 架‘贼鸥’(Skua) 式俯冲轰炸机的突袭。身中三枚炸弹并近失数枚，引发大火和进水，随后在港口内倾覆沉没。",
+      "en": "While moored in the port of Bergen during the invasion of Norway, she was surprised by 16 Blackburn Skua dive bombers of the Fleet Air Arm. She suffered three direct bomb hits and several near misses, triggering massive fires and flooding before capsizing and sinking in the harbor."
+    },
+    "depth": {
+      "zh": "浅水坐沉 (1942年被打捞作为防空浮台，战后拆解)",
+      "en": "Settled in shallow water (Refloated in 1942 to serve as an anti-aircraft floating battery; scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "历史地位极其特殊：它是人类战争史上第一艘在实战中被俯冲轰炸机直接击沉的主力军舰。这次攻击证明了航空兵对水面舰艇的致命威胁，拉开了二战‘海空战’的序幕。",
+      "en": "Holds a highly unique historical status: she was the first major warship in the history of human warfare to be sunk directly by dive bombers in combat. This attack proved the lethal threat that aviation posed to surface ships, drawing the curtain on the 'air-sea battles' of WWII."
+    },
+    "battle": {
+      "zh": "挪威战役 (威悉演习行动)",
+      "en": "Norwegian Campaign (Operation Weserübung)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/40/K%C3%B6nigsberg_3.jpg",
+    "battleId": "norwegian-campaign-operation-weserubung"
+  },
+  {
+    "id": "ca-prinz-eugen",
+    "name": {
+      "zh": "欧根亲王号重巡洋舰",
+      "en": "German Cruiser Prinz Eugen"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      8.75,
+      167.683
+    ],
+    "sinkingDate": "1946-12-22",
+    "cause": {
+      "zh": "奇迹般地抗过了两次比基尼核爆。但因受到极高剂量的核辐射污染，美军无法派人登舰修补漏水。在被拖曳至夸贾林环礁 (Kwajalein Atoll) 后，最终因进水倾覆沉没。",
+      "en": "Miraculously survived both Bikini nuclear blasts. However, due to extreme levels of radioactive contamination, the U.S. Navy could not send personnel aboard to repair leaks. After being towed to Kwajalein Atoll, she ultimately capsized and sank due to flooding."
+    },
+    "depth": {
+      "zh": "约 11 米 (螺旋桨露出水面)",
+      "en": "Approx. 11 meters (Propellers visible above water)"
+    },
+    "historyNotes": {
+      "zh": "它并未直接沉没在比基尼环礁，而是沉没在东南方的夸贾林环礁。作为德国纳粹海军最后幸存的巨舰，它倒扣在极浅的水中，两只巨大的青铜螺旋桨至今刺破水面。",
+      "en": "She did not sink directly at Bikini Atoll, but rather at Kwajalein Atoll to the southeast. As the last surviving capital ship of the Nazi German Navy, she lies upside down in very shallow water, with her two massive bronze propellers still piercing the water's surface today."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/PE_Atomtest_1.jpg/1920px-PE_Atomtest_1.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "d33-canberra",
+    "name": {
+      "zh": "堪培拉号重巡洋舰",
+      "en": "HMAS Canberra (D33)"
+    },
+    "faction": {
+      "zh": "澳大利亚",
+      "en": "Australia"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -9.25,
+      159.966
+    ],
+    "sinkingDate": "1942-08-09",
+    "cause": {
+      "zh": "开战初期即遭鱼雷与大量炮弹命中，迅速失去动力与作战能力，最终由盟军驱逐舰雷击处分。",
+      "en": "Canberra was devastated within minutes of the battle by torpedoes and intense shellfire, losing power and combat capability before being scuttled by Allied destroyers."
+    },
+    "depth": {
+      "zh": "约 760 米",
+      "en": "Approximately 760 meters"
+    },
+    "historyNotes": {
+      "zh": "为纪念该舰，美国海军后来将一艘巴尔的摩级重巡洋舰命名为“堪培拉号”，这是极为罕见的纪念举措。",
+      "en": "To honor the ship, the United States Navy later named a Baltimore-class cruiser USS Canberra, a rare tribute to a foreign Allied warship."
+    },
+    "battle": {
+      "zh": "萨沃岛海战",
+      "en": "Battle of Savo Island"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/au.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/HMAS_Canberra_%28D33%29_leaving_Wellington%2C_New_Zealand%2C_on_22_July_1942_%2880-G-13454-A%29.jpg/1920px-HMAS_Canberra_%28D33%29_leaving_Wellington%2C_New_Zealand%2C_on_22_July_1942_%2880-G-13454-A%29.jpg",
+    "battleId": "battle-of-savo-island"
+  },
+  {
+    "id": "cl-perth",
+    "name": {
+      "zh": "帕斯号轻巡洋舰",
+      "en": "HMAS Perth"
+    },
+    "faction": {
+      "zh": "澳大利亚",
+      "en": "Australia"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      -5.858,
+      106.147
+    ],
+    "sinkingDate": "1942-03-01",
+    "cause": {
+      "zh": "与休斯顿号共同突围时，被日军驱逐舰队发射的四枚鱼雷连续命中沉没。",
+      "en": "While attempting to break out alongside USS Houston, she was hit by four consecutive torpedoes fired by a Japanese destroyer squadron and sank."
+    },
+    "depth": {
+      "zh": "约 35 米",
+      "en": "Approx. 35 meters"
+    },
+    "historyNotes": {
+      "zh": "澳大利亚海军在早期的核心力量。目前残骸也是东南亚著名的潜水遗址，但同样面临非法金属打捞的威胁。",
+      "en": "A core asset of the Royal Australian Navy early in the war. Her wreck is currently a famous dive site in Southeast Asia, but also faces the threat of illegal scrap metal scavenging."
+    },
+    "battle": {
+      "zh": "巽他海峡海战",
+      "en": "Battle of Sunda Strait"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/au.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Australische_kruiser_HMAS_Perth%2C_%281936-1942%29_%282158_072435%29.jpg/1920px-Australische_kruiser_HMAS_Perth%2C_%281936-1942%29_%282158_072435%29.jpg",
+    "battleId": "battle-of-sunda-strait"
+  },
+  {
+    "id": "cl-sydney",
+    "name": {
+      "zh": "悉尼号轻巡洋舰",
+      "en": "HMAS Sydney (D48)"
+    },
+    "faction": {
+      "zh": "澳大利亚",
+      "en": "Australia"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      -26.241,
+      111.213
+    ],
+    "sinkingDate": "1941-11-19",
+    "cause": {
+      "zh": "在西澳大利亚鲨鱼湾外海拦截不明商船时，因距离过近（约 1000 米），遭到伪装成荷兰商船的德国‘鸬鹚号’突然集火射击和鱼雷打击。舰桥和火控系统瞬间被毁，燃起大火后向东南方漂流并最终沉没。",
+      "en": "While intercepting an unidentified merchant ship off Shark Bay, Western Australia, she closed the distance too much (approx. 1000 meters) and suffered a sudden, concentrated gunfire and torpedo attack from the German raider Kormoran, which was disguised as a Dutch merchantman. Her bridge and fire control systems were instantly destroyed. She caught massive fires, drifted southeast, and eventually sank."
+    },
+    "depth": {
+      "zh": "约 2468 米",
+      "en": "Approx. 2468 meters"
+    },
+    "historyNotes": {
+      "zh": "皇家澳大利亚海军的骄傲，曾在大地中海战区屡建奇功。它的沉没是澳大利亚海军史上最惨重的损失，全舰 645 名官兵无一生还。残骸之谜困扰了澳大利亚长达 67 年，直到 2008 年才被寻获。",
+      "en": "The pride of the Royal Australian Navy, having previously distinguished herself in the Mediterranean Theater. Her sinking remains the most tragic loss in Australian naval history, with all 645 hands lost. The mystery of her wreck haunted Australia for 67 years until it was finally discovered in 2008."
+    },
+    "battle": {
+      "zh": "悉尼号与鸬鹚号海战",
+      "en": "Mutual Destruction of Sydney and Kormoran"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/au.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HMAS_Sydney_in_1936_%289916488333607636%29.jpg/960px-HMAS_Sydney_in_1936_%289916488333607636%29.jpg",
+    "battleId": "mutual-destruction-of-sydney-and-kormoran"
+  },
+  {
+    "id": "cl-cairo",
+    "name": {
+      "zh": "开罗号防空巡洋舰",
+      "en": "HMS Cairo"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "防空轻巡洋舰",
+      "en": "Anti-Aircraft Light Cruiser"
+    },
+    "coordinates": [
+      37.666,
+      10.1
+    ],
+    "sinkingDate": "1942-08-12",
+    "cause": {
+      "zh": "在掩护船团通过突尼斯北部水雷区时，遭到意大利潜艇‘阿克苏姆号’ (Axum) 发射的鱼雷命中舰艉。失去动力且螺旋桨和方向舵被彻底摧毁，由于无法拖带，由英军‘探路者号’驱逐舰发射火炮和鱼雷处分击沉。",
+      "en": "While covering the convoy's passage through a minefield north of Tunisia, she was struck in the stern by a torpedo from the Italian submarine Axum. Losing power with her propellers and rudder completely destroyed, and unable to be towed, she was scuttled with gunfire and torpedoes by the British destroyer HMS Pathfinder."
+    },
+    "depth": {
+      "zh": "未知 (突尼斯以北深水区)",
+      "en": "Unknown (Deep waters north of Tunisia)"
+    },
+    "historyNotes": {
+      "zh": "防空火力的核心节点之一。击沉它的阿克苏姆号潜艇创造了二战潜艇史上的奇迹：它一次齐射的4枚鱼雷，分别命中了开罗号、尼日利亚号（重创）和俄亥俄号（重创）三艘极其关键的舰船。",
+      "en": "One of the core nodes of the anti-aircraft screen. The submarine Axum that sank her achieved a miracle in WWII submarine history: a single salvo of 4 torpedoes simultaneously hit three extremely critical vessels—HMS Cairo, HMS Nigeria (severely damaged), and SS Ohio (severely damaged)."
+    },
+    "battle": {
+      "zh": "基座行动",
+      "en": "Operation Pedestal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/7f/HMS_Cairo.jpg",
+    "battleId": "operation-pedestal"
+  },
+  {
+    "id": "ca-cornwall",
+    "name": {
+      "zh": "康沃尔号重巡洋舰",
+      "en": "HMS Cornwall"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      1.9,
+      77.9
+    ],
+    "sinkingDate": "1942-04-05",
+    "cause": {
+      "zh": "与多塞特郡号一同遭到日军南云机动部队舰载机的猛烈空袭，被多枚炸弹命中后迅速沉没。",
+      "en": "Along with HMS Dorsetshire, she was subjected to fierce air strikes by carrier aircraft from Nagumo's Mobile Force (Kido Butai). She rapidly sank after being hit by multiple bombs."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "肯特级重巡洋舰。这场战斗再次证明了在航母时代，重型水面舰艇如果没有防空伞保护，在俯冲轰炸机面前几乎毫无还手之力。",
+      "en": "A Kent-class heavy cruiser. This battle proved once again that in the age of the aircraft carrier, heavy surface ships without an air-defense umbrella were almost defenseless against dive bombers."
+    },
+    "battle": {
+      "zh": "印度洋空袭",
+      "en": "Indian Ocean Raid"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/84/HMS_Cornwall_%2856%29.jpg",
+    "battleId": "indian-ocean-raid"
+  },
+  {
+    "id": "ca-dorsetshire",
+    "name": {
+      "zh": "多塞特郡号重巡洋舰",
+      "en": "HMS Dorsetshire"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      1.9,
+      77.8
+    ],
+    "sinkingDate": "1942-04-05",
+    "cause": {
+      "zh": "在康沃尔号沉没后仅数分钟，遭到同一波日军机群的饱和攻击，在 8 分钟内即宣告沉没。",
+      "en": "Just minutes after the sinking of HMS Cornwall, she was saturated by attacks from the same wave of Japanese aircraft and sank within 8 minutes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它曾是追击并参与终结德国战列舰俾斯麦号的功臣，最终却在远方的印度洋葬身于日军飞机的炸弹之下。",
+      "en": "She was once the hero that pursued and helped finish off the German battleship Bismarck, only to ultimately meet her demise beneath the bombs of Japanese aircraft in the distant Indian Ocean."
+    },
+    "battle": {
+      "zh": "印度洋空袭",
+      "en": "Indian Ocean Raid"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4f/HMS_Dorsetshire_%2840%29.jpg",
+    "battleId": "indian-ocean-raid"
+  },
+  {
+    "id": "cl-edinburgh",
+    "name": {
+      "zh": "爱丁堡号轻巡洋舰",
+      "en": "HMS Edinburgh"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      73.15,
+      32.75
+    ],
+    "sinkingDate": "1942-05-02",
+    "cause": {
+      "zh": "在护航 QP-11 船队从苏联返回英国途中，先被德国潜艇 U-456 的鱼雷重创，随后在与德国驱逐舰的混战中再次中雷失去动力，最终由友军驱逐舰发射鱼雷击沉以免落入敌手。",
+      "en": "While escorting Convoy QP-11 from the USSR back to the UK, she was first crippled by a torpedo from U-456. Later, during a melee with German destroyers, she was hit by another torpedo. She was eventually scuttled by a friendly destroyer to prevent capture."
+    },
+    "depth": {
+      "zh": "约 245 米",
+      "en": "Approx. 245 meters"
+    },
+    "historyNotes": {
+      "zh": "该舰沉没时，弹药库里装有斯大林用来支付西方军火的 4.5 吨纯金金条（当时价值约 150 万英镑）。1981 年，深海打捞队奇迹般地从这艘战争公墓中捞出了绝大部分黄金，这成为了史上最成功的深海寻宝行动之一。",
+      "en": "At the time of her sinking, her cargo held 4.5 tons of gold bullion sent by Stalin as payment for Western armaments (then valued at £1.5 million). In 1981, a deep-sea salvage team miraculously recovered most of the gold from the war grave, marking it as one of the most successful salvage operations in history."
+    },
+    "battle": {
+      "zh": "北极护航战",
+      "en": "Arctic Convoys"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HMS_Edinburgh.jpg",
+    "battleId": "arctic-convoys"
+  },
+  {
+    "id": "ca-exeter",
+    "name": {
+      "zh": "埃克塞特号重巡洋舰",
+      "en": "HMS Exeter"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -5,
+      111
+    ],
+    "sinkingDate": "1942-03-01",
+    "cause": {
+      "zh": "在试图撤往澳大利亚途中，被日军重巡洋舰编队（妙高、足柄等）火炮重创后由鱼雷击沉。",
+      "en": "While attempting to retreat to Australia, she was severely damaged by gunfire from a Japanese heavy cruiser formation (including Myōkō and Ashigara) and subsequently sunk by torpedoes."
+    },
+    "depth": {
+      "zh": "约 60 米",
+      "en": "Approx. 60 meters"
+    },
+    "historyNotes": {
+      "zh": "它曾是 1939 年普拉特河口海战中击败德国斯佩伯爵号的英雄。作为英国皇家海军在远东的代表，它的沉没具有极强的象征意义。",
+      "en": "She was the hero that helped defeat the German Admiral Graf Spee in the Battle of the River Plate in 1939. As the representative of the Royal Navy in the Far East, her sinking held profound symbolic significance."
+    },
+    "battle": {
+      "zh": "第二次爪哇海海战",
+      "en": "Second Battle of the Java Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HMS_Exeter_%2868%29_off_Coco_Solo_c1939.jpg/1920px-HMS_Exeter_%2868%29_off_Coco_Solo_c1939.jpg",
+    "battleId": "second-battle-of-the-java-sea"
+  },
+  {
+    "id": "cl-fiji",
+    "name": {
+      "zh": "斐济号轻巡洋舰",
+      "en": "HMS Fiji"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      34.583,
+      23.166
+    ],
+    "sinkingDate": "1941-05-22",
+    "cause": {
+      "zh": "在格洛斯特号沉没后不久，同样因防空弹药耗尽，被德军一架 Bf 109 战斗机投下的炸弹近失重创，随后被另一架轰炸机击沉。",
+      "en": "Shortly after Gloucester's sinking, and also out of anti-aircraft ammunition, she was severely damaged by a near miss from a bomb dropped by a German Bf 109 fighter, and was subsequently sunk by another bomber."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "斐济级轻巡洋舰首舰。在克里特岛战役中，英国巡洋舰为了保护驱逐舰和运输船，几乎是用肉身在阻挡德国空军。",
+      "en": "The lead ship of the Fiji-class light cruisers. During the Battle of Crete, British cruisers practically used their own hulls to shield destroyers and transport ships from the Luftwaffe."
+    },
+    "battle": {
+      "zh": "克里特岛战役",
+      "en": "Battle of Crete"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/93/HMS_FIJI%2C_28_August_1940_FL13125.jpg",
+    "battleId": "battle-of-crete"
+  },
+  {
+    "id": "cl-gloucester",
+    "name": {
+      "zh": "格洛斯特号轻巡洋舰",
+      "en": "HMS Gloucester"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      35.833,
+      23
+    ],
+    "sinkingDate": "1941-05-22",
+    "cause": {
+      "zh": "在安提基特拉海峡防空弹药耗尽后，遭到德国空军 Ju 87 斯图卡俯冲轰炸机集中攻击，身中至少 4 枚炸弹后沉没。",
+      "en": "After exhausting her anti-aircraft ammunition in the Antikythera Channel, she was subjected to a concentrated attack by Luftwaffe Ju 87 Stuka dive bombers, sinking after taking at least 4 bomb hits."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "被称为“战斗的 G”（The Fighting G）。它的沉没是由于指挥部错误的命令，让其在没有弹药的情况下重返空袭区，导致全舰 700 多人丧生。",
+      "en": "Known as 'The Fighting G'. Her sinking was the result of flawed orders from command, which sent her back into the air raid zone without ammunition, resulting in the loss of over 700 crew members."
+    },
+    "battle": {
+      "zh": "克里特岛战役",
+      "en": "Battle of Crete"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/bd/HMS_Gloucester.jpg",
+    "battleId": "battle-of-crete"
+  },
+  {
+    "id": "cl-manchester",
+    "name": {
+      "zh": "曼彻斯特号轻巡洋舰",
+      "en": "HMS Manchester"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      36.833,
+      11.166
+    ],
+    "sinkingDate": "1942-08-13",
+    "cause": {
+      "zh": "在突尼斯沿海的邦角（Cap Bon）附近，遭到意大利两艘鱼雷快艇（MAS艇）的伏击，被鱼雷击中轮机舱失去动力，后由英军自沉。",
+      "en": "Ambushed by two Italian motor torpedo boats (MAS boats) near Cap Bon off the coast of Tunisia. Hit in her engine room by a torpedo, she lost power and was subsequently scuttled by the British."
+    },
+    "depth": {
+      "zh": "约 80 米",
+      "en": "Approx. 80 meters"
+    },
+    "historyNotes": {
+      "zh": "它是二战中被鱼雷快艇击沉的最大型军舰。舰长因为下令弃舰自沉而在此后受到了军事法庭的审判，这是英国海军史上极具争议的事件。",
+      "en": "She was the largest warship sunk by motor torpedo boats in WWII. Her captain was subsequently court-martialed for ordering to abandon and scuttle the ship, a highly controversial event in British naval history."
+    },
+    "battle": {
+      "zh": "基座行动",
+      "en": "Operation Pedestal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a1/HMS_Manchester_%28C15%29_1942.jpg",
+    "battleId": "operation-pedestal"
+  },
+  {
+    "id": "cl-neptune",
+    "name": {
+      "zh": "海王星号轻巡洋舰",
+      "en": "HMS Neptune"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      33.25,
+      15.283
+    ],
+    "sinkingDate": "1941-12-19",
+    "cause": {
+      "zh": "在的黎波里外海追击意大利护航船队时，不幸误入意大利铺设的深水雷区，连续触发 4 枚水雷后沉没。",
+      "en": "While pursuing an Italian convoy off Tripoli, she unfortunately sailed into an Italian deep-water minefield, detonating 4 mines consecutively and sinking."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "K舰队的旗舰。它的沉没是极其绝望的，全舰 760 多人中最终只有 1 人生还。同行的坎大哈号驱逐舰也在试图救援时触雷沉没。",
+      "en": "The flagship of Force K. Her sinking was utterly desperate; out of over 760 crew members, only 1 survived. The accompanying destroyer HMS Kandahar also struck a mine and sank while attempting to rescue her."
+    },
+    "battle": {
+      "zh": "第一次苏尔特海战 (雷区灾难)",
+      "en": "First Battle of Sirte (Minefield Disaster)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/71/HMS_Neptune_%28AWM_302461%29.jpg",
+    "battleId": "first-battle-of-sirte-minefield-disaster"
+  },
+  {
+    "id": "ca-york",
+    "name": {
+      "zh": "约克号重巡洋舰",
+      "en": "HMS York"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      35.483,
+      24.133
+    ],
+    "sinkingDate": "1941-03-26",
+    "cause": {
+      "zh": "停泊在希腊克里特岛苏达湾时，遭到意大利海军第十快艇支队（Decima Flottiglia MAS）装备的 6 艘 MTM 爆炸摩托艇（自杀式快艇，驾驶员在撞击前跳水）的夜间突袭。舰体被炸出大洞，为了防止沉没而被迫搁浅，随后在德军空袭中被彻底摧毁。",
+      "en": "While anchored at Souda Bay, Crete, Greece, she was subjected to a night raid by six MTM explosive motorboats (suicide boats where the pilot bails out before impact) operated by the Italian Navy's Decima Flottiglia MAS. Her hull was blown open with a massive hole, forcing her to be grounded to prevent sinking. She was subsequently completely destroyed by German air strikes."
+    },
+    "depth": {
+      "zh": "海湾搁浅坐沉 (战后拆解)",
+      "en": "Grounded and settled in the bay (Scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "这是二战中最成功的特种水下/水面渗透作战之一。意大利海军蛙人和特种快艇部队在整个二战期间表现出了极其惊人的勇气和战术素养，约克号的瘫痪极大地削弱了皇家海军在克里特岛战役中的防御力量。",
+      "en": "One of the most successful special underwater/surface infiltration operations of WWII. The frogmen and special motorboat units of the Italian Navy demonstrated astonishing courage and tactical proficiency throughout the war. The crippling of HMS York severely weakened the Royal Navy's defensive capabilities during the Battle of Crete."
+    },
+    "battle": {
+      "zh": "克里特岛战役 (苏达湾突袭)",
+      "en": "Battle of Crete (Raid on Souda Bay)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/0c/HMS_York_secured.jpg",
+    "battleId": "battle-of-crete-raid-on-souda-bay"
+  },
+  {
+    "id": "cl-de-ruyter",
+    "name": {
+      "zh": "德·鲁伊特号轻巡洋舰",
+      "en": "HNLMS De Ruyter"
+    },
+    "faction": {
+      "zh": "荷兰",
+      "en": "Netherlands"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      -5.983,
+      112.133
+    ],
+    "sinkingDate": "1942-02-27",
+    "cause": {
+      "zh": "在爪哇海海战中，被日军羽黑号重巡洋舰发射的九三式氧气鱼雷命中并引发大火，随后沉没。",
+      "en": "During the Battle of the Java Sea, she was struck by a Type 93 oxygen torpedo fired by the Japanese heavy cruiser Haguro, causing a massive fire and her subsequent sinking."
+    },
+    "depth": {
+      "zh": "约 69 米 (残骸近年因非法打捞已基本消失)",
+      "en": "Approx. 69 meters (The wreck has largely disappeared in recent years due to illegal salvaging)"
+    },
+    "historyNotes": {
+      "zh": "ABDA 舰队的旗舰，由多尔曼少将指挥。它的沉没标志着盟军在荷属东印度地区制海权的彻底丧失。",
+      "en": "The flagship of the ABDA fleet, commanded by Rear Admiral Doorman. Her sinking marked the complete loss of Allied naval supremacy in the Dutch East Indies."
+    },
+    "battle": {
+      "zh": "爪哇海海战",
+      "en": "Battle of the Java Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/nl.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hr.Ms._De_Ruyter_%281936-1942%29_%282158_007556%29.jpg/960px-Hr.Ms._De_Ruyter_%281936-1942%29_%282158_007556%29.jpg",
+    "battleId": "battle-of-the-java-sea"
+  },
+  {
+    "id": "cl-java",
+    "name": {
+      "zh": "爪哇号轻巡洋舰",
+      "en": "HNLMS Java"
+    },
+    "faction": {
+      "zh": "荷兰",
+      "en": "Netherlands"
+    },
+    "type": {
+      "zh": "轻巡洋舰 (爪哇级)",
+      "en": "Light Cruiser (Java-class)"
+    },
+    "coordinates": [
+      -6,
+      112.083
+    ],
+    "sinkingDate": "1942-02-27",
+    "cause": {
+      "zh": "在爪哇海海战的夜战阶段，被日本重巡洋舰‘那智号’发射的鱼雷击中左舷艉部。弹药库引发极其剧烈的殉爆，舰体断裂，在短短 15 分钟内迅速沉没。",
+      "en": "During the night phase of the Battle of the Java Sea, she was struck on the port stern by a torpedo fired by the Japanese heavy cruiser Nachi. The hit triggered a catastrophic magazine explosion, breaking the ship in two before she sank rapidly in just 15 minutes."
+    },
+    "depth": {
+      "zh": "约 69 米 (残骸已被非法打捞者彻底破坏)",
+      "en": "Approx. 69 meters (Wreck completely destroyed by illegal salvagers)"
+    },
+    "historyNotes": {
+      "zh": "与旗舰德·鲁伊特号在同一天夜里先后阵亡。全舰 500 多名官兵随舰沉入黑暗的爪哇海中。它的残骸与德·鲁伊特号一样，在现代被当做废钢遭到非法盗捞，海底仅留下一道巨大的深坑。",
+      "en": "Lost on the same night as the flagship HNLMS De Ruyter. Over 500 crew members went down with the ship into the dark Java Sea. Like De Ruyter, her wreck was illegally salvaged for scrap metal in modern times, leaving only a massive trench on the seabed."
+    },
+    "battle": {
+      "zh": "爪哇海海战",
+      "en": "Battle of the Java Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/nl.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Java_cruiser_SLV_H91.325_284.jpg/1920px-Java_cruiser_SLV_H91.325_284.jpg",
+    "battleId": "battle-of-the-java-sea"
+  },
+  {
+    "id": "cl-agano",
+    "name": {
+      "zh": "阿贺野号轻巡洋舰",
+      "en": "IJN Agano"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      10.183,
+      151.666
+    ],
+    "sinkingDate": "1944-02-16",
+    "cause": {
+      "zh": "在特鲁克基地北方海域被美军潜艇“鳐鱼号” (USS Skate) 发射的鱼雷击中沉没。",
+      "en": "Sunk after being hit by torpedoes fired by the U.S. submarine USS Skate in the waters north of the Truk base."
+    },
+    "depth": {
+      "zh": "极深",
+      "en": "Extremely deep"
+    },
+    "historyNotes": {
+      "zh": "它是当时日军最新锐的轻巡洋舰之一。它的沉没拉开了特鲁克大劫难的序幕，使得日军失去了宝贵的侦察与反潜力量。",
+      "en": "She was one of the most advanced light cruisers of the Japanese Navy at the time. Her sinking served as the prelude to the Truk disaster, depriving the Japanese forces of valuable reconnaissance and anti-submarine capabilities."
+    },
+    "battle": {
+      "zh": "特鲁克大空袭",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Japanese_cruiser_Agano.jpg",
+    "battleId": "operation-hailstone"
+  },
+  {
+    "id": "ca-ashigara",
+    "name": {
+      "zh": "足柄号重巡洋舰",
+      "en": "IJN Ashigara"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰 (妙高级)",
+      "en": "Heavy Cruiser (Myōkō-class)"
+    },
+    "coordinates": [
+      -1.983,
+      104.933
+    ],
+    "sinkingDate": "1945-06-08",
+    "cause": {
+      "zh": "在班加海峡遭到英国海军潜艇‘锋利号’ (HMS Trenchant) 的伏击。在近距离内被潜艇一次齐射的 8 枚鱼雷中的 5 枚直接命中，舰体燃起大火并严重右倾，在半小时后翻覆沉没。",
+      "en": "Ambushed by the Royal Navy submarine HMS Trenchant in the Bangka Strait. Struck at close range by 5 out of 8 torpedoes from a single salvo. The ship caught fire, took on a severe starboard list, and capsized and sank half an hour later."
+    },
+    "depth": {
+      "zh": "未知 (班加海峡海底)",
+      "en": "Unknown (Seabed of the Bangka Strait)"
+    },
+    "historyNotes": {
+      "zh": "二战末期被皇家海军在太平洋战场击沉的少数日本主力战舰之一。沉没时它正向新加坡运送约 1600 名陆军士兵。由于命中数枚重型鱼雷且沉没迅速，导致超过 1200 名士兵和船员丧生，是战争末期日军绝望运输线的缩影。",
+      "en": "One of the few Japanese capital ships sunk by the Royal Navy in the Pacific theater late in WWII. At the time of her sinking, she was transporting approximately 1,600 army troops to Singapore. Hit by multiple heavy torpedoes and sinking rapidly, over 1,200 soldiers and crew perished, epitomizing the desperate state of Japanese supply lines at the end of the war."
+    },
+    "battle": {
+      "zh": "班加海峡伏击战 (太平洋战争末期)",
+      "en": "Bangka Strait Ambush (Late Pacific War)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg/1920px-Wizyta_japo%C5%84skiego_kr%C4%85%C5%BCownika_Ashigara_w_Niemczech_%281-E-8502%29.jpg",
+    "battleId": "bangka-strait-ambush-late-pacific-war"
+  },
+  {
+    "id": "ca-atago",
+    "name": {
+      "zh": "爱宕号重巡洋舰",
+      "en": "IJN Atago"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      9.467,
+      117.2
+    ],
+    "sinkingDate": "1944-10-23",
+    "cause": {
+      "zh": "在帕拉万水道遭到美军潜艇“海鲫”号 (USS Darter) 伏击，身中四枚鱼雷后在20分钟内沉没。",
+      "en": "Ambushed by the U.S. submarine USS Darter in the Palawan Passage, she was hit by four torpedoes and sank within 20 minutes."
+    },
+    "depth": {
+      "zh": "约 1200 米",
+      "en": "Approx. 1200 meters"
+    },
+    "historyNotes": {
+      "zh": "当时它是栗田健男中将的旗舰。它的沉没迫使栗田跳入海中逃生，并不得不将指挥部转移到大和号上，这在战斗初期就打乱了日军的指挥节奏。",
+      "en": "At the time, she was the flagship of Vice Admiral Takeo Kurita. Her sinking forced Kurita to jump into the sea to escape and transfer his command to the Yamato, which disrupted the Japanese command rhythm right at the beginning of the battle."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (帕拉万水道)",
+      "en": "Battle of Leyte Gulf (Palawan Passage)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Atago_trials_1932.jpg",
+    "battleId": "battle-of-leyte-gulf-palawan-passage"
+  },
+  {
+    "id": "ca-chikuma",
+    "name": {
+      "zh": "筑摩号重巡洋舰",
+      "en": "IJN Chikuma"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      11.066,
+      126.5
+    ],
+    "sinkingDate": "1944-10-25",
+    "cause": {
+      "zh": "被美军舰载机投放的鱼雷命中舰艉导致失去动力，随后由日军驱逐舰野分号发射鱼雷处分沉没。",
+      "en": "Struck in the stern by an aerial torpedo from U.S. carrier-based aircraft, causing her to lose power. She was subsequently scuttled by torpedoes from the Japanese destroyer Nowaki."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "在追击美军编队时表现活跃，但最终死于美军反复的空中绞杀。",
+      "en": "Performed actively during the pursuit of U.S. formations, but ultimately fell victim to repeated aerial strangulation by American forces."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (萨马岛海战)",
+      "en": "Battle of Leyte Gulf (Battle off Samar)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/04/Japanese_heavy_cruiser_Chikuma.jpg",
+    "battleId": "battle-of-leyte-gulf-battle-off-samar"
+  },
+  {
+    "id": "ca-chokai",
+    "name": {
+      "zh": "鸟海号重巡洋舰",
+      "en": "IJN Chōkai"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      11.366,
+      126.25
+    ],
+    "sinkingDate": "1944-10-25",
+    "cause": {
+      "zh": "遭到美军护航航母机群的集中空袭，被炸弹命中后引起甲板上的鱼雷殉爆，失去动力后由日军驱逐舰自沉。",
+      "en": "Subjected to concentrated air strikes from U.S. escort carrier aircraft. Hit by bombs that detonated the deck-mounted torpedoes, she lost power and was subsequently scuttled by a Japanese destroyer."
+    },
+    "depth": {
+      "zh": "极深",
+      "en": "Extremely deep"
+    },
+    "historyNotes": {
+      "zh": "曾是萨沃岛海战的英雄舰。在萨马岛，它被美军看似弱小的机群彻底摧毁，残骸至今静躺在深海之中。",
+      "en": "Once the hero ship of the Battle of Savo Island. Off Samar, she was utterly destroyed by seemingly weak U.S. aircraft squadrons. Her wreck still rests in the deep sea today."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (萨马岛海战)",
+      "en": "Battle of Leyte Gulf (Battle off Samar)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/05/1933_Chokai.jpg",
+    "battleId": "battle-of-leyte-gulf-battle-off-samar"
+  },
+  {
+    "id": "ca-furutaka",
+    "name": {
+      "zh": "古鹰号重巡洋舰",
+      "en": "IJN Furutaka"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -9.033,
+      159.55
+    ],
+    "sinkingDate": "1942-10-12",
+    "cause": {
+      "zh": "在夜战中为掩护遭美军集火的旗舰青叶号，主动转向吸引火力，最终遭到美军重创后沉没。",
+      "en": "During the night battle, Furutaka maneuvered to shield the heavily targeted flagship Aoba, deliberately drawing enemy fire before being fatally damaged and sunk by American forces."
+    },
+    "depth": {
+      "zh": "约 1400 米",
+      "en": "Approx. 1,400 meters"
+    },
+    "historyNotes": {
+      "zh": "残骸于2019年2月由保罗·艾伦团队发现。它静静地躺在铁底湾边缘，舰桥与炮塔在沉没过程中受到严重破坏。",
+      "en": "The wreck was discovered in February 2019 by Paul Allen's expedition team. It rests near the edge of Ironbottom Sound, with its bridge and turrets heavily damaged during the sinking."
+    },
+    "battle": {
+      "zh": "埃斯佩兰斯海角海战",
+      "en": "Battle of Cape Esperance"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Furutaka_on_speed_trials_1939.jpg",
+    "battleId": "battle-of-cape-esperance"
+  },
+  {
+    "id": "ca-haguro",
+    "name": {
+      "zh": "羽黑号重巡洋舰",
+      "en": "IJN Haguro"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      4.933,
+      99.416
+    ],
+    "sinkingDate": "1945-05-16",
+    "cause": {
+      "zh": "在马六甲海峡遭到英军第26驱逐大队（萨默斯号等5艘驱逐舰）的鱼雷围攻，身中3枚鱼雷后沉没。",
+      "en": "Besieged by torpedoes from the British 26th Destroyer Flotilla (HMS Saumarez and four other destroyers) in the Malacca Strait, sinking after taking three torpedo hits."
+    },
+    "depth": {
+      "zh": "约 68 米",
+      "en": "Approx. 68 meters"
+    },
+    "historyNotes": {
+      "zh": "妙高级重巡洋舰。这是二战最后一场经典的水面舰艇雷击战。它在燃油极度匮乏的情况下试图执行补给任务，最终在英军精妙的包抄下终结。",
+      "en": "A Myōkō-class heavy cruiser. This was the last classic surface torpedo action of World War II. Attempting to carry out a supply mission despite a severe fuel shortage, she was finally ended by a brilliant British flanking maneuver."
+    },
+    "battle": {
+      "zh": "马六甲海峡海战",
+      "en": "Battle of the Malacca Strait"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Haguro-2.jpg",
+    "battleId": "battle-of-the-malacca-strait"
+  },
+  {
+    "id": "cl-jintsu",
+    "name": {
+      "zh": "神通号轻巡洋舰",
+      "en": "IJN Jintsu"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      -7.633,
+      157.1
+    ],
+    "sinkingDate": "1943-07-13",
+    "cause": {
+      "zh": "作为日军驱逐舰队旗舰，神通号主动开启探照灯吸引美军火力，为友军驱逐舰创造鱼雷攻击机会，最终遭到美军三艘巡洋舰超过2000发炮弹集中射击后断裂沉没。",
+      "en": "Serving as the flagship of a Japanese destroyer squadron, Jintsu deliberately illuminated herself with searchlights to draw American fire and cover friendly torpedo attacks. She was overwhelmed by more than 2,000 shells fired from three American cruisers and broke apart before sinking."
+    },
+    "depth": {
+      "zh": "约 900 米",
+      "en": "Approx. 900 meters"
+    },
+    "historyNotes": {
+      "zh": "神通号的沉没被视为二战海战中最具武士道色彩的悲剧之一。全舰近500人阵亡，第二水雷战队司令伊崎俊二少将也随舰沉没。残骸于2019年被发现。",
+      "en": "The loss of Jintsu is often regarded as one of the most dramatic examples of bushido-era sacrifice in naval warfare. Nearly 500 crew members, including Rear Admiral Shunji Isaki, perished with the ship. The wreck was discovered in 2019."
+    },
+    "battle": {
+      "zh": "科隆班加拉岛海战",
+      "en": "Battle of Kolombangara"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/2f/IJN_cruiser_Jintsu_in_1925_at_Kure.jpg",
+    "battleId": "battle-of-kolombangara"
+  },
+  {
+    "id": "ca-kako",
+    "name": {
+      "zh": "加古号重巡洋舰",
+      "en": "IJN Kako"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -2.466,
+      152.183
+    ],
+    "sinkingDate": "1942-08-10",
+    "cause": {
+      "zh": "在萨沃岛海战返航途中，于新爱尔兰岛附近遭美军 S-44 潜艇伏击，被鱼雷击中后沉没。",
+      "en": "While returning from the Battle of Savo Island, Kako was ambushed near New Ireland by the American submarine S-44 and sunk by torpedo hits."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这是日军在萨沃岛海战中的唯一主力舰损失，也稍微缓解了盟军惨败带来的打击。",
+      "en": "Kako was the only major Japanese warship lost in connection with the Battle of Savo Island, offering the Allies a small measure of consolation after their defeat."
+    },
+    "battle": {
+      "zh": "萨沃岛海战",
+      "en": "Battle of Savo Island"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9c/H48204_Kako_cropped.jpg",
+    "battleId": "battle-of-savo-island"
+  },
+  {
+    "id": "ct-katori",
+    "name": {
+      "zh": "香取号训练巡洋舰",
+      "en": "IJN Katori"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "训练巡洋舰 (充当指挥舰)",
+      "en": "Training Cruiser (Command Ship)"
+    },
+    "coordinates": [
+      7.75,
+      151.333
+    ],
+    "sinkingDate": "1944-02-17",
+    "cause": {
+      "zh": "在试图逃离特鲁克时，遭到美军衣阿华号与新泽西号战列舰的16英寸主炮直接轰击沉没。",
+      "en": "Sunk by direct hits from the 16-inch main guns of the U.S. battleships USS Iowa and USS New Jersey while attempting to escape from Truk."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这是海战史上极罕见的“战列舰对决巡洋舰”场面。香取号虽然老旧，但在最后时刻依然尝试向美军超级战列舰发射鱼雷，表现得极其顽强。",
+      "en": "This was an extremely rare 'battleship vs. cruiser' duel in naval history. Despite being obsolete, Katori exhibited immense tenacity, attempting to launch torpedoes at the American super dreadnoughts in her final moments."
+    },
+    "battle": {
+      "zh": "特鲁克大空袭",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Japanese_cruiser_Katori_1940.jpg",
+    "battleId": "operation-hailstone"
+  },
+  {
+    "id": "ca-kinugasa",
+    "name": {
+      "zh": "衣笠号重巡洋舰",
+      "en": "IJN Kinugasa"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -8.75,
+      157
+    ],
+    "sinkingDate": "1942-11-14",
+    "cause": {
+      "zh": "在瓜达尔卡纳尔海战中，遭到来自美军企业号航母 (USS Enterprise) 及瓜岛亨德森机场的 TBF 复仇者式鱼雷机与 SBD 无畏式俯冲轰炸机的连续空袭。舰桥被一枚 500 磅炸弹直接命中，导致舰长及多名高级军官阵亡，随后因多次近失弹导致船体破裂、严重进水而倾覆。",
+      "en": "During the Naval Battle of Guadalcanal, she was subjected to continuous air strikes by TBF Avenger torpedo bombers and SBD Dauntless dive bombers from the carrier USS Enterprise and Henderson Field on Guadalcanal. A direct hit on the bridge by a 500-pound bomb killed her captain and several senior officers. She subsequently capsized due to severe flooding caused by hull ruptures from multiple near misses."
+    },
+    "depth": {
+      "zh": "未知 (新乔治亚湾深海)",
+      "en": "Unknown (Deep waters of New Georgia Sound)"
+    },
+    "historyNotes": {
+      "zh": "青叶级重巡洋舰。它曾在早期的萨沃岛夜战中大放异彩，重创过多艘盟军巡洋舰。但在瓜岛海战的白昼，失去空中掩护的它成为了美军舰载机的活靶子。它的沉没证明了在二战太平洋战场上，没有制空权的水面舰艇是何等脆弱。",
+      "en": "An Aoba-class heavy cruiser. She previously shined in the early Battle of Savo Island, heavily damaging several Allied cruisers. However, during the daylight hours of the Naval Battle of Guadalcanal, lacking air cover, she became a sitting duck for U.S. carrier aircraft. Her sinking proved just how vulnerable surface ships were without air superiority in the Pacific Theater of WWII."
+    },
+    "battle": {
+      "zh": "瓜达尔卡纳尔海战",
+      "en": "Naval Battle of Guadalcanal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Japanese_cruiser_Kinugasa.jpg/960px-Japanese_cruiser_Kinugasa.jpg",
+    "battleId": "naval-battle-of-guadalcanal"
+  },
+  {
+    "id": "cl-kuma",
+    "name": {
+      "zh": "球磨号轻巡洋舰",
+      "en": "IJN Kuma"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      5.433,
+      99.866
+    ],
+    "sinkingDate": "1944-01-11",
+    "cause": {
+      "zh": "在槟城附近海域进行反潜训练时，被英国潜艇“理发师”号 (HMS Tally-Ho) 发射的鱼雷击沉。",
+      "en": "Sunk by torpedoes fired by the British submarine HMS Tally-Ho while conducting anti-submarine training in the waters near Penang."
+    },
+    "depth": {
+      "zh": "约 46 米",
+      "en": "Approx. 46 meters"
+    },
+    "historyNotes": {
+      "zh": "球磨级首舰。它的沉没预示着盟军潜艇力量已经开始渗透进日军在东南亚的核心航道。",
+      "en": "The lead ship of the Kuma-class. Her sinking heralded that Allied submarine forces had begun to infiltrate Japan's core shipping lanes in Southeast Asia."
+    },
+    "battle": {
+      "zh": "马六甲海峡封锁战",
+      "en": "Malacca Strait Blockade"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6a/IJN_Kuma_in_1930_off_Tsingtao.jpg",
+    "battleId": "malacca-strait-blockade"
+  },
+  {
+    "id": "ca-kumano",
+    "name": {
+      "zh": "熊野号重巡洋舰",
+      "en": "IJN Kumano"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      15.75,
+      119.8
+    ],
+    "sinkingDate": "1944-11-25",
+    "cause": {
+      "zh": "在不到一个月的时间内连续躲过四次毁灭性打击（被切断舰艏后仍坚持航行），最终在吕宋岛达索尔湾被美军蒂康德罗加号机群击沉。",
+      "en": "After surviving four devastating attacks in less than a month (continuing to sail even after her bow was severed), she was finally sunk by aircraft from the USS Ticonderoga in Dasol Bay, Luzon."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "被哈尔西将军称为“唯一一艘能让我产生同情心的日本军舰”。它极其顽强的生存意志是海战史上的奇迹，直到最后被5枚鱼雷和多枚炸弹命中才倒下。",
+      "en": "Referred to by Admiral Halsey as 'the only Japanese ship I could ever feel sorry for.' Her incredibly tenacious will to survive is a miracle in naval history; she did not go down until taking 5 torpedo hits and multiple bombs in her final stand."
+    },
+    "battle": {
+      "zh": "莱特湾海战",
+      "en": "Battle of Leyte Gulf"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kumano-1.jpg",
+    "battleId": "battle-of-leyte-gulf"
+  },
+  {
+    "id": "ca-maya",
+    "name": {
+      "zh": "摩耶号重巡洋舰",
+      "en": "IJN Maya"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      9.45,
+      117.117
+    ],
+    "sinkingDate": "1944-10-23",
+    "cause": {
+      "zh": "在帕拉万水道被美军潜艇“鲦鱼”号 (USS Dace) 发射的四枚鱼雷击中，引发弹药库殉爆，仅5分钟便沉没。",
+      "en": "Struck by four torpedoes fired by the U.S. submarine USS Dace in the Palawan Passage, which triggered a magazine explosion. She sank in just 5 minutes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "高雄级重巡洋舰之一。它的沉没进一步削弱了中央舰队的侦察和防空能力。目前残骸已由保罗·艾伦的海燕号（RV Petrel）发现。",
+      "en": "One of the Takao-class heavy cruisers. Her sinking further weakened the Center Force's reconnaissance and anti-aircraft capabilities. Her wreck has since been discovered by Paul Allen's RV Petrel."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (帕拉万水道)",
+      "en": "Battle of Leyte Gulf (Palawan Passage)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/81/Japanese_heavy_cruiser_Maya_1944.jpg",
+    "battleId": "battle-of-leyte-gulf-palawan-passage"
+  },
+  {
+    "id": "ca-mikuma",
+    "name": {
+      "zh": "三隈号重巡洋舰",
+      "en": "IJN Mikuma"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      29.333,
+      173.366
+    ],
+    "sinkingDate": "1942-06-06",
+    "cause": {
+      "zh": "撤退途中与最上号相撞受损，随后遭美军舰载机多轮轰炸而沉没。",
+      "en": "Damaged after colliding with Mogami during the retreat, Mikuma was later sunk by repeated attacks from American carrier aircraft."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "美军在攻击三隈号时拍摄的航拍照片成为中途岛海战最著名的影像之一。",
+      "en": "Aerial photographs taken during the attack on Mikuma became some of the most iconic images of the Battle of Midway."
+    },
+    "battle": {
+      "zh": "中途岛海战",
+      "en": "Battle of Midway"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/af/Mikuma1939.jpg",
+    "battleId": "battle-of-midway"
+  },
+  {
+    "id": "ca-nachi",
+    "name": {
+      "zh": "那智号重巡洋舰",
+      "en": "IJN Nachi"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      14.516,
+      120.866
+    ],
+    "sinkingDate": "1944-11-05",
+    "cause": {
+      "zh": "在马尼拉湾锚地遭到美军列克星敦号（CV-16）机群的轮番空袭，身中数枚鱼雷和炸弹，被炸成数段沉没。",
+      "en": "Subjected to successive air strikes by aircraft from USS Lexington (CV-16) while anchored in Manila Bay. She took several torpedo and bomb hits, was blown into several pieces, and sank."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "妙高级重巡洋舰。它在苏里高海峡海战中侥幸生还，却在马尼拉港内这个“安全港”被美军航空力量彻底撕碎。",
+      "en": "A Myōkō-class heavy cruiser. She narrowly survived the Battle of Surigao Strait, only to be completely torn apart by U.S. air power in the so-called 'safe harbor' of Manila Bay."
+    },
+    "battle": {
+      "zh": "莱特湾海战",
+      "en": "Battle of Leyte Gulf"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/NH_111605_Japanese_heavy_cruiser%2C_HIJMS_NACHI_%28cropped%29.jpg/3840px-NH_111605_Japanese_heavy_cruiser%2C_HIJMS_NACHI_%28cropped%29.jpg",
+    "battleId": "battle-of-leyte-gulf"
+  },
+  {
+    "id": "cl-naka",
+    "name": {
+      "zh": "那珂号轻巡洋舰",
+      "en": "IJN Naka"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      7.25,
+      151.75
+    ],
+    "sinkingDate": "1944-02-17",
+    "cause": {
+      "zh": "在特鲁克外海试图营救被重创的阿贺野号时，遭到美军第58特混编队舰载机的多轮轰炸沉没。",
+      "en": "Sunk by multiple waves of bombing from aircraft of the U.S. Task Force 58 while attempting to rescue the crippled Agano off the coast of Truk."
+    },
+    "depth": {
+      "zh": "约 40 米",
+      "en": "Approx. 40 meters"
+    },
+    "historyNotes": {
+      "zh": "川内级轻巡洋舰。它在试图履行“救援者”职责时被美军俯冲轰炸机抓个正着，沉没在了它保护的基地家门口。",
+      "en": "A Sendai-class light cruiser. Caught red-handed by U.S. dive bombers while trying to fulfill her duty as a 'rescuer,' she sank right at the doorstep of the base she was meant to protect."
+    },
+    "battle": {
+      "zh": "特鲁克大空袭",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Japanese_cruiser_Naka.jpg/1920px-Japanese_cruiser_Naka.jpg",
+    "battleId": "operation-hailstone"
+  },
+  {
+    "id": "cl-natori",
+    "name": {
+      "zh": "名取号轻巡洋舰",
+      "en": "IJN Natori"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      12.483,
+      128.816
+    ],
+    "sinkingDate": "1944-08-18",
+    "cause": {
+      "zh": "在撤往菲律宾途中，被美军潜艇“硬头鳟”号 (USS Hardhead) 发射的两枚鱼雷击中沉没。",
+      "en": "Struck and sunk by two torpedoes fired by the U.S. submarine USS Hardhead while retreating to the Philippines."
+    },
+    "depth": {
+      "zh": "极深",
+      "en": "Extremely deep"
+    },
+    "historyNotes": {
+      "zh": "长良级轻巡洋舰。它曾参与过多次南太平洋战斗，在马里亚纳海战后执行撤退任务时不幸被伏击，标志着该海域日军大型水面舰艇的彻底消失。",
+      "en": "A Nagara-class light cruiser. Having participated in numerous South Pacific battles, she was unfortunately ambushed while executing a retreat mission after the Battle of the Philippine Sea, marking the complete disappearance of large Japanese surface vessels in those waters."
+    },
+    "battle": {
+      "zh": "马里亚纳战役",
+      "en": "Mariana Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/89/IJN_Natori_in_1922_off_Nagasaki.jpg",
+    "battleId": "mariana-islands-campaign"
+  },
+  {
+    "id": "cl-sakawa",
+    "name": {
+      "zh": "酒匂号轻巡洋舰",
+      "en": "IJN Sakawa"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      11.6,
+      165.516
+    ],
+    "sinkingDate": "1946-07-02",
+    "cause": {
+      "zh": "在代号‘阿贝’ (Able) 的空中核爆中，距离爆心点过近（由于炸弹偏离原定目标）。核闪光引燃了上层建筑，强烈的冲击波撕裂了舰体艉部。次日在被美军拖船尝试拖拽时沉没。",
+      "en": "During the 'Able' atmospheric nuclear test, she was too close to the hypocenter (due to the bomb missing its intended target). The nuclear flash ignited her superstructure, and the intense shockwave tore apart her stern. She sank the next day while U.S. tugboats were attempting to tow her."
+    },
+    "depth": {
+      "zh": "约 60 米",
+      "en": "Approx. 60 meters"
+    },
+    "historyNotes": {
+      "zh": "阿贺野级轻巡洋舰，日本在二战末期完工的新锐战舰。它几乎没有参与任何实战便迎来终战，最终作为靶舰在第一场核试验中便被彻底摧毁。",
+      "en": "An Agano-class light cruiser, a state-of-the-art warship completed by Japan late in WWII. She saw almost no combat before the war ended, and was ultimately completely destroyed as a target ship in the very first nuclear test."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Japanese_cruiser_Sakawa.jpg/3840px-Japanese_cruiser_Sakawa.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "cl-sendai",
+    "name": {
+      "zh": "川内号轻巡洋舰",
+      "en": "IJN Sendai"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      -6.166,
+      154.333
+    ],
+    "sinkingDate": "1943-11-02",
+    "cause": {
+      "zh": "在奥古斯塔皇后湾海战中，被美军 4 艘轻巡洋舰（莫比尔、圣菲、哥伦比亚、丹佛）的雷达引导火炮集火击毁。",
+      "en": "Destroyed in the Battle of Empress Augusta Bay by concentrated, radar-directed gunfire from four U.S. light cruisers (USS Mobile, Santa Fe, Columbia, and Denver)."
+    },
+    "depth": {
+      "zh": "约 450 米",
+      "en": "Approx. 450 meters"
+    },
+    "historyNotes": {
+      "zh": "作为第三水雷战队的旗舰，它在那个深夜试图率领驱逐舰群发起鱼雷攻击，但被美军雷达提前锁定。在身中数十发 6 英寸炮弹后起火瘫痪，最终沉没。",
+      "en": "As the flagship of Destroyer Squadron 3, she attempted to lead her destroyers in a night torpedo attack but was locked onto by U.S. radar early on. She was paralyzed and caught fire after being hit by dozens of 6-inch shells, eventually sinking."
+    },
+    "battle": {
+      "zh": "奥古斯塔皇后湾海战",
+      "en": "Battle of Empress Augusta Bay"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sendai-1.jpg",
+    "battleId": "battle-of-empress-augusta-bay"
+  },
+  {
+    "id": "ca-tone",
+    "name": {
+      "zh": "利根号重巡洋舰",
+      "en": "IJN Tone"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      34.233,
+      132.45
+    ],
+    "sinkingDate": "1945-07-24",
+    "cause": {
+      "zh": "在吴港附近被多枚炸弹命中，随后为了防止彻底沉没而选择在浅水区主动搁浅坐沉。",
+      "en": "Hit by multiple bombs near Kure, she was subsequently intentionally run aground in shallow water to prevent her from sinking completely."
+    },
+    "depth": {
+      "zh": "浅水",
+      "en": "Shallow water"
+    },
+    "historyNotes": {
+      "zh": "利根级首舰，以其全部主炮前置的设计闻名。它曾是中途岛海战中关键的侦察力量，最终在港内的火海中落幕。",
+      "en": "The lead ship of the Tone-class, famous for her design grouping all main guns forward. Once a crucial reconnaissance asset during the Battle of Midway, she ultimately met her end in a sea of fire within the harbor."
+    },
+    "battle": {
+      "zh": "吴港大空袭",
+      "en": "Bombing of Kure"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tone_1942_%28cropped%29.jpg",
+    "battleId": "bombing-of-kure"
+  },
+  {
+    "id": "cl-yahagi",
+    "name": {
+      "zh": "矢矧号轻巡洋舰",
+      "en": "IJN Yahagi"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      30.783,
+      128.133
+    ],
+    "sinkingDate": "1945-04-07",
+    "cause": {
+      "zh": "在保护大和号的过程中，遭到美军密集的鱼雷和炸弹攻击，在承受了约12枚炸弹和7枚鱼雷后沉没。",
+      "en": "While protecting Yamato, she was subjected to intense U.S. torpedo and bomb attacks, sinking after absorbing approximately 12 bombs and 7 torpedoes."
+    },
+    "depth": {
+      "zh": "约 350 米",
+      "en": "Approx. 350 meters"
+    },
+    "historyNotes": {
+      "zh": "阿贺野级轻巡洋舰。它作为驱逐舰队的领舰，在最后时刻表现得异常顽强，甚至在引擎停转后依然在用防空火炮回击。",
+      "en": "An Agano-class light cruiser. Serving as the flagship of the destroyer squadron, she fought with extraordinary tenacity in her final moments, continuing to return fire with anti-aircraft guns even after her engines had stopped."
+    },
+    "battle": {
+      "zh": "菊水特攻 (天一号作战)",
+      "en": "Operation Ten-Go (Kikusui Attack)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/11/Japanese_light_cruiser_Yahagi_underway_off_Sasebo%2C_Japan%2C_in_December_1943.jpg",
+    "battleId": "operation-ten-go-kikusui-attack"
+  },
+  {
+    "id": "ca-fiume",
+    "name": {
+      "zh": "阜姆号重巡洋舰",
+      "en": "Italian Cruiser Fiume"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      35.35,
+      20.9
+    ],
+    "sinkingDate": "1941-03-29",
+    "cause": {
+      "zh": "与扎拉号一同落入英国战列舰的陷阱，被厌战号和英勇号的主炮在极近距离轰穿，主炮塔被炸飞，短短 45 分钟后即倾覆沉没。",
+      "en": "Fell into the British battleship trap alongside Zara. Penetrated at point-blank range by the main guns of Warspite and Valiant, her main turrets were blown off, and she capsized and sank in just 45 minutes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "当时舰上的探照灯甚至还没来得及开启，战斗就结束了。阜姆号的沉没异常迅速，导致大量船员阵亡。",
+      "en": "The battle was over before her searchlights could even be turned on. Fiume's sinking was exceptionally rapid, resulting in a massive loss of life among her crew."
+    },
+    "battle": {
+      "zh": "马塔潘角海战",
+      "en": "Battle of Cape Matapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/58/Regia_Nave_Fiume1.JPG",
+    "battleId": "battle-of-cape-matapan"
+  },
+  {
+    "id": "ca-pola",
+    "name": {
+      "zh": "波拉号重巡洋舰",
+      "en": "Italian Cruiser Pola"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      35.3,
+      20.95
+    ],
+    "sinkingDate": "1941-03-29",
+    "cause": {
+      "zh": "在马塔潘角海战中，先被英国可畏号航母的鱼雷机击中失去动力。随后在夜间被赶来的英国驱逐舰俘获，在撤走船员后被鱼雷击沉。",
+      "en": "During the Battle of Cape Matapan, she first lost power after being hit by a torpedo bomber from the British carrier HMS Formidable. Later that night, she was captured by arriving British destroyers. After the crew was evacuated, she was sunk by torpedoes."
+    },
+    "depth": {
+      "zh": "未知 (爱奥尼亚海深水区)",
+      "en": "Unknown (Deep waters of the Ionian Sea)"
+    },
+    "historyNotes": {
+      "zh": "扎拉级重巡洋舰。波拉号的瘫痪是整个马塔潘角灾难的导火索，正是为了掩护和拖拽它，另外两艘姐妹舰才在夜间羊入虎口。",
+      "en": "A Zara-class heavy cruiser. Pola's paralysis was the catalyst for the entire disaster at Cape Matapan; it was specifically to cover and tow her that her two sister ships sailed into the lion's den at night."
+    },
+    "battle": {
+      "zh": "马塔潘角海战",
+      "en": "Battle of Cape Matapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Italian_cruiser_Pola_NH_111442.jpg/3840px-Italian_cruiser_Pola_NH_111442.jpg",
+    "battleId": "battle-of-cape-matapan"
+  },
+  {
+    "id": "ca-zara",
+    "name": {
+      "zh": "扎拉号重巡洋舰",
+      "en": "Italian Cruiser Zara"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      35.333,
+      20.95
+    ],
+    "sinkingDate": "1941-03-29",
+    "cause": {
+      "zh": "在夜间毫无防备的情况下，近距离（约 3000 米）驶入英国三艘战列舰（厌战、英勇、巴勒姆）的雷达火控网。被 15 英寸主炮齐射毁灭，后由英国驱逐舰雷击处分。",
+      "en": "Sailed completely unawares into the radar-directed fire control net of three British battleships (Valiant, Warspite, Barham) at point-blank range (approx. 3000 meters) at night. Annihilated by a 15-inch broadside and later scuttled by a British destroyer's torpedoes."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "扎拉级首舰。这场单方面的屠杀证明了雷达在夜战中的决定性作用，意大利舰队在被击中前甚至不知道英国战列舰就在身旁。",
+      "en": "The lead ship of the Zara-class. This one-sided slaughter proved the decisive role of radar in night combat. The Italian fleet didn't even know the British battleships were nearby until they were hit."
+    },
+    "battle": {
+      "zh": "马塔潘角海战",
+      "en": "Battle of Cape Matapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Italian_cruiser_Zara_NH_111457.jpg/1920px-Italian_cruiser_Zara_NH_111457.jpg",
+    "battleId": "battle-of-cape-matapan"
+  },
+  {
+    "id": "cl-chaoho",
+    "name": {
+      "zh": "肇和号巡洋舰",
+      "en": "ROC Cruiser Chao Ho"
+    },
+    "faction": {
+      "zh": "中华民国",
+      "en": "ROC"
+    },
+    "type": {
+      "zh": "防护巡洋舰 / 训练巡洋舰",
+      "en": "Protected Cruiser / Training Cruiser"
+    },
+    "coordinates": [
+      22.798,
+      113.626
+    ],
+    "sinkingDate": "1937-09-25",
+    "cause": {
+      "zh": "在广州虎门要塞海域，先与日本海军舰队发生罕见的水面舰艇炮战（虎门海战）并击退日舰。随后数日遭到日机连续的报复性轰炸，最终受重创坐沉于虎门海口。",
+      "en": "In the waters of the Humen Fortress in Guangzhou, she first engaged in a rare surface naval gun battle (Battle of Humen) with the Japanese fleet and repelled the enemy. Over the following days, she was subjected to continuous retaliatory bombing by Japanese aircraft, ultimately sustaining heavy damage and settling in the shallow waters of the Humen estuary."
+    },
+    "depth": {
+      "zh": "珠江口浅水坐沉 (战后拆解)",
+      "en": "Settled in the shallow waters of the Pearl River Estuary (Scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "中国抗战初期保卫华南地区（广州珠江口）的水面主力。它与日军‘夕张’号巡洋舰的对射，是整个八年抗战期间中日海军极其罕见的、甚至可能是唯一一次真正意义上的水面舰艇火炮对决。",
+      "en": "The main surface force defending South China (Pearl River Estuary, Guangzhou) in the early stages of the war. Her gun duel with the Japanese cruiser Yūbari was extremely rare, and possibly the only true surface naval gunnery engagement between the Chinese and Japanese navies during the entire eight-year war."
+    },
+    "battle": {
+      "zh": "虎门保卫战",
+      "en": "Battle of Humen"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/tw.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chinese_cruiser_Chao_Ho.jpg",
+    "battleId": "battle-of-humen"
+  },
+  {
+    "id": "pc-haichi",
+    "name": {
+      "zh": "海圻号巡洋舰",
+      "en": "ROC Cruiser Hai Chi"
+    },
+    "faction": {
+      "zh": "中华民国",
+      "en": "ROC"
+    },
+    "type": {
+      "zh": "防护巡洋舰",
+      "en": "Protected Cruiser"
+    },
+    "coordinates": [
+      31.94,
+      120.24
+    ],
+    "sinkingDate": "1937-08-11",
+    "cause": {
+      "zh": "为了阻止日本海军舰队沿长江逆流而上直逼首都南京，中国海军决定在江阴江面构筑水下阻塞线。这艘老舰卸下主炮后，打开通海阀，悲壮地自沉于江阴航道中。",
+      "en": "To prevent the Japanese naval fleet from sailing up the Yangtze River to directly threaten the capital, Nanjing, the Chinese Navy decided to construct an underwater blockade line at Jiangyin. After removing her main guns, this aging ship opened her Kingston valves and tragically scuttled herself in the Jiangyin channel."
+    },
+    "depth": {
+      "zh": "作为阻塞船沉入江底 (战后打捞拆解)",
+      "en": "Sunk as a blockship at the river bottom (Salvaged and scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "中国近代海军最具传奇色彩的军舰之一。它是清朝末年从英国订购的，曾远航至美洲并在古巴保护过华侨。这艘服役近 40 年、历经清末、北洋到民国的老兵，最终以‘自杀封江’的方式完成了保卫国家的最后使命。",
+      "en": "One of the most legendary warships in modern Chinese naval history. Ordered from the UK in the late Qing Dynasty, she once sailed to the Americas and protected overseas Chinese in Cuba. Serving for nearly 40 years through the late Qing, Beiyang, and Republic eras, this veteran finally completed her ultimate mission to defend the country by 'suicide scuttling' to block the river."
+    },
+    "battle": {
+      "zh": "江阴阻塞线沉船行动",
+      "en": "Jiangyin Blockship Operation"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/tw.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/ef/HaiChi_2162931587_c96191a231_o.jpg",
+    "battleId": "jiangyin-blockship-operation"
+  },
+  {
+    "id": "pc-haiyung",
+    "name": {
+      "zh": "海容号巡洋舰",
+      "en": "ROC Cruiser Hai Yung"
+    },
+    "faction": {
+      "zh": "中华民国",
+      "en": "ROC"
+    },
+    "type": {
+      "zh": "防护巡洋舰",
+      "en": "Protected Cruiser"
+    },
+    "coordinates": [
+      31.945,
+      120.245
+    ],
+    "sinkingDate": "1937-08-11",
+    "cause": {
+      "zh": "为了阻挡日本海军沿长江直扑南京，与海圻号等老舰一起，在卸下主要火炮后，打开通海阀自沉于江阴航道最狭窄处，构筑了著名的‘江阴水下阻塞线’。",
+      "en": "To prevent the Japanese naval fleet from sailing directly up the Yangtze River towards Nanjing, she, along with other veteran ships like Hai Chi, had her main guns removed, opened her Kingston valves, and scuttled herself at the narrowest point of the Jiangyin channel to construct the famous 'Jiangyin Underwater Blockade Line'."
+    },
+    "depth": {
+      "zh": "作为阻塞船沉入江底 (战后清障打捞)",
+      "en": "Sunk as a blockship at the river bottom (Salvaged for channel clearing post-war)"
+    },
+    "historyNotes": {
+      "zh": "清末从德国伏尔铿造船厂订购的‘海容’级巡洋舰首舰。它曾参与过武昌起义和护国战争，并在一次大战后前往海参崴撤侨。这位服役近 40 年的老兵，最终以化为长江水底钢铁长城的方式，结束了自己传奇的一生。",
+      "en": "The lead ship of the Hai Yung-class cruisers ordered from the German Vulcan Shipyard during the late Qing Dynasty. She participated in the Wuchang Uprising and the National Protection War, and sailed to Vladivostok to evacuate overseas Chinese after WWI. Serving for nearly 40 years, this veteran ultimately ended her legendary life by becoming part of an underwater steel great wall in the Yangtze River."
+    },
+    "battle": {
+      "zh": "江阴阻塞线沉船行动",
+      "en": "Jiangyin Blockship Operation"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/tw.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hai_Yung.jpg",
+    "battleId": "jiangyin-blockship-operation"
+  },
+  {
+    "id": "cl-ninghai",
+    "name": {
+      "zh": "宁海号轻巡洋舰",
+      "en": "ROC Cruiser Ning Hai"
+    },
+    "faction": {
+      "zh": "中华民国",
+      "en": "ROC"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      31.933,
+      120.266
+    ],
+    "sinkingDate": "1937-09-23",
+    "cause": {
+      "zh": "在极其惨烈的江阴保卫战中，遭到日本海军航母‘加贺号’及陆基航空兵总计上百架次战机的轮番狂轰滥炸。在耗尽防空弹药并被数枚重磅炸弹直接命中后，进水坐沉于长江江阴水域。",
+      "en": "During the exceptionally brutal Battle of Jiangyin, she was subjected to relentless bombing by over a hundred sorties from the Japanese aircraft carrier Kaga and land-based bombers. After exhausting her anti-aircraft ammunition and taking direct hits from several heavy bombs, she took on water and sank in the shallows of the Yangtze River at Jiangyin."
+    },
+    "depth": {
+      "zh": "长江浅水坐沉 (后被日军打捞改装)",
+      "en": "Settled in the shallow waters of the Yangtze River (Later salvaged and refitted by the Japanese)"
+    },
+    "historyNotes": {
+      "zh": "抗战爆发时中国海军最先进、战斗力最强的主力舰。在没有己方空中掩护的情况下，它死守江阴封锁线，打出了中国海军的不屈铁骨。坐沉后被日军打捞修复并改名为‘五百岛’号，最终于 1944 年被美军潜艇击沉于日本近海。",
+      "en": "The most advanced and capable capital ship of the Chinese Navy at the outbreak of the Second Sino-Japanese War. Without any friendly air cover, she fiercely defended the Jiangyin blockade line, demonstrating the unyielding backbone of the Chinese Navy. After sinking, she was salvaged and repaired by the Japanese, renamed Ioshima, and was ultimately sunk by a U.S. submarine off the coast of Japan in 1944."
+    },
+    "battle": {
+      "zh": "江阴海战 (淞沪会战期间)",
+      "en": "Battle of Jiangyin (During the Battle of Shanghai)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/tw.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Chinese_cruiser_NING-HAI_in_1932.jpg",
+    "battleId": "battle-of-jiangyin-during-the-battle-of-shanghai"
+  },
+  {
+    "id": "cl-pinghai",
+    "name": {
+      "zh": "平海号轻巡洋舰",
+      "en": "ROC Cruiser Ping Hai"
+    },
+    "faction": {
+      "zh": "中华民国",
+      "en": "ROC"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      31.95,
+      120.25
+    ],
+    "sinkingDate": "1937-09-23",
+    "cause": {
+      "zh": "与姊妹舰宁海号并肩作战，死守江阴要塞。在宁海号重创坐沉后，成为日军轰炸机的首要目标。在遭到连续的俯冲轰炸并身中多枚炸弹后，舰体严重倾斜，于江阴江面沉没。",
+      "en": "Fought alongside her sister ship Ning Hai to defend the Jiangyin Fortress to the death. After Ning Hai was severely damaged and sank, she became the primary target for Japanese bombers. Following continuous dive-bombing attacks and sustaining multiple bomb hits, her hull listed severely, and she sank in the Jiangyin river section."
+    },
+    "depth": {
+      "zh": "长江浅水坐沉 (后被日军打捞改装)",
+      "en": "Settled in the shallow waters of the Yangtze River (Later salvaged and refitted by the Japanese)"
+    },
+    "historyNotes": {
+      "zh": "宁海号的姊妹舰，部分由中国江南造船厂自行建造。它的沉没标志着抗战初期中国海军的水面主力基本全军覆没。其残骸同样被日军打捞改名为‘八十岛’号，后在菲律宾被美军战机击沉。",
+      "en": "The sister ship of Ning Hai, partially built domestically by the Jiangnan Shipyard in China. Her sinking marked the near-total annihilation of the Chinese Navy's main surface fleet in the early stages of the war. Her wreck was similarly salvaged by the Japanese and renamed Yasoshima, later sunk by U.S. aircraft in the Philippines."
+    },
+    "battle": {
+      "zh": "江阴海战 (淞沪会战期间)",
+      "en": "Battle of Jiangyin (During the Battle of Shanghai)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/tw.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/12/Chinese_cruiser_PING-HAI_in_1936.jpg",
+    "battleId": "battle-of-jiangyin-during-the-battle-of-shanghai"
+  },
+  {
+    "id": "cl-yatsen",
+    "name": {
+      "zh": "逸仙号轻巡洋舰",
+      "en": "ROC Cruiser Yat Sen"
+    },
+    "faction": {
+      "zh": "中华民国",
+      "en": "ROC"
+    },
+    "type": {
+      "zh": "轻巡洋舰 / 大型炮舰",
+      "en": "Light Cruiser / Large Gunboat"
+    },
+    "coordinates": [
+      31.96,
+      120.25
+    ],
+    "sinkingDate": "1937-09-25",
+    "cause": {
+      "zh": "在宁海、平海两舰相继沉没后，接替成为中国海军旗舰。遭到日军‘加贺’号航母舰载机共计 73 架次的狂轰滥炸。弹药耗尽后被炸弹直接命中，导致船体进水，最终在江阴水域断腕自沉。",
+      "en": "After the successive sinkings of Ning Hai and Ping Hai, she took over as the flagship of the Chinese Navy. Subjected to relentless bombing by a total of 73 sorties from the Japanese aircraft carrier Kaga. After exhausting her ammunition, she took a direct bomb hit causing flooding, and ultimately made the agonizing choice to scuttle herself in the Jiangyin waters."
+    },
+    "depth": {
+      "zh": "长江浅水坐沉 (后被日军打捞)",
+      "en": "Settled in the shallow waters of the Yangtze River (Later salvaged by the Japanese)"
+    },
+    "historyNotes": {
+      "zh": "由中国江南造船厂自行设计建造。它在江阴海战中战斗到了最后一刻。日军占领后将其打捞，改名为‘阿多田’号作为练习舰。战后它被中国海军收回，并奇迹般地复役至 1958 年才退役拆解。",
+      "en": "Designed and built domestically by the Jiangnan Shipyard. She fought to the very last moment in the Battle of Jiangyin. After occupation, the Japanese salvaged her and renamed her Atada for use as a training ship. Post-war, she was recovered by the Chinese Navy and miraculously returned to service until her decommissioning and scrapping in 1958."
+    },
+    "battle": {
+      "zh": "江阴海战",
+      "en": "Battle of Jiangyin"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/tw.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Yat_Sen_1930.png",
+    "battleId": "battle-of-jiangyin"
+  },
+  {
+    "id": "cl-yingswei",
+    "name": {
+      "zh": "应瑞号巡洋舰",
+      "en": "ROC Cruiser Ying Swei"
+    },
+    "faction": {
+      "zh": "中华民国",
+      "en": "ROC"
+    },
+    "type": {
+      "zh": "防护巡洋舰 / 训练巡洋舰",
+      "en": "Protected Cruiser / Training Cruiser"
+    },
+    "coordinates": [
+      32.133,
+      118.983
+    ],
+    "sinkingDate": "1937-10-23",
+    "cause": {
+      "zh": "在江阴阻塞线后方协助防空，随后撤退至南京采石矶江面。遭到日军多架战机的轮番俯冲轰炸，左舷煤舱及司令塔中弹，全舰多处起火，最终右倾倾覆于江边。",
+      "en": "After assisting with anti-aircraft defense behind the Jiangyin blockade line, she retreated to the waters of Caishiji, Nanjing. Subjected to waves of dive-bombing by multiple Japanese aircraft, she took hits to her port coal bunker and conning tower. Multiple fires broke out across the ship, and she ultimately capsized to starboard by the riverbank."
+    },
+    "depth": {
+      "zh": "长江浅水倾覆",
+      "en": "Capsized in the shallow waters of the Yangtze River"
+    },
+    "historyNotes": {
+      "zh": "肇和号的姊妹舰，曾参加过军阀混战时期的多次行动。它的沉没，标志着清末订购的这一批‘应瑞/肇和’级巡洋舰在抗日战争初期的防空血战中全部折损殆尽。",
+      "en": "Sister ship of Chao Ho, she participated in numerous operations during the Warlord Era. Her sinking marked the total loss of this batch of Ying Swei/Chao Ho-class cruisers, ordered during the late Qing Dynasty, in the bloody anti-aircraft battles of the early Sino-Japanese War."
+    },
+    "battle": {
+      "zh": "南京江防战 (淞沪会战余波)",
+      "en": "Defense of Nanjing (Aftermath of the Battle of Shanghai)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/tw.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Chinese_cruiser_Ying_Rui.jpg",
+    "battleId": "defense-of-nanjing-aftermath-of-the-battle-of-shanghai"
+  },
+  {
+    "id": "cl-chervona-ukraina",
+    "name": {
+      "zh": "红色乌克兰号轻巡洋舰",
+      "en": "Soviet Cruiser Chervona Ukraina"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      44.616,
+      33.533
+    ],
+    "sinkingDate": "1941-11-12",
+    "cause": {
+      "zh": "在塞瓦斯托波尔港内为陆军提供火力支援时，遭到德国空军俯冲轰炸机群的连续轰炸，身中数枚炸弹后沉没。",
+      "en": "While providing fire support for the army within the port of Sevastopol, she was continuously bombed by a group of Luftwaffe dive bombers, sinking after sustaining several bomb hits."
+    },
+    "depth": {
+      "zh": "浅水坐沉 (战后打捞拆解)",
+      "en": "Settled in shallow water (Refloated and scrapped post-war)"
+    },
+    "historyNotes": {
+      "zh": "斯维特兰娜级轻巡洋舰，它是苏联在二战中损失的唯一一艘巡洋舰级别的军舰。即使在军舰沉没后，苏军也将其舰上的火炮拆卸下来搬到岸上，继续参与塞瓦斯托波尔要塞的血腥防守。",
+      "en": "A Svetlana-class light cruiser, she was the only cruiser-class warship lost by the Soviet Union during WWII. Even after the ship sank, Soviet forces removed her guns and mounted them ashore to continue participating in the bloody defense of the Sevastopol fortress."
+    },
+    "battle": {
+      "zh": "塞瓦斯托波尔围城战",
+      "en": "Siege of Sevastopol"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/aa/Krasnaya_Ukraina.jpg",
+    "battleId": "siege-of-sevastopol"
+  },
+  {
+    "id": "cl-komintern",
+    "name": {
+      "zh": "共产国际号轻巡洋舰",
+      "en": "Soviet Cruiser Komintern"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      42.155,
+      41.65
+    ],
+    "sinkingDate": "1942-10-10",
+    "cause": {
+      "zh": "在黑海多次遭到德国空军轰炸重创，失去维修价值后，被拖至格鲁吉亚的波季港（Poti）河口凿沉，作为防波堤使用。",
+      "en": "Severely damaged by repeated Luftwaffe bombings in the Black Sea. After losing repair value, she was towed to the mouth of the river at Poti, Georgia, and scuttled to serve as a breakwater."
+    },
+    "depth": {
+      "zh": "极浅 (作为防波堤)",
+      "en": "Extremely shallow (serving as a breakwater)"
+    },
+    "historyNotes": {
+      "zh": "这是一艘早在沙俄时期（1905年）就下水的老舰（原名‘卡古尔号’）。虽然它没有在炮火交加中沉入深海，但它作为防波堤的结局，完美缩影了苏联黑海舰队在丧失制空权后，利用一切资源死守最后港口的悲壮历史。",
+      "en": "An elderly vessel launched back in the Tsarist era (1905, originally named Kagul). Though she did not sink into the deep sea under fire, her fate as a breakwater perfectly epitomizes the tragic history of the Soviet Black Sea Fleet utilizing every available resource to defend their last remaining ports after losing air superiority."
+    },
+    "battle": {
+      "zh": "黑海防御战",
+      "en": "Defense of the Black Sea"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/da/Komintern1941.jpg",
+    "battleId": "defense-of-the-black-sea"
+  },
+  {
+    "id": "ca-34-astoria",
+    "name": {
+      "zh": "阿斯托利亚号重巡洋舰",
+      "en": "USS Astoria (CA-34)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -9.209,
+      159.867
+    ],
+    "sinkingDate": "1942-08-09",
+    "cause": {
+      "zh": "在夜战中遭日军三川舰队探照灯锁定，并被鸟海号等日舰主炮集中炮击，引发严重火灾后于次日沉没。",
+      "en": "During the night battle, Astoria was illuminated by Japanese searchlights and heavily shelled by cruisers including IJN Chōkai, eventually sinking the following day after uncontrollable fires spread throughout the ship."
+    },
+    "depth": {
+      "zh": "约 860 米",
+      "en": "Approximately 860 meters"
+    },
+    "historyNotes": {
+      "zh": "残骸于2015年由保罗·艾伦团队发现，其舰艏主炮依然保持着朝向海面的战斗姿态。",
+      "en": "The wreck was discovered in 2015 by Paul Allen’s expedition team. Its forward 8-inch guns were still aimed upward in a striking combat posture."
+    },
+    "battle": {
+      "zh": "萨沃岛海战",
+      "en": "Battle of Savo Island"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/USS_Astoria_%28CA-34%29_operating_in_Hawaiian_waters_on_8_July_1942_%28NH_97682%29.jpg/1920px-USS_Astoria_%28CA-34%29_operating_in_Hawaiian_waters_on_8_July_1942_%28NH_97682%29.jpg",
+    "battleId": "battle-of-savo-island"
+  },
+  {
+    "id": "cl-51-atlanta",
+    "name": {
+      "zh": "亚特兰大号轻巡洋舰",
+      "en": "USS Atlanta (CL-51)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "防空轻巡洋舰",
+      "en": "Anti-Aircraft Light Cruiser"
+    },
+    "coordinates": [
+      -9.383,
+      160.033
+    ],
+    "sinkingDate": "1942-11-13",
+    "cause": {
+      "zh": "在极其混乱的夜战中突入日军阵型，先遭日舰鱼雷击中，随后又被己方旧金山号重巡洋舰误击重创，最终于次日自沉。",
+      "en": "During the chaotic night battle, Atlanta charged into the Japanese formation and was first struck by a Japanese torpedo. She was later heavily damaged by accidental friendly fire from USS San Francisco and was scuttled the following day."
+    },
+    "depth": {
+      "zh": "约 130 米",
+      "en": "Approx. 130 meters"
+    },
+    "historyNotes": {
+      "zh": "由于沉没深度较浅，亚特兰大号成为所罗门群岛著名的技术潜水沉船之一。",
+      "en": "Because of its relatively shallow depth, Atlanta became one of the most famous technical diving wrecks in the Solomon Islands."
+    },
+    "battle": {
+      "zh": "瓜达尔卡纳尔海战",
+      "en": "Naval Battle of Guadalcanal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/USS_Atlanta_%28CL-51%29_steaming_at_high_speed%2C_circa_in_November_1941_%28NH_57455%29.jpg/1920px-USS_Atlanta_%28CL-51%29_steaming_at_high_speed%2C_circa_in_November_1941_%28NH_57455%29.jpg",
+    "battleId": "naval-battle-of-guadalcanal"
+  },
+  {
+    "id": "ca-29-chicago",
+    "name": {
+      "zh": "芝加哥号重巡洋舰",
+      "en": "USS Chicago (CA-29)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -11.416,
+      160.933
+    ],
+    "sinkingDate": "1943-01-30",
+    "cause": {
+      "zh": "在撤退途中遭到日军陆基一式陆攻鱼雷机的饱和攻击，被多枚鱼雷命中后沉没。",
+      "en": "While retreating, Chicago was overwhelmed by torpedo attacks from Japanese land-based G4M bombers and eventually sank after multiple torpedo hits."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "芝加哥号曾在萨沃岛海战中幸存并完成大修，但最终仍在瓜岛战役末期沉没。其沉没位置位于瓜达尔卡纳尔岛以南较远海域。",
+      "en": "Chicago survived the disaster at Savo Island and later returned to service after repairs, only to be lost during the final stages of the Guadalcanal campaign. She sank in waters south of Guadalcanal."
+    },
+    "battle": {
+      "zh": "伦内尔岛海战",
+      "en": "Battle of Rennell Island"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USS_Chicago_%28CA-29%29_underway_off_New_York_City_on_31_May_1934_%28NH_715%29.jpg/1920px-USS_Chicago_%28CA-29%29_underway_off_New_York_City_on_31_May_1934_%28NH_715%29.jpg",
+    "battleId": "battle-of-rennell-island"
+  },
+  {
+    "id": "cl-50-helena",
+    "name": {
+      "zh": "海伦娜号轻巡洋舰",
+      "en": "USS Helena (CL-50)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "轻巡洋舰",
+      "en": "Light Cruiser"
+    },
+    "coordinates": [
+      -7.766,
+      157.183
+    ],
+    "sinkingDate": "1943-07-06",
+    "cause": {
+      "zh": "在夜战中凭借先进雷达与高速火炮压制日舰，但因无焰发射药耗尽，炮口火焰暴露位置，被日军驱逐舰发射的三枚“长矛”鱼雷击沉。",
+      "en": "Helena used advanced radar and rapid-fire guns to dominate the night battle, but after exhausting her flashless powder, visible gun flashes revealed her position. She was struck and sunk by three Japanese 'Long Lance' torpedoes."
+    },
+    "depth": {
+      "zh": "约 860 米",
+      "en": "Approx. 860 meters"
+    },
+    "historyNotes": {
+      "zh": "海伦娜号被视为美国海军的火力输出机器，装备15门6英寸主炮。残骸于2018年4月由 RV Petrel 探险队发现，舰体前部已经完全断裂。",
+      "en": "Helena was considered one of the U.S. Navy's most powerful light cruisers, armed with fifteen 6-inch guns. The wreck was discovered in April 2018 by the RV Petrel expedition, with the bow section completely separated."
+    },
+    "battle": {
+      "zh": "库拉湾海战",
+      "en": "Battle of Kula Gulf"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/USS_Helena_%28CL-50%29_at_a_South_Pacific_base%2C_circa_in_1943_%28NH_95814%29.jpg/1920px-USS_Helena_%28CL-50%29_at_a_South_Pacific_base%2C_circa_in_1943_%28NH_95814%29.jpg",
+    "battleId": "battle-of-kula-gulf"
+  },
+  {
+    "id": "ca-30-houston",
+    "name": {
+      "zh": "休斯顿号重巡洋舰",
+      "en": "USS Houston (CA-30)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -5.811,
+      106.132
+    ],
+    "sinkingDate": "1942-03-01",
+    "cause": {
+      "zh": "在巽他海峡海战中与帕斯号遭到日军围攻，被多枚鱼雷和炮弹击中。在弹药耗尽后倾覆沉没。",
+      "en": "Besieged by Japanese forces alongside HMAS Perth during the Battle of Sunda Strait. Struck by multiple torpedoes and shells, she capsized and sank after exhausting her ammunition."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "由于其作为罗斯福总统生前喜爱的座舰，被称为‘总统的战舰’。它在完全孤立无援的情况下战斗到了最后一刻。",
+      "en": "Known as 'The President's Ship' because it was a favorite vessel of President Franklin D. Roosevelt. She fought to the very last moment while completely isolated and without support."
+    },
+    "battle": {
+      "zh": "巽他海峡海战",
+      "en": "Battle of Sunda Strait"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/USS_Houston_%28CA-30%29_off_San_Diego_in_October_1935.jpg/1920px-USS_Houston_%28CA-30%29_off_San_Diego_in_October_1935.jpg",
+    "battleId": "battle-of-sunda-strait"
+  },
+  {
+    "id": "ca-35-indianapolis",
+    "name": {
+      "zh": "印第安纳波利斯号重巡洋舰",
+      "en": "USS Indianapolis (CA-35)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      12.033,
+      134.8
+    ],
+    "sinkingDate": "1945-07-30",
+    "cause": {
+      "zh": "在完成运送原子弹部件任务后的返航途中，被日军潜艇伊-58号发射的鱼雷击沉。",
+      "en": "Sunk by torpedoes fired by the Japanese submarine I-58 while on her return voyage after successfully delivering atomic bomb components."
+    },
+    "depth": {
+      "zh": "约 5500 米",
+      "en": "Approx. 5500 meters"
+    },
+    "historyNotes": {
+      "zh": "美军在二战中损失的最后一艘大型水面舰艇。由于通讯失误，救援在沉没多日后才到达，大批幸存者在海中因鲨鱼袭击和脱水丧生，是极具悲剧色彩的事件。",
+      "en": "The last major U.S. surface combatant lost in WWII. Due to communication errors, rescue did not arrive until days after the sinking, leading to a highly tragic event where many survivors perished in the water from shark attacks and dehydration."
+    },
+    "battle": {
+      "zh": "最后的海上袭击",
+      "en": "Final Naval Attacks (Sinking of the USS Indianapolis)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a9/USS_Indianapolis_%28CA-35%29_underway_at_sea_on_27_September_1939_%2880-G-425615%29.jpg",
+    "battleId": "final-naval-attacks-sinking-of-the-uss-indianapolis"
+  },
+  {
+    "id": "cl-52-juneau",
+    "name": {
+      "zh": "朱诺号轻巡洋舰",
+      "en": "USS Juneau (CL-52)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "防空轻巡洋舰",
+      "en": "Anti-Aircraft Light Cruiser"
+    },
+    "coordinates": [
+      -10.55,
+      161.05
+    ],
+    "sinkingDate": "1942-11-13",
+    "cause": {
+      "zh": "在夜战中受重创撤退时，被日本潜艇伊-26号发射的鱼雷击中弹药库，引发灾难性爆炸，几乎瞬间断成两截沉没。",
+      "en": "While withdrawing after severe damage during the night battle, Juneau was struck by a torpedo from the Japanese submarine I-26. The hit detonated her ammunition magazine, causing a catastrophic explosion that split the ship in half almost instantly."
+    },
+    "depth": {
+      "zh": "约 4200 米",
+      "en": "Approx. 4,200 meters"
+    },
+    "historyNotes": {
+      "zh": "全舰近700名官兵阵亡，其中包括著名的“沙利文五兄弟”。这一事件促使美国军方制定《单独幸存者政策》，避免同一家族成员在同一战舰服役。残骸于2018年被发现。",
+      "en": "Nearly 700 sailors were lost, including the famous Sullivan brothers. The tragedy led to the establishment of the U.S. military's Sole Survivor Policy, preventing close family members from serving together on the same ship. The wreck was discovered in 2018."
+    },
+    "battle": {
+      "zh": "瓜达尔卡纳尔海战",
+      "en": "Naval Battle of Guadalcanal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/USS_Juneau_%28CL-52%29_-_19-N-28143.jpg/3840px-USS_Juneau_%28CL-52%29_-_19-N-28143.jpg",
+    "battleId": "naval-battle-of-guadalcanal"
+  },
+  {
+    "id": "ca-26-northampton",
+    "name": {
+      "zh": "北安普顿号重巡洋舰",
+      "en": "USS Northampton (CA-26)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -9.2,
+      159.833
+    ],
+    "sinkingDate": "1942-11-30",
+    "cause": {
+      "zh": "在追击日军驱逐舰时遭到九三式“长矛”鱼雷反击，两枚鱼雷命中左舷并撕裂舰体，引发严重火灾后沉没。",
+      "en": "While pursuing Japanese destroyers, Northampton was counterattacked by Type 93 'Long Lance' torpedoes. Two torpedoes struck her port side, tearing open the hull and causing devastating fires before she sank."
+    },
+    "depth": {
+      "zh": "未知（铁底湾深处）",
+      "en": "Unknown (Deep within Ironbottom Sound)"
+    },
+    "historyNotes": {
+      "zh": "这场战役证明了日军夜间鱼雷战术的巨大优势，即便美军已经拥有雷达技术，依然付出了惨重代价。",
+      "en": "The battle demonstrated the overwhelming effectiveness of Japanese nighttime torpedo tactics, showing that even radar-equipped American forces could suffer severe losses."
+    },
+    "battle": {
+      "zh": "塔萨法隆加海战",
+      "en": "Battle of Tassafaronga"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/USS_Northampton_%28CA-26%29_at_Brisbane_on_5_August_1941_%28NH_94596%29.jpg/1920px-USS_Northampton_%28CA-26%29_at_Brisbane_on_5_August_1941_%28NH_94596%29.jpg",
+    "battleId": "battle-of-tassafaronga"
+  },
+  {
+    "id": "ca-39-quincy",
+    "name": {
+      "zh": "昆西号重巡洋舰",
+      "en": "USS Quincy (CA-39)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -9.075,
+      159.975
+    ],
+    "sinkingDate": "1942-08-09",
+    "cause": {
+      "zh": "在混乱夜战中陷入日军交叉火力，遭猛烈炮击并被鱼雷命中，最终迅速左倾沉没。",
+      "en": "Caught in devastating Japanese crossfire during the chaotic night engagement, Quincy suffered heavy shellfire and multiple torpedo hits before rapidly capsizing and sinking."
+    },
+    "depth": {
+      "zh": "约 600 米",
+      "en": "Approximately 600 meters"
+    },
+    "historyNotes": {
+      "zh": "昆西号是当晚抵抗最激烈的盟军战舰之一，其炮火曾击中日军旗舰鸟海号的舰桥区域。",
+      "en": "Quincy was among the fiercest Allied ships in the battle, and her gunfire reportedly struck the bridge area of the Japanese flagship Chōkai."
+    },
+    "battle": {
+      "zh": "萨沃岛海战",
+      "en": "Battle of Savo Island"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/USS_Quincy_%28CA-39%29_in_New_York_harbour_on_23_May_1942_%2819-N-30732%29.jpg/1920px-USS_Quincy_%28CA-39%29_in_New_York_harbour_on_23_May_1942_%2819-N-30732%29.jpg",
+    "battleId": "battle-of-savo-island"
+  },
+  {
+    "id": "ca-44-vincennes",
+    "name": {
+      "zh": "文森斯号重巡洋舰",
+      "en": "USS Vincennes (CA-44)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "重巡洋舰",
+      "en": "Heavy Cruiser"
+    },
+    "coordinates": [
+      -9.121,
+      159.88
+    ],
+    "sinkingDate": "1942-08-09",
+    "cause": {
+      "zh": "在夜暗中误将日军舰队识别为友军，开启识别灯后遭到集中炮火与鱼雷攻击，最终沉没。",
+      "en": "Vincennes mistakenly identified the approaching Japanese force as friendly ships. After illuminating recognition signals, she was immediately targeted by concentrated shellfire and torpedoes before sinking."
+    },
+    "depth": {
+      "zh": "约 1000 米",
+      "en": "Approximately 1,000 meters"
+    },
+    "historyNotes": {
+      "zh": "舰上曾发出“请勿射击，我们是友军”的信号，却反而暴露了自身位置。",
+      "en": "The ship reportedly transmitted a signal meaning “Cease fire, we are friendly,” which tragically exposed her position to the enemy."
+    },
+    "battle": {
+      "zh": "萨沃岛海战",
+      "en": "Battle of Savo Island"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9f/USS_Vincennes_%28CA-44%29_in_Panama_Canal_1938.jpg",
+    "battleId": "battle-of-savo-island"
+  },
+  {
+    "id": "cl-alberico-da-barbiano",
+    "name": {
+      "zh": "阿尔贝里科·达·巴尔比亚诺号轻巡洋舰",
+      "en": "Italian Cruiser Alberico da Barbiano"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "轻巡洋舰 (雇佣兵队长级)",
+      "en": "Light Cruiser (Condottieri-class)"
+    },
+    "coordinates": [37.000, 11.333],
+    "sinkingDate": "1941-12-13",
+    "cause": {
+      "zh": "在突尼斯邦角外海遭到盟军驱逐舰编队（含英国锡克号、毛利号、军团号及荷兰伊萨克·斯韦尔斯号）的雷达伏击。身中 3 枚鱼雷后，甲板上堆载的大量航空燃油被瞬间引爆。舰体发生极其恐怖的剧烈燃烧和殉爆，在短短几分钟内便化为火海并翻覆沉没。",
+      "en": "Ambushed off Cape Bon, Tunisia, by an Allied destroyer flotilla (including HMS Sikh, HMS Maori, HMS Legion, and the Dutch HNLMS Isaac Sweers) using radar. After being struck by 3 torpedoes, the massive amount of aviation fuel stored on deck was instantly detonated. The ship suffered a terrifyingly violent fire and magazine explosion, turning into an inferno before capsizing and sinking within just a few minutes."
+    },
+    "depth": {
+      "zh": "约 60 - 70 米",
+      "en": "Approx. 60 - 70 meters"
+    },
+    "historyNotes": {
+      "zh": "第四巡洋舰支队旗舰。由于任务紧急且极其危险，全舰官兵在出航前就笼罩在悲观情绪中。鱼雷命中引发的燃油大火让整艘战舰瞬间变成了地狱，指挥官安东尼诺·托斯卡诺少将拒绝弃舰，与他的参谋团队一起随舰沉没。",
+      "en": "Flagship of the 4th Cruiser Division. Due to the urgent and extremely dangerous nature of the mission, the entire crew was shrouded in pessimism before setting sail. The fuel fire caused by the torpedo hits instantly turned the warship into a living hell. The commander, Rear Admiral Antonino Toscano, refused to abandon ship and went down with his vessel alongside his staff."
+    },
+    "battle": {
+      "zh": "邦角海战",
+      "en": "Battle of Cape Bon"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/90/Incrociatore_Alberico_da_Barbiano.jpg"
+  },
+  {
+    "id": "cl-alberto-di-giussano",
+    "name": {
+      "zh": "阿尔贝托·迪·朱萨诺号轻巡洋舰",
+      "en": "Italian Cruiser Alberto di Giussano"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "轻巡洋舰 (雇佣兵队长级)",
+      "en": "Light Cruiser (Condottieri-class)"
+    },
+    "coordinates": [36.833, 11.200],
+    "sinkingDate": "1941-12-13",
+    "cause": {
+      "zh": "跟随旗舰行动时同样落入盟军驱逐舰的交叉火力网。虽然它拼死向英国驱逐舰开火还击，但很快就被至少一枚鱼雷命中，同样引发了甲板燃油的致命大火。船体在燃烧断裂后沉入地中海。",
+      "en": "While following the flagship, she also fell into the crossfire of the Allied destroyers. Although she desperately returned fire against the British ships, she was quickly hit by at least one torpedo, similarly igniting a fatal fire from the deck fuel. The hull broke apart while burning and sank into the Mediterranean."
+    },
+    "depth": {
+      "zh": "约 60 - 70 米",
+      "en": "Approx. 60 - 70 meters"
+    },
+    "historyNotes": {
+      "zh": "作为姊妹舰，它与旗舰迎来了相同的悲惨命运。这场伏击战是一次教科书级别的夜战突袭，盟军驱逐舰在黑暗中利用雷达优势，悄无声息地抵近到极近距离发起鱼雷齐射，自身没有受到任何实质性损伤，而意大利海军则在一夜之间痛失两艘主力轻巡洋舰。",
+      "en": "As a sister ship, she met the same tragic fate as the flagship. This ambush was a textbook night raid; leveraging their radar advantage in the darkness, the Allied destroyers silently approached to point-blank range and launched a torpedo salvo without sustaining any material damage themselves, while the Italian Navy lost two frontline light cruisers overnight."
+    },
+    "battle": {
+      "zh": "邦角海战",
+      "en": "Battle of Cape Bon"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RN_Alberto_di_Giussano.jpg"
+  }
+]

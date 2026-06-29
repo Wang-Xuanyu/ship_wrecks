@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "ss-surcouf",
+    "name": {
+      "zh": "絮库夫号巡洋潜艇",
+      "en": "French Cruiser Submarine Surcouf"
+    },
+    "faction": {
+      "zh": "自由法国",
+      "en": "Free France"
+    },
+    "type": {
+      "zh": "巡洋潜艇",
+      "en": "Cruiser Submarine"
+    },
+    "coordinates": [
+      10.666,
+      -79.516
+    ],
+    "sinkingDate": "1942-02-18",
+    "cause": {
+      "zh": "在巴拿马运河以北的加勒比海夜间航行时失踪。普遍认为是在漆黑的海面上与美国货轮‘汤普森·莱克斯号’ (SS Thomson Lykes) 发生了灾难性的相撞，随后沉入深海。",
+      "en": "Went missing during a night voyage in the Caribbean Sea north of the Panama Canal. It is widely believed that she suffered a catastrophic collision in the pitch-black night with the American freighter SS Thomson Lykes, subsequently sinking into the deep sea."
+    },
+    "depth": {
+      "zh": "约 3000 米",
+      "en": "Approx. 3000 meters"
+    },
+    "historyNotes": {
+      "zh": "当时世界上最大、最怪异的潜艇！它装备了两门巡洋舰级别的 203 毫米（8英寸）重炮，甚至还自带一架水上飞机。在法国投降后加入了自由法国海军。它的离奇失踪引发了无数阴谋论，甚至有人传说它其实是被美军潜艇误击沉没的。",
+      "en": "The largest and most bizarre submarine in the world at the time! She was armed with two cruiser-caliber 203mm (8-inch) heavy guns and even carried a seaplane. After the fall of France, she joined the Free French Naval Forces. Her bizarre disappearance spawned numerous conspiracy theories, with some even claiming she was accidentally sunk by a U.S. submarine."
+    },
+    "battle": {
+      "zh": "加勒比海战区 (非战斗损失)",
+      "en": "Caribbean Theater (Non-combat Loss)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/32/Surcouf_FRA.jpg",
+    "battleId": "caribbean-theater-non-combat-loss"
+  },
+  {
+    "id": "u-110",
+    "name": {
+      "zh": "U-110 号潜艇",
+      "en": "German Submarine U-110"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "IXB型潜艇",
+      "en": "Type IXB Submarine"
+    },
+    "coordinates": [
+      60.366,
+      -33.166
+    ],
+    "sinkingDate": "1941-05-09",
+    "cause": {
+      "zh": "在攻击船队时被英国驱逐舰逼出水面并俘获。在被拖曳回英国本土途中因进水过多而沉没。",
+      "en": "Forced to the surface and captured by British destroyers while attacking a convoy. She sank due to excessive flooding while being towed back to Britain."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "虽然最终沉没，但这艘潜艇是盟军在大西洋战役中最具决定性的胜利。英国水兵在潜艇沉没前拼死抢出了一台完好的‘恩尼格玛’ (Enigma) 密码机和密码本，让布莱切利园的图灵团队成功破译了德国海军通讯，彻底扭转了反潜战的走向。",
+      "en": "Though she eventually sank, her capture was one of the most decisive Allied victories of the Atlantic campaign. Before she went down, British sailors managed to seize an intact Enigma machine and codebooks, enabling Turing's team at Bletchley Park to crack German naval communications and fundamentally turn the tide of the anti-submarine war."
+    },
+    "battle": {
+      "zh": "大西洋海战 (情报战)",
+      "en": "Battle of the Atlantic (Intelligence War)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/86/U-110_and_HMS_Bulldog.jpg",
+    "battleId": "battle-of-the-atlantic-intelligence-war"
+  },
+  {
+    "id": "u-1195",
+    "name": {
+      "zh": "U-1195 号潜艇",
+      "en": "German Submarine U-1195"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "VIIC型潜艇",
+      "en": "Type VIIC Submarine"
+    },
+    "coordinates": [
+      50.55,
+      -0.933
+    ],
+    "sinkingDate": "1945-04-06",
+    "cause": {
+      "zh": "在英吉利海峡试图用新型‘刺猬弹’躲避探测时，被英国皇家海军守望者号（HMS Watchman）的深水炸弹精准击中沉没。",
+      "en": "While attempting to evade detection in the English Channel, she was sunk by precision depth charge attacks from the Royal Navy destroyer HMS Watchman."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "这艘潜艇的残骸非常容易潜入，位于英国怀特岛（Isle of Wight）以南。它展示了战争极末期，U 艇在盟军绝对制海权下近乎自杀式的近岸突击。",
+      "en": "The wreck is highly accessible to divers and is located south of the Isle of Wight, UK. She represents the near-suicidal coastal sorties of U-boats under absolute Allied naval supremacy in the final weeks of the war."
+    },
+    "battle": {
+      "zh": "大西洋海战 (英吉利海峡)",
+      "en": "Battle of the Atlantic (English Channel)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null,
+    "battleId": "battle-of-the-atlantic-english-channel"
+  },
+  {
+    "id": "u-166",
+    "name": {
+      "zh": "U-166 号潜艇",
+      "en": "German Submarine U-166"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "IXC型潜艇",
+      "en": "Type IXC Submarine"
+    },
+    "coordinates": [
+      28.675,
+      -88.199
+    ],
+    "sinkingDate": "1942-07-30",
+    "cause": {
+      "zh": "在墨西哥湾伏击客轮后，遭到美国海军 PC-566 号巡逻艇投掷的深水炸弹击中，直接沉入海底。",
+      "en": "After ambushing a passenger ship in the Gulf of Mexico, she was struck by depth charges from the U.S. Navy patrol craft PC-566 and sank directly to the seabed."
+    },
+    "depth": {
+      "zh": "约 1524 米",
+      "en": "Approx. 1524 meters"
+    },
+    "historyNotes": {
+      "zh": "它是唯一一艘在墨西哥湾被击沉的 U 艇。长期以来人们一直找错了位置，直到 2001 年在进行海底输油管道勘探时，才在深海泥床上发现了它极其完整的残骸。",
+      "en": "The only U-boat sunk in the Gulf of Mexico. For decades, its location was misidentified until 2001, when its remarkably intact wreck was discovered on the deep-sea bed during a survey for an underwater oil pipeline."
+    },
+    "battle": {
+      "zh": "击鼓行动 (墨西哥湾)",
+      "en": "Operation Drumbeat (Gulf of Mexico)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null,
+    "battleId": "operation-drumbeat-gulf-of-mexico"
+  },
+  {
+    "id": "u-352",
+    "name": {
+      "zh": "U-352 号潜艇",
+      "en": "German Submarine U-352"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "VIIC型潜艇",
+      "en": "Type VIIC Submarine"
+    },
+    "coordinates": [
+      34.228,
+      -76.565
+    ],
+    "sinkingDate": "1942-05-09",
+    "cause": {
+      "zh": "在北卡罗来纳州近海误判目标，向美国海岸警卫队伊卡洛斯号（USCGC Icarus）发射鱼雷失败，反被对方用深水炸弹逼出水面并击沉。",
+      "en": "Off the coast of North Carolina, she misidentified her target and failed in a torpedo attack against the USCGC Icarus. She was subsequently forced to the surface by depth charges and sunk."
+    },
+    "depth": {
+      "zh": "约 35 米",
+      "en": "Approx. 35 meters"
+    },
+    "historyNotes": {
+      "zh": "这是如今美国东海岸最著名的潜水胜地之一。残骸静静地躺在北卡罗来纳州的‘逃亡角’（Cape Lookout）水下，舰体向右舷倾斜，成为了人工鱼礁。",
+      "en": "One of the most popular dive sites on the U.S. East Coast today. The wreck lies off Cape Lookout, North Carolina, listing to her starboard side and serving as an artificial reef."
+    },
+    "battle": {
+      "zh": "大西洋海战 (美国东海岸)",
+      "en": "Battle of the Atlantic (U.S. East Coast)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Photographing_a_German_U-boat.jpg",
+    "battleId": "battle-of-the-atlantic-u-s-east-coast"
+  },
+  {
+    "id": "ss-u-455",
+    "name": {
+      "zh": "U-455 号潜艇",
+      "en": "German Submarine U-455"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "VIIC型 U型潜艇",
+      "en": "Type VIIC U-boat"
+    },
+    "coordinates": [
+      44.329,
+      9.213
+    ],
+    "sinkingDate": "1944-04-05",
+    "cause": {
+      "zh": "在意大利波托菲诺（Portofino）外海进行潜望镜深度潜航时，意外触雷（极大可能是德军自己布设的防御性水雷阵）。水雷直接炸碎了指挥塔后方约 10 米的舰体，导致潜艇迅速失去浮力沉没。",
+      "en": "While navigating at periscope depth off the coast of Portofino, Italy, she accidentally struck a mine (highly likely part of a German-laid defensive minefield). The mine blew apart approximately 10 meters of the hull directly behind the conning tower, causing her to rapidly lose buoyancy and sink."
+    },
+    "depth": {
+      "zh": "约 120 米",
+      "en": "Approx. 120 meters"
+    },
+    "historyNotes": {
+      "zh": "地中海最具视觉冲击力的技术潜水点之一。由于尾部大面积撕裂，它的残骸目前以一种极其诡异且戏剧性的姿态——舰艏朝上、与海底呈完美的 45 度角直立插在 120 米深的泥沙中。全艇 51 人阵亡，无人生还，其残骸直到 2005 年才被深海考古学家发现。",
+      "en": "One of the most visually striking technical dive sites in the Mediterranean. Due to the massive tear in her stern section, her wreck currently rests in an extremely eerie and dramatic posture—bow pointing upwards, sticking out of the 120-meter deep silt at a perfect 45-degree angle. All 51 crew members were lost with no survivors. Her wreck was not discovered by deep-sea archaeologists until 2005."
+    },
+    "battle": {
+      "zh": "地中海潜艇战",
+      "en": "Mediterranean Submarine Warfare"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bundesarchiv_Bild_101II-MW-6434-15%2C_St._Nazaire%2C_U-Boot_einlaufend.jpg",
+    "battleId": "mediterranean-submarine-warfare"
+  },
+  {
+    "id": "u-85",
+    "name": {
+      "zh": "U-85 号潜艇",
+      "en": "German Submarine U-85"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "VIIB型潜艇",
+      "en": "Type VIIB Submarine"
+    },
+    "coordinates": [
+      35.916,
+      -75.216
+    ],
+    "sinkingDate": "1942-04-14",
+    "cause": {
+      "zh": "在北卡罗来纳州哈特拉斯角（Cape Hatteras）附近的浅水区被美国海军驱逐舰罗珀号（USS Roper）的雷达发现，遭火炮近距离击沉。",
+      "en": "Detected by radar in shallow waters near Cape Hatteras, North Carolina, by the U.S. destroyer USS Roper and sunk by close-range gunfire."
+    },
+    "depth": {
+      "zh": "约 30 米",
+      "en": "Approx. 30 meters"
+    },
+    "historyNotes": {
+      "zh": "它是美国正式参战后，美国海军击沉的第一艘德国 U 艇。它的沉没地点水非常浅，属于著名的哈特拉斯‘大西洋墓地’的一部分。",
+      "en": "The first German U-boat sunk by the U.S. Navy after the United States officially entered the war. Her wreck lies in very shallow water, forming part of the famous 'Graveyard of the Atlantic' off Cape Hatteras."
+    },
+    "battle": {
+      "zh": "大西洋海战 (击鼓行动)",
+      "en": "Battle of the Atlantic (Operation Drumbeat)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/5/52/U_52.jpg",
+    "battleId": "battle-of-the-atlantic-operation-drumbeat"
+  },
+  {
+    "id": "ss-u-864",
+    "name": {
+      "zh": "U-864 号潜艇",
+      "en": "German Submarine U-864"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "IXD2型 U型潜艇",
+      "en": "Type IXD2 U-boat"
+    },
+    "coordinates": [
+      60.766,
+      4.616
+    ],
+    "sinkingDate": "1945-02-09",
+    "cause": {
+      "zh": "在前往日本运送喷气式飞机图纸和液态水银的途中，被埋伏的英国潜艇冒险者号 (HMS Venturer) 发现。英军潜艇在双方均处于潜航状态时，通过声呐盲射四枚鱼雷将其击沉。",
+      "en": "While en route to Japan with jet aircraft blueprints and liquid mercury, she was intercepted by the British submarine HMS Venturer. In the first and only time in history, one fully submerged submarine intentionally tracked and sank another fully submerged submarine using sonar-directed torpedoes."
+    },
+    "depth": {
+      "zh": "约 150 米",
+      "en": "Approx. 150 meters"
+    },
+    "historyNotes": {
+      "zh": "海军史上的传奇里程碑：这是历史上第一次也是唯一一次全潜航状态的潜艇通过声呐追踪并击沉另一艘全潜航潜艇。其携带的有毒水银货物至今仍是挪威海岸外的环境隐患。",
+      "en": "A legendary milestone in naval warfare: this is the first and only time in history that a fully submerged submarine intentionally tracked and sank another fully submerged submarine. The toxic mercury cargo remains an environmental hazard off the coast of Norway."
+    },
+    "battle": {
+      "zh": "北海潜艇战 (特种运输)",
+      "en": "North Sea Submarine Warfare (Special Transport)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null,
+    "battleId": "north-sea-submarine-warfare-special-transport"
+  },
+  {
+    "id": "u-869",
+    "name": {
+      "zh": "U-869 号潜艇",
+      "en": "German Submarine U-869"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "IXC/40型潜艇",
+      "en": "Type IXC/40 Submarine"
+    },
+    "coordinates": [
+      39.55,
+      -73.333
+    ],
+    "sinkingDate": "1945-02-11",
+    "cause": {
+      "zh": "沉没原因至今仍有争议，主流观点认为它遭到了美军驱逐舰的深水炸弹攻击，或者被自己发射后故障回旋的声导鱼雷击中。",
+      "en": "The cause of her sinking remains controversial; leading theories suggest she was either destroyed by U.S. destroyer depth charges or struck by a circular run of her own faulty acoustic homing torpedo."
+    },
+    "depth": {
+      "zh": "约 73 米",
+      "en": "Approx. 73 meters"
+    },
+    "historyNotes": {
+      "zh": "这就是著名的‘U-Who’（无名潜艇）。1991 年被极限潜水员在新泽西州外海发现，但德国官方记录它应该沉没在直布罗陀。经过数年极其危险的深潜调查才最终确认其身份，这段故事被写成了畅销书《暗影潜水员》（Shadow Divers）。",
+      "en": "The famous 'U-Who'. Discovered off New Jersey in 1991 by technical divers, despite German official records placing her near Gibraltar. Years of dangerous deep-diving investigations eventually confirmed her identity, a saga chronicled in the bestseller 'Shadow Divers'."
+    },
+    "battle": {
+      "zh": "大西洋海战 (末期破交)",
+      "en": "Battle of the Atlantic (Late-war Raiding)"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null,
+    "battleId": "battle-of-the-atlantic-late-war-raiding"
+  },
+  {
+    "id": "ss-i-171",
+    "name": {
+      "zh": "伊-171号潜艇",
+      "en": "IJN I-171"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "大型潜艇",
+      "en": "Large Submarine"
+    },
+    "coordinates": [
+      -5.166,
+      154.233
+    ],
+    "sinkingDate": "1944-02-01",
+    "cause": {
+      "zh": "在布干维尔岛北部的布卡岛海域执行补给运输任务时，被美军驱逐舰格斯特号 (USS Guest) 击沉。",
+      "en": "Sunk by the U.S. destroyer USS Guest while carrying out a supply transport mission in the waters off Buka Island, north of Bougainville."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "当时日军被迫使用潜艇来运送补给（所谓的“蚂蚁运输”），这艘巨型潜艇在执行非战斗任务时被发现并击毁。",
+      "en": "At the time, the Japanese were forced to use submarines to transport supplies (the so-called 'Ant Transport'). This giant submarine was discovered and destroyed while performing a non-combat mission."
+    },
+    "battle": {
+      "zh": "布干维尔战役",
+      "en": "Bougainville Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kaidai_I-171.jpg",
+    "battleId": "bougainville-campaign"
+  },
+  {
+    "id": "ss-i-174",
+    "name": {
+      "zh": "伊-174号潜艇",
+      "en": "IJN I-174"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "大型潜艇",
+      "en": "Large Submarine"
+    },
+    "coordinates": [
+      10.783,
+      153.183
+    ],
+    "sinkingDate": "1944-04-12",
+    "cause": {
+      "zh": "在特鲁克以北海域巡逻时，被美军驱逐舰和巡逻机协同发现，遭连续深水炸弹攻击后沉没。",
+      "en": "While patrolling the waters north of Truk, she was jointly detected by a U.S. destroyer and patrol aircraft, and sank after sustaining continuous depth charge attacks."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它是日军在加罗林群岛海域残留的最后几艘活跃潜艇之一。它的消失标志着特鲁克外围的水下威胁基本被肃清。",
+      "en": "She was one of the last active Japanese submarines remaining in the Caroline Islands area. Her disappearance marked the virtual elimination of the underwater threat around Truk."
+    },
+    "battle": {
+      "zh": "加罗林群岛反潜战",
+      "en": "Caroline Islands Anti-Submarine Action"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null,
+    "battleId": "caroline-islands-anti-submarine-action"
+  },
+  {
+    "id": "ss-i-175",
+    "name": {
+      "zh": "伊-175号潜艇",
+      "en": "IJN I-175"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "大型潜艇",
+      "en": "Large Submarine"
+    },
+    "coordinates": [
+      9.25,
+      167.333
+    ],
+    "sinkingDate": "1944-02-04",
+    "cause": {
+      "zh": "在夸贾林环礁以北海域，被美军驱逐舰尼古拉斯号 (USS Nicholas) 发现并使用深水炸弹击沉。",
+      "en": "Discovered and sunk by depth charges from the U.S. destroyer USS Nicholas in the waters north of Kwajalein Atoll."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这就是在吉尔伯特战役中击沉利斯科姆湾号航母的那艘潜艇。仅仅两个月后，它就在马绍尔群岛被美军的反潜网捕获并终结。",
+      "en": "This is the very submarine that sank the escort carrier USS Liscome Bay during the Gilbert Islands campaign. Just two months later, she was caught and destroyed by the U.S. anti-submarine network in the Marshall Islands."
+    },
+    "battle": {
+      "zh": "马绍尔群岛战役",
+      "en": "Marshall Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Japanese_submarine_I-175_in_1941.jpg",
+    "battleId": "marshall-islands-campaign"
+  },
+  {
+    "id": "ss-i-181",
+    "name": {
+      "zh": "伊-181号潜艇",
+      "en": "IJN I-181"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "大型潜艇",
+      "en": "Large Submarine"
+    },
+    "coordinates": [
+      -5.8,
+      154.5
+    ],
+    "sinkingDate": "1944-01-16",
+    "cause": {
+      "zh": "在布干维尔岛西北部的圣乔治海峡，遭到美军驱逐舰与反潜飞机的协同攻击，被深水炸弹击沉。",
+      "en": "Sunk by depth charges in St. George's Channel northwest of Bougainville Island following a coordinated attack by a U.S. destroyer and anti-submarine aircraft."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "伊号潜艇是日本海军的水下主力，但在 1944 年初，美军的反潜战术已经成熟，使得日军潜艇在布干维尔周边的活动变得极其危险。",
+      "en": "The I-class submarines were the main underwater force of the Japanese Navy, but by early 1944, U.S. anti-submarine tactics had matured, making Japanese submarine operations around Bougainville extremely dangerous."
+    },
+    "battle": {
+      "zh": "布干维尔战役",
+      "en": "Bougainville Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/81/I-176.jpg",
+    "battleId": "bougainville-campaign"
+  },
+  {
+    "id": "ss-i-19",
+    "name": {
+      "zh": "伊-19号潜艇",
+      "en": "IJN I-19"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "大型潜艇",
+      "en": "Large Submarine"
+    },
+    "coordinates": [
+      3.166,
+      171.916
+    ],
+    "sinkingDate": "1943-11-25",
+    "cause": {
+      "zh": "在吉尔伯特群岛海域执行任务时，被美军雷德福号驱逐舰（USS Radford）发现并用深水炸弹击沉。",
+      "en": "While on a mission in the Gilbert Islands area, she was discovered and sunk by depth charges from the U.S. destroyer USS Radford."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这正是那艘在1942年创造了“史上最强鱼雷齐射”（击沉黄蜂号、重创北卡罗来纳号）的名舰。在吉尔伯特战役中，这艘“潜艇王牌”终于迎来了自己的终点。",
+      "en": "This is the very same famous submarine that executed the 'most successful torpedo salvo in history' in 1942 (sinking USS Wasp and severely damaging USS North Carolina). During the Gilbert Islands campaign, this 'submarine ace' finally met her end."
+    },
+    "battle": {
+      "zh": "吉尔伯特群岛战役",
+      "en": "Gilbert Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/dd/I19.jpg",
+    "battleId": "gilbert-islands-campaign"
+  },
+  {
+    "id": "ss-i-29",
+    "name": {
+      "zh": "伊-29号潜艇",
+      "en": "IJN I-29"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "巡潜乙型潜艇 (柳作战)",
+      "en": "Type B1 Submarine (Yanagi Mission)"
+    },
+    "coordinates": [
+      18.5,
+      120.25
+    ],
+    "sinkingDate": "1944-07-26",
+    "cause": {
+      "zh": "从德国返回日本途中，在吕宋海峡被美军潜艇‘锯脂鲤号’ (USS Sawfish) 拦截并击沉。",
+      "en": "Intercepted and sunk by the U.S. submarine USS Sawfish in the Luzon Strait while returning to Japan from Germany."
+    },
+    "depth": {
+      "zh": "极深",
+      "en": "Extremely deep"
+    },
+    "historyNotes": {
+      "zh": "著名的‘柳作战’交换艇。它当时载有德国喷气式战斗机的图纸和航空发动机技术。它的沉没对日本战时技术研发是致命打击。",
+      "en": "A famous 'Yanagi Mission' exchange submarine. At the time, she was carrying blueprints for German jet fighters and aviation engine technology. Her sinking dealt a fatal blow to Japan's wartime technological research and development."
+    },
+    "battle": {
+      "zh": "印度洋-太平洋战略运输",
+      "en": "Indo-Pacific Strategic Transport"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/E7N9EfeVUAMKu0Z.jpg/960px-E7N9EfeVUAMKu0Z.jpg",
+    "battleId": "indo-pacific-strategic-transport"
+  },
+  {
+    "id": "ss-i-32",
+    "name": {
+      "zh": "伊-32号潜艇",
+      "en": "IJN I-32"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "大型潜艇",
+      "en": "Large Submarine"
+    },
+    "coordinates": [
+      9.25,
+      171.166
+    ],
+    "sinkingDate": "1944-03-24",
+    "cause": {
+      "zh": "在向沃特杰环礁执行补给任务途中，被美军护卫驱逐舰曼洛夫号 (USS Manlove) 发现并用深水炸弹击沉。",
+      "en": "Discovered and sunk by depth charges from the U.S. destroyer escort USS Manlove while en route to resupply Wotje Atoll."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这艘巨型潜艇当时正试图为被围困的日军守备队运送粮食。它的沉没显示了美军对马绍尔群岛周边航线的绝对控制。",
+      "en": "This giant submarine was attempting to deliver food to the besieged Japanese garrison. Her sinking demonstrated absolute U.S. control over the sea lanes surrounding the Marshall Islands."
+    },
+    "battle": {
+      "zh": "马绍尔群岛封锁战",
+      "en": "Marshall Islands Blockade"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null,
+    "battleId": "marshall-islands-blockade"
+  },
+  {
+    "id": "ss-i-35",
+    "name": {
+      "zh": "伊-35号潜艇",
+      "en": "IJN I-35"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      1.366,
+      172.95
+    ],
+    "sinkingDate": "1943-11-23",
+    "cause": {
+      "zh": "在塔拉瓦海域试图攻击美军舰队时，被美军驱逐舰米德号（USS Meade）和弗雷泽号（USS Frazier）发现并逼出水面，遭撞击和炮击击沉。",
+      "en": "While attempting to attack the U.S. fleet in the waters off Tarawa, she was detected and forced to surface by the U.S. destroyers USS Meade and USS Frazier, then sunk by ramming and gunfire."
+    },
+    "depth": {
+      "zh": "浅水海域",
+      "en": "Shallow water"
+    },
+    "historyNotes": {
+      "zh": "日军潜艇在吉尔伯特战役中表现活跃，但面对美军成熟的驱逐舰反潜网，付出了极其高昂的代价。",
+      "en": "Japanese submarines were active during the Gilbert Islands campaign, but paid an extremely high price against the mature anti-submarine networks of U.S. destroyers."
+    },
+    "battle": {
+      "zh": "吉尔伯特群岛战役",
+      "en": "Gilbert Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/98/FE4l4tiagAAd57i.jpg",
+    "battleId": "gilbert-islands-campaign"
+  },
+  {
+    "id": "ss-i-5",
+    "name": {
+      "zh": "伊-5号潜艇",
+      "en": "IJN I-5"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "巡潜1型潜艇 (大型潜艇)",
+      "en": "Type J1 Submarine (Large Submarine)"
+    },
+    "coordinates": [
+      13.016,
+      144.633
+    ],
+    "sinkingDate": "1944-07-19",
+    "cause": {
+      "zh": "在向关岛运送补给物资时，被美军护卫驱逐舰怀曼号 (USS Wyman) 发现并用深水炸弹击沉。",
+      "en": "Discovered and sunk by depth charges from the U.S. destroyer escort USS Wyman while transporting supplies to Guam."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "当时日军只能依靠潜艇进行“蚂蚁运输”。这艘排水量超过2000吨的大型潜艇在关岛家门口的沉没，宣告了关岛补给线的彻底切断。",
+      "en": "At the time, the Japanese had to rely solely on submarines for 'Ant Transport'. The sinking of this large submarine, displacing over 2,000 tons, right at Guam's doorstep heralded the complete severing of the Guam supply line."
+    },
+    "battle": {
+      "zh": "关岛战役",
+      "en": "Battle of Guam"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/48/Japanese_submarine_I-5_in_1932.jpg",
+    "battleId": "battle-of-guam"
+  },
+  {
+    "id": "ss-i-55",
+    "name": {
+      "zh": "伊-55号潜艇",
+      "en": "IJN I-55"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "丙型潜艇 (大型潜艇)",
+      "en": "Type C Submarine (Large Submarine)"
+    },
+    "coordinates": [
+      15.3,
+      146.066
+    ],
+    "sinkingDate": "1944-07-14",
+    "cause": {
+      "zh": "在提尼安岛附近海域执行战斗巡逻时，被美军护卫驱逐舰雷诺兹号 (USS Reynolds) 击沉。",
+      "en": "Sunk by the U.S. destroyer escort USS Reynolds while on a combat patrol in the waters near Tinian Island."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这是日军试图干扰美军登陆提尼安岛的最后努力。随着这些潜艇的消失，提尼安和塞班周围成了美军的“内湖”。",
+      "en": "This was the Japanese Navy's final effort to disrupt the U.S. landings on Tinian. With the disappearance of these submarines, the waters around Tinian and Saipan effectively became an 'inner lake' for U.S. forces."
+    },
+    "battle": {
+      "zh": "提尼安岛战役",
+      "en": "Battle of Tinian"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null,
+    "battleId": "battle-of-tinian"
+  },
+  {
+    "id": "ss-ro-100",
+    "name": {
+      "zh": "吕-100号潜艇",
+      "en": "IJN Ro-100"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      -6.166,
+      154.966
+    ],
+    "sinkingDate": "1943-11-25",
+    "cause": {
+      "zh": "在执行布干维尔岛周边的侦察与补给任务时，于托罗基纳海角附近触雷沉没。",
+      "en": "Sank after striking a mine near Cape Torokina while carrying out reconnaissance and supply missions around Bougainville Island."
+    },
+    "depth": {
+      "zh": "浅海区域",
+      "en": "Shallow water"
+    },
+    "historyNotes": {
+      "zh": "吕-100型潜艇是日军用于中近海防御的小型潜艇，它的沉没展示了美军在布干维尔周边布下的防御性雷区威力。",
+      "en": "The Ro-100 class was a small submarine used by the Japanese for coastal defense. Her sinking demonstrated the effectiveness of the defensive minefields laid by U.S. forces around Bougainville."
+    },
+    "battle": {
+      "zh": "布干维尔战役",
+      "en": "Bougainville Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null,
+    "battleId": "bougainville-campaign"
+  },
+  {
+    "id": "ss-ro-39",
+    "name": {
+      "zh": "吕-39号潜艇",
+      "en": "IJN Ro-39"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      9.4,
+      170.533
+    ],
+    "sinkingDate": "1944-02-01",
+    "cause": {
+      "zh": "在沃特杰环礁 (Wotje) 附近海域巡逻时，被美军驱逐舰沃克号 (USS Walker) 击沉。",
+      "en": "Sunk by the U.S. destroyer USS Walker while patrolling the waters near Wotje Atoll."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "吕-39型是中型潜艇，日军当时试图用它们在美军进攻路径上布雷或伏击，但由于美军拥有先进的声呐技术，这些尝试大多以失败告终。",
+      "en": "The Ro-39 was a medium-sized submarine. The Japanese attempted to use them for minelaying or ambushes along U.S. attack routes, but due to advanced U.S. sonar technology, these attempts mostly ended in failure."
+    },
+    "battle": {
+      "zh": "马绍尔群岛战役",
+      "en": "Marshall Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null,
+    "battleId": "marshall-islands-campaign"
+  },
+  {
+    "id": "ss-ro-40",
+    "name": {
+      "zh": "吕-40号潜艇",
+      "en": "IJN Ro-40"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      9,
+      167
+    ],
+    "sinkingDate": "1944-02-02",
+    "cause": {
+      "zh": "在夸贾林附近海域被美军驱逐舰编队锁定，遭深水炸弹连续攻击后沉没。",
+      "en": "Locked onto by a U.S. destroyer formation in the waters near Kwajalein and sunk after enduring continuous depth charge attacks."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "与吕-39号类似，它们都是日军在马绍尔群岛部署的近海防卫力量。它们的迅速毁灭证明了日军在该海域的水下防御已经完全崩溃。",
+      "en": "Similar to Ro-39, they were part of the coastal defense forces deployed by the Japanese in the Marshall Islands. Their rapid destruction proved that Japan's underwater defenses in the region had completely collapsed."
+    },
+    "battle": {
+      "zh": "马绍尔群岛战役",
+      "en": "Marshall Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null,
+    "battleId": "marshall-islands-campaign"
+  },
+  {
+    "id": "ss-i-52",
+    "name": {
+      "zh": "伊-52 号潜艇",
+      "en": "Japanese Submarine I-52"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "丙型潜水舰 (特混运输)",
+      "en": "Type C3 Submarine (Yanagi Mission)"
+    },
+    "coordinates": [
+      15.266,
+      -39.916
+    ],
+    "sinkingDate": "1944-06-24",
+    "cause": {
+      "zh": "在执行‘遣德潜艇’任务时，于大西洋中部与德国潜艇会合后，遭到美国护航航母博格号 (USS Bogue) 上的复仇者式鱼雷机投下的新型‘菲多’ (Fido) 声导鱼雷击沉。",
+      "en": "During a 'Yanagi' mission, after rendezvous with a German U-boat in the mid-Atlantic, she was sunk by a 'Fido' acoustic homing torpedo dropped by an Avenger bomber from the escort carrier USS Bogue."
+    },
+    "depth": {
+      "zh": "约 5140 米",
+      "en": "Approx. 5140 meters"
+    },
+    "historyNotes": {
+      "zh": "被称为‘黄金潜艇’。它载有超过 2 吨金条准备前往德国，以换取先进的雷达和光学技术。1995 年在大西洋中部的极深处被发现，黄金至今仍长眠在黑暗的深渊中。",
+      "en": "Known as the 'Golden Submarine'. It was carrying over 2 tons of gold bars to Germany to pay for advanced radar and optical technology. Discovered in 1995 at an extreme depth in the mid-Atlantic, the gold still rests in the dark abyss."
+    },
+    "battle": {
+      "zh": "大西洋反潜战 (遣德航线)",
+      "en": "Battle of the Atlantic (Yanagi Mission)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4d/I-52-submarine.jpg",
+    "battleId": "battle-of-the-atlantic-yanagi-mission"
+  },
+  {
+    "id": "u-168",
+    "name": {
+      "zh": "U-168 号潜艇",
+      "en": "Kriegsmarine U-168"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "IXC/40型潜艇",
+      "en": "Type IXC/40 Submarine"
+    },
+    "coordinates": [
+      -6.766,
+      111.916
+    ],
+    "sinkingDate": "1944-10-06",
+    "cause": {
+      "zh": "在爪哇海海域被荷兰潜艇‘兹瓦德维什号’ (HNLMS Zwaardvisch) 发射的鱼雷击沉。",
+      "en": "Sunk by torpedoes fired by the Dutch submarine HNLMS Zwaardvisch in the Java Sea."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "德国‘季风群’潜艇。它的存在展示了轴心国在印度洋的跨国协作，以及盟军（尤其是荷兰）在该海域持续的反潜压力。",
+      "en": "A German 'Monsun Gruppe' (Monsoon Group) submarine. Her presence demonstrated the transnational collaboration of the Axis powers in the Indian Ocean, as well as the continuous anti-submarine pressure exerted by the Allies (especially the Dutch) in that region."
+    },
+    "battle": {
+      "zh": "印度洋/东南亚潜艇战",
+      "en": "Indian Ocean/Southeast Asia Submarine Warfare"
+    },
+    "flagIconUrl": "/nazi.png",
+    "cover": null,
+    "battleId": "indian-ocean-southeast-asia-submarine-warfare"
+  },
+  {
+    "id": "sub-shch-305",
+    "name": {
+      "zh": "ShCh-305 号潜艇",
+      "en": "Soviet Submarine ShCh-305 (Shchuka-305)"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "X型潜艇 (狗鱼级)",
+      "en": "Type X Submarine (Shchuka-class/Pike-class)"
+    },
+    "coordinates": [
+      59.883,
+      19.15
+    ],
+    "sinkingDate": "1942-11-05",
+    "cause": {
+      "zh": "在奥兰海（Åland Sea）夜间水面航行充电时，被芬兰海军的‘水妖号’（Vetehinen）潜艇发现。芬兰潜艇在发射鱼雷未果后，直接全速撞击了它的舰体，导致其迅速沉没。",
+      "en": "Discovered by the Finnish submarine Vetehinen while surfaced at night to recharge batteries in the Åland Sea. After a failed torpedo attack, the Finnish submarine rammed her hull at full speed, causing her to sink rapidly."
+    },
+    "depth": {
+      "zh": "约 136 米",
+      "en": "Approx. 136 meters"
+    },
+    "historyNotes": {
+      "zh": "这是海战史上非常罕见的‘潜艇撞击潜艇’并导致一方沉没的战例。全舰 38 名官兵阵亡。残骸于 2006 年被瑞典和芬兰的联合探险队发现，舰体上的巨大撞击裂口依然清晰可见。",
+      "en": "This is a very rare case in naval history of 'submarine ramming submarine' resulting in the sinking of one party. All 38 crew members perished. Her wreck was discovered in 2006 by a joint Swedish-Finnish expedition, with the massive ramming gash still clearly visible on her hull."
+    },
+    "battle": {
+      "zh": "波罗的海潜艇战",
+      "en": "Baltic Sea Submarine Warfare"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": null,
+    "battleId": "baltic-sea-submarine-warfare"
+  },
+  {
+    "id": "ss-308-apogon",
+    "name": {
+      "zh": "天竺鲷号潜艇",
+      "en": "USS Apogon (SS-308)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      11.58,
+      165.495
+    ],
+    "sinkingDate": "1946-07-25",
+    "cause": {
+      "zh": "为了测试核爆对水下目标的破坏力，被安排在水下潜航状态接受测试。‘贝克’水下核爆的巨大水压瞬间压垮了其耐压壳，导致其永久沉没。",
+      "en": "To test the destructive power of a nuclear explosion on underwater targets, she was arranged to be submerged during the test. The immense water pressure from the 'Baker' underwater nuclear blast instantly crushed her pressure hull, causing her to sink permanently."
+    },
+    "depth": {
+      "zh": "约 50 米",
+      "en": "Approx. 50 meters"
+    },
+    "historyNotes": {
+      "zh": "一艘战功卓著的巴劳鱵级潜艇。目前它的残骸极其完好地静卧在比基尼环礁的沙地上，指挥塔上甚至还能看到核试验前涂上的清晰编号。",
+      "en": "A highly decorated Balao-class submarine. Currently, her remarkably intact wreck rests quietly on the sandy bottom of Bikini Atoll, and the clearly painted identification numbers applied before the test can still be seen on her conning tower."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3d/USS_Apogon%3B0830807.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "ss-227-darter",
+    "name": {
+      "zh": "海鲫号潜艇",
+      "en": "USS Darter (SS-227)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      9.45,
+      116.933
+    ],
+    "sinkingDate": "1944-10-24",
+    "cause": {
+      "zh": "在追击受伤的日舰“高雄号”时意外在哈萨德礁（Hasa Hasa Shoal）搁浅，为防止泄密，由美军自毁。",
+      "en": "Accidentally ran aground on Hasa Hasa Shoal while pursuing the damaged Japanese cruiser Takao. She was scuttled by U.S. forces to prevent capture and intelligence leaks."
+    },
+    "depth": {
+      "zh": "浅水礁石区",
+      "en": "Shallow reef area"
+    },
+    "historyNotes": {
+      "zh": "它是这场战役中立下首功的潜艇，却因地理环境复杂而不幸搁浅。虽然舰艇折损，但其战果直接改写了莱特湾海战的开局。",
+      "en": "She was the submarine that drew first blood in this campaign, but unfortunately ran aground due to the complex geography. Although the vessel was lost, her achievements directly rewrote the opening of the Battle of Leyte Gulf."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (帕拉万水道)",
+      "en": "Battle of Leyte Gulf (Palawan Passage)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/73/USS_Darter%3B227launch.jpg",
+    "battleId": "battle-of-leyte-gulf-palawan-passage"
+  },
+  {
+    "id": "ss-216-grunion",
+    "name": {
+      "zh": "银鱼号潜艇",
+      "en": "USS Grunion (SS-216)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "潜艇 (猫鲨级)",
+      "en": "Submarine (Gato-class)"
+    },
+    "coordinates": [
+      52.233,
+      177.5
+    ],
+    "sinkingDate": "1942-07-30",
+    "cause": {
+      "zh": "在基斯卡岛（Kiska）外海执行任务时失踪。根据最新战史研究，它在攻击日本货轮‘鹿野丸’号时，被对方甲板炮反击命中指挥塔，随后在紧急下潜中因深度失控而被海水压强压碎沉没。",
+      "en": "Missing in action while operating off Kiska. According to the latest historical research, while attacking the Japanese freighter Kano Maru, her conning tower was struck by return fire from the ship's deck gun. She subsequently lost depth control during an emergency dive and was crushed by water pressure."
+    },
+    "depth": {
+      "zh": "约 1000 米",
+      "en": "Approx. 1000 meters"
+    },
+    "historyNotes": {
+      "zh": "在失踪长达 60 多年后，其舰长的三个儿子组建了一支私人探险队，最终于 2007 年在基斯卡岛外海深处找到了这艘潜艇的残骸，解开了 70 名美军潜艇官兵长眠水底的历史谜团。",
+      "en": "After being missing for over 60 years, a private expedition team organized by the captain's three sons finally discovered her wreck in the deep waters off Kiska in 2007, solving the historical mystery of the 70 American submariners resting at the bottom of the sea."
+    },
+    "battle": {
+      "zh": "阿留申群岛战役",
+      "en": "Aleutian Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/11/USS_Grunion%3B0821602.jpg",
+    "battleId": "aleutian-islands-campaign"
+  },
+  {
+    "id": "ss-386-pilotfish",
+    "name": {
+      "zh": "领航鱼号潜艇",
+      "en": "USS Pilotfish (SS-386)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      11.582,
+      165.498
+    ],
+    "sinkingDate": "1946-07-25",
+    "cause": {
+      "zh": "在‘贝克’ (Baker) 水下核爆测试中，处于水下潜航状态。相当于两万吨 TNT 当量的巨大水压峰值瞬间压裂了潜艇的耐压外壳，导致其永久沉没。",
+      "en": "Submerged during the 'Baker' underwater nuclear test. The massive peak water pressure, equivalent to a 20-kiloton TNT blast, instantly ruptured the submarine's pressure hull, leading to her permanent sinking."
+    },
+    "depth": {
+      "zh": "约 53 米",
+      "en": "Approx. 53 meters"
+    },
+    "historyNotes": {
+      "zh": "一艘从太平洋战争中幸存的巴劳鱵级潜艇，最终却成为了水压测试的模型。目前它半埋在沙子里，与其他巨大的战舰遗骸并列。",
+      "en": "A Balao-class submarine that survived the Pacific War only to be used as a pressure test dummy. It rests partially buried in the sand next to other massive warships."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Pilotfish%3B0838603.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "ss-132-s27",
+    "name": {
+      "zh": "S-27号潜艇",
+      "en": "USS S-27 (SS-132)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "潜艇 (S级)",
+      "en": "Submarine (S-class)"
+    },
+    "coordinates": [
+      51.483,
+      179.1
+    ],
+    "sinkingDate": "1942-06-19",
+    "cause": {
+      "zh": "在阿留申群岛阿姆奇特卡岛（Amchitka）执行巡逻任务时，由于极地海域大雾弥漫、能见度极低且海况恶劣，在夜间水面航行时意外触礁搁浅。在尝试脱困失败后，被船员遗弃。",
+      "en": "While on patrol off Amchitka in the Aleutian Islands, navigating on the surface at night in dense polar fog, extremely low visibility, and rough seas, she accidentally ran aground on a reef. After failed attempts to break free, she was abandoned by her crew."
+    },
+    "depth": {
+      "zh": "海岸触礁沉没",
+      "en": "Wrecked on shore"
+    },
+    "historyNotes": {
+      "zh": "这是极少数无一人伤亡的沉船事件。在冰冻刺骨的阿留申群岛，全体船员在寒风中利用橡皮艇登上海滩，在一个废弃的村庄里靠吃土豆和生火熬过了 6 天，最终被友军的 PBY 卡特琳娜水上飞机奇迹般地全部救出。",
+      "en": "This is one of the rare shipwreck incidents with zero casualties. In the freezing, biting winds of the Aleutian Islands, the entire crew used rubber rafts to reach the beach, surviving for 6 days in an abandoned village by eating potatoes and building fires, before being miraculously rescued by friendly PBY Catalina flying boats."
+    },
+    "battle": {
+      "zh": "阿留申群岛战役",
+      "en": "Aleutian Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/90/USS_S-27_%28SS-132%29.jpg",
+    "battleId": "aleutian-islands-campaign"
+  },
+  {
+    "id": "ss-191-sculpin",
+    "name": {
+      "zh": "杜父鱼号潜艇",
+      "en": "USS Sculpin (SS-191)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      8.883,
+      151.266
+    ],
+    "sinkingDate": "1943-11-19",
+    "cause": {
+      "zh": "在支援吉尔伯特群岛行动途中，于特鲁克附近海域被日军山云号驱逐舰（Yamagumo）发现并遭深水炸弹重创，被迫浮出水面交战后自沉。",
+      "en": "While en route to support operations in the Gilbert Islands, she was discovered by the Japanese destroyer Yamagumo near Truk and severely damaged by depth charges. Forced to surface and engage, she was subsequently scuttled."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "这是一场极具悲剧色彩的战斗。舰长为防止情报泄露选择与潜艇一同沉没。该潜艇曾在30年代救起了后来在它对面作战的斯夸卢斯号潜艇的船员。",
+      "en": "This was a deeply tragic battle. The captain chose to go down with the submarine to prevent intelligence leaks. In the 1930s, this same submarine had rescued the crew of the submarine Squalus, which later fought on the opposing side."
+    },
+    "battle": {
+      "zh": "吉尔伯特群岛战役",
+      "en": "Gilbert Islands Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f7/USS_Sculpin_%28SS-191%29.jpg",
+    "battleId": "gilbert-islands-campaign"
+  },
+  {
+    "id": "ss-184-skipjack",
+    "name": {
+      "zh": "鲣鱼号潜艇",
+      "en": "USS Skipjack (SS-184)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      11.588,
+      165.492
+    ],
+    "sinkingDate": "1946-07-25",
+    "cause": {
+      "zh": "同样在‘贝克’ (Baker) 水下核爆测试中被作为水下目标。被数百万吨被核爆掀起的海水和恐怖的水下冲击波直接压碎结构而沉没。",
+      "en": "Also used as a submerged target in the 'Baker' underwater nuclear test. She was directly structurally crushed and sunk by the terrifying underwater shockwave and the millions of tons of seawater displaced by the blast."
+    },
+    "depth": {
+      "zh": "约 50 米",
+      "en": "Approx. 50 meters"
+    },
+    "historyNotes": {
+      "zh": "一艘较老的鲑鱼级潜艇。它被系泊在爆心附近的水下，专门用来测试潜艇外壳对水下核爆的生存能力。",
+      "en": "An older Salmon-class submarine. It was moored submerged near the blast center to test hull survivability against underwater nuclear detonations."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/USS_Skipjack_-_19-N-19055.jpg/1920px-USS_Skipjack_-_19-N-19055.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "ss-306-tang",
+    "name": {
+      "zh": "刺尾鱼号潜艇",
+      "en": "USS Tang (SS-306)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      25.1,
+      121.583
+    ],
+    "sinkingDate": "1944-10-24",
+    "cause": {
+      "zh": "在台湾海峡发射鱼雷时，最后一枚鱼雷发生回旋故障，击中潜艇自身尾部导致沉没。",
+      "en": "While firing torpedoes in the Taiwan Strait, her final torpedo suffered a circular run malfunction, striking her own stern and causing her to sink."
+    },
+    "depth": {
+      "zh": "约 55 米",
+      "en": "Approx. 55 meters"
+    },
+    "historyNotes": {
+      "zh": "美军战绩最辉煌的潜艇之一。这种‘自沉’的结局是潜艇史上最著名的悲剧，坐标位于台湾北部的观音山附近海域。",
+      "en": "One of the most decorated U.S. submarines. Her 'self-sinking' is one of the most famous tragedies in submarine history. The coordinates are located in the waters off Guanyin Mountain, northern Taiwan."
+    },
+    "battle": {
+      "zh": "莱特湾海战",
+      "en": "Battle of Leyte Gulf"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/USS_Tang_%28SS-306%29_off_the_Mare_Island_Naval_Shipyard%2C_California_%28USA%29%2C_2_December_1943_%28NH_42273%29.jpg/960px-USS_Tang_%28SS-306%29_off_the_Mare_Island_Naval_Shipyard%2C_California_%28USA%29%2C_2_December_1943_%28NH_42273%29.jpg",
+    "battleId": "battle-of-leyte-gulf"
+  },
+  {
+    "id": "ss-238-wahoo",
+    "name": {
+      "zh": "刺尾鲷号潜艇",
+      "en": "USS Wahoo (SS-238)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "潜艇",
+      "en": "Submarine"
+    },
+    "coordinates": [
+      45.216,
+      141.933
+    ],
+    "sinkingDate": "1943-10-11",
+    "cause": {
+      "zh": "在穿过宗谷海峡（La Perouse Strait）时被日军反潜飞机和猎潜艇发现，遭到长时间深水炸弹攻击后沉没。",
+      "en": "Discovered by Japanese anti-submarine aircraft and submarine chasers while transiting La Perouse Strait (Sōya Strait). She sank after enduring a prolonged depth charge attack."
+    },
+    "depth": {
+      "zh": "约 65 米",
+      "en": "Approx. 65 meters"
+    },
+    "historyNotes": {
+      "zh": "美军在二战中最著名的‘王牌’潜艇之一，由传奇艇长莫顿指挥。它的位置极其靠北，位于日本北海道与萨哈林岛之间。",
+      "en": "One of the most famous 'ace' submarines of the U.S. Navy in WWII, commanded by the legendary Dudley 'Mush' Morton. Her location was extremely far north, situated between Hokkaido, Japan, and Sakhalin Island."
+    },
+    "battle": {
+      "zh": "北太平洋封锁战",
+      "en": "North Pacific Blockade"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/USS_Wahoo_%28SS-238%29_off_the_Mare_Island_Naval_Shipyard%2C_California_%28USA%29%2C_on_14_July_1943_%2819-N-48937%29.jpg/960px-USS_Wahoo_%28SS-238%29_off_the_Mare_Island_Naval_Shipyard%2C_California_%28USA%29%2C_on_14_July_1943_%2819-N-48937%29.jpg",
+    "battleId": "north-pacific-blockade"
+  }
+]

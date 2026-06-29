@@ -1,0 +1,739 @@
+[
+  {
+    "id": "aviso-rigault",
+    "name": {
+      "zh": "里戈·德·热努伊号通报舰",
+      "en": "French Aviso Rigault de Genouilly"
+    },
+    "faction": {
+      "zh": "法国 (维希)",
+      "en": "France (Vichy)"
+    },
+    "type": {
+      "zh": "通报舰 (Aviso)",
+      "en": "Aviso (Sloop)"
+    },
+    "coordinates": [
+      36.833,
+      3.033
+    ],
+    "sinkingDate": "1940-07-04",
+    "cause": {
+      "zh": "在弩炮行动的余波中，于阿尔及尔外海被英国潜艇潘多拉号 (HMS Pandora) 误认为巡洋舰而发射鱼雷击沉。",
+      "en": "In the aftermath of Operation Catapult, she was sunk off the coast of Algiers by torpedoes from the British submarine HMS Pandora, which had mistaken her for a cruiser."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它是弩炮行动外围冲突的直接牺牲品，证明了当时英法两国在整个北非海域的极度紧张关系。",
+      "en": "A direct victim of the peripheral conflicts of Operation Catapult, demonstrating the extreme tension between Britain and France throughout the North African waters at the time."
+    },
+    "battle": {
+      "zh": "弩炮行动 (外围冲突)",
+      "en": "Operation Catapult (Peripheral Conflict)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/fr.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rigault_de_Genouilly_SLV_Green_1938.jpg/3840px-Rigault_de_Genouilly_SLV_Green_1938.jpg",
+    "battleId": "operation-catapult-peripheral-conflict"
+  },
+  {
+    "id": "corvette-alberni",
+    "name": {
+      "zh": "艾伯尼号护卫舰",
+      "en": "HMCS Alberni (K103)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "花级轻型护卫舰",
+      "en": "Flower-class Corvette"
+    },
+    "coordinates": [
+      50.3,
+      -0.85
+    ],
+    "sinkingDate": "1944-08-21",
+    "cause": {
+      "zh": "在英吉利海峡执行清剿任务时，被德国潜艇 U-480 发射的声导鱼雷击中，不到一分钟便迅速沉没。",
+      "en": "While conducting sweeping operations in the English Channel, she was struck by an acoustic homing torpedo from U-480 and sank rapidly in less than a minute."
+    },
+    "depth": {
+      "zh": "约 70 米",
+      "en": "Approx. 70 meters"
+    },
+    "historyNotes": {
+      "zh": "击沉它的 U-480 是一艘披挂了实验性‘阿尔贝里希’（Alberich）橡胶消声瓦的先进潜艇，这使得盟军声呐极难发现它。艾伯尼号 59 人遇难。",
+      "en": "The U-boat that sank her (U-480) was equipped with experimental 'Alberich' anechoic rubber tiles, making it extremely difficult for Allied sonar to detect. 59 crew members of Alberni perished."
+    },
+    "battle": {
+      "zh": "英吉利海峡海战",
+      "en": "English Channel Naval Actions"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/1c/HMCS_Alberni_K-103_O-6140.jpg",
+    "battleId": "english-channel-naval-actions"
+  },
+  {
+    "id": "corvette-charlottetown",
+    "name": {
+      "zh": "夏洛特敦号护卫舰",
+      "en": "HMCS Charlottetown (K244)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "花级轻型护卫舰",
+      "en": "Flower-class Corvette"
+    },
+    "coordinates": [
+      49.166,
+      -66.833
+    ],
+    "sinkingDate": "1942-09-11",
+    "cause": {
+      "zh": "在圣劳伦斯河（St. Lawrence River）内护航时，遭到潜入加拿大内海的德国潜艇 U-517 发射的鱼雷击中，仅三分钟后便沉没。",
+      "en": "While escorting a convoy inside the St. Lawrence River, she was struck by torpedoes from U-517, a German submarine that had infiltrated Canada's inland waters, sinking in just three minutes."
+    },
+    "depth": {
+      "zh": "约 300 米",
+      "en": "Approx. 300 meters"
+    },
+    "historyNotes": {
+      "zh": "它的沉没给加拿大国内带来了巨大的心理冲击，因为 U 艇已经杀到了加拿大的内河（圣劳伦斯河战役）。",
+      "en": "Her sinking caused a massive psychological shock within Canada, proving that U-boats had penetrated deep into Canada's inland rivers (Battle of the St. Lawrence)."
+    },
+    "battle": {
+      "zh": "大西洋海战 (圣劳伦斯湾战役)",
+      "en": "Battle of the St. Lawrence"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HMCS_Charlottetown_%28Flower_class%29_MC-2183.jpg/1920px-HMCS_Charlottetown_%28Flower_class%29_MC-2183.jpg",
+    "battleId": "battle-of-the-st-lawrence"
+  },
+  {
+    "id": "ms-clayoquot",
+    "name": {
+      "zh": "克莱奥阔特号扫雷舰",
+      "en": "HMCS Clayoquot (J174)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "班戈级扫雷舰",
+      "en": "Bangor-class Minesweeper"
+    },
+    "coordinates": [
+      44.416,
+      -63.333
+    ],
+    "sinkingDate": "1944-12-24",
+    "cause": {
+      "zh": "在平安夜当天，于哈利法克斯港外的加拿大本土海域，被 U-806 的鱼雷击中舰艉后沉没。",
+      "en": "On Christmas Eve, while operating in Canadian home waters just outside Halifax Harbour, she was struck in the stern by a torpedo from U-806 and sank."
+    },
+    "depth": {
+      "zh": "约 90 米",
+      "en": "Approx. 90 meters"
+    },
+    "historyNotes": {
+      "zh": "在圣诞前夜沉没于家门口，让这次事件变得格外令人悲伤。幸运的是，凭借出色的损管和快速的救援，全舰仅 8 人遇难。",
+      "en": "Sinking right on Canada's doorstep on Christmas Eve made this loss particularly poignant. Fortunately, thanks to excellent damage control and quick rescue, only 8 men were lost."
+    },
+    "battle": {
+      "zh": "大西洋海战 (加拿大近海防卫)",
+      "en": "Battle of the Atlantic (Canadian Coastal Defense)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": null,
+    "battleId": "battle-of-the-atlantic-canadian-coastal-defense"
+  },
+  {
+    "id": "ms-esquimalt",
+    "name": {
+      "zh": "埃斯奎莫尔特号扫雷舰",
+      "en": "HMCS Esquimalt (J272)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "班戈级扫雷舰",
+      "en": "Bangor-class Minesweeper"
+    },
+    "coordinates": [
+      44.466,
+      -63.166
+    ],
+    "sinkingDate": "1945-04-16",
+    "cause": {
+      "zh": "在哈利法克斯（Halifax）港口外海执行反潜巡逻时，被潜伏的德国潜艇 U-190 发射的声导鱼雷击中，不到 5 分钟便迅速沉没。",
+      "en": "While conducting anti-submarine patrols just off the approaches to Halifax harbour, she was struck by an acoustic homing torpedo from the lurking U-190 and sank rapidly in less than 5 minutes."
+    },
+    "depth": {
+      "zh": "约 100 米",
+      "en": "Approx. 100 meters"
+    },
+    "historyNotes": {
+      "zh": "它是加拿大在二战中因敌军行动损失的**最后一艘**军舰。此时距离纳粹德国投降仅剩不到一个月，且沉没地点就在加拿大本土海岸线肉眼可见的范围内。全舰 44 人遇难。",
+      "en": "She was the **last** Canadian warship lost to enemy action in WWII. This occurred less than a month before the surrender of Nazi Germany, right within visual sight of the Canadian coastline. 44 crew members perished."
+    },
+    "battle": {
+      "zh": "大西洋海战 (加拿大近海防卫)",
+      "en": "Battle of the Atlantic (Canadian Coastal Defense)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/64/HMCSEsquimalt.jpg",
+    "battleId": "battle-of-the-atlantic-canadian-coastal-defense"
+  },
+  {
+    "id": "ms-guysborough",
+    "name": {
+      "zh": "盖斯伯勒号扫雷舰",
+      "en": "HMCS Guysborough (J52)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "班戈级扫雷舰",
+      "en": "Bangor-class Minesweeper"
+    },
+    "coordinates": [
+      46.716,
+      -9.5
+    ],
+    "sinkingDate": "1945-03-17",
+    "cause": {
+      "zh": "在比斯开湾（Bay of Biscay）单独航行前往英国时，被 U-868 连续发射的两枚声导鱼雷击中沉没。",
+      "en": "While sailing independently towards the UK in the Bay of Biscay, she was hit and sunk by two consecutive acoustic torpedoes fired by U-868."
+    },
+    "depth": {
+      "zh": "未知 (比斯开湾深水区)",
+      "en": "Unknown (Deep waters of the Bay of Biscay)"
+    },
+    "historyNotes": {
+      "zh": "战争已近尾声，但大西洋依然致命。由于救援船只过了 19 个小时才赶到，51 名幸存者因长期浸泡在冰冷海水中而丧生。",
+      "en": "The war was nearing its end, but the Atlantic remained deadly. Because rescue ships took 19 hours to arrive, 51 survivors perished from prolonged exposure in the freezing water."
+    },
+    "battle": {
+      "zh": "比斯开湾反潜战",
+      "en": "Bay of Biscay Anti-Submarine Operations"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HMS_Guysborough_FL13703.jpg",
+    "battleId": "bay-of-biscay-anti-submarine-operations"
+  },
+  {
+    "id": "corvette-louisbourg",
+    "name": {
+      "zh": "路易斯堡号护卫舰",
+      "en": "HMCS Louisburg (K143)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "花级轻型护卫舰",
+      "en": "Flower-class Corvette"
+    },
+    "coordinates": [
+      36.25,
+      0.25
+    ],
+    "sinkingDate": "1943-02-06",
+    "cause": {
+      "zh": "在阿尔及利亚的奥兰（Oran）附近海域护航时，遭到意大利空军鱼雷轰炸机的突袭。被一枚航空鱼雷击中轮机舱后沉没。",
+      "en": "While escorting a convoy near Oran, Algeria, she was surprised by Italian Air Force torpedo bombers. Struck in the engine room by an aerial torpedo, she sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "随着‘火炬行动’的展开，加拿大军舰也进入了地中海。路易斯堡号是极少数被轴心国空军（而非潜艇）击沉的加拿大护卫舰。",
+      "en": "With the commencement of Operation Torch, Canadian warships entered the Mediterranean. Louisbourg was one of the very few Canadian corvettes sunk by Axis aircraft rather than submarines."
+    },
+    "battle": {
+      "zh": "地中海战役",
+      "en": "Mediterranean Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HMCS_Louisburg.jpg",
+    "battleId": "mediterranean-campaign"
+  },
+  {
+    "id": "ay-raccoon",
+    "name": {
+      "zh": "浣熊号武装游艇",
+      "en": "HMCS Raccoon"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "武装巡逻游艇",
+      "en": "Armed Patrol Yacht"
+    },
+    "coordinates": [
+      49.016,
+      -67.283
+    ],
+    "sinkingDate": "1942-09-07",
+    "cause": {
+      "zh": "在圣劳伦斯河护航 QS-33 船队时，在夜色中追击声呐接触信号，随后遭到 U-165 发射的鱼雷击中，全舰无一人生还。",
+      "en": "While escorting convoy QS-33 in the St. Lawrence River, she chased a sonar contact into the night. She was subsequently struck by a torpedo from U-165 and lost with all hands."
+    },
+    "depth": {
+      "zh": "未知 (圣劳伦斯河底)",
+      "en": "Unknown (Bottom of the St. Lawrence River)"
+    },
+    "historyNotes": {
+      "zh": "这是一艘由私人豪华游艇紧急改装的巡逻舰，代表了战争初期加拿大海军装备匮乏时的“全民皆兵”状态。它的残骸至今未被确切找到。",
+      "en": "An armed patrol vessel hurriedly converted from a private luxury yacht, representing the 'all hands on deck' state of the ill-equipped RCN early in the war. Her wreck has never been definitively located."
+    },
+    "battle": {
+      "zh": "大西洋海战 (圣劳伦斯湾战役)",
+      "en": "Battle of the St. Lawrence"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/45/E-20070195-008b_front.jpg",
+    "battleId": "battle-of-the-st-lawrence"
+  },
+  {
+    "id": "corvette-regina",
+    "name": {
+      "zh": "里贾纳号护卫舰",
+      "en": "HMCS Regina (K234)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "花级轻型护卫舰",
+      "en": "Flower-class Corvette"
+    },
+    "coordinates": [
+      50.7,
+      -5.05
+    ],
+    "sinkingDate": "1944-08-08",
+    "cause": {
+      "zh": "在英国康沃尔（Cornwall）海岸附近，为了打捞一艘被击沉的美国自由轮的幸存者而停船，结果被埋伏的 U-667 发射鱼雷击沉。",
+      "en": "While stopped to recover survivors from a sunken American Liberty ship off the coast of Cornwall, UK, she was torpedoed and sunk by the lurking U-667."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它曾在地中海表现优异（击沉过一艘意大利潜艇），却在参与诺曼底登陆的护航任务中，因为停船救人这一极其高尚但充满风险的举动而牺牲。",
+      "en": "She had performed excellently in the Mediterranean (sinking an Italian submarine), but was lost during D-Day escort duties because of the noble but highly risky act of stopping to rescue survivors."
+    },
+    "battle": {
+      "zh": "英吉利海峡海战",
+      "en": "English Channel Naval Actions"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HMCS_Regina_K234_CT-252.jpg/1920px-HMCS_Regina_K234_CT-252.jpg",
+    "battleId": "english-channel-naval-actions"
+  },
+  {
+    "id": "corvette-shawinigan",
+    "name": {
+      "zh": "沙威尼根号护卫舰",
+      "en": "HMCS Shawinigan (K136)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "花级轻型护卫舰",
+      "en": "Flower-class Corvette"
+    },
+    "coordinates": [
+      47.566,
+      -59.183
+    ],
+    "sinkingDate": "1944-11-24",
+    "cause": {
+      "zh": "在加拿大纽芬兰与新斯科舍之间的卡伯特海峡（Cabot Strait）单独巡逻时，遭到德国潜艇 U-1228 袭击，全舰无一人幸存。",
+      "en": "While patrolling independently in the Cabot Strait between Newfoundland and Nova Scotia, she was attacked by U-1228 and lost with all hands."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "“花级”护卫舰是大西洋反潜战的绝对主力。沙威尼根号的沉没异常突然，它没有发出任何求救信号便消失在了黑暗中，直到几天后人们才在海面上发现了残骸碎片和几具遗体。全舰 91 人遇难。",
+      "en": "The 'Flower-class' corvettes were the absolute workhorses of the Atlantic anti-submarine war. Shawinigan's sinking was so sudden that no distress signal was ever sent; she simply vanished into the dark until debris and a few bodies were found days later. All 91 crew perished."
+    },
+    "battle": {
+      "zh": "大西洋海战 (圣劳伦斯湾战役)",
+      "en": "Battle of the St. Lawrence"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/2/23/Corvette_Shawinigan.jpg",
+    "battleId": "battle-of-the-st-lawrence"
+  },
+  {
+    "id": "corvette-trentonian",
+    "name": {
+      "zh": "特伦顿号护卫舰",
+      "en": "HMCS Trentonian (K368)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "花级改进型护卫舰",
+      "en": "Flower-class Corvette (Modified)"
+    },
+    "coordinates": [
+      50.1,
+      -4.833
+    ],
+    "sinkingDate": "1945-02-22",
+    "cause": {
+      "zh": "在法尔茅斯（Falmouth）附近海域护航时被德国潜艇 U-1004 的鱼雷击中沉没。",
+      "en": "Torpedoed and sunk by U-1004 while escorting a convoy near Falmouth, England."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "它是加拿大在二战中损失的**最后一艘轻型护卫舰（Corvette）**。战争末期的 U 艇配备了通气管，极难被发现，对盟军近海护航构成了最后的致命威胁。",
+      "en": "She was the **last corvette** lost by Canada in WWII. Late-war U-boats equipped with snorkels were extremely difficult to detect and posed a final, deadly threat to Allied coastal convoys."
+    },
+    "battle": {
+      "zh": "英吉利海峡海战",
+      "en": "English Channel Naval Actions"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/ed/HMCS_Trentonian.jpg",
+    "battleId": "english-channel-naval-actions"
+  },
+  {
+    "id": "frigate-valleyfield",
+    "name": {
+      "zh": "瓦利菲尔德号护卫舰",
+      "en": "HMCS Valleyfield (K329)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "河级护卫舰",
+      "en": "River-class Frigate"
+    },
+    "coordinates": [
+      46.05,
+      -52.4
+    ],
+    "sinkingDate": "1944-05-07",
+    "cause": {
+      "zh": "在纽芬兰开普雷斯（Cape Race）以南海域护航时，被德国潜艇 U-548 的声导鱼雷击中左舷锅炉舱。军舰在短短 3 分钟内断成两截沉没。",
+      "en": "While escorting a convoy south of Cape Race, Newfoundland, she was hit in the port boiler room by an acoustic torpedo from U-548. The ship broke in two and sank in just 3 minutes."
+    },
+    "depth": {
+      "zh": "未知 (纽芬兰大浅滩)",
+      "en": "Unknown (Grand Banks of Newfoundland)"
+    },
+    "historyNotes": {
+      "zh": "它是加拿大皇家海军在二战中损失的**唯一一艘**“河级”大型护卫舰。由于沉没极其迅速且海水冰冷刺骨，大量在睡梦中落水的船员因失温而死，全舰 125 人遇难。",
+      "en": "She was the **only** River-class frigate lost by the RCN during WWII. Because she sank so rapidly and the water was freezing, many crewmen who went into the water in their sleep died of hypothermia. 125 crew members were lost."
+    },
+    "battle": {
+      "zh": "大西洋海战 (护航战)",
+      "en": "Battle of the Atlantic (Convoy Escort)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/d/de/Valleyfield2.jpg",
+    "battleId": "battle-of-the-atlantic-convoy-escort"
+  },
+  {
+    "id": "corvette-weyburn",
+    "name": {
+      "zh": "韦本号护卫舰",
+      "en": "HMCS Weyburn (K173)"
+    },
+    "faction": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "type": {
+      "zh": "花级轻型护卫舰",
+      "en": "Flower-class Corvette"
+    },
+    "coordinates": [
+      35.766,
+      -6.033
+    ],
+    "sinkingDate": "1943-02-22",
+    "cause": {
+      "zh": "在直布罗陀海峡（Strait of Gibraltar）以西海域不慎触雷（由德国潜艇 U-118 铺设）。水雷爆炸炸毁了舰体舯部，随后引爆了自身的深水炸弹。",
+      "en": "Struck a mine (laid by U-118) west of the Strait of Gibraltar. The explosion destroyed her midships section and subsequently detonated her own depth charges."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "韦本号的沉没异常惨烈，它自身携带的深水炸弹在沉没时发生了二次殉爆，导致正在海水中挣扎的船员和前来救援的英国驱逐舰水手受到了严重的震荡伤亡。",
+      "en": "Weyburn's sinking was particularly gruesome as her own depth charges detonated underwater as she sank, causing severe concussive casualties among her crew struggling in the water and the British sailors attempting to rescue them."
+    },
+    "battle": {
+      "zh": "大西洋海战 (直布罗陀航线)",
+      "en": "Battle of the Atlantic (Gibraltar Approaches)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/ca.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/HMCS_Weyburn_1942-1943_NP-1012.jpg/1920px-HMCS_Weyburn_1942-1943_NP-1012.jpg",
+    "battleId": "battle-of-the-atlantic-gibraltar-approaches"
+  },
+  {
+    "id": "ms-tama-maru",
+    "name": {
+      "zh": "玉丸号扫雷舰",
+      "en": "IJN Tama Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "扫雷舰",
+      "en": "Minesweeper"
+    },
+    "coordinates": [
+      -9.125,
+      160.21
+    ],
+    "sinkingDate": "1942-05-04",
+    "cause": {
+      "zh": "在图拉吉港内遭到美军约克城号舰载机空袭沉没。",
+      "en": "Sank in Tulagi harbor after being attacked by carrier-based aircraft from USS Yorktown."
+    },
+    "depth": {
+      "zh": "浅水区",
+      "en": "Shallow water"
+    },
+    "historyNotes": {
+      "zh": "珊瑚海海战前哨战的受害者，展示了美军初期对日军占领点的空袭规模。",
+      "en": "A casualty of the skirmishes preceding the Battle of the Coral Sea, demonstrating the scale of early U.S. air raids on Japanese-occupied outposts."
+    },
+    "battle": {
+      "zh": "图拉吉战役",
+      "en": "Invasion of Tulagi"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/7/74/Japanese_auxiliary_minesweeper_Tama_Maru_%28built_1936%29.jpg",
+    "battleId": "invasion-of-tulagi"
+  },
+  {
+    "id": "pt-109",
+    "name": {
+      "zh": "PT-109 鱼雷快艇",
+      "en": "PT-109 Patrol Torpedo Boat"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "鱼雷快艇",
+      "en": "Patrol Torpedo Boat"
+    },
+    "coordinates": [
+      -8.116,
+      156.933
+    ],
+    "sinkingDate": "1943-08-02",
+    "cause": {
+      "zh": "在夜间执行巡逻任务时，在极近距离被日军“天雾号”驱逐舰拦腰撞成两截后沉没。",
+      "en": "While conducting a nighttime patrol mission, PT-109 was rammed at close range by the Japanese destroyer Amagiri and split in half before sinking."
+    },
+    "depth": {
+      "zh": "约 365 米",
+      "en": "Approximately 365 meters"
+    },
+    "historyNotes": {
+      "zh": "这艘小艇之所以名垂青史，是因为它的艇长是后来的美国第35任总统——约翰·F·肯尼迪。他在沉船后带领幸存船员游到荒岛并最终获救。残骸于2002年被发现泰坦尼克号的罗伯特·巴拉德寻获。",
+      "en": "PT-109 became world famous because its commanding officer was future U.S. President John F. Kennedy. After the sinking, Kennedy led surviving crew members to a nearby island, where they were eventually rescued. The wreck was discovered in 2002 by Robert Ballard, the explorer who also found Titanic."
+    },
+    "battle": {
+      "zh": "布莱克特海峡冲突",
+      "en": "Battle of Blackett Strait"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/USS_PT-109_on_board_SS_Joseph_Stanton_%28cropped%29.jpg/3840px-USS_PT-109_on_board_SS_Joseph_Stanton_%28cropped%29.jpg",
+    "battleId": "battle-of-blackett-strait"
+  },
+  {
+    "id": "pt-493",
+    "name": {
+      "zh": "PT-493 鱼雷快艇",
+      "en": "PT-493 Motor Torpedo Boat"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "鱼雷快艇",
+      "en": "PT Boat (Patrol Torpedo Boat)"
+    },
+    "coordinates": [
+      10.25,
+      125.316
+    ],
+    "sinkingDate": "1944-10-25",
+    "cause": {
+      "zh": "在近距离攻击日军编队时，被日舰火炮直接命中，随后在巴纳贡岛（Panaon Island）附近搁浅并沉没。",
+      "en": "Suffered direct hits from Japanese naval gunfire while attacking the enemy formation at close range, subsequently running aground and sinking near Panaon Island."
+    },
+    "depth": {
+      "zh": "浅海区域",
+      "en": "Shallow water"
+    },
+    "historyNotes": {
+      "zh": "这是美军在苏里高海峡战斗中极少数被击沉的战斗单位之一，证明了当时近距离鱼雷攻击的危险性。",
+      "en": "This was one of the very few U.S. combat units sunk during the Battle of Surigao Strait, demonstrating the extreme danger of close-range torpedo attacks at the time."
+    },
+    "battle": {
+      "zh": "莱特湾海战 (苏里高海峡)",
+      "en": "Battle of Leyte Gulf (Surigao Strait)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": null,
+    "battleId": "battle-of-leyte-gulf-surigao-strait"
+  },
+  {
+    "id": "gb-zhongshan",
+    "name": {
+      "zh": "中山舰 (原名永丰舰)",
+      "en": "ROC Gunboat Zhongshan (ex-Yongfeng)"
+    },
+    "faction": {
+      "zh": "中华民国",
+      "en": "ROC"
+    },
+    "type": {
+      "zh": "炮舰",
+      "en": "Gunboat"
+    },
+    "coordinates": [
+      30.298,
+      114.129
+    ],
+    "sinkingDate": "1938-10-24",
+    "cause": {
+      "zh": "在武汉保卫战后期，于长江金口水域巡逻时，遭到 6 架日本轰炸机的轮番俯冲轰炸。舰长萨师俊在双腿被炸断的情况下仍拒绝离舰，最终中山舰因舰体破裂进水沉没，舰长及 25 名官兵殉国。",
+      "en": "During the late stages of the Battle of Wuhan, while patrolling the Jinkou waters of the Yangtze River, she was subjected to waves of dive-bombing by 6 Japanese bombers. Captain Sa Shijun, despite having both his legs blown off, refused to abandon ship. Zhongshan eventually sank due to a breached hull, with the captain and 25 crew members martyred."
+    },
+    "depth": {
+      "zh": "约 19 米 (1997年整体打捞出水)",
+      "en": "Approx. 19 meters (Salvaged entirely in 1997)"
+    },
+    "historyNotes": {
+      "zh": "中国近代史上知名度最高的一艘军舰。原名‘永丰舰’，因孙中山先生曾在陈炯明叛变时避难于此而得名，参与过护国讨袁、护法运动等无数重大历史事件。1997年，这艘军舰被成功打捞并修复，现存放于武汉中山舰博物馆供人凭吊。",
+      "en": "The most well-known warship in modern Chinese history. Originally named Yongfeng, she was renamed after Dr. Sun Yat-sen (Sun Zhongshan) took refuge aboard during Chen Jiongming's rebellion. She participated in countless major historical events, including the National Protection War against Yuan Shikai and the Constitutional Protection Movement. In 1997, she was successfully salvaged and restored, and is now housed in the Zhongshan Warship Museum in Wuhan as a memorial."
+    },
+    "battle": {
+      "zh": "武汉保卫战 (金口海战)",
+      "en": "Battle of Wuhan (Battle of Jinkou)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/tw.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/1/13/ZhongShanJian.jpg",
+    "battleId": "battle-of-wuhan-battle-of-jinkou"
+  },
+  {
+    "id": "cm-4-oglala",
+    "name": {
+      "zh": "奥格拉拉号布雷舰",
+      "en": "USS Oglala (CM-4)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "布雷舰",
+      "en": "Minelayer"
+    },
+    "coordinates": [
+      21.3575,
+      -157.9482
+    ],
+    "sinkingDate": "1941-12-07",
+    "cause": {
+      "zh": "并未直接中弹，但因紧邻的海伦娜号巡洋舰中雷产生的剧烈震动导致船体开裂进水，随后侧翻沉没。",
+      "en": "Did not take a direct hit, but the violent concussion from a torpedo striking the adjacent cruiser USS Helena caused her hull seams to split and take on water. She subsequently rolled over and sank."
+    },
+    "depth": {
+      "zh": "浅水",
+      "en": "Shallow water"
+    },
+    "historyNotes": {
+      "zh": "虽然它是珍珠港中吨位较小的战斗舰艇，但其沉没过程非常特殊。后来被救灾部队打捞修复并参加了之后的战争。",
+      "en": "Although she was one of the smaller combat vessels in Pearl Harbor, her sinking process was highly unusual. She was later salvaged, repaired, and went on to participate in the remainder of the war."
+    },
+    "battle": {
+      "zh": "珍珠港事件",
+      "en": "Attack on Pearl Harbor"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/USS_Oglala_%28ARG-1%29_in_the_Pacific_c1944.jpg/1920px-USS_Oglala_%28ARG-1%29_in_the_Pacific_c1944.jpg",
+    "battleId": "attack-on-pearl-harbor"
+  },
+  {
+    "id": "pb-37",
+    "name": {
+      "zh": "第37号哨戒艇",
+      "en": "Patrol Boat No. 37"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "哨戒艇 (原驱逐舰)",
+      "en": "Patrol Boat (ex-Destroyer)"
+    },
+    "coordinates": [-1.270, 116.860],
+    "sinkingDate": "1942-01-24",
+    "cause": {
+      "zh": "作为船团中为数不多的护航火力，在试图拦截美军时，被‘约翰·D·福特号’（USS John D. Ford）等驱逐舰的鱼雷及密集炮火击中，严重受损并沉没。",
+      "en": "As one of the few escort vessels with firepower in the convoy, she was hit by torpedoes and concentrated gunfire from destroyers like USS John D. Ford while attempting to intercept the Americans. Severely damaged, she sank."
+    },
+    "depth": {
+      "zh": "未知 (巴厘巴板近海)",
+      "en": "Unknown (Off the coast of Balikpapan)"
+    },
+    "historyNotes": {
+      "zh": "这艘哨戒艇原本是日本海军的一艘旧式驱逐舰（二等驱逐舰樗号/菱号改装）。它在混乱中成为唯一一艘试图向美军还击的日军舰艇，但很快就在美军的集火下化为废铁。",
+      "en": "This patrol boat was originally an obsolete Japanese destroyer (converted from the second-class destroyer Hishi). Amid the chaos, she was the only Japanese vessel that attempted to return fire against the US forces, but was quickly reduced to scrap iron under concentrated American fire."
+    },
+    "battle": {
+      "zh": "巴厘巴板海战",
+      "en": "Battle of Balikpapan"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null
+  }
+]

@@ -5,7 +5,12 @@
       "zh": "巴里空袭 (化学武器灾难)",
       "en": "Air Raid on Bari (Chemical Weapons Disaster)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/Atak_lotniczy_na_flot%C4%99_w_Bari_%282-2442%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Atak_lotniczy_na_flot%C4%99_w_Bari_%282-2442%29.jpg/1280px-Atak_lotniczy_na_flot%C4%99_w_Bari_%282-2442%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Atak_lotniczy_na_flot%C4%99_w_Bari_%282-2443%29.jpg/1280px-Atak_lotniczy_na_flot%C4%99_w_Bari_%282-2443%29.jpg"
+    ]
   },
   {
     "id": "aleutian-islands-campaign",
@@ -13,7 +18,12 @@
       "zh": "阿留申群岛战役",
       "en": "Aleutian Islands Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0b/Hauling_supplies_on_Attu.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e2/JapaneseKiska.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/15/Alaska_Death_Trap.jpg"
+    ]
   },
   {
     "id": "arctic-convoys",
@@ -21,7 +31,12 @@
       "zh": "北极护航战",
       "en": "Arctic Convoys"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/HMS_Sheffield_convoy.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/Barents_Sea_map.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/HMS_Sheffield_frost.jpg/1280px-HMS_Sheffield_frost.jpg"
+    ]
   },
   {
     "id": "arctic-convoys-convoy-pq-17",
@@ -29,7 +44,12 @@
       "zh": "北极护航战 (PQ-17 船团)",
       "en": "Arctic Convoys (Convoy PQ-17)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/63/Convoy_PQ_17_sailing_in_Hvalfjord.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bundesarchiv_Bild_101I-432-0796-07%2C_Flugzeug_Focke-Wulf_Fw_200_%22Condor%22.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Enigma_Decoder_Machine.jpg/1280px-Enigma_Decoder_Machine.jpg"
+    ]
   },
   {
     "id": "attack-on-pearl-harbor",
@@ -37,7 +57,12 @@
       "zh": "珍珠港事件",
       "en": "Attack on Pearl Harbor"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/1280px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fdr_delivers_speech.jpg/1280px-Fdr_delivers_speech.jpg"
+    ]
   },
   {
     "id": "baltic-sea-disasters-late-war-misidentification",
@@ -45,7 +70,8 @@
       "zh": "波罗的海海难 (二战末期误击)",
       "en": "Baltic Sea Disasters (Late War Misidentification)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "baltic-sea-submarine-warfare",
@@ -53,7 +79,8 @@
       "zh": "波罗的海潜艇战",
       "en": "Baltic Sea Submarine Warfare"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "bangka-strait-ambush-late-pacific-war",
@@ -61,7 +88,12 @@
       "zh": "班加海峡伏击战 (太平洋战争末期)",
       "en": "Bangka Strait Ambush (Late Pacific War)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ashigara.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kamikaze_II.jpg/1280px-Kamikaze_II.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ashigara.jpg/1280px-Ashigara.jpg"
+    ]
   },
   {
     "id": "battle-of-badung-strait",
@@ -69,7 +101,11 @@
       "zh": "巴塘海峡海战",
       "en": "Battle of Badung Strait"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/HNLMS_De_Ruyter.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/06/HNLMS_Tromp_%283%29.JPG"
+    ]
   },
   {
     "id": "battle-of-biak",
@@ -77,7 +113,12 @@
       "zh": "比亚克岛战役",
       "en": "Battle of Biak"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/Biak_Harbor%2C_June_1944.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/88/Assault_on_Biak.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/Disabled_Japanese_tank_at_Biak.jpg"
+    ]
   },
   {
     "id": "battle-of-blackett-strait",
@@ -85,7 +126,12 @@
       "zh": "布莱克特海峡冲突",
       "en": "Battle of Blackett Strait"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/Track_chart_Battle_of_Vila_Stanmore.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BlackettRadar1.jpg/1280px-BlackettRadar1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/US_Navy_CruDiv_12_off_Efate_1943.jpg"
+    ]
   },
   {
     "id": "battle-of-cape-esperance",
@@ -93,7 +139,12 @@
       "zh": "埃斯佩兰斯海角海战",
       "en": "Battle of Cape Esperance"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/AobaEsperance.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/RabaulStrategicArea.jpg/1280px-RabaulStrategicArea.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CapeEsperanceChart.jpg/1280px-CapeEsperanceChart.jpg"
+    ]
   },
   {
     "id": "battle-of-cape-matapan",
@@ -101,7 +152,8 @@
       "zh": "马塔潘角海战",
       "en": "Battle of Cape Matapan"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-cape-st-george",
@@ -109,7 +161,8 @@
       "zh": "圣乔治角海战",
       "en": "Battle of Cape St. George"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-crete",
@@ -117,7 +170,12 @@
       "zh": "克里特岛战役",
       "en": "Battle of Crete"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bundesarchiv_Bild_141-0864%2C_Kreta%2C_Landung_von_Fallschirmj%C3%A4gern.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bundesarchiv_Bild_101I-166-0508-31%2C_Kreta%2C_Vormarsch_deutscher_Fallschirmj%C3%A4ger.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/82/Bundesarchiv_Bild_101I-166-0525-30%2C_Kreta%2C_Kondomari%2C_Erschie%C3%9Fung_von_Zivilisten.jpg"
+    ]
   },
   {
     "id": "battle-of-crete-raid-on-souda-bay",
@@ -125,7 +183,12 @@
       "zh": "克里特岛战役 (苏达湾突袭)",
       "en": "Battle of Crete (Raid on Souda Bay)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/47/HMSYorkDamaged41941.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Maiale_SLC.jpg/1280px-Maiale_SLC.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/HMS_York_%2890%29_damaged_at_Souda_Bay_May_1941.jpg"
+    ]
   },
   {
     "id": "battle-of-dr-bak-sound-oslofjord",
@@ -133,7 +196,12 @@
       "zh": "奥斯陆峡湾之战",
       "en": "Battle of Drøbak Sound (Oslofjord)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/df/German_cruiser_Bl%C3%BCcher_sinking.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7c/Karte_Oscarsborg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/Oscarsborg_Fortress_under_air_attack%2C_9_April%2C_1940.jpg"
+    ]
   },
   {
     "id": "battle-of-empress-augusta-bay",
@@ -141,7 +209,12 @@
       "zh": "奥古斯塔皇后湾海战",
       "en": "Battle of Empress Augusta Bay"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0d/View_forward_from_USS_Columbia_%28CL-56%29_during_Battle_of_Empress_Augusta_Bay_1943.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_landing_at_Empress_Augusta_Bay%2C_Bougainville.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/03/A_Japanese_plane_crashes_into_the_sea_ahead_of_USS_Columbia_%28CL-56%29%2C_in_November_1943_%2880-G-44059%29.jpg"
+    ]
   },
   {
     "id": "battle-of-france",
@@ -149,7 +222,12 @@
       "zh": "法国战役",
       "en": "Battle of France"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/Battle_of_France_Infobox.png",
+      "https://upload.wikimedia.org/wikipedia/commons/7/78/Bundesarchiv_Bild_101I-055-1592-05A%2C_Frankreich%2C_franz%C3%B6sische_Kriegsgefangene.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bundesarchiv_Bild_101I-054-1531-11%2C_Frankreich%2C_erste_Hilfe_f%C3%BCr_Verwundeten.jpg"
+    ]
   },
   {
     "id": "battle-of-guam",
@@ -157,7 +235,8 @@
       "zh": "关岛战役",
       "en": "Battle of Guam"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-humen",
@@ -165,7 +244,8 @@
       "zh": "虎门保卫战",
       "en": "Battle of Humen"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-jiangyin",
@@ -173,7 +253,12 @@
       "zh": "江阴海战",
       "en": "Battle of Jiangyin"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/73/Attacking_the_Gate_of_China02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Carrying_guns_and_wheels01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Attacking_the_Gate_of_China02.jpg/1280px-Attacking_the_Gate_of_China02.jpg"
+    ]
   },
   {
     "id": "battle-of-jiangyin-during-the-battle-of-shanghai",
@@ -181,7 +266,12 @@
       "zh": "江阴海战 (淞沪会战期间)",
       "en": "Battle of Jiangyin (During the Battle of Shanghai)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b6/Shanghai1937KMT_machine_gun_nest.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/Chinese_armed_force_rescues_the_wounded_in_WWII.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chinese_prisoners_of_war_at_Shanghai%2C_August_1937.jpg"
+    ]
   },
   {
     "id": "battle-of-kolombangara",
@@ -189,7 +279,12 @@
       "zh": "科隆班加拉岛海战",
       "en": "Battle of Kolombangara"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d8/USS_St._Louis_%28CL-49%29_and_HMNZS_Leander_firing_during_the_Battle_of_Kolombangara%2C_13_July_1943_%2880-G-342763%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/83/USS_St._Louis_%28CL-49%29_at_Tulagi%2C_after_she_was_torpedoed_in_the_Battle_of_Kolombangara%2C_20_July_1943_%2880-G-259410%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/95/JintsuSurvivor.jpg"
+    ]
   },
   {
     "id": "battle-of-kula-gulf",
@@ -197,7 +292,12 @@
       "zh": "库拉湾海战",
       "en": "Battle of Kula Gulf"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/04/USS_Helena_%28CL-50%29_firing_during_the_Battle_of_Kula_Gulf%2C_6_July_1943_%2880-G-54553%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USS_Helena_%28CL-50%29_firing_during_the_Battle_of_Kula_Gulf%2C_6_July_1943_%2880-G-54553%29.jpg/1280px-USS_Helena_%28CL-50%29_firing_during_the_Battle_of_Kula_Gulf%2C_6_July_1943_%2880-G-54553%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/Japanese_destroyer_Nagatsuki_abandoned_1944.jpg"
+    ]
   },
   {
     "id": "battle-of-leyte-gulf",
@@ -205,7 +305,12 @@
       "zh": "莱特湾海战",
       "en": "Battle of Leyte Gulf"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Leyte_map_annotated.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg/1280px-Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg"
+    ]
   },
   {
     "id": "battle-of-leyte-gulf-battle-off-cape-engano",
@@ -213,7 +318,8 @@
       "zh": "莱特湾海战 (恩加尼奥角海战)",
       "en": "Battle of Leyte Gulf (Battle off Cape Engaño)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-leyte-gulf-battle-off-samar",
@@ -221,7 +327,8 @@
       "zh": "莱特湾海战 (萨马岛海战)",
       "en": "Battle of Leyte Gulf (Battle off Samar)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-leyte-gulf-first-kamikaze-attack",
@@ -229,7 +336,12 @@
       "zh": "莱特湾海战 (神风特攻队首战)",
       "en": "Battle of Leyte Gulf (First Kamikaze Attack)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Leyte_map_annotated.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg/1280px-Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg"
+    ]
   },
   {
     "id": "battle-of-leyte-gulf-palawan-passage",
@@ -237,7 +349,12 @@
       "zh": "莱特湾海战 (帕拉万水道)",
       "en": "Battle of Leyte Gulf (Palawan Passage)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Leyte_map_annotated.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg/1280px-Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg"
+    ]
   },
   {
     "id": "battle-of-leyte-gulf-sibuyan-sea",
@@ -245,7 +362,12 @@
       "zh": "莱特湾海战 (锡布延海)",
       "en": "Battle of Leyte Gulf (Sibuyan Sea)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Leyte_map_annotated.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg/1280px-Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg"
+    ]
   },
   {
     "id": "battle-of-leyte-gulf-surigao-strait",
@@ -253,7 +375,12 @@
       "zh": "莱特湾海战 (苏里高海峡)",
       "en": "Battle of Leyte Gulf (Surigao Strait)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/USS_Princeton_%28CVL-23%29_burning_on_24_October_1944_%2880-G-287970%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Leyte_map_annotated.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg/1280px-Japanese_battleship_Musashi_and_a_destroyer_under_attack_in_the_Sibuyan_Sea%2C_24_October_1944_%28NH_63432%29.jpg"
+    ]
   },
   {
     "id": "battle-of-luzon",
@@ -261,7 +388,12 @@
       "zh": "吕宋岛战役",
       "en": "Battle of Luzon"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/23/Baleta_Pass%2C_near_Baugio%2C_Luzon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Coast_Guard_landing_barges_at_Lingayen_Gulf.jpg/1280px-Coast_Guard_landing_barges_at_Lingayen_Gulf.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/DouglasMacArthur1945.jpg/1280px-DouglasMacArthur1945.jpg"
+    ]
   },
   {
     "id": "battle-of-midway",
@@ -269,7 +401,8 @@
       "zh": "中途岛海战",
       "en": "Battle of Midway"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-north-cape",
@@ -277,7 +410,8 @@
       "zh": "北角海战",
       "en": "Battle of North Cape"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-okinawa",
@@ -285,7 +419,12 @@
       "zh": "冲绳岛战役",
       "en": "Battle of Okinawa"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ww2_158.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/Attack_on_bloody_ridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/HMS_Formidable_%2867%29_on_fire_1945.jpg"
+    ]
   },
   {
     "id": "battle-of-ormoc-bay",
@@ -293,7 +432,11 @@
       "zh": "奥尔莫克湾海战",
       "en": "Battle of Ormoc Bay"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/82/Battle_of_Leyte_map_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/USS_Lamson_%28DD-367%29_at_Ormoc_Bay.jpg"
+    ]
   },
   {
     "id": "battle-of-rennell-island",
@@ -301,7 +444,12 @@
       "zh": "伦内尔岛海战",
       "en": "Battle of Rennell Island"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/Torpedoed_cruiser_USS_Chicago_%28CA-29%29_low_in_the_water_on_30_January_1943.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Torpedoed_cruiser_USS_Chicago_%28CA-29%29_low_in_the_water_on_30_January_1943.jpg/1280px-Torpedoed_cruiser_USS_Chicago_%28CA-29%29_low_in_the_water_on_30_January_1943.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/USS_Louisville_%28CA-28%29_tows_USS_Chicago_%28CA-29%29_during_the_Battle_of_Rennell_Island_on_30_January_1943.jpg/1280px-USS_Louisville_%28CA-28%29_tows_USS_Chicago_%28CA-29%29_during_the_Battle_of_Rennell_Island_on_30_January_1943.jpg"
+    ]
   },
   {
     "id": "battle-of-savo-island",
@@ -309,7 +457,12 @@
       "zh": "萨沃岛海战",
       "en": "Battle of Savo Island"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cf/USS_Quincy_%28CA-39%29_under_fire_during_the_Battle_of_Savo_Island_on_9_August_1942_%28NH_50346%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/HMAS_Canberra_%28D33%29_underway_off_Tulagi%2C_circa_7_August_1942.jpg/1280px-HMAS_Canberra_%28D33%29_underway_off_Tulagi%2C_circa_7_August_1942.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e1/Night_Operations_of_the_Battle_of_Savo_Island%2C_Japanese_painting%2C_1942.jpg"
+    ]
   },
   {
     "id": "battle-of-sunda-strait",
@@ -317,7 +470,11 @@
       "zh": "巽他海峡海战",
       "en": "Battle of Sunda Strait"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/Perth_in_February_1942.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/Rockingham_Naval_Memorial_Park%2C_Commemorative_plaque_for_HMAS_Perth_%28D29%29_and_USS_Houston_%28CA-30%29.jpg"
+    ]
   },
   {
     "id": "battle-of-taranto-operation-judgement",
@@ -325,7 +482,8 @@
       "zh": "塔兰托空袭 (判断行动)",
       "en": "Battle of Taranto (Operation Judgement)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-tassafaronga",
@@ -333,7 +491,8 @@
       "zh": "塔萨法隆加海战",
       "en": "Battle of Tassafaronga"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-the-atlantic-arctic-storms",
@@ -341,7 +500,12 @@
       "zh": "大西洋海战 (极地风暴)",
       "en": "Battle of the Atlantic (Arctic Storms)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Officers_on_the_bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Allied_tanker_torpedoed.jpg/1280px-Allied_tanker_torpedoed.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Casablanca_convoy.jpg/1280px-Casablanca_convoy.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-canadian-coastal-defense",
@@ -349,7 +513,10 @@
       "zh": "大西洋海战 (加拿大近海防卫)",
       "en": "Battle of the Atlantic (Canadian Coastal Defense)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/1280px-The_Blue_Marble%2C_AS17-148-22727.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-commerce-raiding",
@@ -357,7 +524,11 @@
       "zh": "大西洋海战 (破交战)",
       "en": "Battle of the Atlantic (Commerce Raiding)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bermuda_Gazette_-_12_November_1796.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/1280px-Gari-Melchers-War-Highsmith.jpeg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-convoy-defense",
@@ -365,7 +536,10 @@
       "zh": "大西洋海战 (护航防卫战)",
       "en": "Battle of the Atlantic (Convoy Defense)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/1280px-The_Blue_Marble%2C_AS17-148-22727.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-convoy-escort",
@@ -373,7 +547,12 @@
       "zh": "大西洋海战 (护航战)",
       "en": "Battle of the Atlantic (Convoy Escort)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Officers_on_the_bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Allied_tanker_torpedoed.jpg/1280px-Allied_tanker_torpedoed.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Casablanca_convoy.jpg/1280px-Casablanca_convoy.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-convoy-hx-84",
@@ -381,7 +560,8 @@
       "zh": "大西洋护航战 (HX-84 船团)",
       "en": "Battle of the Atlantic (Convoy HX-84)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-the-atlantic-early-u-boat-warfare",
@@ -389,7 +569,8 @@
       "zh": "大西洋海战 (早期潜艇战)",
       "en": "Battle of the Atlantic (Early U-boat warfare)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-the-atlantic-english-channel",
@@ -397,7 +578,12 @@
       "zh": "大西洋海战 (英吉利海峡)",
       "en": "Battle of the Atlantic (English Channel)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Officers_on_the_bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Allied_tanker_torpedoed.jpg/1280px-Allied_tanker_torpedoed.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Casablanca_convoy.jpg/1280px-Casablanca_convoy.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-entire-campaign",
@@ -405,7 +591,10 @@
       "zh": "大西洋海战 (全期)",
       "en": "Battle of the Atlantic (Entire Campaign)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/11/A_heavy_explosion_on_board_USS_Lexington_%28CV-2%29_blows_an_aircraft_over_her_side%2C_8_May_1942_%2880-G-7413%29.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-gibraltar-approaches",
@@ -413,7 +602,12 @@
       "zh": "大西洋海战 (直布罗陀航线)",
       "en": "Battle of the Atlantic (Gibraltar Approaches)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Officers_on_the_bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Allied_tanker_torpedoed.jpg/1280px-Allied_tanker_torpedoed.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Casablanca_convoy.jpg/1280px-Casablanca_convoy.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-hunter-killer-groups",
@@ -421,7 +615,10 @@
       "zh": "大西洋海战 (反潜猎杀群)",
       "en": "Battle of the Atlantic (Hunter-Killer Groups)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/USS_Kearsarge_%28CVS-33%29_with_esccorts_at_San_Diego_in_1961.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-intelligence-war",
@@ -429,7 +626,12 @@
       "zh": "大西洋海战 (情报战)",
       "en": "Battle of the Atlantic (Intelligence War)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Officers_on_the_bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Allied_tanker_torpedoed.jpg/1280px-Allied_tanker_torpedoed.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Casablanca_convoy.jpg/1280px-Casablanca_convoy.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-late-war-raiding",
@@ -437,7 +639,8 @@
       "zh": "大西洋海战 (末期破交)",
       "en": "Battle of the Atlantic (Late-war Raiding)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-the-atlantic-neutrality-patrol",
@@ -445,7 +648,8 @@
       "zh": "大西洋海战 (中立巡逻)",
       "en": "Battle of the Atlantic (Neutrality Patrol)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-the-atlantic-northern-patrol",
@@ -453,7 +657,12 @@
       "zh": "大西洋海战 (北方巡逻线)",
       "en": "Battle of the Atlantic (Northern Patrol)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Officers_on_the_bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Allied_tanker_torpedoed.jpg/1280px-Allied_tanker_torpedoed.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Casablanca_convoy.jpg/1280px-Casablanca_convoy.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-operation-drumbeat",
@@ -461,7 +670,10 @@
       "zh": "大西洋海战 (击鼓行动)",
       "en": "Battle of the Atlantic (Operation Drumbeat)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/11/A_heavy_explosion_on_board_USS_Lexington_%28CV-2%29_blows_an_aircraft_over_her_side%2C_8_May_1942_%2880-G-7413%29.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-the-black-pit",
@@ -469,7 +681,10 @@
       "zh": "大西洋海战 (黑洞水域)",
       "en": "Battle of the Atlantic (The Black Pit)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/1280px-The_Blue_Marble%2C_AS17-148-22727.jpg"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-u-s-east-coast",
@@ -477,7 +692,11 @@
       "zh": "大西洋海战 (美国东海岸)",
       "en": "Battle of the Atlantic (U.S. East Coast)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9f/Commander_Atlantic_Area_Crest.png",
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/USCG-stub.PNG"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-weather-and-collisions",
@@ -485,7 +704,10 @@
       "zh": "大西洋海战 (天气与碰撞)",
       "en": "Battle of the Atlantic (Weather and Collisions)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/AEW_Battle_of_the_Belts_logo.png"
+    ]
   },
   {
     "id": "battle-of-the-atlantic-yanagi-mission",
@@ -493,7 +715,8 @@
       "zh": "大西洋反潜战 (遣德航线)",
       "en": "Battle of the Atlantic (Yanagi Mission)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-the-barents-sea",
@@ -501,7 +724,8 @@
       "zh": "巴伦支海海战",
       "en": "Battle of the Barents Sea"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-the-bismarck-sea",
@@ -509,7 +733,12 @@
       "zh": "俾斯麦海海战",
       "en": "Battle of the Bismarck Sea"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Japanese_transport_under_attack_during_the_Battle_of_the_Bismarck_Sea%2C_3_March_1943_%28128159%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/Battle_of_the_Bismark_Sea.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/90/Japanese_Movements_in_Eastern_New_Guinea.jpg"
+    ]
   },
   {
     "id": "battle-of-the-coral-sea",
@@ -517,7 +746,12 @@
       "zh": "珊瑚海海战",
       "en": "Battle of the Coral Sea"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Large_explosion_aboard_USS_Lexington_%28CV-2%29%2C_8_May_1942_%2880-G-16651%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Damaged_port_forward_gun_gallery_aboard_USS_Lexington_%28CV-2%29_on_8_May_1942_%2880-G-16807%29.jpg/1280px-Damaged_port_forward_gun_gallery_aboard_USS_Lexington_%28CV-2%29_on_8_May_1942_%2880-G-16807%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coral_sea.jpg/1280px-Coral_sea.jpg"
+    ]
   },
   {
     "id": "battle-of-the-denmark-strait",
@@ -525,7 +759,12 @@
       "zh": "丹麦海峡海战",
       "en": "Battle of the Denmark Strait"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/Bundesarchiv_Bild_146-1984-055-13%2C_Schlachtschiff_Bismarck%2C_Seegefecht.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/46/060529_Hood_explosion_sketch.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HMS_Suffolk_Captain.jpg/1280px-HMS_Suffolk_Captain.jpg"
+    ]
   },
   {
     "id": "battle-of-the-eastern-solomons",
@@ -533,7 +772,12 @@
       "zh": "东所罗门海战",
       "en": "Battle of the Eastern Solomons"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6d/USS_Enterprise_%28CV-6%29_under_attack_and_burning_during_the_Battle_of_the_Eastern_Solomons_on_24_August_1942_%28NH_97778%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Japanese_bomb_hits_USS_Enterprise_%28CV-6%29_flight_deck_during_Battle_of_the_Eastern_Solomons%2C_24_August_1942_%2880-G-17489%29.jpg/1280px-Japanese_bomb_hits_USS_Enterprise_%28CV-6%29_flight_deck_during_Battle_of_the_Eastern_Solomons%2C_24_August_1942_%2880-G-17489%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Japanese_Aichi_D3A_dive_bomber_shot_over_USS_Enterprise_%28CV-6%29_on_24_August_1942_%2880-G-31349%29.jpg/1280px-Japanese_Aichi_D3A_dive_bomber_shot_over_USS_Enterprise_%28CV-6%29_on_24_August_1942_%2880-G-31349%29.jpg"
+    ]
   },
   {
     "id": "battle-of-the-java-sea",
@@ -541,7 +785,12 @@
       "zh": "爪哇海海战",
       "en": "Battle of the Java Sea"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/Haguro-1942.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/HMS_Electra.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/HMS_Exeter_off_Sumatra_in_1942.jpg"
+    ]
   },
   {
     "id": "battle-of-the-malacca-strait",
@@ -549,7 +798,8 @@
       "zh": "马六甲海峡海战",
       "en": "Battle of the Malacca Strait"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-the-philippine-sea",
@@ -557,7 +807,8 @@
       "zh": "菲律宾海海战",
       "en": "Battle of the Philippine Sea"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-the-river-plate",
@@ -565,7 +816,12 @@
       "zh": "拉普拉塔河口海战",
       "en": "Battle of the River Plate"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c6/HMS_Achilles_%2870%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Admiral_Graf_Spee_Flames.jpg/1280px-Admiral_Graf_Spee_Flames.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Graf_Spee_tel%C3%A9metro_01.jpg/1280px-Graf_Spee_tel%C3%A9metro_01.jpg"
+    ]
   },
   {
     "id": "battle-of-the-santa-cruz-islands",
@@ -573,7 +829,12 @@
       "zh": "圣克鲁斯群岛战役",
       "en": "Battle of the Santa Cruz Islands"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/48/USS_Enterprise_%28CV-6%29_under_attack_by_dive_bombers_during_the_Battle_of_Santa_Cruz_Islands_on_26_October_1942_%2880-G-20989%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Japanese_aircraft_attack_USS_Hornet_%28CV-8%29_during_the_Battle_of_the_Santa_Cruz_Islands_on_26_October_1942_%2880-G-33947%29.jpg/1280px-Japanese_aircraft_attack_USS_Hornet_%28CV-8%29_during_the_Battle_of_the_Santa_Cruz_Islands_on_26_October_1942_%2880-G-33947%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/F4F-4_Wildcat_of_VF-10_aboard_USS_Enterprise_%28CV-6%29_on_26_October_1942.jpg"
+    ]
   },
   {
     "id": "battle-of-the-st-lawrence",
@@ -581,7 +842,12 @@
       "zh": "大西洋海战 (圣劳伦斯湾战役)",
       "en": "Battle of the St. Lawrence"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/German_submarine_U-190.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Golfe_Saint-Laurent_en.png",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/Citadel_hill.jpg"
+    ]
   },
   {
     "id": "battle-of-the-strait-of-otranto",
@@ -589,7 +855,12 @@
       "zh": "奥特朗托海峡战役",
       "en": "Battle of the Strait of Otranto"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/en/0/02/SMS_Novara_NH_87445.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/British_drifters_Otranto_barrage.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hswoon.png"
+    ]
   },
   {
     "id": "battle-of-tinian",
@@ -597,7 +868,12 @@
       "zh": "提尼安岛战役",
       "en": "Battle of Tinian"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/Amphibious_tractors_move_in_and_out_-_Tinian.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/94/B-29s_Landing_on_Tinian_1944.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/ff/80-G-253605_USS_Iowa_fires_a_salvo_during_the_bombardment_of_Tinian.jpg"
+    ]
   },
   {
     "id": "battle-of-tulagi",
@@ -605,7 +881,8 @@
       "zh": "图拉吉战役",
       "en": "Battle of Tulagi"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-vella-gulf",
@@ -613,7 +890,8 @@
       "zh": "韦拉湾海战",
       "en": "Battle of Vella Gulf"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "battle-of-vella-lavella",
@@ -621,7 +899,12 @@
       "zh": "维拉拉维拉海战",
       "en": "Battle of Vella Lavella"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1a/NewGeorgiaGroupCloseup.png",
+      "https://upload.wikimedia.org/wikipedia/commons/9/93/Solomon_Islands_-_Vella_Lavella.PNG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Vella_Lavella_airfield_Dec_1943.jpg/1280px-Vella_Lavella_airfield_Dec_1943.jpg"
+    ]
   },
   {
     "id": "battle-of-wuhan-battle-of-jinkou",
@@ -629,7 +912,12 @@
       "zh": "武汉保卫战 (金口海战)",
       "en": "Battle of Wuhan (Battle of Jinkou)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/%E6%AD%A6%E6%B1%89%E9%BB%84%E9%B9%A4%E6%A5%BC%E4%BF%AF%E7%9E%B0.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bras%C3%A3o_de_Armas_do_Munic%C3%ADpio_de_Foz_do_Igua%C3%A7u.png/1280px-Bras%C3%A3o_de_Armas_do_Munic%C3%ADpio_de_Foz_do_Igua%C3%A7u.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ashdod%2C_Israel_%E2%80%94_Coat_of_arms_%28old%29.png/1280px-Ashdod%2C_Israel_%E2%80%94_Coat_of_arms_%28old%29.png"
+    ]
   },
   {
     "id": "bay-of-biscay-anti-submarine-operations",
@@ -637,7 +925,12 @@
       "zh": "比斯开湾反潜战",
       "en": "Bay of Biscay Anti-Submarine Operations"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/db/The_battle_of_the_Bay_of_Biscay%2C_28_December_1943_BHC0686.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/be/CapeHopeOverview.png",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c2/KerlogueT25T26.jpg"
+    ]
   },
   {
     "id": "black-sea-convoys-and-evacuations",
@@ -645,7 +938,12 @@
       "zh": "黑海护航与撤退",
       "en": "Black Sea Convoys and Evacuations"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/Casablanca_convoy.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Casablanca_convoy.jpg/1280px-Casablanca_convoy.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/1280px-The_Blue_Marble%2C_AS17-148-22727.jpg"
+    ]
   },
   {
     "id": "bombing-of-darwin",
@@ -653,7 +951,12 @@
       "zh": "达尔文大空袭",
       "en": "Bombing of Darwin"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a2/Darwin_42.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Darwin_raid_%28AWM_044603%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Darwin_Harbour_%28AWM_027334%29.jpg"
+    ]
   },
   {
     "id": "bombing-of-kure",
@@ -661,7 +964,8 @@
       "zh": "吴港大空袭",
       "en": "Bombing of Kure"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "bombing-of-rabaul",
@@ -669,7 +973,8 @@
       "zh": "拉包尔空袭",
       "en": "Bombing of Rabaul"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "bombing-of-the-ogasawara-islands-operation-scavenger",
@@ -677,7 +982,12 @@
       "zh": "小笠原群岛空袭 (斯卡文杰行动)",
       "en": "Bombing of the Ogasawara Islands (Operation Scavenger)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d8/147RegimentCOA.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9b/3c-Iwo_Jima.jpg"
+    ]
   },
   {
     "id": "bougainville-campaign",
@@ -685,7 +995,12 @@
       "zh": "布干维尔战役",
       "en": "Bougainville Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/U.S._Soldiers_at_Bougainville_%28Solomon_Islands%29_March_1944.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/LCVP_landing_craft_circle.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b5/Antiaircraft_gunners_at_Cape_Torokina.jpg"
+    ]
   },
   {
     "id": "caribbean-theater-non-combat-loss",
@@ -693,7 +1008,11 @@
       "zh": "加勒比海战区 (非战斗损失)",
       "en": "Caribbean Theater (Non-combat Loss)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gari-Melchers-War-Highsmith.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/1280px-Gari-Melchers-War-Highsmith.jpeg"
+    ]
   },
   {
     "id": "caroline-islands-anti-submarine-action",
@@ -701,7 +1020,12 @@
       "zh": "加罗林群岛反潜战",
       "en": "Caroline Islands Anti-Submarine Action"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/64/165th_Infantry_assault_wave_attacking_Butaritari_-_NARA_-_531172_-_restored.png",
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Holland-smith-USA-P-Marianas-p194.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Battle_of_Makin_map.jpg"
+    ]
   },
   {
     "id": "central-pacific-convoy-escort",
@@ -709,7 +1033,12 @@
       "zh": "中太平洋护航战",
       "en": "Central Pacific Convoy Escort"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/HMS_Sheffield_convoy.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/Barents_Sea_map.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/HMS_Sheffield_frost.jpg/1280px-HMS_Sheffield_frost.jpg"
+    ]
   },
   {
     "id": "coron-bay-air-raid",
@@ -717,7 +1046,8 @@
       "zh": "科隆湾空袭",
       "en": "Coron Bay Air Raid"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "crimean-campaign",
@@ -725,7 +1055,8 @@
       "zh": "克里米亚战役",
       "en": "Crimean Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "d-day-operation-overlord",
@@ -733,7 +1064,12 @@
       "zh": "诺曼底登陆 (霸王行动)",
       "en": "D-Day (Operation Overlord)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a5/Into_the_Jaws_of_Death_23-0455M_edit.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1e/Allied_Invasion_Force.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Approaching_Omaha.jpg/1280px-Approaching_Omaha.jpg"
+    ]
   },
   {
     "id": "defense-of-nanjing-aftermath-of-the-battle-of-shanghai",
@@ -741,7 +1077,12 @@
       "zh": "南京江防战 (淞沪会战余波)",
       "en": "Defense of Nanjing (Aftermath of the Battle of Shanghai)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Nanking_bodies_1937.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Check_of_Chinese_soldiers_in_Nanking01.jpg/1280px-Check_of_Chinese_soldiers_in_Nanking01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Boy_killed_in_Nanking_massacre.jpg"
+    ]
   },
   {
     "id": "defense-of-the-black-sea",
@@ -749,7 +1090,12 @@
       "zh": "黑海防御战",
       "en": "Defense of the Black Sea"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/52/Black_Sea_map.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Aivazovsky_-_Black_Sea_Fleet_in_the_Bay_of_Theodosia.jpg/1280px-Aivazovsky_-_Black_Sea_Fleet_in_the_Bay_of_Theodosia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Soviet_and_Russian_Black_Sea_Fleet.jpg/1280px-Soviet_and_Russian_Black_Sea_Fleet.jpg"
+    ]
   },
   {
     "id": "english-channel-naval-actions",
@@ -757,7 +1103,12 @@
       "zh": "英吉利海峡海战",
       "en": "English Channel Naval Actions"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/The_life_of_John_Paul_Jones_-_written_from_original_letters_and_manuscripts_in_possession_of_his_relatives%2C_and_from_the_collection_prepared_by_John_Henry_Sherburne_-_together_with_Chevalier_Jones%27_%2814777463374%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e2/Carrickfergus-castle-1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_life_of_John_Paul_Jones_-_written_from_original_letters_and_manuscripts_in_possession_of_his_relatives%2C_and_from_the_collection_prepared_by_John_Henry_Sherburne_-_together_with_Chevalier_Jones%27_%2814777463374%29_%28cropped%29.jpg/1280px-thumbnail.jpg"
+    ]
   },
   {
     "id": "evacuation-of-hanko",
@@ -765,7 +1116,12 @@
       "zh": "汉科半岛撤退",
       "en": "Evacuation of Hanko"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hangon_vuokra-alueen_kartta.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hangon_vuokra-alueen_kartta.jpg/1280px-Hangon_vuokra-alueen_kartta.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/73/Hanko_dugouts_1.jpg"
+    ]
   },
   {
     "id": "evacuation-of-tallinn",
@@ -773,7 +1129,8 @@
       "zh": "塔林大撤退",
       "en": "Evacuation of Tallinn"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "final-naval-attacks-sinking-of-the-uss-indianapolis",
@@ -781,7 +1138,8 @@
       "zh": "最后的海上袭击",
       "en": "Final Naval Attacks (Sinking of the USS Indianapolis)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "first-battle-of-narvik",
@@ -789,7 +1147,12 @@
       "zh": "第一次纳尔维克海战",
       "en": "First Battle of Narvik"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a5/Allied_soldiers_during_the_battle_of_Narvik.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/HMS_Warspite%2C_Norway_1940.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HMSEskimoBowTorpedoDamageMay1940.jpg/1280px-HMSEskimoBowTorpedoDamageMay1940.jpg"
+    ]
   },
   {
     "id": "first-battle-of-sirte-minefield-disaster",
@@ -797,7 +1160,12 @@
       "zh": "第一次苏尔特海战 (雷区灾难)",
       "en": "First Battle of Sirte (Minefield Disaster)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b9/El_Alamein_1942_-_British_infantry.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/2_Battle_of_El_Alamein_001.png",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3e/2_Battle_of_El_Alamein_002.png"
+    ]
   },
   {
     "id": "gilbert-islands-campaign",
@@ -805,7 +1173,12 @@
       "zh": "吉尔伯特群岛战役",
       "en": "Gilbert Islands Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/SBD_VB-16_over_USS_Washington_1943.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/SBD_VB-16_over_USS_Washington_1943.jpg/1280px-SBD_VB-16_over_USS_Washington_1943.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/1280px-The_Blue_Marble%2C_AS17-148-22727.jpg"
+    ]
   },
   {
     "id": "indian-ocean-raid",
@@ -813,7 +1186,12 @@
       "zh": "印度洋空袭",
       "en": "Indian Ocean Raid"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dorsetshire%26Cornwall.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b1/LocationAndamanSea.png",
+      "https://upload.wikimedia.org/wikipedia/commons/6/60/Pacific_War_-_Southern_Asia_1942_-_Map.jpg"
+    ]
   },
   {
     "id": "indian-ocean-raid-battle-of-ceylon",
@@ -821,7 +1199,12 @@
       "zh": "印度洋空袭 (锡兰海战)",
       "en": "Indian Ocean Raid (Battle of Ceylon)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dorsetshire%26Cornwall.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b1/LocationAndamanSea.png",
+      "https://upload.wikimedia.org/wikipedia/commons/6/60/Pacific_War_-_Southern_Asia_1942_-_Map.jpg"
+    ]
   },
   {
     "id": "indian-ocean-southeast-asia-submarine-warfare",
@@ -829,7 +1212,8 @@
       "zh": "印度洋/东南亚潜艇战",
       "en": "Indian Ocean/Southeast Asia Submarine Warfare"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "indo-pacific-strategic-transport",
@@ -837,7 +1221,8 @@
       "zh": "印度洋-太平洋战略运输",
       "en": "Indo-Pacific Strategic Transport"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "invasion-of-tulagi",
@@ -845,7 +1230,12 @@
       "zh": "图拉吉战役",
       "en": "Invasion of Tulagi"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pacific_Theater_Areas%3Bmap1.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coral_sea.jpg/1280px-Coral_sea.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/82/Kikutsuki.jpg"
+    ]
   },
   {
     "id": "italian-surrender-and-axis-infighting",
@@ -853,7 +1243,12 @@
       "zh": "意大利投降与轴心国内讧",
       "en": "Italian Surrender and Axis Infighting"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a0/Triple_Occupation_of_Greece.png",
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/Bundesarchiv_Bild_101I-168-0894-21A%2C_Griechenland%2C_Saloniki%2C_Erfassung_von_Juden.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/83/Bundesarchiv_Bild_101I-163-0319-07A%2C_Griechenland%2C_Artilleriestellung_auf_freiem_Feld.jpg"
+    ]
   },
   {
     "id": "japanese-coastal-interception",
@@ -861,7 +1256,12 @@
       "zh": "日本近海拦截战",
       "en": "Japanese Coastal Interception"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Smith_1624_map_of_Bermuda_with_Forts_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bateria_Out%C3%A3o_01.JPG/1280px-Bateria_Out%C3%A3o_01.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/28_cm_gun_at_Oscarsborg_Fortress.jpg"
+    ]
   },
   {
     "id": "java-sea-campaign",
@@ -869,7 +1269,12 @@
       "zh": "爪哇海战役",
       "en": "Java Sea Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/Haguro-1942.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/HMS_Electra.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/HMS_Exeter_off_Sumatra_in_1942.jpg"
+    ]
   },
   {
     "id": "jiangyin-blockship-operation",
@@ -877,7 +1282,12 @@
       "zh": "江阴阻塞线沉船行动",
       "en": "Jiangyin Blockship Operation"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jiangyin_Yangtze_River_bridge-2.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hanging_Village_of_Huaxi%2C_Wuxi_%28May_2012%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jiangyin_Xu_Xiake_Guju_2015.04.24_09-27-33.jpg/1280px-Jiangyin_Xu_Xiake_Guju_2015.04.24_09-27-33.jpg"
+    ]
   },
   {
     "id": "malacca-strait-blockade",
@@ -885,7 +1295,8 @@
       "zh": "马六甲海峡封锁战",
       "en": "Malacca Strait Blockade"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "malta-convoys",
@@ -893,7 +1304,8 @@
       "zh": "马耳他护航战",
       "en": "Malta Convoys"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "mariana-islands-campaign",
@@ -901,7 +1313,12 @@
       "zh": "马里亚纳战役",
       "en": "Mariana Islands Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/93/Water_Buffalo_loaded_with_Marines.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Water_Buffalo_loaded_with_Marines.jpg/1280px-Water_Buffalo_loaded_with_Marines.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bombardment_of_Anguar.jpg"
+    ]
   },
   {
     "id": "marshall-islands-blockade",
@@ -909,7 +1326,12 @@
       "zh": "马绍尔群岛封锁战",
       "en": "Marshall Islands Blockade"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/Korean_War_bombing_Wonsan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Korean_War_bombing_Wonsan.jpg/1280px-Korean_War_bombing_Wonsan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/USS_George_K._MacKenzie_%28DD-836%29_off_Point_Loma%2C_circa_in_the_early_1970s.jpg"
+    ]
   },
   {
     "id": "marshall-islands-campaign",
@@ -917,7 +1339,12 @@
       "zh": "马绍尔群岛战役",
       "en": "Marshall Islands Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/SBD_VB-16_over_USS_Washington_1943.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/SBD_VB-16_over_USS_Washington_1943.jpg/1280px-SBD_VB-16_over_USS_Washington_1943.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/1280px-The_Blue_Marble%2C_AS17-148-22727.jpg"
+    ]
   },
   {
     "id": "mediterranean-anti-submarine-action",
@@ -925,7 +1352,12 @@
       "zh": "地中海反潜战",
       "en": "Mediterranean Anti-Submarine Action"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Officers_on_the_bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b6/Leigh_Light.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Convoy_WS-12_en_route_to_Cape_Town%2C_1941.jpg/1280px-Convoy_WS-12_en_route_to_Cape_Town%2C_1941.jpg"
+    ]
   },
   {
     "id": "mediterranean-campaign",
@@ -933,7 +1365,12 @@
       "zh": "地中海战役",
       "en": "Mediterranean Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mediterranean_campaign_of_1798.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Luny_Thomas_Battle_Of_The_Nile_August_1st_1798_At_10pm.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/HoratioNelson1.jpg/1280px-HoratioNelson1.jpg"
+    ]
   },
   {
     "id": "mediterranean-submarine-warfare",
@@ -941,7 +1378,8 @@
       "zh": "地中海潜艇战",
       "en": "Mediterranean Submarine Warfare"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "mutual-destruction-of-sydney-and-kormoran",
@@ -949,7 +1387,8 @@
       "zh": "悉尼号与鸬鹚号海战",
       "en": "Mutual Destruction of Sydney and Kormoran"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "naval-battle-of-guadalcanal",
@@ -957,7 +1396,12 @@
       "zh": "瓜达尔卡纳尔海战",
       "en": "Naval Battle of Guadalcanal"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cb/Naval_Battle_of_Guadalcanal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/GuadalcanalCloseup.png",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/Japanese_battleship_Hiei_underway_in_Tokyo_Bay_on_11_July_1942_%28NH_73075%29.jpg"
+    ]
   },
   {
     "id": "normandy-campaign-logistics",
@@ -965,7 +1409,12 @@
       "zh": "诺曼底战役后勤线",
       "en": "Normandy Campaign Logistics"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/63/USS_LST-21_unloading_railroad_cars_at_Normandy_in_June_1944.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/MulberryA_-_wrecked_pontoon_causeway_after_storm.jpg/1280px-MulberryA_-_wrecked_pontoon_causeway_after_storm.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/24/Bocagesoldier1944.jpg"
+    ]
   },
   {
     "id": "north-african-campaign",
@@ -973,7 +1422,12 @@
       "zh": "北非战役",
       "en": "North African Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/df/1stAlameinBritDefense.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Colossus.jpg/1280px-Colossus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/IWM-E-6724-Crusader-19411126.jpg/1280px-IWM-E-6724-Crusader-19411126.jpg"
+    ]
   },
   {
     "id": "north-pacific-blockade",
@@ -981,7 +1435,12 @@
       "zh": "北太平洋封锁战",
       "en": "North Pacific Blockade"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nelson%27s_Inshore_Blockading_Squadron_at_Cadiz%2C_July_1797.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blockade_connecticut_plan_civil_war_cartoon.jpg/1280px-Blockade_connecticut_plan_civil_war_cartoon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Scott-anaconda.jpg/1280px-Scott-anaconda.jpg"
+    ]
   },
   {
     "id": "north-sea-submarine-warfare-special-transport",
@@ -989,7 +1448,12 @@
       "zh": "北海潜艇战 (特种运输)",
       "en": "North Sea Submarine Warfare (Special Transport)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/B-24_bomber_at_Willow_Run.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/60_pounder_Cape_Helles_June_1915.jpg/1280px-60_pounder_Cape_Helles_June_1915.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f9/Cumberland_rammed_by_Merrimac.png"
+    ]
   },
   {
     "id": "norwegian-campaign",
@@ -997,7 +1461,8 @@
       "zh": "挪威战役",
       "en": "Norwegian Campaign"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "norwegian-campaign-operation-weserubung",
@@ -1005,7 +1470,8 @@
       "zh": "挪威战役 (威悉演习行动)",
       "en": "Norwegian Campaign (Operation Weserübung)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "operation-catapult-attack-on-mers-el-kebir",
@@ -1013,7 +1479,12 @@
       "zh": "弩炮行动 (凯比尔港海战)",
       "en": "Operation Catapult (Attack on Mers-el-Kébir)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d6/Croiseur_de_bataille_Strasbourg_03-07-1940.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/French-ships-africa.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mers_el_Kebir_Memorial_at_Toulon%2C_France.jpg/1280px-Mers_el_Kebir_Memorial_at_Toulon%2C_France.jpg"
+    ]
   },
   {
     "id": "operation-catapult-peripheral-conflict",
@@ -1021,7 +1492,8 @@
       "zh": "弩炮行动 (外围冲突)",
       "en": "Operation Catapult (Peripheral Conflict)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "operation-catechism",
@@ -1029,7 +1501,12 @@
       "zh": "探题行动 (空袭特罗姆瑟)",
       "en": "Operation Catechism"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/The_Wreck_of_the_Tirpitz%2C_June_1945_by_Stephen_Bone_IWM_IWM_LD_5441.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tirpitz-Gedenkstein-WHV.jpg/1280px-Tirpitz-Gedenkstein-WHV.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Battlehip_Tirpitz_capsized_at_Tromso_c1944.jpg/1280px-Battlehip_Tirpitz_capsized_at_Tromso_c1944.jpg"
+    ]
   },
   {
     "id": "operation-crossroads-post-war-nuclear-tests",
@@ -1037,7 +1514,12 @@
       "zh": "十字路口行动 (战后核试验)",
       "en": "Operation Crossroads (Post-war Nuclear Tests)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Carrier_Saratoga_diver_sketch.png/1280px-Carrier_Saratoga_diver_sketch.png",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0d/Battleship_Arkansas_diver_sketch.png",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Crossroads_Able_Goats.jpg"
+    ]
   },
   {
     "id": "operation-drumbeat-gulf-of-mexico",
@@ -1045,7 +1527,12 @@
       "zh": "击鼓行动 (墨西哥湾)",
       "en": "Operation Drumbeat (Gulf of Mexico)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/Allied_tanker_torpedoed.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Allied_tanker_torpedoed.jpg/1280px-Allied_tanker_torpedoed.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pennsylvania_Sun.jpg/1280px-Pennsylvania_Sun.jpg"
+    ]
   },
   {
     "id": "operation-hailstone",
@@ -1053,7 +1540,8 @@
       "zh": "特鲁克大空袭",
       "en": "Operation Hailstone"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "operation-hannibal-baltic-evacuation",
@@ -1061,7 +1549,8 @@
       "zh": "汉尼拔行动 (波罗的海撤退)",
       "en": "Operation Hannibal (Baltic Evacuation)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "operation-juno-norwegian-sea",
@@ -1069,7 +1558,12 @@
       "zh": "朱诺行动 (挪威海战)",
       "en": "Operation Juno (Norwegian Sea)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/Glorious_sinking.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gloster_Gladiator_1.jpg/1280px-Gloster_Gladiator_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fram_Strait_map.png/1280px-Fram_Strait_map.png"
+    ]
   },
   {
     "id": "operation-overlord-mulberry-harbour-construction",
@@ -1077,7 +1571,12 @@
       "zh": "霸王行动 (桑椹港建设)",
       "en": "Operation Overlord (Mulberry Harbour Construction)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Mulberry_artificial_harbour_off_Arromanches_in_Normandy%2C_September_1944._BU1024.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Omaha_Mulberry_Harbour.jpg/1280px-Omaha_Mulberry_Harbour.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MulberryB_-_Piers.jpg/1280px-MulberryB_-_Piers.jpg"
+    ]
   },
   {
     "id": "operation-pedestal",
@@ -1085,7 +1584,12 @@
       "zh": "基座行动",
       "en": "Operation Pedestal"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d1/MV_Waimarama_explodes.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Aeolian_Islands_map.png",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Aegadian_Islands_map.png"
+    ]
   },
   {
     "id": "operation-ta-ormoc-bay",
@@ -1093,7 +1597,11 @@
       "zh": "多号作战 (奥尔莫克湾)",
       "en": "Operation TA (Ormoc Bay)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/82/Battle_of_Leyte_map_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/USS_Lamson_%28DD-367%29_at_Ormoc_Bay.jpg"
+    ]
   },
   {
     "id": "operation-ten-go-kikusui-attack",
@@ -1101,7 +1609,12 @@
       "zh": "菊水特攻 (天一号作战)",
       "en": "Operation Ten-Go (Kikusui Attack)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/Japanese_battleship_Yamato_under_attack_in_the_East_China_Sea_on_7_April_1945_%28L42-09.06.05%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Japanese_battleship_Yamato_under_attack_in_the_East_China_Sea_on_7_April_1945_%28L42-09.06.05%29.jpg/1280px-Japanese_battleship_Yamato_under_attack_in_the_East_China_Sea_on_7_April_1945_%28L42-09.06.05%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Damaged_Japanese_battleship_Yamato_underway_on_7_April_1945_%28NH_62580%29.jpg/1280px-Damaged_Japanese_battleship_Yamato_underway_on_7_April_1945_%28NH_62580%29.jpg"
+    ]
   },
   {
     "id": "operation-torch-naval-battle-of-casablanca",
@@ -1109,7 +1622,8 @@
       "zh": "火炬行动 (卡萨布兰卡海战)",
       "en": "Operation Torch (Naval Battle of Casablanca)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "operation-wikinger",
@@ -1117,7 +1631,8 @@
       "zh": "维京行动",
       "en": "Operation Wikinger"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "pacific-submarine-warfare",
@@ -1125,7 +1640,12 @@
       "zh": "太平洋潜艇战",
       "en": "Pacific Submarine Warfare"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/40/Conrad_Wise_Chapman_-_Submarine_Torpedo_Boat_H.L._Hunley%2C_Dec._6%2C_1863.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/1280px-Gari-Melchers-War-Highsmith.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bundesarchiv_Bild_101II-MW-0952-17%2C_Frankreich%2C_Auszeichnungen_f%C3%BCr_U-99-Besatzung.jpg/1280px-Bundesarchiv_Bild_101II-MW-0952-17%2C_Frankreich%2C_Auszeichnungen_f%C3%BCr_U-99-Besatzung.jpg"
+    ]
   },
   {
     "id": "pacific-submarine-warfare-awa-maru-incident",
@@ -1133,7 +1653,10 @@
       "zh": "太平洋潜艇战 (阿波丸事件)",
       "en": "Pacific Submarine Warfare (Awa Maru Incident)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Zojo-ji9.jpg/1280px-Zojo-ji9.jpg"
+    ]
   },
   {
     "id": "pacific-submarine-warfare-civilian-evacuation-tragedy",
@@ -1141,7 +1664,12 @@
       "zh": "太平洋潜艇战 (平民疏散悲剧)",
       "en": "Pacific Submarine Warfare (Civilian Evacuation Tragedy)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyprian_War.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/1280px-Gari-Melchers-War-Highsmith.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/de/Founding_Ceremony_of_the_Hakko-Ichiu_Monument.JPG"
+    ]
   },
   {
     "id": "pacific-submarine-warfare-hell-ship-incident",
@@ -1149,7 +1677,12 @@
       "zh": "太平洋潜艇战 (地狱船事件)",
       "en": "Pacific Submarine Warfare (Hell Ship Incident)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bb/Oryoku_Maru.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ac/Hell_Ship_plaque_2_Texas.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/MV_Montevideo_Maru.jpg/1280px-MV_Montevideo_Maru.jpg"
+    ]
   },
   {
     "id": "palau-raid-operation-desecrate-one",
@@ -1157,7 +1690,8 @@
       "zh": "帕劳空袭 (亵渎一号行动)",
       "en": "Palau Raid (Operation Desecrate One)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "second-battle-of-narvik",
@@ -1165,7 +1699,8 @@
       "zh": "第二次纳尔维克海战",
       "en": "Second Battle of Narvik"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "second-battle-of-the-java-sea",
@@ -1173,7 +1708,8 @@
       "zh": "第二次爪哇海海战",
       "en": "Second Battle of the Java Sea"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "siege-of-leningrad",
@@ -1181,7 +1717,12 @@
       "zh": "列宁格勒保卫战",
       "en": "Siege of Leningrad"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/Anti_aircraft_Leningrad_1941.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hitler_Mannerheim_Ryti.jpg/1280px-Hitler_Mannerheim_Ryti.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Anti_aircraft_Leningrad_1941.JPG/1280px-Anti_aircraft_Leningrad_1941.JPG"
+    ]
   },
   {
     "id": "siege-of-sevastopol",
@@ -1189,7 +1730,12 @@
       "zh": "塞瓦斯托波尔围城战",
       "en": "Siege of Sevastopol"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2e/Panorama_dentro.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Map_of_Sebastopol_lines_1855.png/1280px-Map_of_Sebastopol_lines_1855.png",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/BombardementOfSebastopolHMSRodney.jpg"
+    ]
   },
   {
     "id": "sinking-of-prince-of-wales-and-repulse-force-z",
@@ -1197,7 +1743,12 @@
       "zh": "马来亚海战 (Z 舰队)",
       "en": "Sinking of Prince of Wales and Repulse (Force Z)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/HMS_Prince_of_Wales_and_HMS_Repulse_underway_with_a_destroyer_on_10_December_1941_%28HU_2762%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/British_Empire_1897.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/HMS_Repulse_leaving_Singapore.jpg/1280px-HMS_Repulse_leaving_Singapore.jpg"
+    ]
   },
   {
     "id": "solomon-islands-anti-submarine-operations",
@@ -1205,7 +1756,12 @@
       "zh": "所罗门群岛海域反潜战",
       "en": "Solomon Islands Anti-Submarine Operations"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/I1Sub.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Gunichi_Mikawa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/RabaulStrategicArea.jpg/1280px-RabaulStrategicArea.jpg"
+    ]
   },
   {
     "id": "st-nazaire-raid-operation-chariot",
@@ -1213,7 +1769,12 @@
       "zh": "圣纳泽尔突袭 (战车行动)",
       "en": "St. Nazaire Raid (Operation Chariot)"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/DSCN1679StNazaireMemorialFALMOUTH.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/44/Bundesarchiv_DVM_10_Bild-23-63-36%2C_Torpedoboot_%22Jaguar%22.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/58/Bundesarchiv_Bild_101I-621-2943-33%2C_Luftwaffensoldat_an_leichter_Flak_im_Hafen.jpg"
+    ]
   },
   {
     "id": "the-hunt-for-the-bismarck",
@@ -1221,7 +1782,8 @@
       "zh": "围剿俾斯麦号",
       "en": "The Hunt for the Bismarck"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "the-laconia-incident",
@@ -1229,7 +1791,8 @@
       "zh": "拉科尼亚事件",
       "en": "The Laconia Incident"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": []
   },
   {
     "id": "the-raid-on-scapa-flow",
@@ -1237,7 +1800,12 @@
       "zh": "斯卡帕湾潜入战",
       "en": "The Raid on Scapa Flow"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/Scapa_Flow_-_Churchill_Barrier_1_-_kingsley_-_29-JUN-09.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ScapaFlowVisitorCentreRLH.jpg/1280px-ScapaFlowVisitorCentreRLH.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Scapa_Flow%2C_British_pottery_shard_%28RLH%29.JPG/1280px-Scapa_Flow%2C_British_pottery_shard_%28RLH%29.JPG"
+    ]
   },
   {
     "id": "vella-lavella-anti-submarine-action",
@@ -1245,6 +1813,11 @@
       "zh": "维拉拉维拉反潜战",
       "en": "Vella Lavella Anti-Submarine Action"
     },
-    "commanders": []
+    "commanders": [],
+    "pics": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/SC180577t.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SC180577t.jpg/1280px-SC180577t.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/USS_O%27Bannon_%28DD-450%29%2C_USS_Chevalier_%28DD-451%29_and_USS_Taylor_%28DD-468%29_underway_at_sea_on_15_August_1943_%2880-G-58800%29.jpg/1280px-USS_O%27Bannon_%28DD-450%29%2C_USS_Chevalier_%28DD-451%29_and_USS_Taylor_%28DD-468%29_underway_at_sea_on_15_August_1943_%2880-G-58800%29.jpg"
+    ]
   }
 ]

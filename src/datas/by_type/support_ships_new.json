@@ -1,0 +1,470 @@
+[
+  {
+    "id": "hs-centaur",
+    "name": {
+      "zh": "半人马座号医疗船",
+      "en": "AHS Centaur"
+    },
+    "faction": {
+      "zh": "澳大利亚",
+      "en": "Australia"
+    },
+    "type": {
+      "zh": "医疗船",
+      "en": "Hospital Ship"
+    },
+    "coordinates": [
+      -27.283,
+      153.966
+    ],
+    "sinkingDate": "1943-05-14",
+    "cause": {
+      "zh": "在完全亮起红十字医疗标志并在夜间开启照明的情况下，于澳大利亚昆士兰州外海遭到日本潜艇 I-177 的鱼雷偷袭，在不到 3 分钟内迅速沉没。",
+      "en": "Despite being fully marked with Red Cross symbols and brilliantly illuminated at night, she was sneak-attacked by a torpedo from the Japanese submarine I-177 off the coast of Queensland, Australia, sinking rapidly in less than 3 minutes."
+    },
+    "depth": {
+      "zh": "约 2059 米",
+      "en": "Approx. 2059 meters"
+    },
+    "historyNotes": {
+      "zh": "二战中最臭名昭著的战争罪行之一。船上 332 名医护人员和船员中仅有 64 人幸存。这件事在澳大利亚引发了极大的震动和愤怒。其残骸在 2009 年才被大卫·梅恩斯带领的深海探险队发现。",
+      "en": "One of the most infamous war crimes of WWII. Of the 332 medical personnel and crew aboard, only 64 survived. The incident caused massive shock and outrage in Australia. Her wreck was finally discovered in 2009 by a deep-sea expedition led by David Mearns."
+    },
+    "battle": {
+      "zh": "太平洋潜艇战",
+      "en": "Pacific Submarine Warfare"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/au.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AHS_Centaur_1944.jpg/1920px-AHS_Centaur_1944.jpg",
+    "battleId": "pacific-submarine-warfare"
+  },
+  {
+    "id": "av-akitsushima",
+    "name": {
+      "zh": "秋津洲号水上飞机母舰",
+      "en": "IJN Akitsushima"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "水上飞机母舰",
+      "en": "Seaplane Tender"
+    },
+    "coordinates": [
+      11.975,
+      119.965
+    ],
+    "sinkingDate": "1944-09-24",
+    "cause": {
+      "zh": "在科隆湾躲避美军空袭时，遭到美国第 38 特遣舰队舰载机轰炸，直接命中后部并引爆航空燃油，随后向左舷倾覆沉没。",
+      "en": "While evading U.S. air strikes in Coron Bay, she was bombed by carrier aircraft from Task Force 38. A direct hit to her aft section ignited aviation fuel, causing her to capsize to port and sink."
+    },
+    "depth": {
+      "zh": "约 35 米",
+      "en": "Approx. 35 meters"
+    },
+    "historyNotes": {
+      "zh": "科隆湾最著名的沉船之一。舰体上极其庞大的水上飞机起重吊车至今仍完好地横躺在海底泥床上。",
+      "en": "One of the most famous wrecks in Coron Bay. Her massive seaplane crane remains remarkably intact, lying horizontally on the silty seabed."
+    },
+    "battle": {
+      "zh": "科隆湾空袭",
+      "en": "Coron Bay Air Raid"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Japanese_seaplane_carrier_Akitsushima.jpg/960px-Japanese_seaplane_carrier_Akitsushima.jpg",
+    "battleId": "coron-bay-air-raid"
+  },
+  {
+    "id": "as-heian-maru",
+    "name": {
+      "zh": "平安丸潜艇支援舰",
+      "en": "IJN Heian Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "大型潜艇母舰 (改装自远洋客轮)",
+      "en": "Large Submarine Tender (Converted Ocean Liner)"
+    },
+    "coordinates": [
+      7.383,
+      151.85
+    ],
+    "sinkingDate": "1944-02-18",
+    "cause": {
+      "zh": "作为日军潜艇部队的移动指挥部和补给中心，遭到美军机群重点照顾，身中多枚炸弹后起火沉没。",
+      "en": "Heavily targeted by U.S. aircraft due to her role as a mobile command and supply center for the Japanese submarine fleet, she caught fire and sank after taking multiple bomb hits."
+    },
+    "depth": {
+      "zh": "约 35 米",
+      "en": "Approx. 35 meters"
+    },
+    "historyNotes": {
+      "zh": "特鲁克潟湖内最大的沉船之一（全长约 155 米）。它曾是豪华邮轮，后改为战斗支援舰，船舱内至今仍堆放着为潜艇准备的巨大鱼雷。",
+      "en": "One of the largest wrecks in Truk Lagoon (about 155 meters long). Formerly a luxury passenger liner converted into a combat support ship, her cargo holds still contain massive torpedoes prepared for submarines."
+    },
+    "battle": {
+      "zh": "特鲁克大空袭 (冰雹行动)",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/85/Heian_Maru.jpg",
+    "battleId": "operation-hailstone"
+  },
+  {
+    "id": "ak-irako",
+    "name": {
+      "zh": "伊良湖号给粮舰",
+      "en": "IJN Irako"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "冷藏补给舰",
+      "en": "Provision Ship / Supply Ship"
+    },
+    "coordinates": [
+      11.981,
+      119.983
+    ],
+    "sinkingDate": "1944-09-24",
+    "cause": {
+      "zh": "在科隆湾被美军舰载机炸弹击中舰桥和船舯部，受重创后下沉。",
+      "en": "Struck by bombs on her bridge and amidships by U.S. carrier aircraft in Coron Bay, sinking after sustaining heavy damage."
+    },
+    "depth": {
+      "zh": "约 43 米",
+      "en": "Approx. 43 meters"
+    },
+    "historyNotes": {
+      "zh": "当时日本海军极其罕见且先进的专用冷藏运粮船，负责为联合舰队提供新鲜肉类和蔬菜。现在是科隆湾水下能见度最好、结构最完整的沉船之一。",
+      "en": "A rare and advanced refrigerated supply vessel for the Imperial Japanese Navy at the time, responsible for providing fresh meat and vegetables to the Combined Fleet. It is now one of the most intact wrecks with the best visibility in Coron Bay."
+    },
+    "battle": {
+      "zh": "科隆湾空袭",
+      "en": "Coron Bay Air Raid"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Japanese_supply_ship_Irako_1944.jpg/1920px-Japanese_supply_ship_Irako_1944.jpg",
+    "battleId": "coron-bay-air-raid"
+  },
+  {
+    "id": "as-rio-maru",
+    "name": {
+      "zh": "里约热内卢丸潜艇支援舰",
+      "en": "IJN Rio de Janeiro Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "大型潜艇母舰 / 武装运输舰",
+      "en": "Large Submarine Tender / Armed Transport"
+    },
+    "coordinates": [
+      7.316,
+      151.9
+    ],
+    "sinkingDate": "1944-02-17",
+    "cause": {
+      "zh": "在潟湖内锚泊时遭美军轰炸机多次命中弹药库，发生猛烈爆炸后沉没。",
+      "en": "While anchored in the lagoon, her ammunition magazine was hit multiple times by U.S. bombers, causing her to sink after a violent explosion."
+    },
+    "depth": {
+      "zh": "约 33 米",
+      "en": "Approx. 33 meters"
+    },
+    "historyNotes": {
+      "zh": "与平安丸类似，它是日军维持特鲁克潜艇作战的核心支援舰只。残骸左舷朝下横卧在海床上，其甲板上装备的防空火炮依然清晰可见。",
+      "en": "Similar to Heian Maru, she was a core support vessel maintaining Japanese submarine operations at Truk. Her wreck lies on its port side on the seabed, with the anti-aircraft guns mounted on her deck still clearly visible."
+    },
+    "battle": {
+      "zh": "特鲁克大空袭 (冰雹行动)",
+      "en": "Operation Hailstone"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/60/Rio_de_Janeiro_Maru1930_2.JPG",
+    "battleId": "operation-hailstone"
+  },
+  {
+    "id": "ao-okikawa-maru",
+    "name": {
+      "zh": "兴川丸",
+      "en": "Okikawa Maru"
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "type": {
+      "zh": "舰队油船",
+      "en": "Fleet Oiler"
+    },
+    "coordinates": [
+      12.016,
+      119.982
+    ],
+    "sinkingDate": "1944-09-24",
+    "cause": {
+      "zh": "遭到美军 70 多架次飞机的轮番扫射和轰炸，船艏被炸断后燃烧沉没。",
+      "en": "Subjected to waves of strafing and bombing from over 70 U.S. aircraft; her bow was severed, and she sank while engulfed in flames."
+    },
+    "depth": {
+      "zh": "约 26 米",
+      "en": "Approx. 26 meters"
+    },
+    "historyNotes": {
+      "zh": "科隆湾体积最大的沉船（长达 168 米）。由于深度较浅，其宽阔的甲板现在被极其茂密的珊瑚覆盖，成为了海洋生物的天堂。",
+      "en": "The largest wreck in Coron Bay by volume (168 meters long). Due to its shallow depth, the vast decks are now covered in dense coral growth, making it a haven for marine life."
+    },
+    "battle": {
+      "zh": "科隆湾空袭",
+      "en": "Coron Bay Air Raid"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": null,
+    "battleId": "coron-bay-air-raid"
+  },
+  {
+    "id": "transport-armenia",
+    "name": {
+      "zh": "亚美尼亚号医疗/运输船",
+      "en": "Soviet Hospital/Transport Ship Armenia"
+    },
+    "faction": {
+      "zh": "苏联",
+      "en": "Soviet Union"
+    },
+    "type": {
+      "zh": "医疗船/运输船",
+      "en": "Hospital Ship / Transport"
+    },
+    "coordinates": [
+      44.25,
+      34.28
+    ],
+    "sinkingDate": "1941-11-07",
+    "cause": {
+      "zh": "在撤离克里米亚半岛的伤员和难民时，在雅尔塔外海遭到德国空军 He 111 轰炸机的鱼雷攻击，在短短 4 分钟内迅速沉没。",
+      "en": "While evacuating wounded soldiers and refugees from the Crimean Peninsula, she was attacked by torpedoes from Luftwaffe He 111 bombers off the coast of Yalta, sinking rapidly in just 4 minutes."
+    },
+    "depth": {
+      "zh": "约 1500 米",
+      "en": "Approx. 1500 meters"
+    },
+    "historyNotes": {
+      "zh": "这是二战乃至人类航海史上最惨烈的海难之一。船上搭载了 5000 到 7000 名伤员、医护人员和难民，最终仅有极少数人获救。其残骸直到 2020 年才在克里米亚半岛海岸外被深海探险队发现。",
+      "en": "This is one of the most tragic maritime disasters in WWII and human maritime history. Carrying between 5,000 to 7,000 wounded, medical personnel, and refugees, only a tiny fraction survived. Her wreck was not discovered by deep-sea expeditions off the Crimean coast until 2020."
+    },
+    "battle": {
+      "zh": "克里米亚战役",
+      "en": "Crimean Campaign"
+    },
+    "flagIconUrl": "/soviet.png",
+    "cover": null,
+    "battleId": "crimean-campaign"
+  },
+  {
+    "id": "tanker-ohio",
+    "name": {
+      "zh": "俄亥俄号油轮",
+      "en": "SS Ohio"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "油轮 (特供补给船)",
+      "en": "Tanker (Special Supply Ship)"
+    },
+    "coordinates": [
+      35.9,
+      14.516
+    ],
+    "sinkingDate": "1942-08-15",
+    "cause": {
+      "zh": "在‘基座行动’中遭到连续6天的狂轰滥炸、鱼雷命中和斯图卡轰炸机的自杀式撞击。在舰体几乎断成两截、龙骨断裂的情况下，被两艘驱逐舰绑在两侧‘架’进马耳他大港。卸完燃料后即在港内坐沉断裂（战后被拖至外海击沉处理）。",
+      "en": "During 'Operation Pedestal', she endured 6 consecutive days of relentless bombing, torpedo hits, and a suicidal crash by a Stuka dive bomber. With her hull nearly broken in two and her keel fractured, she was lashed between two destroyers and 'carried' into the Grand Harbour of Malta. After unloading her fuel, she settled and broke her back in the harbor (she was towed offshore and sunk post-war)."
+    },
+    "depth": {
+      "zh": "战后外海深水击沉",
+      "en": "Sunk in deep waters offshore post-war"
+    },
+    "historyNotes": {
+      "zh": "马耳他岛的‘救世主’，二战史上最伟大的商船！它拼死送达的 12,000 吨航空燃油直接决定了马耳他守军能继续撑下去。当它遍体鳞伤被拖入大港时，整个马耳他岛的军民都在防波堤上为它欢呼。它不是战舰，却赢得了比战舰更高的荣誉。",
+      "en": "The 'Savior' of Malta and arguably the greatest merchant ship in WWII history! The 12,000 tons of aviation fuel she desperately delivered directly ensured the Maltese garrison could hold out. When her battered hull was towed into the Grand Harbour, the military and civilians of Malta cheered her from the breakwaters. She was not a warship, yet she earned honors surpassing them."
+    },
+    "battle": {
+      "zh": "基座行动",
+      "en": "Operation Pedestal"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/8/8f/SS-Ohio_supported.jpg",
+    "battleId": "operation-pedestal"
+  },
+  {
+    "id": "ss-zaafaran",
+    "name": {
+      "zh": "扎法兰号",
+      "en": "SS Zaafaran"
+    },
+    "faction": {
+      "zh": "英国",
+      "en": "UK"
+    },
+    "type": {
+      "zh": "护航救援船",
+      "en": "Convoy Rescue Ship"
+    },
+    "coordinates": [
+      76,
+      38
+    ],
+    "sinkingDate": "1942-07-05",
+    "cause": {
+      "zh": "向新地岛方向逃亡途中，遭到德机猛烈空袭，被炸弹直接命中沉没。",
+      "en": "While fleeing towards Novaya Zemlya, she suffered a fierce German air raid and was sunk by a direct bomb hit."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "作为一艘专门用来从冰海里捞人的救援船，它的覆灭是极其悲剧性的。当救援者自己都沉入冰海，漂浮在海面上的落水水手便被宣判了彻底的死刑。",
+      "en": "As a rescue ship specifically designated to pull survivors from the icy sea, her destruction was exceptionally tragic. When the rescuers themselves sank into the ice, the sailors already adrift were effectively handed an absolute death sentence."
+    },
+    "battle": {
+      "zh": "北极护航战 (PQ-17 船团)",
+      "en": "Arctic Convoys (Convoy PQ-17)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/gb.png",
+    "cover": "https://www.wrecksite.eu/img/wrecks/zaafaran.jpg",
+    "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "ardc-13",
+    "name": {
+      "zh": "ARDC-13 辅助维修浮船坞",
+      "en": "USS ARDC-13 (Floating Dry Dock)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "浮船坞",
+      "en": "Floating Dry Dock"
+    },
+    "coordinates": [
+      11.605,
+      165.52
+    ],
+    "sinkingDate": "1946-07-25",
+    "cause": {
+      "zh": "在‘阿贝’空中核爆中幸存但受到辐射污染。随后在‘贝克’水下核爆中，其庞大的体积使其承受了极大的破坏力，船坞壁被冲击波撕裂并最终沉没。",
+      "en": "Survived the 'Able' atmospheric nuclear test but was radiologically contaminated. Subsequently, in the 'Baker' underwater test, its massive volume caused it to absorb tremendous destructive force; the dock walls were torn apart by the shockwave, and it eventually sank."
+    },
+    "depth": {
+      "zh": "约 50 米",
+      "en": "Approx. 50 meters"
+    },
+    "historyNotes": {
+      "zh": "它不是一艘战舰，而是一个浮动干船坞。将其纳入测试是为了观察后勤支援基础设施如何承受核打击。这座庞大的结构现在是比基尼潜水胜地的一大特色。",
+      "en": "Not a warship, but a floating dry dock. Its inclusion in the test was to see how support infrastructure would hold up to a nuclear strike. The massive structure is now a unique feature of the Bikini dive site."
+    },
+    "battle": {
+      "zh": "十字路口行动 (战后核试验)",
+      "en": "Operation Crossroads (Post-war Nuclear Tests)"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ARDC13_ship.jpg/1920px-ARDC13_ship.jpg",
+    "battleId": "operation-crossroads-post-war-nuclear-tests"
+  },
+  {
+    "id": "av-3-langley",
+    "name": {
+      "zh": "兰利号水上飞机母舰",
+      "en": "USS Langley (CV-1 / AV-3)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "水上飞机母舰 (原航空母舰)",
+      "en": "Seaplane Tender (ex-Aircraft Carrier)"
+    },
+    "coordinates": [
+      -8.85,
+      109.033
+    ],
+    "sinkingDate": "1942-02-27",
+    "cause": {
+      "zh": "在向爪哇岛芝拉扎港（Cilacap）运送 32 架 P-40 战斗机途中，遭到日军 G4M“一式陆攻”和 G3M“九六式陆攻”轰炸机的轮番空袭。身中五枚炸弹失去动力，在严重左倾且无法扑灭大火的情况下，由护航的美国驱逐舰惠普尔号（USS Whipple）发射鱼雷和火炮击沉处理。",
+      "en": "While transporting 32 P-40 fighters to Cilacap, Java, she was repeatedly attacked by Japanese G4M 'Betty' and G3M 'Nell' bombers. After taking five bomb hits and losing power, suffering a severe list to port, and being unable to extinguish the fires, she was scuttled by torpedoes and gunfire from her escort, the destroyer USS Whipple."
+    },
+    "depth": {
+      "zh": "约 4000 米 (残骸尚未被精准定位)",
+      "en": "Approx. 4000 meters (Wreck not yet precisely located)"
+    },
+    "historyNotes": {
+      "zh": "具有极其特殊的历史地位：美国海军历史上的第一艘航空母舰。它不仅是美国航母战术的摇篮，它的沉没也标志着盟军在二战初期防御荷属东印度群岛（ABDA舰队）时绝望的挣扎。沉没时，甲板上极其宝贵的数十架 P-40 战斗机也随之沉入海底。",
+      "en": "Holds a highly unique historical status: she was the first aircraft carrier in U.S. Navy history. Not only was she the cradle of American carrier tactics, but her sinking also marked the desperate struggles of the Allies defending the Dutch East Indies (ABDA fleet) early in WWII. When she sank, the dozens of invaluable P-40 fighters on her deck went down with her."
+    },
+    "battle": {
+      "zh": "爪哇海战役",
+      "en": "Java Sea Campaign"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/6/6f/USS_Langley_%28CV-1%29_and_USS_Somers_%28DD-301%29_underway_off_San_Diego%2C_in_1928_%28NH_81279%29.jpg",
+    "battleId": "java-sea-campaign"
+  },
+  {
+    "id": "ao-23-neosho",
+    "name": {
+      "zh": "尼奥绍号舰队油船",
+      "en": "USS Neosho (AO-23)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "type": {
+      "zh": "舰队油船",
+      "en": "Fleet Oiler"
+    },
+    "coordinates": [
+      -15.583,
+      155.6
+    ],
+    "sinkingDate": "1942-05-11",
+    "cause": {
+      "zh": "1942年5月7日遭日军飞机重创失去动力，漂流数日后由美军亨利号驱逐舰击沉。",
+      "en": "Critically damaged by Japanese aircraft on May 7, 1942 and left drifting for several days before being scuttled by USS Henley."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "该舰曾在珍珠港事件中幸存。在珊瑚海海战中，由于被日军误判为航空母舰而吸引了大量攻击。",
+      "en": "The ship had previously survived the attack on Pearl Harbor. During the battle, Japanese reconnaissance aircraft mistakenly identified her as an aircraft carrier, drawing major enemy attacks."
+    },
+    "battle": {
+      "zh": "珊瑚海海战",
+      "en": "Battle of the Coral Sea"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/USS_Neosho_AO-23.jpg/3840px-USS_Neosho_AO-23.jpg",
+    "battleId": "battle-of-the-coral-sea"
+  }
+]

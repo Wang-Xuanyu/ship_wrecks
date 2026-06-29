@@ -22,6 +22,10 @@ const getText = (value, lang = 'en') => {
   return value;
 };
 
+const existingBattles = await readFile('src/datas/battles_new.json', 'utf8')
+  .then((content) => JSON.parse(content))
+  .catch(() => []);
+const existingBattlesById = new Map(existingBattles.map((battle) => [battle.id, battle]));
 const battlesById = new Map();
 
 for (const file of dataFiles) {
@@ -32,13 +36,16 @@ for (const file of dataFiles) {
     const battleId = slugify(battleNameEn);
 
     if (!battlesById.has(battleId)) {
+      const existingBattle = existingBattlesById.get(battleId);
+
       battlesById.set(battleId, {
         id: battleId,
         name: {
           zh: getText(shipwreck.battle, 'zh'),
           en: battleNameEn
         },
-        commanders: []
+        commanders: existingBattle?.commanders ?? [],
+        pics: existingBattle?.pics ?? []
       });
     }
   });

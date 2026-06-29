@@ -12,22 +12,28 @@ import { useTranslation } from 'react-i18next';
 import 'leaflet/dist/leaflet.css';
 
 // 导入数据
-import data1 from './datas/data1_new.json';
-import data2 from './datas/data2_new.json';
-import data3 from './datas/data3_new.json';
-import data4 from './datas/data4_new.json';
-import data5 from './datas/data5_new.json';
-import data6 from './datas/data6_new.json';
-import data7 from './datas/data7_new.json';
-import data8 from './datas/data8_new.json';
-import data9 from './datas/data9_new.json';
-import data10 from './datas/data10_new.json';
-import data11 from './datas/data11_new.json';
-import data12 from './datas/data12_new.json';
-import data13 from './datas/data13_new.json';
+import carriers from './datas/by_type/carriers_new.json';
+import battleships from './datas/by_type/battleships_new.json';
+import cruisers from './datas/by_type/cruisers_new.json';
+import destroyers from './datas/by_type/destroyers_new.json';
+import submarines from './datas/by_type/submarines_new.json';
+import merchantTransport from './datas/by_type/merchant_transport_new.json';
+import smallWarships from './datas/by_type/small_warships_new.json';
+import supportShips from './datas/by_type/support_ships_new.json';
+import otherShips from './datas/by_type/other_ships_new.json';
 import battlesData from './datas/battles_new.json';
 
-const allShipwrecks = [...data1, ...data2, ...data3, ...data4, ...data5, ...data6, ...data7, ...data8, ...data9,...data10,...data11, ...data12, ...data13];
+const allShipwrecks = [
+  ...carriers,
+  ...battleships,
+  ...cruisers,
+  ...destroyers,
+  ...submarines,
+  ...merchantTransport,
+  ...smallWarships,
+  ...supportShips,
+  ...otherShips
+];
 const shipwrecksById = new Map();
 allShipwrecks.forEach((ship) => {
   if (!shipwrecksById.has(ship.id)) {
@@ -61,14 +67,16 @@ const SHIP_TYPE_FILTERS = [
 const getShipTypeCategory = (type) => {
   const normalizedType = getText(type, 'en').toLowerCase();
 
-  if (/carrier|aircraft/.test(normalizedType)) return 'carrier';
+  if (/memorial|info marker/.test(normalizedType)) return 'other';
+  if (/tender|fleet oiler|oiler|supply|provision|hospital|dry dock|rescue/.test(normalizedType)) return 'support';
+  if (/freighter|merchant|transport|troopship|liner|cargo|liberty|tanker|hell ship|passenger/.test(normalizedType)) return 'merchant';
+  if (/\bsubmarine\b|u-boat/.test(normalizedType)) return 'submarine';
   if (/battleship|battlecruiser|panzerschiff/.test(normalizedType)) return 'battleship';
-  if (/cruiser/.test(normalizedType)) return 'cruiser';
+  if (/carrier/.test(normalizedType)) return 'carrier';
   if (/destroyer|escort ship|kaibōkan/.test(normalizedType)) return 'destroyer';
-  if (/submarine|u-boat/.test(normalizedType)) return 'submarine';
-  if (/freighter|merchant|transport|troopship|liner|cargo|liberty|tanker|oiler|hell ship|passenger/.test(normalizedType)) return 'merchant';
-  if (/minesweeper|minelayer|gunboat|corvette|frigate|sloop|pt boat|patrol/.test(normalizedType)) return 'small';
-  if (/tender|supply|provision|hospital|auxiliary|dry dock|rescue/.test(normalizedType)) return 'support';
+  if (/cruiser/.test(normalizedType)) return 'cruiser';
+  if (/minesweeper|minelayer|gunboat|corvette|frigate|sloop|pt boat|patrol|aviso/.test(normalizedType)) return 'small';
+  if (/auxiliary/.test(normalizedType)) return 'support';
 
   return 'other';
 };
@@ -263,10 +271,19 @@ const ShipwreckMap = () => {
               {selectedBattleDetails.commanders.length > 0 ? (
                 <div className="mt-2 flex flex-col gap-2">
                   {selectedBattleDetails.commanders.map((commander) => (
-                    <div key={`${commander.side}-${commander.name}`}>
-                      <div className="font-medium text-[#1f2937]">{commander.name}</div>
-                      <div className="text-xs text-[#64748b]">
-                        {[commander.side, commander.role].filter(Boolean).join(' - ')}
+                    <div key={`${commander.side}-${commander.name}`} className="flex items-center gap-2">
+                      {commander.cover && (
+                        <img
+                          src={commander.cover}
+                          alt={commander.name}
+                          className="h-10 w-10 shrink-0 rounded object-cover"
+                        />
+                      )}
+                      <div className="min-w-0">
+                        <div className="font-medium text-[#1f2937]">{commander.name}</div>
+                        <div className="text-xs text-[#64748b]">
+                          {[commander.side, commander.role].filter(Boolean).join(' - ')}
+                        </div>
                       </div>
                     </div>
                   ))}
