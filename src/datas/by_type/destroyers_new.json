@@ -4233,5 +4233,40 @@
     },
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Japanese_destroyer_Tokitsukaze_under_air_attack_during_the_Battle_of_the_Bismarck_Sea%2C_4_March_1943_%28342-FH-3A33340-23278AC%29.jpg/1920px-Japanese_destroyer_Tokitsukaze_under_air_attack_during_the_Battle_of_the_Bismarck_Sea%2C_4_March_1943_%28342-FH-3A33340-23278AC%29.jpg"
+  },
+  {
+    "id": "dd-433-gwin",
+    "name": {
+      "zh": "格温号驱逐舰",
+      "en": "USS Gwin (DD-433)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "驱逐舰 (格里维斯级)",
+      "en": "Destroyer (Gleaves-class)"
+    },
+    "coordinates": [-7.683, 157.450],
+    "sinkingDate": "1943-07-13",
+    "cause": {
+      "zh": "在夜战中，虽然美军成功摧毁了日军旗舰，但遭到了日本驱逐舰群在撤退前发射的 93 式‘长矛’氧气鱼雷的暗算。一枚鱼雷直接命中了格温号的中部机舱，引发了极其剧烈的爆炸。尽管船员们进行了非常顽强、不可思议的损管抢救，但舰体结构最终无法维持，被迫由友军驱逐舰发射鱼雷将其自沉处分。",
+      "en": "During a night battle, although the US forces successfully destroyed the Japanese flagship, they were ambushed by Type 93 'Long Lance' oxygen torpedoes fired by retreating Japanese destroyers. A torpedo directly hit Gwin's midships engine room, causing a tremendously violent explosion. Despite the crew's incredibly stubborn and valiant damage control efforts, the hull structure ultimately could not be maintained, and she had to be scuttled by torpedoes from a friendly destroyer."
+    },
+    "depth": {
+      "zh": "未知 (新乔治亚海峡深水区)",
+      "en": "Unknown (Deep waters of New Georgia Sound)"
+    },
+    "historyNotes": {
+      "zh": "一场极其疯狂的夜战牺牲品。格温号的沉没和另外三艘巡洋舰的重创，给美国海军上了一堂极其惨痛的课——永远不要低估日本驱逐舰在夜间发射鱼雷的能力。在没有雷达预警的情况下，那些没有航迹的氧气鱼雷就是真正的深海死神。",
+      "en": "A victim of an incredibly frantic night battle. The sinking of Gwin and the severe crippling of three other cruisers taught the US Navy a devastatingly painful lesson: never underestimate the night torpedo capabilities of Japanese destroyers. Without radar warning, those wakeless oxygen torpedoes were true grim reapers of the deep."
+    },
+    "battle": {
+      "zh": "科隆班加拉岛海战",
+      "en": "Battle of Kolombangara"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Uss_Gwin_DD-433.jpg"
   }
 ]
