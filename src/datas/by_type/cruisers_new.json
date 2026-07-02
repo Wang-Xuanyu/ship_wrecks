@@ -2533,5 +2533,40 @@
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
     "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9f/USS_Vincennes_%28CA-44%29_in_Panama_Canal_1938.jpg",
     "battleId": "battle-of-savo-island"
+  },
+  {
+    "id": "cl-bartolomeo-colleoni",
+    "name": {
+      "zh": "巴托洛梅奥·科莱奥尼号轻巡洋舰",
+      "en": "Italian Cruiser Bartolomeo Colleoni"
+    },
+    "faction": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "type": {
+      "zh": "轻巡洋舰 (雇佣兵队长级)",
+      "en": "Light Cruiser (Condottieri-class)"
+    },
+    "coordinates": [35.693, 23.721],
+    "sinkingDate": "1940-07-19",
+    "cause": {
+      "zh": "在斯帕达角海战中，遭到澳大利亚皇家海军“悉尼”号轻巡洋舰（HMAS Sydney）的突袭。悉尼号的6英寸炮弹击穿了其薄弱的舰体，直接摧毁了锅炉舱，使其完全失去动力并燃起大火。随后，失去机动能力的科莱奥尼号被英国驱逐舰“伊莱克斯”号（HMS Ilex）和“海泼里恩”号（HMS Hyperion）发射的三枚鱼雷彻底击沉。",
+      "en": "During the Battle of Cape Spada, she was surprised by the Royal Australian Navy light cruiser HMAS Sydney. Sydney's 6-inch shells pierced her weak hull and directly destroyed the boiler room, leaving her completely dead in the water and ablaze. Subsequently, the immobilized Colleoni was completely finished off by three torpedoes fired by the British destroyers HMS Ilex and HMS Hyperion."
+    },
+    "depth": {
+      "zh": "未知 (地中海克里特岛附近深水区)",
+      "en": "Unknown (Deep waters near Crete, Mediterranean Sea)"
+    },
+    "historyNotes": {
+      "zh": "这是二战地中海战场经典的巡洋舰对决。作为意大利第一批“雇佣兵队长”级轻巡洋舰，科莱奥尼号的设计极端追求极速（最高曾达37节以上），但代价是几乎裸奔的装甲防护。这种追求“唯快不破”的造舰思路，在实战中面对火力精准且防护更佳的英联邦巡洋舰时，暴露出了抗沉性极差的致命弱点。",
+      "en": "A classic cruiser duel in the WWII Mediterranean theater. As one of the first batch of Italy's Condottieri-class light cruisers, Colleoni's design pursued extreme speed (reaching over 37 knots), but at the cost of almost nonexistent armor protection. This 'speed is everything' shipbuilding philosophy exposed her fatal weakness of extremely poor survivability when facing the accurately firing and better-protected Commonwealth cruisers in actual combat."
+    },
+    "battle": {
+      "zh": "斯帕达角海战",
+      "en": "Battle of Cape Spada"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/it.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Italian_cruiser_Bartolomeo_Colleoni_NH_80948.tiff/lossless-page1-3840px-Italian_cruiser_Bartolomeo_Colleoni_NH_80948.tiff.png"
   }
 ]
