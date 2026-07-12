@@ -191,6 +191,18 @@ const ShipwreckMap = () => {
   const popupWidth = isMobile ? Math.max(220, Math.min(windowWidth - 44, 320)) : 300;
   const popupMinWidth = isMobile ? Math.max(200, Math.min(windowWidth - 64, 260)) : 260;
 
+  const handleBattleQuickFilter = (battleId) => {
+    if (!battleId) return;
+    setSelectedBattle(battleId);
+    setFiltersOpen(true);
+  };
+
+  const handleTypeQuickFilter = (type) => {
+    const typeCategory = getShipTypeCategory(type);
+    setSelectedType(typeCategory);
+    setFiltersOpen(true);
+  };
+
   return (
     <div className="relative w-full h-[100dvh] min-h-[520px] overflow-hidden bg-slate-950">
 
@@ -331,6 +343,8 @@ const ShipwreckMap = () => {
           const battle = getText(ship.battle, lang);
           const cause = getText(ship.cause, lang);
           const historyNotes = getText(ship.historyNotes, lang);
+          const typeCategory = getShipTypeCategory(ship.type);
+          const typeFilterLabel = SHIP_TYPE_FILTERS.find((filter) => filter.id === typeCategory)?.label;
 
           return (
             <Marker
@@ -356,8 +370,24 @@ const ShipwreckMap = () => {
 
                   <div className="grid grid-cols-[auto_1fr] gap-x-2 gap-y-1">
                     <b>{lang === 'en' ? 'Faction' : '阵营'}:</b> <span>{faction}</span>
-                    <b>{lang === 'en' ? 'Type' : '类型'}:</b> <span>{type}</span>
-                    <b>{lang === 'en' ? 'Battle' : '战役'}:</b> <span>{battle}</span>
+                    <b>{lang === 'en' ? 'Type' : '类型'}:</b>
+                    <button
+                      type="button"
+                      onClick={() => handleTypeQuickFilter(ship.type)}
+                      className="w-fit text-left font-medium text-[#2563eb] underline decoration-[#93c5fd] underline-offset-2 hover:text-[#1d4ed8]"
+                      title={`${lang === 'en' ? 'Filter by' : '筛选'} ${getText(typeFilterLabel, lang) || type}`}
+                    >
+                      {type}
+                    </button>
+                    <b>{lang === 'en' ? 'Battle' : '战役'}:</b>
+                    <button
+                      type="button"
+                      onClick={() => handleBattleQuickFilter(ship.battleId)}
+                      className="w-fit text-left font-medium text-[#2563eb] underline decoration-[#93c5fd] underline-offset-2 hover:text-[#1d4ed8]"
+                      title={`${lang === 'en' ? 'Filter by' : '筛选'} ${battle}`}
+                    >
+                      {battle}
+                    </button>
                     <b>{lang === 'en' ? 'Date' : '时间'}:</b> <span>{ship.sinkingDate}</span>
                   </div>
 

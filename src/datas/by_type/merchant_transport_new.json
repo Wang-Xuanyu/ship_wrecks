@@ -1,5 +1,44 @@
 [
   {
+    "id": "transport-aiyo-maru",
+    "name": {
+      "zh": "爱洋丸",
+      "en": "Aiyo Maru"
+    },
+    "type": {
+      "zh": "陆军运输船 / 货船",
+      "en": "Army Transport / Cargo Ship"
+    },
+    "coordinates": [
+      -7.25,
+      148.5
+    ],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "在“81号作战”中运送日军第51师团人员、装备、燃料、大发登陆艇和弹药前往莱城时，遭美澳空军在俾斯麦海海战中空袭击沉。",
+      "en": "While carrying troops, equipment, fuel, Daihatsu landing craft, and ammunition to Lae during Operation 81, she was bombed and sunk by USAAF and RAAF aircraft in the Battle of the Bismarck Sea."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "俾斯麦海海战中被击沉的八艘日军运输船之一。该船队的损失使日军无法再以大规模海运方式向莱城增援。",
+      "en": "One of the eight Japanese transports sunk in the Battle of the Bismarck Sea. The convoy disaster ended Japan’s practical ability to reinforce Lae by large seaborne transport."
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "battleId": "battle-of-the-bismarck-sea",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": ""
+  },
+  {
     "id": "mv-awa-maru",
     "name": {
       "zh": "阿波丸号",
@@ -195,6 +234,84 @@
     "battleId": "pacific-submarine-warfare-hell-ship-incident"
   },
   {
+    "id": "transport-kembu-maru",
+    "name": {
+      "zh": "建武丸",
+      "en": "Kembu Maru"
+    },
+    "type": {
+      "zh": "陆军运输船",
+      "en": "Army Transport"
+    },
+    "coordinates": [
+      -7.25,
+      148.5
+    ],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "在运送航空汽油和燃料前往莱城途中，遭美澳空军攻击。该船被炸中后发生剧烈爆炸并沉没。",
+      "en": "While carrying drums of aviation gasoline and other fuel to Lae, she was attacked by Allied aircraft, exploded in a large fireball, and sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "建武丸装载大量燃料，因此被命中后迅速爆炸，是俾斯麦海海战中运输船队惨败的典型场景之一。",
+      "en": "Kembu Maru carried a heavy fuel cargo, making her destruction especially violent after bomb hits during the convoy attacks."
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "battleId": "battle-of-the-bismarck-sea",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": ""
+  },
+  {
+    "id": "transport-kyokusei-maru",
+    "name": {
+      "zh": "旭盛丸",
+      "en": "Kyokusei Maru"
+    },
+    "type": {
+      "zh": "陆军运输船",
+      "en": "Army Transport"
+    },
+    "coordinates": [
+      -6.667,
+      147.167
+    ],
+    "sinkingDate": "1943-03-02",
+    "cause": {
+      "zh": "在俾斯麦海海战第一天遭美军B-17轰炸机轰炸击沉，是该日军运输船队中第一艘沉没的船。",
+      "en": "Bombed and sunk by USAAF B-17s on the first day of the Battle of the Bismarck Sea, becoming the first transport lost from the convoy."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "船上载有约1200名第115步兵联队人员；雪风号和朝云号驱逐舰救起了大量幸存者并将他们送往莱城。",
+      "en": "She carried about 1,200 troops of the 115th Infantry Regiment; destroyers Yukikaze and Asagumo rescued many survivors and landed them at Lae."
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "battleId": "battle-of-the-bismarck-sea",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": ""
+  },
+  {
     "id": "mv-lisbon-maru",
     "name": {
       "zh": "里斯本丸",
@@ -351,6 +468,84 @@
     "battleId": "operation-hailstone"
   },
   {
+    "id": "transport-nojima-maru",
+    "name": {
+      "zh": "野岛丸",
+      "en": "Nojima Maru"
+    },
+    "type": {
+      "zh": "煤船 / 运兵船",
+      "en": "Collier / Troop Transport"
+    },
+    "coordinates": [
+      -7.25,
+      148.5
+    ],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "在俾斯麦海海战中先遭空袭并与日军驱逐舰荒潮号相撞受损，随后在芬什港东南约50海里处沉没。",
+      "en": "Damaged by air attack and collision with the destroyer Arashio during the battle, she later sank about 50 nautical miles southeast of Finschhafen."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "野岛丸曾为煤船，也作为运兵船使用，搭载第51师团、海军防空部队和特别陆战队人员前往莱城。",
+      "en": "Nojima Maru was a collier used as a troop transport, carrying 51st Division personnel, naval air-defense troops, and SNLF personnel toward Lae."
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "battleId": "battle-of-the-bismarck-sea",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": ""
+  },
+  {
+    "id": "transport-oigawa-maru",
+    "name": {
+      "zh": "大井川丸",
+      "en": "Oigawa Maru"
+    },
+    "type": {
+      "zh": "陆军辅助运输船 / 货船",
+      "en": "Army Auxiliary Transport / Cargo Ship"
+    },
+    "coordinates": [
+      -6.967,
+      148.267
+    ],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "3月3日先被空袭重创，随后由美军PT-143和PT-150鱼雷艇以鱼雷击沉。",
+      "en": "Damaged by air attack on 3 March and later sunk by torpedoes from US Navy PT-143 and PT-150."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "大井川丸载有第51师团人员；沉没造成大量官兵和船员死亡。",
+      "en": "Oigawa Maru carried personnel of the 51st Division; her loss caused heavy casualties among troops and crew."
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "battleId": "battle-of-the-bismarck-sea",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": ""
+  },
+  {
     "id": "rfa-aldersdale",
     "name": {
       "zh": "奥尔德斯代尔号",
@@ -466,6 +661,45 @@
     "flagIconUrl": "https://flagcdn.com/w40/jp.png",
     "cover": null,
     "battleId": "operation-hailstone"
+  },
+  {
+    "id": "transport-sin-ai-maru",
+    "name": {
+      "zh": "信爱丸",
+      "en": "Sin-ai Maru"
+    },
+    "type": {
+      "zh": "陆军运输船",
+      "en": "Army Transport"
+    },
+    "coordinates": [
+      -7.25,
+      148.5
+    ],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "在运送部队、装备、燃料、登陆艇和弹药前往莱城途中，遭美澳空军空袭击沉。",
+      "en": "While carrying troops, equipment, fuel, landing craft, and ammunition to Lae, she was bombed and sunk by Allied aircraft."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "又作 Shin-ai Maru，原名为“信爱丸”。她是俾斯麦海海战中被击沉的八艘运输船之一。",
+      "en": "Also rendered Shin-ai Maru, she was one of the eight transports destroyed in the Battle of the Bismarck Sea."
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "battleId": "battle-of-the-bismarck-sea",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": ""
   },
   {
     "id": "transport-iosif-stalin",
@@ -1675,6 +1909,84 @@
     "flagIconUrl": "https://flagcdn.com/w40/us.png",
     "cover": "https://uboat.net/media/allies/merchants/am/william_hooper.jpg",
     "battleId": "arctic-convoys-convoy-pq-17"
+  },
+  {
+    "id": "transport-taimei-maru",
+    "name": {
+      "zh": "大明丸",
+      "en": "Taimei Maru"
+    },
+    "type": {
+      "zh": "陆军运输船",
+      "en": "Army Transport"
+    },
+    "coordinates": [
+      -7.25,
+      148.5
+    ],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "在俾斯麦海海战中遭盟军飞机轰炸击沉。",
+      "en": "Bombed and sunk by Allied aircraft during the Battle of the Bismarck Sea."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "大明丸是开往莱城的“81号作战”运输船之一，船队几乎被盟军空袭全歼。",
+      "en": "Taimei Maru was part of the Operation 81 convoy to Lae, a convoy almost completely annihilated by Allied air attack."
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "battleId": "battle-of-the-bismarck-sea",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": ""
+  },
+  {
+    "id": "transport-teiyo-maru",
+    "name": {
+      "zh": "帝洋丸",
+      "en": "Teiyo Maru"
+    },
+    "type": {
+      "zh": "陆军运输船 / 客船改装",
+      "en": "Army Transport / Converted Passenger Ship"
+    },
+    "coordinates": [
+      -6.933,
+      148.267
+    ],
+    "sinkingDate": "1943-03-03",
+    "cause": {
+      "zh": "3月3日遭多次近失弹、直接命中和鱼雷攻击后起火沉没。",
+      "en": "On 3 March she suffered repeated near misses, direct bomb hits, and torpedo hits, caught fire, and sank."
+    },
+    "depth": {
+      "zh": "未知",
+      "en": "Unknown"
+    },
+    "historyNotes": {
+      "zh": "原为德国客船 Saarland，后售予日本并改名帝洋丸。俾斯麦海海战中该船死亡人数极高。",
+      "en": "Formerly the German passenger ship Saarland, she was sold to Japan and renamed Teiyo Maru. Her sinking caused especially heavy loss of life."
+    },
+    "faction": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "battle": {
+      "zh": "俾斯麦海海战",
+      "en": "Battle of the Bismarck Sea"
+    },
+    "battleId": "battle-of-the-bismarck-sea",
+    "flagIconUrl": "https://flagcdn.com/w40/jp.png",
+    "cover": ""
   },
   {
     "id": "mv-tsushima-maru",

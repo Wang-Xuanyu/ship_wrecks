@@ -41,7 +41,32 @@
       "zh": "珍珠港事件",
       "en": "Attack on Pearl Harbor"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Husband E. Kimmel",
+        "side": "United States",
+        "role": "Commander in Chief, U.S. Pacific Fleet",
+        "cover": ""
+      },
+      {
+        "name": "Walter Short",
+        "side": "United States",
+        "role": "Commanding General, Hawaiian Department",
+        "cover": ""
+      },
+      {
+        "name": "Isoroku Yamamoto",
+        "side": "Japan",
+        "role": "Commander in Chief, Combined Fleet",
+        "cover": ""
+      },
+      {
+        "name": "Chūichi Nagumo",
+        "side": "Japan",
+        "role": "Commander, First Air Fleet strike force",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -77,7 +102,32 @@
       "zh": "巴塘海峡海战",
       "en": "Battle of Badung Strait"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Karel Doorman",
+        "side": "ABDA Command",
+        "role": "Allied striking force commander"
+      },
+      {
+        "cover": "",
+        "name": "Kyuji Kubo",
+        "side": "Japan",
+        "role": "Japanese escort force commander"
+      },
+      {
+        "cover": "",
+        "name": "Gorō Yoshii",
+        "side": "Japan",
+        "role": "Asashio commander"
+      },
+      {
+        "cover": "",
+        "name": "Kiyoshi Kikkawa",
+        "side": "Japan",
+        "role": "Oshio commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -95,7 +145,26 @@
       "zh": "布莱克特海峡海战",
       "en": "Battle of Blackett Strait"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Aaron S. Merrill",
+        "side": "United States",
+        "role": "Task Force 68 commander"
+      },
+      {
+        "cover": "",
+        "name": "Harold F. Pullen",
+        "side": "United States",
+        "role": "Destroyer screen commander"
+      },
+      {
+        "cover": "",
+        "name": "Masao Tachibana",
+        "side": "Japan",
+        "role": "Destroyer Squadron 4 detachment commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -148,7 +217,20 @@
       "zh": "斯帕达角海战",
       "en": "Battle of Cape Spada"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "John Collins",
+        "side": "Australia",
+        "role": "HMAS Sydney commander",
+        "cover": ""
+      },
+      {
+        "name": "Ferdinando Casardi",
+        "side": "Italy",
+        "role": "Italian cruiser force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -197,7 +279,32 @@
       "zh": "奥斯陆峡湾之战",
       "en": "Battle of Drøbak Sound (Oslofjord)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Birger Eriksen",
+        "side": "Norway",
+        "role": "Oscarsborg Fortress commander"
+      },
+      {
+        "cover": "",
+        "name": "Andreas Anderssen",
+        "side": "Norway",
+        "role": "Torpedo battery commander"
+      },
+      {
+        "cover": "",
+        "name": "Oskar Kummetz",
+        "side": "Germany",
+        "role": "German naval force commander"
+      },
+      {
+        "cover": "",
+        "name": "Heinrich Woldag",
+        "side": "Germany",
+        "role": "Blücher commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -206,7 +313,32 @@
       "zh": "奥古斯塔皇后湾海战",
       "en": "Battle of Empress Augusta Bay"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Aaron S. Merrill",
+        "side": "United States",
+        "role": "Task Force 39 commander"
+      },
+      {
+        "cover": "",
+        "name": "Arleigh Burke",
+        "side": "United States",
+        "role": "Destroyer Division 45 commander"
+      },
+      {
+        "cover": "",
+        "name": "Sentarō Ōmori",
+        "side": "Japan",
+        "role": "Rabaul counterattack force commander"
+      },
+      {
+        "cover": "",
+        "name": "Matsuji Ijuin",
+        "side": "Japan",
+        "role": "Left screen commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -282,7 +414,20 @@
       "zh": "库拉湾海战",
       "en": "Battle of Kula Gulf"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Walden L. Ainsworth",
+        "side": "United States",
+        "role": "Task Group 36.1 commander"
+      },
+      {
+        "cover": "",
+        "name": "Teruo Akiyama",
+        "side": "Japan",
+        "role": "Reinforcement group commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -291,7 +436,56 @@
       "zh": "莱特湾海战",
       "en": "Battle of Leyte Gulf"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "William Halsey Jr.",
+        "side": "United States",
+        "role": "Third Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Thomas C. Kinkaid",
+        "side": "United States",
+        "role": "Seventh Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Clifton Sprague",
+        "side": "United States",
+        "role": "Taffy 3 commander",
+        "cover": ""
+      },
+      {
+        "name": "Jesse B. Oldendorf",
+        "side": "United States",
+        "role": "Surigao Strait battle line commander",
+        "cover": ""
+      },
+      {
+        "name": "Soemu Toyoda",
+        "side": "Japan",
+        "role": "Commander in Chief, Combined Fleet",
+        "cover": ""
+      },
+      {
+        "name": "Takeo Kurita",
+        "side": "Japan",
+        "role": "Center Force commander",
+        "cover": ""
+      },
+      {
+        "name": "Shōji Nishimura",
+        "side": "Japan",
+        "role": "Southern Force commander",
+        "cover": ""
+      },
+      {
+        "name": "Jisaburō Ozawa",
+        "side": "Japan",
+        "role": "Northern Force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -300,7 +494,32 @@
       "zh": "莱特湾海战 (恩加尼奥角海战)",
       "en": "Battle of Leyte Gulf (Battle off Cape Engaño)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "William Halsey Jr.",
+        "side": "United States",
+        "role": "Third Fleet commander"
+      },
+      {
+        "cover": "",
+        "name": "Marc Mitscher",
+        "side": "United States",
+        "role": "Task Force 38 commander"
+      },
+      {
+        "cover": "",
+        "name": "Laurence T. DuBose",
+        "side": "United States",
+        "role": "Cruiser-destroyer pursuit group commander"
+      },
+      {
+        "cover": "",
+        "name": "Jisaburō Ozawa",
+        "side": "Japan",
+        "role": "Northern Force commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -309,7 +528,38 @@
       "zh": "莱特湾海战 (萨马岛海战)",
       "en": "Battle of Leyte Gulf (Battle off Samar)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Clifton Sprague",
+        "side": "United States",
+        "role": "Taffy 3 commander"
+      },
+      {
+        "cover": "",
+        "name": "Thomas L. Sprague",
+        "side": "United States",
+        "role": "Escort carrier group commander"
+      },
+      {
+        "cover": "",
+        "name": "Ernest E. Evans",
+        "side": "United States",
+        "role": "USS Johnston commander"
+      },
+      {
+        "cover": "",
+        "name": "Robert W. Copeland",
+        "side": "United States",
+        "role": "USS Samuel B. Roberts commander"
+      },
+      {
+        "cover": "",
+        "name": "Takeo Kurita",
+        "side": "Japan",
+        "role": "Center Force commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -318,7 +568,38 @@
       "zh": "莱特湾海战 (神风特攻队首战)",
       "en": "Battle of Leyte Gulf (First Kamikaze Attack)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Takijirō Ōnishi",
+        "side": "Japan",
+        "role": "First Air Fleet commander and special attack organizer"
+      },
+      {
+        "cover": "",
+        "name": "Yukio Seki",
+        "side": "Japan",
+        "role": "Shikishima Unit leader"
+      },
+      {
+        "cover": "",
+        "name": "Hiroyoshi Nishizawa",
+        "side": "Japan",
+        "role": "Fighter escort leader"
+      },
+      {
+        "cover": "",
+        "name": "Thomas L. Sprague",
+        "side": "United States",
+        "role": "Escort carrier group commander"
+      },
+      {
+        "cover": "",
+        "name": "Clifton Sprague",
+        "side": "United States",
+        "role": "Taffy 3 commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -327,7 +608,26 @@
       "zh": "莱特湾海战 (帕拉万水道)",
       "en": "Battle of Leyte Gulf (Palawan Passage)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "David H. McClintock",
+        "side": "United States",
+        "role": "USS Darter commander"
+      },
+      {
+        "cover": "",
+        "name": "Bladen D. Claggett",
+        "side": "United States",
+        "role": "USS Dace commander"
+      },
+      {
+        "cover": "",
+        "name": "Takeo Kurita",
+        "side": "Japan",
+        "role": "Center Force commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -336,7 +636,32 @@
       "zh": "莱特湾海战 (锡布延海)",
       "en": "Battle of Leyte Gulf (Sibuyan Sea)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "William Halsey Jr.",
+        "side": "United States",
+        "role": "Third Fleet commander"
+      },
+      {
+        "cover": "",
+        "name": "Marc Mitscher",
+        "side": "United States",
+        "role": "Task Force 38 commander"
+      },
+      {
+        "cover": "",
+        "name": "Gerald F. Bogan",
+        "side": "United States",
+        "role": "Task Group 38.2 commander"
+      },
+      {
+        "cover": "",
+        "name": "Takeo Kurita",
+        "side": "Japan",
+        "role": "Center Force commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -345,7 +670,32 @@
       "zh": "莱特湾海战 (苏里高海峡)",
       "en": "Battle of Leyte Gulf (Surigao Strait)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Jesse B. Oldendorf",
+        "side": "United States",
+        "role": "Task Group 77.2 commander"
+      },
+      {
+        "cover": "",
+        "name": "Thomas C. Kinkaid",
+        "side": "United States",
+        "role": "Seventh Fleet commander"
+      },
+      {
+        "cover": "",
+        "name": "Shōji Nishimura",
+        "side": "Japan",
+        "role": "Southern Force commander"
+      },
+      {
+        "cover": "",
+        "name": "Kiyohide Shima",
+        "side": "Japan",
+        "role": "Second Striking Force commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -363,7 +713,38 @@
       "zh": "中途岛海战",
       "en": "Battle of Midway"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Chester W. Nimitz",
+        "side": "United States",
+        "role": "Commander in Chief, Pacific Fleet",
+        "cover": ""
+      },
+      {
+        "name": "Frank Jack Fletcher",
+        "side": "United States",
+        "role": "Carrier force tactical commander",
+        "cover": ""
+      },
+      {
+        "name": "Raymond A. Spruance",
+        "side": "United States",
+        "role": "Task Force 16 commander",
+        "cover": ""
+      },
+      {
+        "name": "Isoroku Yamamoto",
+        "side": "Japan",
+        "role": "Commander in Chief, Combined Fleet",
+        "cover": ""
+      },
+      {
+        "name": "Chūichi Nagumo",
+        "side": "Japan",
+        "role": "Carrier striking force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -372,7 +753,26 @@
       "zh": "北角海战",
       "en": "Battle of North Cape"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Bruce Fraser",
+        "side": "United Kingdom",
+        "role": "Home Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Robert Burnett",
+        "side": "United Kingdom",
+        "role": "Cruiser force commander",
+        "cover": ""
+      },
+      {
+        "name": "Erich Bey",
+        "side": "Germany",
+        "role": "Scharnhorst force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -381,7 +781,50 @@
       "zh": "冲绳岛战役",
       "en": "Battle of Okinawa"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Raymond A. Spruance",
+        "side": "United States",
+        "role": "Fifth Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Richmond K. Turner",
+        "side": "United States",
+        "role": "Amphibious forces commander",
+        "cover": ""
+      },
+      {
+        "name": "Simon Bolivar Buckner Jr.",
+        "side": "United States",
+        "role": "Tenth Army commander",
+        "cover": ""
+      },
+      {
+        "name": "Marc Mitscher",
+        "side": "United States",
+        "role": "Fast Carrier Task Force commander",
+        "cover": ""
+      },
+      {
+        "name": "Mitsuru Ushijima",
+        "side": "Japan",
+        "role": "Thirty-Second Army commander",
+        "cover": ""
+      },
+      {
+        "name": "Minoru Ōta",
+        "side": "Japan",
+        "role": "Okinawa naval forces commander",
+        "cover": ""
+      },
+      {
+        "name": "Soemu Toyoda",
+        "side": "Japan",
+        "role": "Combined Fleet commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -390,7 +833,32 @@
       "zh": "奥尔莫克湾海战",
       "en": "Battle of Ormoc Bay"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Douglas MacArthur",
+        "side": "United States",
+        "role": "Southwest Pacific Area commander"
+      },
+      {
+        "cover": "",
+        "name": "John C. Zahm",
+        "side": "United States",
+        "role": "Destroyer Division 120 commander"
+      },
+      {
+        "cover": "",
+        "name": "Tomoyuki Yamashita",
+        "side": "Japan",
+        "role": "Japanese Fourteenth Area Army commander"
+      },
+      {
+        "cover": "",
+        "name": "Masamichi Yamashita",
+        "side": "Japan",
+        "role": "TA-7 escort commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -399,7 +867,38 @@
       "zh": "伦内尔岛海战",
       "en": "Battle of Rennell Island"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "William Halsey Jr.",
+        "side": "United States",
+        "role": "South Pacific Area commander"
+      },
+      {
+        "cover": "",
+        "name": "Robert C. Giffen",
+        "side": "United States",
+        "role": "Task Force 18 commander"
+      },
+      {
+        "cover": "",
+        "name": "Jinichi Kusaka",
+        "side": "Japan",
+        "role": "Eleventh Air Fleet commander"
+      },
+      {
+        "cover": "",
+        "name": "Rinosuke Ichimaru",
+        "side": "Japan",
+        "role": "Air attack commander"
+      },
+      {
+        "cover": "",
+        "name": "Seigō Yamagata",
+        "side": "Japan",
+        "role": "Air attack commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -408,7 +907,26 @@
       "zh": "萨沃岛海战",
       "en": "Battle of Savo Island"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Richmond K. Turner",
+        "side": "United States",
+        "role": "Amphibious force commander",
+        "cover": ""
+      },
+      {
+        "name": "Victor Crutchley",
+        "side": "United Kingdom / Australia",
+        "role": "Allied screening force commander",
+        "cover": ""
+      },
+      {
+        "name": "Gunichi Mikawa",
+        "side": "Japan",
+        "role": "Eighth Fleet striking force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -417,7 +935,32 @@
       "zh": "巽他海峡海战",
       "en": "Battle of Sunda Strait"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Hec Waller",
+        "side": "Australia",
+        "role": "HMAS Perth commander",
+        "cover": ""
+      },
+      {
+        "name": "Albert H. Rooks",
+        "side": "United States",
+        "role": "USS Houston commander",
+        "cover": ""
+      },
+      {
+        "name": "Kenzaburō Hara",
+        "side": "Japan",
+        "role": "Destroyer squadron commander",
+        "cover": ""
+      },
+      {
+        "name": "Takeo Kurita",
+        "side": "Japan",
+        "role": "Cruiser force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -426,7 +969,26 @@
       "zh": "塔兰托空袭 (判断行动)",
       "en": "Battle of Taranto (Operation Judgement)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Andrew Cunningham",
+        "side": "United Kingdom",
+        "role": "Mediterranean Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Lumley Lyster",
+        "side": "United Kingdom",
+        "role": "Carrier strike planner and commander",
+        "cover": ""
+      },
+      {
+        "name": "Inigo Campioni",
+        "side": "Italy",
+        "role": "Italian fleet commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -435,7 +997,20 @@
       "zh": "塔萨法隆加海战",
       "en": "Battle of Tassafaronga"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Carleton H. Wright",
+        "side": "United States",
+        "role": "Task Force 67 commander",
+        "cover": ""
+      },
+      {
+        "name": "Raizō Tanaka",
+        "side": "Japan",
+        "role": "Tokyo Express reinforcement force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -444,7 +1019,26 @@
       "zh": "大西洋海战",
       "en": "Battle of the Atlantic"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Max Horton",
+        "side": "United Kingdom",
+        "role": "Commander in Chief, Western Approaches",
+        "cover": ""
+      },
+      {
+        "name": "Ernest J. King",
+        "side": "United States",
+        "role": "Commander in Chief, U.S. Fleet",
+        "cover": ""
+      },
+      {
+        "name": "Karl Dönitz",
+        "side": "Germany",
+        "role": "Commander of U-boats / Commander in Chief, Kriegsmarine",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -624,7 +1218,26 @@
       "zh": "巴伦支海海战",
       "en": "Battle of the Barents Sea"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Robert Sherbrooke",
+        "side": "United Kingdom",
+        "role": "Convoy escort commander",
+        "cover": ""
+      },
+      {
+        "name": "Robert Burnett",
+        "side": "United Kingdom",
+        "role": "Cruiser covering force commander",
+        "cover": ""
+      },
+      {
+        "name": "Oskar Kummetz",
+        "side": "Germany",
+        "role": "German surface force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -633,7 +1246,32 @@
       "zh": "俾斯麦海海战",
       "en": "Battle of the Bismarck Sea"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "George Kenney",
+        "side": "United States",
+        "role": "Allied Air Forces commander",
+        "cover": ""
+      },
+      {
+        "name": "Arthur S. Carpender",
+        "side": "United States",
+        "role": "Allied naval forces commander",
+        "cover": ""
+      },
+      {
+        "name": "Masatomi Kimura",
+        "side": "Japan",
+        "role": "Convoy escort commander",
+        "cover": ""
+      },
+      {
+        "name": "Hitoshi Imamura",
+        "side": "Japan",
+        "role": "Eighth Area Army commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -642,7 +1280,44 @@
       "zh": "珊瑚海海战",
       "en": "Battle of the Coral Sea"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Frank Jack Fletcher",
+        "side": "United States",
+        "role": "Task Force 17 commander",
+        "cover": ""
+      },
+      {
+        "name": "Aubrey Fitch",
+        "side": "United States",
+        "role": "Carrier air group tactical commander",
+        "cover": ""
+      },
+      {
+        "name": "John Gregory Crace",
+        "side": "Australia / United Kingdom",
+        "role": "Cruiser support group commander",
+        "cover": ""
+      },
+      {
+        "name": "Shigeyoshi Inoue",
+        "side": "Japan",
+        "role": "Fourth Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Takeo Takagi",
+        "side": "Japan",
+        "role": "Carrier Strike Force commander",
+        "cover": ""
+      },
+      {
+        "name": "Chūichi Hara",
+        "side": "Japan",
+        "role": "Carrier air forces tactical commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -651,7 +1326,32 @@
       "zh": "丹麦海峡海战",
       "en": "Battle of the Denmark Strait"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Lancelot Holland",
+        "side": "United Kingdom",
+        "role": "Battlecruiser Squadron commander",
+        "cover": ""
+      },
+      {
+        "name": "Frederic Wake-Walker",
+        "side": "United Kingdom",
+        "role": "Cruiser squadron commander",
+        "cover": ""
+      },
+      {
+        "name": "Günther Lütjens",
+        "side": "Germany",
+        "role": "Operation Rheinübung force commander",
+        "cover": ""
+      },
+      {
+        "name": "Ernst Lindemann",
+        "side": "Germany",
+        "role": "Bismarck captain",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -660,7 +1360,38 @@
       "zh": "东所罗门海战",
       "en": "Battle of the Eastern Solomons"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Frank Jack Fletcher",
+        "side": "United States",
+        "role": "Overall carrier task force commander",
+        "cover": ""
+      },
+      {
+        "name": "Thomas C. Kinkaid",
+        "side": "United States",
+        "role": "Carrier task force commander",
+        "cover": ""
+      },
+      {
+        "name": "Nobutake Kondō",
+        "side": "Japan",
+        "role": "Advanced force commander",
+        "cover": ""
+      },
+      {
+        "name": "Chūichi Nagumo",
+        "side": "Japan",
+        "role": "Carrier striking force commander",
+        "cover": ""
+      },
+      {
+        "name": "Hiroaki Abe",
+        "side": "Japan",
+        "role": "Vanguard force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -669,7 +1400,26 @@
       "zh": "爪哇海海战",
       "en": "Battle of the Java Sea"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Karel Doorman",
+        "side": "ABDA Command",
+        "role": "Combined Striking Force commander",
+        "cover": ""
+      },
+      {
+        "name": "Takeo Takagi",
+        "side": "Japan",
+        "role": "Eastern invasion force commander",
+        "cover": ""
+      },
+      {
+        "name": "Shōji Nishimura",
+        "side": "Japan",
+        "role": "Escort force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -687,7 +1437,38 @@
       "zh": "菲律宾海海战",
       "en": "Battle of the Philippine Sea"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Raymond A. Spruance",
+        "side": "United States",
+        "role": "Fifth Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Marc Mitscher",
+        "side": "United States",
+        "role": "Fast Carrier Task Force commander",
+        "cover": ""
+      },
+      {
+        "name": "Jisaburō Ozawa",
+        "side": "Japan",
+        "role": "First Mobile Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Takeo Kurita",
+        "side": "Japan",
+        "role": "Vanguard force commander",
+        "cover": ""
+      },
+      {
+        "name": "Kakuji Kakuta",
+        "side": "Japan",
+        "role": "Land-based air commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -696,7 +1477,20 @@
       "zh": "拉普拉塔河口海战",
       "en": "Battle of the River Plate"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Henry Harwood",
+        "side": "United Kingdom / New Zealand",
+        "role": "South American Cruiser Squadron commander",
+        "cover": ""
+      },
+      {
+        "name": "Hans Langsdorff",
+        "side": "Germany",
+        "role": "Admiral Graf Spee captain",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -705,7 +1499,50 @@
       "zh": "圣克鲁斯群岛战役",
       "en": "Battle of the Santa Cruz Islands"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "William Halsey Jr.",
+        "side": "United States",
+        "role": "South Pacific Area commander",
+        "cover": ""
+      },
+      {
+        "name": "Thomas C. Kinkaid",
+        "side": "United States",
+        "role": "Carrier task force commander",
+        "cover": ""
+      },
+      {
+        "name": "George D. Murray",
+        "side": "United States",
+        "role": "Carrier task group commander",
+        "cover": ""
+      },
+      {
+        "name": "Nobutake Kondō",
+        "side": "Japan",
+        "role": "Overall naval force commander",
+        "cover": ""
+      },
+      {
+        "name": "Chūichi Nagumo",
+        "side": "Japan",
+        "role": "Carrier striking force commander",
+        "cover": ""
+      },
+      {
+        "name": "Hiroaki Abe",
+        "side": "Japan",
+        "role": "Vanguard force commander",
+        "cover": ""
+      },
+      {
+        "name": "Kakuji Kakuta",
+        "side": "Japan",
+        "role": "Carrier air commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -750,7 +1587,32 @@
       "zh": "韦拉湾海战",
       "en": "Battle of Vella Gulf"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Frederick Moosbrugger",
+        "side": "United States",
+        "role": "Task Group 31.2 commander"
+      },
+      {
+        "cover": "",
+        "name": "Roger Simpson",
+        "side": "United States",
+        "role": "Destroyer Division 15 commander"
+      },
+      {
+        "cover": "",
+        "name": "Kaju Sugiura",
+        "side": "Japan",
+        "role": "Destroyer transport force commander"
+      },
+      {
+        "cover": "",
+        "name": "Tameichi Hara",
+        "side": "Japan",
+        "role": "Destroyer division commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -759,7 +1621,32 @@
       "zh": "维拉拉维拉海战",
       "en": "Battle of Vella Lavella"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Frank R. Walker",
+        "side": "United States",
+        "role": "Forward destroyer group commander"
+      },
+      {
+        "cover": "",
+        "name": "Harold O. Larson",
+        "side": "United States",
+        "role": "Reinforcing destroyer group commander"
+      },
+      {
+        "cover": "",
+        "name": "Matsuji Ijuin",
+        "side": "Japan",
+        "role": "Evacuation covering force commander"
+      },
+      {
+        "cover": "",
+        "name": "Shigoroku Nakayama",
+        "side": "Japan",
+        "role": "Auxiliary evacuation group commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -948,7 +1835,20 @@
       "zh": "第一次纳尔维克海战",
       "en": "First Battle of Narvik"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Bernard Warburton-Lee",
+        "side": "United Kingdom",
+        "role": "Second Destroyer Flotilla commander"
+      },
+      {
+        "cover": "",
+        "name": "Friedrich Bonte",
+        "side": "Germany",
+        "role": "Narvik destroyer group commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -975,7 +1875,32 @@
       "zh": "印度洋空袭",
       "en": "Indian Ocean Raid"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "James Somerville",
+        "side": "United Kingdom",
+        "role": "Eastern Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Chūichi Nagumo",
+        "side": "Japan",
+        "role": "First Air Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Mitsuo Fuchida",
+        "side": "Japan",
+        "role": "Carrier air attack leader",
+        "cover": ""
+      },
+      {
+        "name": "Jisaburō Ozawa",
+        "side": "Japan",
+        "role": "Malay Force commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -1137,7 +2062,56 @@
       "zh": "瓜达尔卡纳尔海战",
       "en": "Naval Battle of Guadalcanal"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "William Halsey Jr.",
+        "side": "United States",
+        "role": "South Pacific Area commander",
+        "cover": ""
+      },
+      {
+        "name": "Daniel J. Callaghan",
+        "side": "United States",
+        "role": "First night action commander",
+        "cover": ""
+      },
+      {
+        "name": "Norman Scott",
+        "side": "United States",
+        "role": "Cruiser force commander",
+        "cover": ""
+      },
+      {
+        "name": "Willis A. Lee",
+        "side": "United States",
+        "role": "Second night action commander",
+        "cover": ""
+      },
+      {
+        "name": "Isoroku Yamamoto",
+        "side": "Japan",
+        "role": "Commander in Chief, Combined Fleet",
+        "cover": ""
+      },
+      {
+        "name": "Hiroaki Abe",
+        "side": "Japan",
+        "role": "Bombardment force commander",
+        "cover": ""
+      },
+      {
+        "name": "Nobutake Kondō",
+        "side": "Japan",
+        "role": "Second night action commander",
+        "cover": ""
+      },
+      {
+        "name": "Raizō Tanaka",
+        "side": "Japan",
+        "role": "Transport convoy commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -1200,7 +2174,20 @@
       "zh": "弩炮行动 (凯比尔港海战)",
       "en": "Operation Catapult (Attack on Mers-el-Kébir)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "James Somerville",
+        "side": "United Kingdom",
+        "role": "Force H commander",
+        "cover": ""
+      },
+      {
+        "name": "Marcel-Bruno Gensoul",
+        "side": "France",
+        "role": "French squadron commander at Mers-el-Kébir",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -1245,7 +2232,26 @@
       "zh": "特鲁克大空袭",
       "en": "Operation Hailstone"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Raymond A. Spruance",
+        "side": "United States",
+        "role": "Fifth Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Marc Mitscher",
+        "side": "United States",
+        "role": "Fast Carrier Task Force commander",
+        "cover": ""
+      },
+      {
+        "name": "Masami Kobayashi",
+        "side": "Japan",
+        "role": "Truk base commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -1281,7 +2287,32 @@
       "zh": "基座行动",
       "en": "Operation Pedestal"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Neville Syfret",
+        "side": "United Kingdom",
+        "role": "Convoy covering force commander",
+        "cover": ""
+      },
+      {
+        "name": "Harold Burrough",
+        "side": "United Kingdom",
+        "role": "Close escort force commander",
+        "cover": ""
+      },
+      {
+        "name": "Alberto Da Zara",
+        "side": "Italy",
+        "role": "Italian cruiser force commander",
+        "cover": ""
+      },
+      {
+        "name": "Albert Kesselring",
+        "side": "Germany",
+        "role": "Axis air command coordination",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -1290,7 +2321,20 @@
       "zh": "多号作战 (奥尔莫克湾)",
       "en": "Operation TA (Ormoc Bay)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "John C. Zahm",
+        "side": "United States",
+        "role": "Destroyer Division 120 commander"
+      },
+      {
+        "cover": "",
+        "name": "Masamichi Yamashita",
+        "side": "Japan",
+        "role": "TA-7 escort commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -1299,7 +2343,32 @@
       "zh": "菊水特攻 (天一号作战)",
       "en": "Operation Ten-Go (Kikusui Attack)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Raymond A. Spruance",
+        "side": "United States",
+        "role": "Fifth Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "Marc Mitscher",
+        "side": "United States",
+        "role": "Task Force 58 commander",
+        "cover": ""
+      },
+      {
+        "name": "Seiichi Itō",
+        "side": "Japan",
+        "role": "Ten-Go surface force commander",
+        "cover": ""
+      },
+      {
+        "name": "Soemu Toyoda",
+        "side": "Japan",
+        "role": "Commander in Chief, Combined Fleet",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -1371,7 +2440,20 @@
       "zh": "第二次纳尔维克海战",
       "en": "Second Battle of Narvik"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "William Whitworth",
+        "side": "United Kingdom",
+        "role": "British striking force commander"
+      },
+      {
+        "cover": "",
+        "name": "Erich Bey",
+        "side": "Germany",
+        "role": "German destroyer force commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -1407,7 +2489,38 @@
       "zh": "马来亚海战 (Z 舰队)",
       "en": "Sinking of Prince of Wales and Repulse (Force Z)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "Tom Phillips",
+        "side": "United Kingdom",
+        "role": "Force Z commander",
+        "cover": ""
+      },
+      {
+        "name": "John Leach",
+        "side": "United Kingdom",
+        "role": "HMS Prince of Wales commander",
+        "cover": ""
+      },
+      {
+        "name": "William Tennant",
+        "side": "United Kingdom",
+        "role": "HMS Repulse commander",
+        "cover": ""
+      },
+      {
+        "name": "Niichi Nakanishi",
+        "side": "Japan",
+        "role": "Genzan Air Group commander",
+        "cover": ""
+      },
+      {
+        "name": "Shichizō Miyauchi",
+        "side": "Japan",
+        "role": "Kanoya Air Group commander",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
@@ -1425,7 +2538,32 @@
       "zh": "圣纳泽尔突袭 (战车行动)",
       "en": "St. Nazaire Raid (Operation Chariot)"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "cover": "",
+        "name": "Robert Ryder",
+        "side": "United Kingdom",
+        "role": "Naval force commander"
+      },
+      {
+        "cover": "",
+        "name": "Stephen Beattie",
+        "side": "United Kingdom",
+        "role": "HMS Campbeltown commander"
+      },
+      {
+        "cover": "",
+        "name": "Augustus Newman",
+        "side": "United Kingdom",
+        "role": "Commando force commander"
+      },
+      {
+        "cover": "",
+        "name": "Karl-Conrad Mecke",
+        "side": "Germany",
+        "role": "Harbour defense commander"
+      }
+    ],
     "pics": []
   },
   {
@@ -1434,7 +2572,38 @@
       "zh": "围剿俾斯麦号",
       "en": "The Hunt for the Bismarck"
     },
-    "commanders": [],
+    "commanders": [
+      {
+        "name": "John Tovey",
+        "side": "United Kingdom",
+        "role": "Home Fleet commander",
+        "cover": ""
+      },
+      {
+        "name": "James Somerville",
+        "side": "United Kingdom",
+        "role": "Force H commander",
+        "cover": ""
+      },
+      {
+        "name": "Frederic Wake-Walker",
+        "side": "United Kingdom",
+        "role": "Shadowing cruiser force commander",
+        "cover": ""
+      },
+      {
+        "name": "Günther Lütjens",
+        "side": "Germany",
+        "role": "Operation Rheinübung force commander",
+        "cover": ""
+      },
+      {
+        "name": "Ernst Lindemann",
+        "side": "Germany",
+        "role": "Bismarck captain",
+        "cover": ""
+      }
+    ],
     "pics": []
   },
   {
