@@ -234,6 +234,45 @@
     "battleId": "mediterranean-submarine-warfare"
   },
   {
+    "id": "u-625",
+    "name": {
+      "zh": "U-625号潜艇",
+      "en": "German Submarine U-625"
+    },
+    "faction": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "type": {
+      "zh": "U型潜艇 (VIIC型)",
+      "en": "U-boat (Type VIIC)"
+    },
+    "coordinates": [
+      52.583,
+      -20.317
+    ],
+    "sinkingDate": "1944-03-10",
+    "cause": {
+      "zh": "在北大西洋海域巡航时，遭到加拿大皇家空军（RCAF）第422中队的一架桑德兰（Sunderland）水上飞机发现并投掷深水炸弹攻击。潜艇耐压壳破裂，进水严重导致无法下潜。艇长被迫下令弃船，潜艇随后在水面沉没。",
+      "en": "While patrolling the North Atlantic, she was spotted and attacked with depth charges by a Sunderland flying boat of the Royal Canadian Air Force (RCAF) No. 422 Squadron. The submarine's pressure hull ruptured, causing severe flooding that prevented her from diving. The captain was forced to order the crew to abandon ship, and the U-boat subsequently sank on the surface."
+    },
+    "depth": {
+      "zh": "未知 (北大西洋深水区)",
+      "en": "Unknown (Deep waters of the North Atlantic)"
+    },
+    "historyNotes": {
+      "zh": "U-625 的沉没留下了大西洋海战中最著名、也最为凄惨的历史照片之一。当时攻击它的加拿大飞机在盘旋时，拍下了多名艇员聚集在逐渐下沉的潜艇甲板上准备乘坐充气救生筏逃生的画面。然而悲剧的是，尽管机组人员随后通过无线电呼叫了救援，但一场突如其来的强烈风暴席卷了该海域，53名艇员最终在冰冷刺骨的海水中全部遇难，无一生还。",
+      "en": "The sinking of U-625 left behind one of the most famous and tragic historical photographs of the Battle of the Atlantic. The attacking Canadian aircraft, while circling, captured an image of numerous crewmen gathered on the deck of the sinking submarine, preparing to escape in inflatable life rafts. Tragically, although the aircrew subsequently radioed for rescue, a sudden and severe storm swept through the area. All 53 crew members ultimately perished in the freezing waters, with no survivors."
+    },
+    "battle": {
+      "zh": "大西洋海战",
+      "en": "Battle of the Atlantic"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/de.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/9/95/U-625_depth_charges_exploding.jpg",
+    "battleId": "battle-of-the-atlantic"
+  },
+  {
     "id": "u-85",
     "name": {
       "zh": "U-85 号潜艇",

@@ -3900,6 +3900,45 @@
     "battleId": "second-battle-of-the-java-sea"
   },
   {
+    "id": "dd-356-porter",
+    "name": {
+      "zh": "波特号驱逐舰",
+      "en": "USS Porter (DD-356)"
+    },
+    "faction": {
+      "zh": "美国",
+      "en": "US"
+    },
+    "type": {
+      "zh": "驱逐舰 (波特级)",
+      "en": "Destroyer (Porter-class)"
+    },
+    "coordinates": [
+      -8.533,
+      167.283
+    ],
+    "sinkingDate": "1942-10-26",
+    "cause": {
+      "zh": "在圣克鲁斯群岛战役中，波特号在为第16特混舰队（TF 16）提供防空掩护并搜救美军迫降战机飞行员时，不幸遭到一枚意外走火鱼雷的暗算。这枚鱼雷来自美军企业号航母第10鱼雷机中队（VT-10）一架被迫在海面迫降的TBF“复仇者”式鱼雷轰炸机，战机落水后鱼雷脱落并自动解锁运行，精准命中了波特号的动力舱并引发剧烈爆炸。在抢救无望的情况下，舰长下令弃船，随后由友军“肖”号驱逐舰（USS Shaw DD-373）用舰炮和鱼雷将其自沉处分。",
+      "en": "During the Battle of the Santa Cruz Islands, while providing anti-aircraft cover for Task Force 16 (TF 16) and rescuing a downed American pilot, USS Porter was unfortunately struck by an accidental torpedo. This torpedo came from a ditched TBF 'Avenger' torpedo bomber belonging to Torpedo Squadron 10 (VT-10) from the aircraft carrier USS Enterprise. Upon the aircraft striking the water, the torpedo broke loose, automatically armed itself, and ran true, striking Porter directly in the engine room and causing a massive explosion. With no hope of saving the ship, the captain ordered to abandon ship, and she was subsequently scuttled by gunfire and torpedoes from the friendly destroyer USS Shaw (DD-373)."
+    },
+    "depth": {
+      "zh": "未知 (圣克鲁斯群岛东北部深水海域)",
+      "en": "Unknown (Deep waters northeast of the Santa Cruz Islands)"
+    },
+    "historyNotes": {
+      "zh": "波特级驱逐舰的首舰，也是该级舰在二战中唯一损失的一艘。波特号的沉没长期以来是太平洋战争中最著名的乌龙悬案之一：美军在战时及战后很长一段时间的官方记录中，都将其记为日军伊-21号潜艇的战果；但后世军事历史学家（如埃里克·哈梅尔和理查德·弗兰克）通过比对解密的日军潜艇行动记录与航海日志，证实当时该海域根本没有日军潜艇活动，从而揭开了她是海战历史上罕见的被友军迫降飞机自导鱼雷误伤击沉的悲剧真相。",
+      "en": "The lead ship of the Porter-class destroyers, and the only ship of her class lost during WWII. The sinking of USS Porter was long one of the most famous friendly-fire mysteries of the Pacific War. In official US military records during and long after the war, her loss was attributed to the Japanese submarine I-21. However, later military historians (such as Eric Hammel and Richard B. Frank), by cross-referencing declassified Japanese submarine action reports and logbooks, confirmed there was absolutely no Japanese submarine activity in that area at the time, thereby revealing the tragic truth that she was a rare case in naval history of being accidentally sunk by a rogue torpedo from a friendly ditched aircraft."
+    },
+    "battle": {
+      "zh": "圣克鲁斯群岛战役",
+      "en": "Battle of the Santa Cruz Islands"
+    },
+    "flagIconUrl": "https://flagcdn.com/w40/us.png",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/USS_Porter_%28DD-356%29_off_Yorktown%2C_Virginia_%28USA%29%2C_on_19_April_1939_%28NH_66338%29.jpg/1920px-USS_Porter_%28DD-356%29_off_Yorktown%2C_Virginia_%28USA%29%2C_on_19_April_1939_%28NH_66338%29.jpg",
+    "battleId": "battle-of-the-santa-cruz-islands"
+  },
+  {
     "id": "dd-379-preston",
     "name": {
       "zh": "普雷斯顿号驱逐舰",

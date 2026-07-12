@@ -143,6 +143,15 @@
     "pics": []
   },
   {
+    "id": "battle-of-cape-spada",
+    "name": {
+      "zh": "斯帕达角海战",
+      "en": "Battle of Cape Spada"
+    },
+    "commanders": [],
+    "pics": []
+  },
+  {
     "id": "battle-of-cape-st-george",
     "name": {
       "zh": "圣乔治角海战",
@@ -169,15 +178,6 @@
     "name": {
       "zh": "克里特岛战役",
       "en": "Battle of Crete"
-    },
-    "commanders": [],
-    "pics": []
-  },
-  {
-    "id": "battle-of-cape-spada",
-    "name": {
-      "zh": "斯帕达角海战",
-      "en": "Battle of Cape Spada"
     },
     "commanders": [],
     "pics": []
@@ -434,6 +434,15 @@
     "name": {
       "zh": "塔萨法隆加海战",
       "en": "Battle of Tassafaronga"
+    },
+    "commanders": [],
+    "pics": []
+  },
+  {
+    "id": "battle-of-the-atlantic",
+    "name": {
+      "zh": "大西洋海战",
+      "en": "Battle of the Atlantic"
     },
     "commanders": [],
     "pics": []
